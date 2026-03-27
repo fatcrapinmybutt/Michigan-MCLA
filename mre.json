@@ -1,0 +1,559 @@
+{
+  "title": "Michigan Rules of Evidence (MRE)",
+  "description": "Complete listing of all Michigan Rules of Evidence, organized by article and rule number. Promulgated by the Michigan Supreme Court, governing the admissibility of evidence in all Michigan courts.",
+  "abbreviation": "MRE",
+  "promulgated_by": "Michigan Supreme Court",
+  "articles": [
+    {
+      "article": "I",
+      "title": "General Provisions",
+      "rules": [
+        {
+          "rule": "MRE 101",
+          "title": "Title and Scope",
+          "summary": "Establishes the title 'Michigan Rules of Evidence' and provides that the rules govern proceedings in all Michigan courts except as otherwise provided.",
+          "federal_counterpart": "FRE 101"
+        },
+        {
+          "rule": "MRE 102",
+          "title": "Purpose and Construction",
+          "summary": "Rules shall be construed to secure fairness in administration, elimination of unjustifiable expense and delay, and promotion of growth and development of the law of evidence.",
+          "federal_counterpart": "FRE 102"
+        },
+        {
+          "rule": "MRE 103",
+          "title": "Rulings on Evidence",
+          "summary": "A party may not assign error to a ruling admitting or excluding evidence unless a timely objection was made stating the specific ground. An offer of proof is required to preserve exclusion error.",
+          "key_concepts": ["timely objection", "offer of proof", "plain error"],
+          "federal_counterpart": "FRE 103"
+        },
+        {
+          "rule": "MRE 104",
+          "title": "Preliminary Questions",
+          "summary": "The court determines preliminary questions concerning the qualification of a person to be a witness, the existence of a privilege, or the admissibility of evidence. In making that determination, the court is not bound by the rules of evidence.",
+          "key_concepts": ["judge determines admissibility", "conditional relevance", "confession admissibility hearing"],
+          "federal_counterpart": "FRE 104"
+        },
+        {
+          "rule": "MRE 105",
+          "title": "Limited Admissibility",
+          "summary": "When evidence is admissible for one purpose but not another, or against one party but not another, the court upon request shall restrict the evidence to its proper scope and instruct the jury accordingly.",
+          "key_concepts": ["limiting instruction", "jury instruction", "restricted purpose"],
+          "federal_counterpart": "FRE 105"
+        }
+      ]
+    },
+    {
+      "article": "II",
+      "title": "Judicial Notice",
+      "rules": [
+        {
+          "rule": "MRE 201",
+          "title": "Judicial Notice of Adjudicative Facts",
+          "summary": "A court may take judicial notice of a fact that is not subject to reasonable dispute because it is generally known within the trial court's territorial jurisdiction or is accurately and readily determinable from sources whose accuracy cannot reasonably be questioned.",
+          "key_concepts": ["adjudicative facts", "legislative facts", "generally known", "readily determinable"],
+          "federal_counterpart": "FRE 201"
+        },
+        {
+          "rule": "MRE 202",
+          "title": "Judicial Notice of Law",
+          "summary": "Michigan courts take judicial notice of the common law and statutes of Michigan, the United States, and other states. Courts also take notice of federal regulations, court rules, and local ordinances.",
+          "key_concepts": ["statutory law", "common law", "federal law", "other states' law"],
+          "note": "This rule has no direct federal counterpart; federal courts take judicial notice of law implicitly."
+        }
+      ]
+    },
+    {
+      "article": "III",
+      "title": "Presumptions in Civil Actions and Proceedings",
+      "rules": [
+        {
+          "rule": "MRE 301",
+          "title": "Presumptions in Civil Actions and Proceedings",
+          "summary": "A presumption imposes on the party against whom it is directed the burden of going forward with evidence to rebut or meet the presumption, but does not shift to that party the burden of proof.",
+          "key_concepts": ["rebuttable presumption", "burden of production", "burden of proof"],
+          "federal_counterpart": "FRE 301"
+        },
+        {
+          "rule": "MRE 302",
+          "title": "Applicability of Federal Law in Civil Actions",
+          "summary": "In civil actions and proceedings, the effect of a presumption respecting a fact which is an element of a claim or defense as to which federal law supplies the rule of decision is determined in accordance with federal law.",
+          "federal_counterpart": "FRE 302"
+        }
+      ]
+    },
+    {
+      "article": "IV",
+      "title": "Relevancy and Its Limits",
+      "rules": [
+        {
+          "rule": "MRE 401",
+          "title": "Definition of 'Relevant Evidence'",
+          "summary": "Evidence is relevant if it has any tendency to make a fact of consequence in determining the action more or less probable than it would be without the evidence.",
+          "key_concepts": ["any tendency", "fact of consequence", "materiality", "probative value"],
+          "federal_counterpart": "FRE 401"
+        },
+        {
+          "rule": "MRE 402",
+          "title": "Relevant Evidence Generally Admissible; Irrelevant Evidence Inadmissible",
+          "summary": "All relevant evidence is admissible, except as otherwise provided. Evidence that is not relevant is not admissible.",
+          "key_concepts": ["general admissibility rule", "relevance as threshold"],
+          "federal_counterpart": "FRE 402"
+        },
+        {
+          "rule": "MRE 403",
+          "title": "Exclusion of Relevant Evidence on Grounds of Prejudice, Confusion, or Waste of Time",
+          "summary": "Although relevant, evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, misleading the jury, or by considerations of undue delay, waste of time, or needless presentation of cumulative evidence.",
+          "key_concepts": ["probative value", "unfair prejudice", "balancing test", "cumulative evidence"],
+          "note": "Michigan's rule uses 'substantially outweighed' as the standard, consistent with FRE 403.",
+          "federal_counterpart": "FRE 403"
+        },
+        {
+          "rule": "MRE 404",
+          "title": "Character Evidence; Crimes or Other Acts",
+          "summary": "Evidence of a person's character or character trait is not admissible to prove that on a particular occasion the person acted in accordance with the character or trait. Exceptions: (a) defendant's character offered by defendant or prosecution rebuttal; victim's character in homicide/assault; (b) other acts (MIMIC rule) for non-character purposes: motive, opportunity, intent, preparation, scheme, knowledge, identity, or absence of mistake.",
+          "key_concepts": ["character evidence", "propensity ban", "MIMIC rule", "other acts"],
+          "subsections": [
+            { "subsection": "MRE 404(a)", "title": "Character Evidence", "summary": "General ban on character propensity evidence with exceptions for defendant, victim, and witness character." },
+            { "subsection": "MRE 404(b)", "title": "Other Crimes, Wrongs, or Acts (MIMIC)", "summary": "Other acts evidence admissible for: Motive, Opportunity, Intent, preparation, scheme, plan or system, Knowledge, Identity, absence of Mistake or accident (MIMIC)." }
+          ],
+          "federal_counterpart": "FRE 404"
+        },
+        {
+          "rule": "MRE 405",
+          "title": "Methods of Proving Character",
+          "summary": "When character evidence is admissible, it may be proved by testimony about reputation or by testimony in the form of an opinion. On cross-examination, inquiry is allowable into relevant specific instances of conduct. Specific acts may be proved when character or a character trait is an essential element of a charge, claim, or defense.",
+          "key_concepts": ["reputation testimony", "opinion testimony", "specific acts", "essential element"],
+          "federal_counterpart": "FRE 405"
+        },
+        {
+          "rule": "MRE 406",
+          "title": "Habit; Routine Practice",
+          "summary": "Evidence of a person's habit or an organization's routine practice is relevant to prove that on a particular occasion the person or organization acted in accordance with the habit or routine practice.",
+          "key_concepts": ["habit", "routine practice", "semi-automatic behavior", "organizational custom"],
+          "federal_counterpart": "FRE 406"
+        },
+        {
+          "rule": "MRE 407",
+          "title": "Subsequent Remedial Measures",
+          "summary": "Evidence that measures were taken after the event that would have made the event less likely to occur is not admissible to prove negligence, culpable conduct, or defect. Admissible to prove ownership, control, or feasibility if controverted, or for impeachment.",
+          "key_concepts": ["remedial measures", "repair", "policy change", "feasibility", "impeachment"],
+          "federal_counterpart": "FRE 407"
+        },
+        {
+          "rule": "MRE 408",
+          "title": "Compromise and Offers to Compromise",
+          "summary": "Evidence of compromise negotiations, offers to pay, and acceptance of settlement is not admissible to prove or disprove the validity or amount of a disputed claim. Admissible for other purposes: bias, negating contention of undue delay, proving obstruction.",
+          "key_concepts": ["settlement negotiations", "mediation communications", "offer to compromise", "disputed claim"],
+          "federal_counterpart": "FRE 408"
+        },
+        {
+          "rule": "MRE 409",
+          "title": "Payment of Medical and Similar Expenses",
+          "summary": "Evidence of furnishing, promising, or offering to pay medical, hospital, or similar expenses from injury is not admissible to prove liability for the injury.",
+          "key_concepts": ["medical payments", "humanitarian gesture", "liability exclusion"],
+          "federal_counterpart": "FRE 409"
+        },
+        {
+          "rule": "MRE 410",
+          "title": "Inadmissibility of Pleas, Plea Discussions, and Related Statements",
+          "summary": "Evidence of a plea of guilty later withdrawn, a plea of nolo contendere, statements made in connection with such pleas, and statements made during plea discussions with prosecuting attorneys that do not result in a plea of guilty are not admissible against the defendant in any proceeding.",
+          "key_concepts": ["withdrawn guilty plea", "nolo contendere", "plea discussions", "Alford plea"],
+          "federal_counterpart": "FRE 410"
+        },
+        {
+          "rule": "MRE 411",
+          "title": "Liability Insurance",
+          "summary": "Evidence that a person was or was not insured against liability is not admissible to prove whether the person acted negligently or otherwise wrongfully. Admissible for agency, ownership, control, bias, or prejudice.",
+          "key_concepts": ["insurance exclusion", "agency", "ownership", "control"],
+          "federal_counterpart": "FRE 411"
+        },
+        {
+          "rule": "MRE 412",
+          "title": "Rape Shield Law; Sex Offense Cases; Past Sexual Conduct",
+          "summary": "In sexual assault cases, evidence of the victim's past sexual conduct is generally inadmissible. Exceptions: specific acts with the defendant (consent defense); DNA/physical evidence of third-party involvement; constitutional requirements. Special hearing required before admission.",
+          "key_concepts": ["rape shield", "sexual conduct", "consent defense", "prior hearing", "victim privacy"],
+          "note": "Michigan's rape shield rule is broader than FRE 412 in some respects.",
+          "federal_counterpart": "FRE 412"
+        }
+      ]
+    },
+    {
+      "article": "V",
+      "title": "Privileges",
+      "rules": [
+        {
+          "rule": "MRE 501",
+          "title": "Privileges; General Rule",
+          "summary": "Except as otherwise provided by the Constitution, by statute, or by rules, the privilege of a witness, person, government, state, or political subdivision thereof shall be governed by the principles of common law as they may be interpreted by the courts of this state in the light of reason and experience.",
+          "key_concepts": ["attorney-client", "spousal privilege", "doctor-patient", "priest-penitent", "journalist"],
+          "note": "Michigan recognizes numerous testimonial privileges including attorney-client, physician-patient, spousal, clergy-penitent, social worker, and accountant privileges. Many are codified in MCL 600.2156-2168.",
+          "federal_counterpart": "FRE 501"
+        },
+        {
+          "rule": "MRE 502",
+          "title": "Attorney-Client Privilege and Work Product; Limitations on Waiver",
+          "summary": "Governs the scope of waiver when privileged attorney-client communications or work product is disclosed in a federal or state proceeding. A voluntary disclosure in state court waives the privilege as to undisclosed communications about the same subject matter only if fairness requires it.",
+          "key_concepts": ["subject matter waiver", "inadvertent disclosure", "selective waiver", "clawback agreement"],
+          "federal_counterpart": "FRE 502"
+        }
+      ]
+    },
+    {
+      "article": "VI",
+      "title": "Witnesses",
+      "rules": [
+        {
+          "rule": "MRE 601",
+          "title": "General Rule of Competency",
+          "summary": "Every person is competent to be a witness unless these rules provide otherwise. In civil cases, a witness must have personal knowledge. Historically Michigan had an incompetency rule for interest; abolished by statute.",
+          "federal_counterpart": "FRE 601"
+        },
+        {
+          "rule": "MRE 602",
+          "title": "Lack of Personal Knowledge",
+          "summary": "A witness may not testify to a matter unless evidence is introduced sufficient to support a finding that the witness has personal knowledge of the matter. This rule does not apply to expert witnesses under MRE 703.",
+          "key_concepts": ["personal knowledge", "foundation", "lay witness"],
+          "federal_counterpart": "FRE 602"
+        },
+        {
+          "rule": "MRE 603",
+          "title": "Oath or Affirmation",
+          "summary": "Before testifying, every witness shall be required to declare that the witness will testify truthfully, by oath or affirmation administered in a form calculated to awaken the witness's conscience and impress the witness's mind with the duty to do so.",
+          "key_concepts": ["oath", "affirmation", "religious accommodation"],
+          "federal_counterpart": "FRE 603"
+        },
+        {
+          "rule": "MRE 604",
+          "title": "Interpreters",
+          "summary": "An interpreter is subject to the provisions of these rules relating to qualifications as an expert and the administration of an oath or affirmation to make a true translation.",
+          "federal_counterpart": "FRE 604"
+        },
+        {
+          "rule": "MRE 605",
+          "title": "Competency of Judge as Witness",
+          "summary": "The judge presiding at the trial may not testify in that trial as a witness. No objection need be made in order to preserve the point.",
+          "key_concepts": ["judicial disqualification", "judge as witness"],
+          "federal_counterpart": "FRE 605"
+        },
+        {
+          "rule": "MRE 606",
+          "title": "Competency of Juror as Witness",
+          "summary": "A member of the jury may not testify as a witness before that jury in the trial of the case in which the juror is sitting. After verdict or discharge, a juror may testify to extraneous prejudicial information or improper outside influence but not to deliberations.",
+          "key_concepts": ["juror incompetency at trial", "post-verdict juror testimony", "extraneous information", "Tanner rule"],
+          "federal_counterpart": "FRE 606"
+        },
+        {
+          "rule": "MRE 607",
+          "title": "Who May Impeach",
+          "summary": "Any party, including the party calling the witness, may attack the witness's credibility.",
+          "key_concepts": ["impeachment by own witness", "surprise testimony", "voucher rule abolished"],
+          "federal_counterpart": "FRE 607"
+        },
+        {
+          "rule": "MRE 608",
+          "title": "Evidence of Character and Conduct of Witness",
+          "summary": "A witness's credibility may be attacked or supported by evidence about reputation for untruthfulness or truthfulness, or by opinion. On cross-examination, specific instances of conduct relating to truthfulness may be inquired into, but extrinsic evidence is not admissible to prove specific instances.",
+          "key_concepts": ["credibility", "character for truthfulness", "specific instances on cross", "no extrinsic proof"],
+          "federal_counterpart": "FRE 608"
+        },
+        {
+          "rule": "MRE 609",
+          "title": "Impeachment by Evidence of Conviction of Crime",
+          "summary": "Evidence of a prior conviction is admissible to attack witness credibility if: (1) crime was punishable by imprisonment over one year and probative value outweighs prejudicial effect (to defendant), or (2) the crime involved dishonesty or false statement (theft, fraud, perjury)—admissible per se. 10-year limit; juvenile adjudications generally excluded.",
+          "key_concepts": ["prior conviction", "dishonesty", "false statement", "felony conviction", "10-year rule", "prejudice vs. probative value"],
+          "note": "Michigan's MRE 609 is somewhat more protective of defendants than FRE 609.",
+          "federal_counterpart": "FRE 609"
+        },
+        {
+          "rule": "MRE 610",
+          "title": "Religious Beliefs or Opinions",
+          "summary": "Evidence of the beliefs or opinions of a witness on matters of religion is not admissible for the purpose of showing that by reason of their nature the witness's credibility is impaired or enhanced.",
+          "federal_counterpart": "FRE 610"
+        },
+        {
+          "rule": "MRE 611",
+          "title": "Mode and Order of Interrogation and Presentation",
+          "summary": "The court exercises reasonable control over the mode and order of examining witnesses to make the examination effective, avoid wasting time, and protect witnesses from harassment. Cross-examination is limited to the subject matter of direct and credibility. Leading questions permitted on cross-examination and with hostile witnesses.",
+          "key_concepts": ["leading questions", "scope of cross-examination", "direct examination", "hostile witness"],
+          "federal_counterpart": "FRE 611"
+        },
+        {
+          "rule": "MRE 612",
+          "title": "Writing Used to Refresh Memory",
+          "summary": "If a witness uses a writing to refresh memory while testifying, or before testifying if the court decides it is necessary in the interests of justice, an adverse party is entitled to have the writing produced and to cross-examine the witness thereon.",
+          "key_concepts": ["present recollection refreshed", "production of writing", "adverse party's rights"],
+          "federal_counterpart": "FRE 612"
+        },
+        {
+          "rule": "MRE 613",
+          "title": "Prior Statements of Witnesses",
+          "summary": "Extrinsic evidence of a prior inconsistent statement is admissible only if the witness is afforded an opportunity to explain or deny the statement. Prior consistent statements admissible only to rebut charge of recent fabrication or improper motive.",
+          "key_concepts": ["prior inconsistent statement", "prior consistent statement", "foundation requirement", "extrinsic evidence"],
+          "federal_counterpart": "FRE 613"
+        },
+        {
+          "rule": "MRE 614",
+          "title": "Calling and Interrogation of Witnesses by Court",
+          "summary": "The court may call witnesses on its own motion, and all parties are entitled to cross-examine witnesses so called. The court may interrogate witnesses, whether called by itself or by a party.",
+          "key_concepts": ["court-called witness", "judicial questioning", "neutral witness"],
+          "federal_counterpart": "FRE 614"
+        },
+        {
+          "rule": "MRE 615",
+          "title": "Exclusion of Witnesses",
+          "summary": "At the request of a party, the court shall order witnesses excluded so that they cannot hear the testimony of other witnesses, and it may make the order of its own motion. Exceptions: a party who is a natural person; an officer or employee of a party that is not a natural person; a person whose presence is essential to the presentation of the party's cause; a victim of crime.",
+          "key_concepts": ["separation of witnesses", "rule on witnesses", "sequestration", "exceptions"],
+          "federal_counterpart": "FRE 615"
+        }
+      ]
+    },
+    {
+      "article": "VII",
+      "title": "Opinions and Expert Testimony",
+      "rules": [
+        {
+          "rule": "MRE 701",
+          "title": "Opinion Testimony by Lay Witnesses",
+          "summary": "A lay witness's opinion testimony is limited to opinions that are rationally based on the witness's perception, helpful to clearly understanding the testimony or determining a fact in issue, and not based on scientific, technical, or other specialized knowledge.",
+          "key_concepts": ["lay opinion", "rational basis", "helpful to trier of fact", "not expert knowledge"],
+          "federal_counterpart": "FRE 701"
+        },
+        {
+          "rule": "MRE 702",
+          "title": "Testimony by Expert Witnesses",
+          "summary": "A witness qualified as an expert by knowledge, skill, experience, training, or education may testify in the form of an opinion or otherwise if: (1) the testimony is based on sufficient facts or data; (2) the testimony is the product of reliable principles and methods; and (3) the witness has reliably applied the principles and methods to the facts of the case. Michigan adopted the Daubert standard.",
+          "key_concepts": ["Daubert standard", "expert qualification", "reliability", "sufficient facts", "reliable methods", "fit"],
+          "note": "Michigan adopted the Daubert/Kumho Tire reliability standard in 2004, replacing the older Frye general acceptance test.",
+          "federal_counterpart": "FRE 702"
+        },
+        {
+          "rule": "MRE 703",
+          "title": "Bases of an Expert's Opinion",
+          "summary": "An expert may base an opinion on facts or data in the case that the expert has been made aware of or personally observed. If experts in the particular field would reasonably rely on such facts or data in forming an opinion, they need not be admissible in evidence.",
+          "key_concepts": ["basis for expert opinion", "reasonable reliance", "hypothetical question", "inadmissible basis"],
+          "federal_counterpart": "FRE 703"
+        },
+        {
+          "rule": "MRE 704",
+          "title": "Opinion on an Ultimate Issue",
+          "summary": "Testimony in the form of an opinion or inference otherwise admissible is not objectionable because it embraces an ultimate issue to be decided by the trier of fact.",
+          "key_concepts": ["ultimate issue", "legal conclusion", "credibility opinions"],
+          "note": "Unlike FRE 704(b), Michigan has no specific prohibition on mental state opinions in criminal cases.",
+          "federal_counterpart": "FRE 704"
+        },
+        {
+          "rule": "MRE 705",
+          "title": "Disclosing the Underlying Facts or Data",
+          "summary": "An expert may state an opinion — and give the reasons for it — without first testifying to the underlying facts or data. But the expert may be required to disclose those facts or data on cross-examination.",
+          "key_concepts": ["basis disclosure", "cross-examination of expert", "hypothetical question optional"],
+          "federal_counterpart": "FRE 705"
+        },
+        {
+          "rule": "MRE 706",
+          "title": "Court-Appointed Expert Witnesses",
+          "summary": "The court may appoint any expert witnesses agreed upon by the parties and may appoint expert witnesses of its own selection. Appointed experts shall advise the parties of their findings; may be deposed; may be called to testify by the court or any party; and shall be subject to cross-examination.",
+          "key_concepts": ["court-appointed expert", "neutral expert", "expert disclosure"],
+          "federal_counterpart": "FRE 706"
+        }
+      ]
+    },
+    {
+      "article": "VIII",
+      "title": "Hearsay",
+      "rules": [
+        {
+          "rule": "MRE 801",
+          "title": "Definitions; Exclusions from Hearsay",
+          "summary": "Hearsay is an out-of-court statement offered to prove the truth of the matter asserted. Excludes from hearsay: prior inconsistent statements (under oath at prior proceeding), prior consistent statements (to rebut fabrication), and admissions by a party-opponent.",
+          "key_concepts": ["hearsay definition", "out-of-court statement", "truth of the matter asserted", "party admissions"],
+          "subsections": [
+            { "subsection": "MRE 801(a)", "title": "Statement", "summary": "A statement is an oral or written assertion or nonverbal conduct intended as an assertion." },
+            { "subsection": "MRE 801(b)", "title": "Declarant", "summary": "A declarant is a person who makes a statement." },
+            { "subsection": "MRE 801(c)", "title": "Hearsay", "summary": "Hearsay means a statement that the declarant does not make while testifying at the current trial or hearing and is offered to prove the truth of the matter asserted." },
+            { "subsection": "MRE 801(d)", "title": "Statements That Are Not Hearsay", "summary": "Prior statements of testifying witnesses (inconsistent/under oath or consistent to rebut) and party-opponent admissions are not hearsay." }
+          ],
+          "federal_counterpart": "FRE 801"
+        },
+        {
+          "rule": "MRE 802",
+          "title": "The Rule Against Hearsay",
+          "summary": "Hearsay is not admissible unless these rules or other rules adopted by the Michigan Supreme Court provide otherwise.",
+          "key_concepts": ["hearsay exclusion", "exceptions required"],
+          "federal_counterpart": "FRE 802"
+        },
+        {
+          "rule": "MRE 803",
+          "title": "Exceptions to the Rule Against Hearsay — Declarant's Availability Immaterial",
+          "summary": "The following are not excluded by the hearsay rule, regardless of the availability of the declarant:",
+          "federal_counterpart": "FRE 803",
+          "subsections": [
+            { "subsection": "MRE 803(1)", "title": "Present Sense Impression", "summary": "A statement describing or explaining an event or condition, made while or immediately after the declarant perceived it." },
+            { "subsection": "MRE 803(2)", "title": "Excited Utterance", "summary": "A statement relating to a startling event or condition, made while the declarant was under the stress of excitement that it caused." },
+            { "subsection": "MRE 803(3)", "title": "Then-Existing Mental, Emotional, or Physical Condition", "summary": "A statement of the declarant's then-existing state of mind (motive, intent, plan) or physical condition (pain, bodily health), but not a statement of memory or belief to prove the fact remembered." },
+            { "subsection": "MRE 803(4)", "title": "Statement Made for Medical Diagnosis or Treatment", "summary": "A statement made for purposes of medical diagnosis or treatment describing medical history, past or present symptoms, pain, or sensations, or the inception or general character of the cause." },
+            { "subsection": "MRE 803(5)", "title": "Recorded Recollection", "summary": "A record about a matter the witness once knew but now cannot recall well enough to testify fully about, made when the matter was fresh in the witness's memory and reflecting that knowledge accurately. May be read into evidence but not received as an exhibit unless offered by an adverse party." },
+            { "subsection": "MRE 803(6)", "title": "Records of a Regularly Conducted Activity (Business Records)", "summary": "A record of an act, event, condition, opinion, or diagnosis, if: made at or near the time by someone with knowledge; kept in the ordinary course of a regularly conducted activity; making was a regular practice; and foundational testimony is provided. Untrustworthy records excluded." },
+            { "subsection": "MRE 803(7)", "title": "Absence of a Record of a Regularly Conducted Activity", "summary": "Evidence that a matter is not included in a record of a regularly conducted activity, if introduction of the record would otherwise be admissible." },
+            { "subsection": "MRE 803(8)", "title": "Public Records", "summary": "A record or statement of a public office in a civil case or against the government in a criminal case, setting out the office's activities, a matter observed while under a legal duty to report (but not observations by law enforcement), or factual findings from a legal investigation." },
+            { "subsection": "MRE 803(9)", "title": "Public Records of Vital Statistics", "summary": "A record of a birth, fetal death, death, or marriage, if reported to a public office in accordance with a legal duty." },
+            { "subsection": "MRE 803(10)", "title": "Absence of a Public Record", "summary": "Testimony or a certification that a diligent search failed to disclose a public record or statement, to prove that the record does not exist or a matter did not occur." },
+            { "subsection": "MRE 803(11)", "title": "Records of Religious Organizations Concerning Personal or Family History", "summary": "A statement of birth, legitimacy, ancestry, marriage, divorce, death, relationship by blood or marriage, or similar facts of personal or family history, contained in a regularly kept record of a religious organization." },
+            { "subsection": "MRE 803(12)", "title": "Certificates of Marriage, Baptism, and Similar Ceremonies", "summary": "A statement of fact contained in a certificate made by a person who is authorized by a religious organization or by law to perform the act and who performed it, and is attested by such person." },
+            { "subsection": "MRE 803(13)", "title": "Family Records", "summary": "A statement of fact about personal or family history contained in a family record, such as a Bible, genealogy, chart, engraving on a ring, inscription on a portrait, or engraving on an urn or burial marker." },
+            { "subsection": "MRE 803(14)", "title": "Records of Documents That Affect an Interest in Property", "summary": "The record of a document that purports to establish or affect an interest in property if the record is admitted in a court of the state or territory where the real property is located." },
+            { "subsection": "MRE 803(15)", "title": "Statements in Documents That Affect an Interest in Property", "summary": "A statement contained in a document that purports to establish or affect an interest in property if the matter stated was relevant to the document's purpose." },
+            { "subsection": "MRE 803(16)", "title": "Statements in Ancient Documents", "summary": "A statement in a document that was prepared before January 1, 1998, and whose authenticity is established." },
+            { "subsection": "MRE 803(17)", "title": "Market Reports and Similar Commercial Publications", "summary": "Market quotations, lists, directories, or other compilations that are generally relied on and made available to the public." },
+            { "subsection": "MRE 803(18)", "title": "Statements in Learned Treatises, Periodicals, or Pamphlets", "summary": "A statement contained in a treatise, periodical, or pamphlet if the statement is called to the attention of an expert witness on cross-examination or relied on by the expert in direct, and the publication is established as a reliable authority." },
+            { "subsection": "MRE 803(19)", "title": "Reputation Concerning Personal or Family History", "summary": "A reputation among a person's family by blood, adoption, or marriage — or among a person's associates or in the community — concerning the person's birth, adoption, legitimacy, ancestry, marriage, divorce, death, relationship by blood, adoption, or marriage, or similar facts of personal or family history." },
+            { "subsection": "MRE 803(20)", "title": "Reputation Concerning Boundaries or General History", "summary": "A reputation in a community — arising before the controversy — concerning boundaries of land in the community or customs that affect the land, or concerning general historical events important to that community, state, or nation." },
+            { "subsection": "MRE 803(21)", "title": "Reputation Concerning Character", "summary": "A reputation among a person's associates or in the community concerning the person's character." },
+            { "subsection": "MRE 803(22)", "title": "Judgment of a Previous Conviction", "summary": "Evidence of a final judgment of conviction if: the conviction was for a crime punishable by death or by imprisonment for more than a year; the evidence is admitted to prove any fact essential to the judgment; and the judgment against whom the evidence is offered is a party." },
+            { "subsection": "MRE 803(23)", "title": "Judgments Involving Personal, Family, or General History, or a Boundary", "summary": "A judgment that is admitted to prove a matter of personal, family, or general history, or boundaries, if the matter was essential to the judgment and could be proved by evidence of reputation." }
+          ]
+        },
+        {
+          "rule": "MRE 804",
+          "title": "Exceptions to the Rule Against Hearsay — When the Declarant Is Unavailable as a Witness",
+          "summary": "The following are not excluded by the hearsay rule if the declarant is unavailable as a witness:",
+          "federal_counterpart": "FRE 804",
+          "subsections": [
+            { "subsection": "MRE 804(a)", "title": "Definition of Unavailability", "summary": "A declarant is unavailable if: exempt from testifying (privilege); refuses to testify despite court order; testifies to not remembering the subject; cannot be present due to death, physical or mental illness; or is absent despite reasonable means to procure attendance." },
+            { "subsection": "MRE 804(b)(1)", "title": "Former Testimony", "summary": "Testimony given as a witness at a trial, hearing, or lawful deposition, whether or not taken in the current proceeding, if the party against whom it is offered had an opportunity and similar motive to develop the testimony by direct, cross, or redirect examination." },
+            { "subsection": "MRE 804(b)(2)", "title": "Statement Under the Belief of Imminent Death (Dying Declaration)", "summary": "A statement that the declarant, while believing the declarant's death to be imminent, made about its cause or circumstances. Admissible in civil and homicide cases." },
+            { "subsection": "MRE 804(b)(3)", "title": "Statement Against Interest", "summary": "A statement that a reasonable person in the declarant's position would have made only if the person believed it to be true because, when made, it was so contrary to the declarant's proprietary or pecuniary interest or had so great a tendency to invalidate the declarant's claim or expose the declarant to civil or criminal liability." },
+            { "subsection": "MRE 804(b)(4)", "title": "Statement of Personal or Family History", "summary": "A statement about the declarant's own birth, adoption, legitimacy, ancestry, marriage, divorce, relationship by blood, adoption, or marriage, or similar facts of personal or family history, even though the declarant had no way of acquiring personal knowledge about that fact." },
+            { "subsection": "MRE 804(b)(5)", "title": "Forfeiture by Wrongdoing", "summary": "A statement offered against a party that wrongfully caused — or acquiesced in wrongfully causing — the declarant's unavailability as a witness, and did so intending that result." }
+          ]
+        },
+        {
+          "rule": "MRE 805",
+          "title": "Hearsay Within Hearsay (Double Hearsay)",
+          "summary": "Hearsay included within hearsay is not excluded by the rule against hearsay if each part of the combined statements conforms with an exception to the rule.",
+          "key_concepts": ["double hearsay", "layered hearsay", "each layer must qualify"],
+          "federal_counterpart": "FRE 805"
+        },
+        {
+          "rule": "MRE 806",
+          "title": "Attacking and Supporting the Declarant's Credibility",
+          "summary": "When a hearsay statement has been admitted in evidence, the credibility of the declarant may be attacked, and if attacked may be supported, by any evidence that would be admissible for those purposes if the declarant had testified as a witness.",
+          "key_concepts": ["declarant credibility", "impeachment of out-of-court declarant"],
+          "federal_counterpart": "FRE 806"
+        },
+        {
+          "rule": "MRE 807",
+          "title": "Residual Exception",
+          "summary": "A hearsay statement not covered by MRE 803 or 804 is not excluded if: (1) the statement has equivalent circumstantial guarantees of trustworthiness; (2) it is offered as evidence of a material fact; (3) it is more probative than any other available evidence; and (4) admitting it best serves justice. Pre-trial notice to adverse party required.",
+          "key_concepts": ["residual exception", "trustworthiness", "near-miss situations", "pre-trial notice"],
+          "federal_counterpart": "FRE 807"
+        }
+      ]
+    },
+    {
+      "article": "IX",
+      "title": "Authentication and Identification",
+      "rules": [
+        {
+          "rule": "MRE 901",
+          "title": "Authenticating or Identifying Evidence",
+          "summary": "To satisfy the requirement of authenticating or identifying an item of evidence, the proponent must produce evidence sufficient to support a finding that the item is what the proponent claims it is. Examples: testimony of witness with knowledge; distinctive characteristics; chain of custody; expert comparison; voice identification; phone calls; public records; ancient documents; electronic records.",
+          "key_concepts": ["authentication", "foundation", "chain of custody", "distinctive characteristics"],
+          "federal_counterpart": "FRE 901"
+        },
+        {
+          "rule": "MRE 902",
+          "title": "Evidence That Is Self-Authenticating",
+          "summary": "The following items are self-authenticating and do not require extrinsic evidence of authenticity: domestic public documents under seal; domestic public documents not under seal; foreign public documents; certified copies of public records; official publications; newspapers and periodicals; trade inscriptions and labels; acknowledged instruments; commercial paper; presumptions under statute; certified domestic records of a regularly conducted activity; certified foreign records.",
+          "key_concepts": ["self-authentication", "certified copies", "official seals", "business records certification"],
+          "federal_counterpart": "FRE 902"
+        },
+        {
+          "rule": "MRE 903",
+          "title": "Subscribing Witness' Testimony",
+          "summary": "A subscribing witness' testimony is necessary to authenticate a writing only if required by the law of the jurisdiction that governs its validity.",
+          "federal_counterpart": "FRE 903"
+        }
+      ]
+    },
+    {
+      "article": "X",
+      "title": "Contents of Writings, Recordings, and Photographs",
+      "rules": [
+        {
+          "rule": "MRE 1001",
+          "title": "Definitions That Apply to This Article",
+          "summary": "Defines: writing (letters, words, numbers, or equivalent); recording (same on sound or video); photograph (includes X-rays, video, films); original; and duplicate.",
+          "key_concepts": ["writing", "recording", "photograph", "original", "duplicate"],
+          "federal_counterpart": "FRE 1001"
+        },
+        {
+          "rule": "MRE 1002",
+          "title": "Requirement of the Original (Best Evidence Rule)",
+          "summary": "An original writing, recording, or photograph is required in order to prove its content unless these rules or an act of the Legislature provides otherwise.",
+          "key_concepts": ["best evidence rule", "original required", "content of writing"],
+          "federal_counterpart": "FRE 1002"
+        },
+        {
+          "rule": "MRE 1003",
+          "title": "Admissibility of Duplicates",
+          "summary": "A duplicate is admissible to the same extent as an original unless a genuine question is raised about the original's authenticity or it would be unfair to admit the duplicate.",
+          "key_concepts": ["duplicate", "photocopy", "carbon copy", "electronic duplicate"],
+          "federal_counterpart": "FRE 1003"
+        },
+        {
+          "rule": "MRE 1004",
+          "title": "Admissibility of Other Evidence of Content",
+          "summary": "An original is not required and other evidence of the content of a writing, recording, or photograph is admissible if: all originals are lost or destroyed (not by the proponent in bad faith); the original cannot be obtained by available judicial process; the opposing party had control and was on notice and fails to produce it; or the writing is not closely related to a controlling issue.",
+          "key_concepts": ["secondary evidence", "lost original", "collateral writings"],
+          "federal_counterpart": "FRE 1004"
+        },
+        {
+          "rule": "MRE 1005",
+          "title": "Copies of Public Records to Prove Content",
+          "summary": "The proponent may use a copy to prove the content of an official record or a document that was recorded or filed in a public office as authorized by law, if the copy is certified as correct in accordance with MRE 902(4) or is testified to be correct by a witness who has compared it with the original.",
+          "federal_counterpart": "FRE 1005"
+        },
+        {
+          "rule": "MRE 1006",
+          "title": "Summaries to Prove Content",
+          "summary": "The proponent may use a summary, chart, or calculation to prove the content of voluminous writings, recordings, or photographs that cannot conveniently be examined in court. The proponent must make the originals or duplicates available for examination or copying, or both, by other parties at a reasonable time and place.",
+          "key_concepts": ["summary exhibit", "voluminous records", "chart", "calculation"],
+          "federal_counterpart": "FRE 1006"
+        },
+        {
+          "rule": "MRE 1007",
+          "title": "Testimony or Statement of a Party to Prove Content",
+          "summary": "The proponent may prove the content of a writing, recording, or photograph by the testimony, deposition, or written statement of the party against whom the evidence is offered.",
+          "federal_counterpart": "FRE 1007"
+        },
+        {
+          "rule": "MRE 1008",
+          "title": "Functions of the Court and Jury",
+          "summary": "The court determines preliminary questions about authenticity, loss/destruction, admission, and notice. The jury determines whether the asserted writing existed, whether any other evidence correctly reflects the content, and whether the offered evidence is an original.",
+          "key_concepts": ["court vs. jury functions", "preliminary questions", "jury determination"],
+          "federal_counterpart": "FRE 1008"
+        }
+      ]
+    },
+    {
+      "article": "XI",
+      "title": "Miscellaneous Rules",
+      "rules": [
+        {
+          "rule": "MRE 1101",
+          "title": "Applicability of Rules",
+          "summary": "These rules apply to: civil actions and proceedings; criminal cases and contempt proceedings. The rules do not apply to: preliminary hearings in criminal cases; grand jury proceedings; sentencing proceedings; issuance of arrest and search warrants; bail proceedings; and miscellaneous summary proceedings.",
+          "key_concepts": ["scope of applicability", "inapplicable proceedings", "sentencing", "grand jury"],
+          "federal_counterpart": "FRE 1101"
+        },
+        {
+          "rule": "MRE 1102",
+          "title": "Title",
+          "summary": "These rules shall be known and cited as the Michigan Rules of Evidence.",
+          "federal_counterpart": "FRE 1102"
+        }
+      ]
+    }
+  ]
+}

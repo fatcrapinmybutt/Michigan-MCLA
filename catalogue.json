@@ -93,9 +93,11 @@
         {
           "abbreviation": "W.D. Mich.",
           "full_name": "U.S. District Court for the Western District of Michigan",
-          "description": "The federal trial court for the western portion of Michigan, including Grand Rapids, Lansing, Kalamazoo, Marquette, and surrounding areas.",
+          "description": "The federal trial court for the western portion of Michigan, including Grand Rapids, Lansing, Kalamazoo, Muskegon, Marquette, and surrounding areas.",
           "tier": "Federal - District Court",
           "location": "Grand Rapids, Michigan (primary courthouse)",
+          "division_locations": ["Grand Rapids", "Kalamazoo", "Lansing", "Marquette"],
+          "notable_cities_covered": ["Grand Rapids", "Kalamazoo", "Lansing", "Muskegon", "Marquette", "Traverse City", "Saginaw (transferred to E.D.)"],
           "citation_example": "Doe v. Roe, 789 F. Supp. 3d 123 (W.D. Mich. 2021)"
         }
       ]
@@ -261,6 +263,38 @@
           ]
         }
       ]
+    }
+  ],
+  "related_files": [
+    {
+      "file": "mcr.json",
+      "title": "Michigan Court Rules (MCR) — Complete Rule Index",
+      "description": "All Michigan Court Rules organized by chapter (1–9) with rule numbers, titles, and summaries."
+    },
+    {
+      "file": "mre.json",
+      "title": "Michigan Rules of Evidence (MRE) — Complete Rule Index",
+      "description": "All Michigan Rules of Evidence organized by article (I–XI) with rule numbers, titles, summaries, and federal counterparts."
+    },
+    {
+      "file": "mcl.json",
+      "title": "Michigan Compiled Laws (MCL) — Court-Practice Reference",
+      "description": "Key MCL sections organized by chapter covering courts (RJA), estates (EPIC), family law, criminal procedure, mental health, torts, business organizations, and juvenile law."
+    },
+    {
+      "file": "mcr.md",
+      "title": "Michigan Court Rules — Human-Readable Reference",
+      "description": "Formatted, human-readable reference for all Michigan Court Rules."
+    },
+    {
+      "file": "mre.md",
+      "title": "Michigan Rules of Evidence — Human-Readable Reference",
+      "description": "Formatted, human-readable reference for all Michigan Rules of Evidence."
+    },
+    {
+      "file": "mcl.md",
+      "title": "Michigan Compiled Laws — Human-Readable Reference",
+      "description": "Formatted, human-readable reference for key MCL court-practice sections."
     }
   ]
 }

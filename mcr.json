@@ -1,0 +1,634 @@
+{
+  "title": "Michigan Court Rules (MCR)",
+  "description": "Complete listing of all Michigan Court Rules, organized by chapter and rule number. Promulgated by the Michigan Supreme Court and governing practice and procedure in all Michigan courts.",
+  "abbreviation": "MCR",
+  "promulgated_by": "Michigan Supreme Court",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "General Provisions",
+      "rules": [
+        { "rule": "MCR 1.101", "title": "Title", "summary": "Establishes the title 'Michigan Court Rules' and the citation format." },
+        { "rule": "MCR 1.102", "title": "Purpose and Construction", "summary": "Rules are to be construed to secure the just, speedy, and economical determination of every action." },
+        { "rule": "MCR 1.103", "title": "Applicability of Rules", "summary": "Defines which courts and proceedings the rules apply to, including all Michigan trial courts." },
+        { "rule": "MCR 1.104", "title": "Rules of Construction", "summary": "Rules of statutory construction applicable to the Michigan Court Rules." },
+        { "rule": "MCR 1.105", "title": "Definitions", "summary": "Defines terms used throughout the rules, including 'action,' 'court,' 'judge,' and 'party.'" },
+        { "rule": "MCR 1.106", "title": "Forms", "summary": "Authorizes and recognizes SCAO-approved forms; compliance with approved forms constitutes compliance with the rules." },
+        { "rule": "MCR 1.107", "title": "Signatures", "summary": "Every pleading, motion, or document must be signed by the attorney or unrepresented party." },
+        { "rule": "MCR 1.108", "title": "Computation of Time", "summary": "Governs how time periods are computed, including counting of days, weekends, and holidays." },
+        { "rule": "MCR 1.109", "title": "Court Records Defined; Filing, Service, and Sealing of Documents", "summary": "Defines court records, e-filing requirements, and procedures for sealing confidential documents." }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Civil Procedure",
+      "subchapters": [
+        {
+          "subchapter": "2.000",
+          "title": "Preliminary Provisions",
+          "rules": [
+            { "rule": "MCR 2.001", "title": "Applicability", "summary": "Applies to all civil actions in circuit court and other courts of record unless otherwise specified." },
+            { "rule": "MCR 2.002", "title": "Persons Who May Sue or Be Sued", "summary": "Governs the capacity of individuals, corporations, partnerships, and other entities to be parties." },
+            { "rule": "MCR 2.003", "title": "Disqualification of Judge", "summary": "Grounds and procedure for disqualifying a judge from hearing a case, including financial interest and prior involvement." },
+            { "rule": "MCR 2.004", "title": "Incarcerated Parties", "summary": "Special procedures for parties who are incarcerated, including service and attendance at hearings." }
+          ]
+        },
+        {
+          "subchapter": "2.100",
+          "title": "Commencement of Action; Service of Process; Pleadings; Motions",
+          "rules": [
+            { "rule": "MCR 2.101", "title": "Forms of Action", "summary": "Civil actions are commenced by filing a complaint. Michigan has a single form of civil action." },
+            { "rule": "MCR 2.102", "title": "Summons; Expiration of Summons; Dismissal for Lack of Progress", "summary": "Requirements for summons issuance, 91-day validity, and dismissal for failure to serve." },
+            { "rule": "MCR 2.103", "title": "Process; Who May Serve", "summary": "Identifies who may serve process, including sheriffs, court officers, and private persons." },
+            { "rule": "MCR 2.104", "title": "Proof of Service", "summary": "Requirements for filing proof of service, including affidavit of service content." },
+            { "rule": "MCR 2.105", "title": "Manner of Service of Process", "summary": "Methods of serving process on individuals, corporations, partnerships, governmental entities, and minors." },
+            { "rule": "MCR 2.106", "title": "Notice by Posting or Publication", "summary": "When and how service by publication or posting may be used as an alternative to personal service." },
+            { "rule": "MCR 2.107", "title": "Service and Filing of Pleadings and Other Documents", "summary": "Rules for serving and filing documents after the complaint, including methods and proof of service." },
+            { "rule": "MCR 2.108", "title": "Time; Computation; Extension", "summary": "Time limits for responsive pleadings (21 days for complaint; 21 days for cross-claims) and procedures for extensions." },
+            { "rule": "MCR 2.109", "title": "Security for Costs", "summary": "Court may require a party to post security for costs when ordered." },
+            { "rule": "MCR 2.110", "title": "Pleadings Allowed; Motions", "summary": "Lists allowed pleadings: complaint, answer, reply to counterclaim, answer to cross-claim, third-party complaint, and third-party answer." },
+            { "rule": "MCR 2.111", "title": "General Rules of Pleading", "summary": "Requires plain statement of facts showing entitlement to relief; addresses alternative and inconsistent pleadings." },
+            { "rule": "MCR 2.112", "title": "Pleading Special Matters", "summary": "Specific requirements for pleading fraud, mistake, negligence, conditions precedent, and official documents." },
+            { "rule": "MCR 2.113", "title": "Form of Pleadings and Other Papers", "summary": "Format requirements: caption, party names, case number, court name, and page limitations." },
+            { "rule": "MCR 2.114", "title": "Verification; Sanctions (Superseded by MCR 1.109)", "summary": "Formerly governed verification of pleadings; now superseded by MCR 1.109." },
+            { "rule": "MCR 2.115", "title": "Defenses and Objections; How and When Presented", "summary": "Every defense to a claim must be asserted in the responsive pleading or by motion." },
+            { "rule": "MCR 2.116", "title": "Summary Disposition", "summary": "Michigan's equivalent of summary judgment. Grounds include: (C)(1) lack of subject matter jurisdiction; (C)(2) lack of personal jurisdiction; (C)(5) failure to state a claim; (C)(10) no genuine issue of material fact." },
+            { "rule": "MCR 2.117", "title": "Appearances", "summary": "Procedures for attorneys entering and withdrawing appearances, including pro hac vice admission." },
+            { "rule": "MCR 2.118", "title": "Amended and Supplemental Pleadings", "summary": "A party may amend a pleading once as of right before a responsive pleading is served, or by leave of court." },
+            { "rule": "MCR 2.119", "title": "Motion Practice", "summary": "Requirements for motions: must state with particularity the grounds, relief sought, and supporting brief." },
+            { "rule": "MCR 2.120", "title": "Defendant Class Actions", "summary": "Governs class actions where defendants are certified as a class." },
+            { "rule": "MCR 2.121", "title": "Substitution of Parties", "summary": "Procedures for substituting parties on death, incompetency, transfer of interest, or substitution of public officers." },
+            { "rule": "MCR 2.122", "title": "Signing of Pleadings", "summary": "Signature requirement; attorney's signature constitutes certification of good faith and factual and legal basis." }
+          ]
+        },
+        {
+          "subchapter": "2.200",
+          "title": "Parties",
+          "rules": [
+            { "rule": "MCR 2.201", "title": "Parties Plaintiff and Defendant; Capacity", "summary": "Who may be a party; capacity to sue and be sued; real party in interest." },
+            { "rule": "MCR 2.202", "title": "Joinder of Claims; Contingent Claims", "summary": "A party may join all claims it has against another party." },
+            { "rule": "MCR 2.203", "title": "Compulsory and Permissive Joinder; Counterclaims and Cross-Claims", "summary": "Counterclaims arising from the same transaction must be pleaded or are waived; cross-claims against co-parties are permissive." },
+            { "rule": "MCR 2.204", "title": "Counterclaims and Cross-Claims", "summary": "Detailed procedures for asserting counterclaims (against opposing parties) and cross-claims (against co-parties)." },
+            { "rule": "MCR 2.205", "title": "Third-Party Practice (Impleader)", "summary": "A defendant may implead a third party who may be liable to the defendant for all or part of the plaintiff's claim." },
+            { "rule": "MCR 2.206", "title": "Class Actions", "summary": "Requirements for class certification: numerosity, commonality, typicality, and adequacy of representation." },
+            { "rule": "MCR 2.207", "title": "Interpleader", "summary": "Allows a person holding property claimed by multiple parties to join those parties and require them to litigate their claims." },
+            { "rule": "MCR 2.208", "title": "Intervention of Right and Permissive Intervention", "summary": "A non-party may intervene as of right when it has a claim or defense and its interest may be impaired." },
+            { "rule": "MCR 2.209", "title": "Necessary and Indispensable Parties", "summary": "Courts must join parties whose absence would impair complete relief or impair their interests." }
+          ]
+        },
+        {
+          "subchapter": "2.300",
+          "title": "Discovery",
+          "rules": [
+            { "rule": "MCR 2.301", "title": "Availability and Timing of Discovery", "summary": "Discovery is available in all civil cases; timing and scope limitations; duty to supplement." },
+            { "rule": "MCR 2.302", "title": "General Rules Governing Discovery", "summary": "Scope of discovery: any non-privileged matter relevant to the subject matter. Protective orders. Duty to supplement." },
+            { "rule": "MCR 2.303", "title": "Depositions Before Action or Pending Appeal", "summary": "Perpetuation of testimony before an action is filed or while an appeal is pending." },
+            { "rule": "MCR 2.304", "title": "Persons Before Whom Depositions May Be Taken", "summary": "Officers, notaries, and persons authorized by court order who may administer oaths for depositions." },
+            { "rule": "MCR 2.305", "title": "Depositions on Oral Examination", "summary": "Notice requirements, procedure for oral depositions, objections, and deponent conduct." },
+            { "rule": "MCR 2.306", "title": "Depositions on Written Questions", "summary": "Alternative to oral depositions using pre-submitted written questions; cross-examination questions." },
+            { "rule": "MCR 2.307", "title": "Use of Depositions in Court Proceedings", "summary": "When and how depositions may be used at trial or on motions, including for impeachment." },
+            { "rule": "MCR 2.308", "title": "Interrogatories to Parties", "summary": "A party may serve up to 20 interrogatories (unless otherwise ordered). Answers due in 28 days." },
+            { "rule": "MCR 2.309", "title": "Production of Documents, Electronically Stored Information, and Tangible Things", "summary": "Requests for production of documents and ESI; access to land and property; 28-day response deadline." },
+            { "rule": "MCR 2.310", "title": "Physical and Mental Examination of Persons", "summary": "Court may order examination when physical or mental condition is in controversy. Report of examining physician." },
+            { "rule": "MCR 2.311", "title": "Requests for Admission", "summary": "A party may request admissions of fact or genuineness of documents; 28-day response; effect of admission." },
+            { "rule": "MCR 2.312", "title": "Failure to Make Discovery; Sanctions", "summary": "Court may impose sanctions including dismissal, default, contempt, or cost-shifting for discovery failures." },
+            { "rule": "MCR 2.313", "title": "Failure to Make Discovery; Sanctions (Alternate)", "summary": "Addresses specific sanctions for failure to comply with discovery orders under MCR 2.312." },
+            { "rule": "MCR 2.314", "title": "Discovery of Medical Information", "summary": "Special rules for discovery of medical records, authorizations, and physician testimony." },
+            { "rule": "MCR 2.315", "title": "Video Depositions", "summary": "Authorizes depositions to be recorded by video; technical requirements and use at trial." },
+            { "rule": "MCR 2.316", "title": "Discovery from Non-Parties", "summary": "Procedures for obtaining discovery from non-parties via subpoena and court order." }
+          ]
+        },
+        {
+          "subchapter": "2.400",
+          "title": "Pretrial Procedures",
+          "rules": [
+            { "rule": "MCR 2.401", "title": "Pretrial Procedures; Conferences; Scheduling Orders", "summary": "Court may direct parties to appear for pretrial conference to simplify issues, amend pleadings, obtain admissions, and consider ADR." },
+            { "rule": "MCR 2.402", "title": "Use of Communication Equipment", "summary": "Allows use of videoconferencing and telephonic equipment for hearings and depositions by court order." },
+            { "rule": "MCR 2.403", "title": "Case Evaluation (Formerly Mediation)", "summary": "Mandatory case evaluation panel for civil cases over $50,000; sanctions for rejection of evaluation award." },
+            { "rule": "MCR 2.404", "title": "Voluntary Facilitative Mediation", "summary": "Parties may voluntarily submit to facilitative mediation; mediator neutrality and confidentiality." },
+            { "rule": "MCR 2.405", "title": "Offers to Stipulate to Entry of Judgment", "summary": "A party may make an offer of judgment; if rejected and the case goes to trial, the rejecting party may be liable for costs if the judgment is not more favorable than the offer." },
+            { "rule": "MCR 2.406", "title": "Video Proceedings", "summary": "Standards for conducting court proceedings via video technology." },
+            { "rule": "MCR 2.407", "title": "Telephone and Video Proceedings", "summary": "Court may permit testimony or appearances by telephone or video; factors to consider." },
+            { "rule": "MCR 2.408", "title": "Settlement; Dismissal; Entry of Judgment", "summary": "Parties may settle at any time; dismissal by stipulation; consent judgment entry." },
+            { "rule": "MCR 2.410", "title": "Alternative Dispute Resolution", "summary": "Courts may order or recommend ADR, including mediation, case evaluation, and arbitration." },
+            { "rule": "MCR 2.411", "title": "Mediation", "summary": "Court-ordered mediation procedures, mediator qualifications, and confidentiality of mediation communications." }
+          ]
+        },
+        {
+          "subchapter": "2.500",
+          "title": "Trials",
+          "rules": [
+            { "rule": "MCR 2.501", "title": "Assignment of Cases for Trial", "summary": "Procedures for placing cases on the trial calendar; priority cases; notice of trial." },
+            { "rule": "MCR 2.502", "title": "Subpoenas", "summary": "Requirements for issuing subpoenas to compel witness attendance and document production at trial." },
+            { "rule": "MCR 2.503", "title": "Adjournments", "summary": "Court has discretion to grant adjournments for good cause; presumption against adjournments after trial date set." },
+            { "rule": "MCR 2.504", "title": "Dismissal of Actions", "summary": "Voluntary dismissal by plaintiff (before answer, by stipulation, or by court order); involuntary dismissal for failure to prosecute." },
+            { "rule": "MCR 2.505", "title": "Consolidation; Separate Trials", "summary": "Court may consolidate actions with common questions; may order separate trials to avoid prejudice or promote convenience." },
+            { "rule": "MCR 2.506", "title": "Subpoena; Order to Attend", "summary": "Subpoenas for attendance at trial; service requirements; geographic limits; sanctions for disobedience." },
+            { "rule": "MCR 2.507", "title": "Conduct of Trials", "summary": "General trial conduct rules: opening statements, order of proof, closing arguments, and courtroom decorum." },
+            { "rule": "MCR 2.508", "title": "Jury Trial of Right", "summary": "The right to jury trial as preserved by the Michigan Constitution; issues tried by jury vs. court." },
+            { "rule": "MCR 2.509", "title": "Trial by Jury or by Court", "summary": "Demand for jury trial required within 28 days of service of last pleading directed to the issue." },
+            { "rule": "MCR 2.510", "title": "Impaneling the Jury", "summary": "Jury selection procedures including jury list, examination of jurors, challenges, and oath administration." },
+            { "rule": "MCR 2.511", "title": "Impaneling the Jury", "summary": "Seating of jurors; sequestration; jury separation during deliberations." },
+            { "rule": "MCR 2.512", "title": "Instructions to the Jury; Objections", "summary": "Procedure for submitting, reviewing, and objecting to jury instructions before they are given." },
+            { "rule": "MCR 2.513", "title": "Conduct of Jury Trial", "summary": "Juror notes, juror questions, juror discussions during trial, and juror access to exhibits during deliberations." },
+            { "rule": "MCR 2.514", "title": "Rendering Verdict", "summary": "Jury deliberation procedures, verdict forms, polling the jury, and handling incomplete verdicts." },
+            { "rule": "MCR 2.515", "title": "Special Verdicts; Interrogatories", "summary": "Court may require the jury to return a special verdict or answer written interrogatories." },
+            { "rule": "MCR 2.516", "title": "Motion for Directed Verdict", "summary": "A party may move for directed verdict at close of opposing party's case or at close of all evidence." },
+            { "rule": "MCR 2.517", "title": "Findings by Court", "summary": "In non-jury trials, the court must state its findings of fact and conclusions of law." },
+            { "rule": "MCR 2.518", "title": "Judgment on Partial Findings (Non-suit)", "summary": "In non-jury trial, a party may move for judgment after opposing party's presentation." }
+          ]
+        },
+        {
+          "subchapter": "2.600",
+          "title": "Judgments and Orders",
+          "rules": [
+            { "rule": "MCR 2.601", "title": "Judgments", "summary": "Types of relief available including money judgment, declaratory relief, injunctive relief, and specific performance." },
+            { "rule": "MCR 2.602", "title": "Entry of Judgments and Orders", "summary": "Procedures for preparing, submitting, and entering judgments and orders; objections to proposed judgments." },
+            { "rule": "MCR 2.603", "title": "Default and Default Judgment", "summary": "Entry of default when a party fails to plead or defend; default judgment procedures; setting aside default." },
+            { "rule": "MCR 2.604", "title": "Judgment on Multiple Claims or Multiple Parties", "summary": "Court may enter final judgment as to fewer than all claims or parties when appropriate." },
+            { "rule": "MCR 2.605", "title": "Declaratory Judgments", "summary": "Courts have power to declare rights and obligations in cases of actual controversy." },
+            { "rule": "MCR 2.611", "title": "New Trials; Amendment of Judgment", "summary": "Grounds for new trial: jury misconduct, newly discovered evidence, errors of law, inadequate or excessive damages." },
+            { "rule": "MCR 2.612", "title": "Relief from Judgment or Order", "summary": "Grounds for relief from judgment: mistake, inadvertence, excusable neglect, newly discovered evidence, fraud, void judgment, prior judgment satisfied." },
+            { "rule": "MCR 2.613", "title": "Harmless Error; Objections; Preservation of Error", "summary": "Error is harmless if it does not affect substantial rights. Errors must be preserved by timely objection." },
+            { "rule": "MCR 2.614", "title": "Stay of Proceedings to Enforce Judgment", "summary": "Automatic stay upon filing of motion for new trial; stay on appeal; bond requirements." },
+            { "rule": "MCR 2.615", "title": "Disability of Judge", "summary": "Procedures when trial judge is unable to perform post-trial duties, including substitution of another judge." },
+            { "rule": "MCR 2.621", "title": "Proceedings Subsequent to Judgment", "summary": "Procedures for enforcing and collecting on judgments after entry." },
+            { "rule": "MCR 2.622", "title": "Receivers", "summary": "Appointment, powers, duties, and discharge of receivers appointed by circuit courts." },
+            { "rule": "MCR 2.623", "title": "Judgment Creditor Examinations", "summary": "Procedure for examining a judgment debtor about assets and ability to satisfy judgment." },
+            { "rule": "MCR 2.625", "title": "Taxation of Costs", "summary": "Prevailing party entitled to costs; what costs are taxable; motion to retax costs." },
+            { "rule": "MCR 2.626", "title": "Interest on Judgments", "summary": "Prejudgment and post-judgment interest rates and calculation under MCL 600.6013." },
+            { "rule": "MCR 2.627", "title": "Security; Surety Bonds", "summary": "Requirements for posting bonds or other security in civil proceedings." }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Special Proceedings and Actions",
+      "subchapters": [
+        {
+          "subchapter": "3.100",
+          "title": "Extraordinary Writs and Special Actions",
+          "rules": [
+            { "rule": "MCR 3.101", "title": "Garnishment After Judgment", "summary": "Procedure for garnishing wages, bank accounts, or other assets of a judgment debtor." },
+            { "rule": "MCR 3.102", "title": "Garnishment Before Judgment", "summary": "Pre-judgment attachment of defendant's assets; bond requirements; defendant's rights." },
+            { "rule": "MCR 3.103", "title": "Attachment", "summary": "Writ of attachment to seize defendant's property before judgment to secure potential judgment." },
+            { "rule": "MCR 3.104", "title": "Claim and Delivery", "summary": "Procedure to recover specific personal property wrongfully taken or held." },
+            { "rule": "MCR 3.105", "title": "Arrest", "summary": "Civil arrest in specific limited circumstances; writ of capias ad respondendum." },
+            { "rule": "MCR 3.106", "title": "Receivers; Execution", "summary": "Supplemental procedures for receivers appointed in post-judgment enforcement actions." }
+          ]
+        },
+        {
+          "subchapter": "3.200",
+          "title": "Domestic Relations Actions",
+          "rules": [
+            { "rule": "MCR 3.201", "title": "Applicability; Definitions", "summary": "Applies to actions for divorce, separate maintenance, annulment, paternity, custody, parenting time, and support." },
+            { "rule": "MCR 3.202", "title": "Commencement of Action; Interim Orders", "summary": "Complaint filing requirements; ex parte and interim orders for custody, support, and use of marital home." },
+            { "rule": "MCR 3.203", "title": "Service; Proof of Service", "summary": "Service requirements in domestic relations cases including service on incarcerated parties." },
+            { "rule": "MCR 3.204", "title": "Personal Protection Orders", "summary": "Procedures for obtaining PPOs in domestic violence, stalking, and sexual assault cases; ex parte relief; hearings." },
+            { "rule": "MCR 3.205", "title": "Prior and Subsequent Orders; Res Judicata", "summary": "Effect of prior and subsequent orders affecting minors in domestic relations cases." },
+            { "rule": "MCR 3.206", "title": "Uniform Interstate Family Support Act (UIFSA)", "summary": "Procedures for enforcing and modifying child support orders from other states under UIFSA." },
+            { "rule": "MCR 3.207", "title": "Temporary Orders", "summary": "Standards and procedures for temporary custody, parenting time, support, and injunctive orders." },
+            { "rule": "MCR 3.208", "title": "Friend of the Court", "summary": "Role and duties of the Friend of the Court in domestic relations cases, including investigation and recommendation." },
+            { "rule": "MCR 3.209", "title": "Domestic Relations Cases; Prosecuting Attorney", "summary": "Prosecuting attorney's role in Title IV-D child support enforcement cases." },
+            { "rule": "MCR 3.210", "title": "Hearings and Trials", "summary": "Trial procedures in domestic relations cases; use of testimony vs. affidavits; judicial notice of FOC reports." },
+            { "rule": "MCR 3.211", "title": "Judgment or Order", "summary": "Requirements for domestic relations judgments including specific provisions for custody, parenting time, and support." },
+            { "rule": "MCR 3.212", "title": "Post-Judgment Transfer", "summary": "Transfer of domestic relations cases between counties after change of domicile of parties." },
+            { "rule": "MCR 3.213", "title": "Spousal Support Agreements", "summary": "Requirements for spousal support (alimony) provisions in divorce judgments." },
+            { "rule": "MCR 3.214", "title": "Enforcement of Domestic Relations Orders", "summary": "Show cause, contempt, and income withholding procedures for enforcing domestic relations orders." },
+            { "rule": "MCR 3.215", "title": "Domestic Violence and Weapons", "summary": "Procedures for gun and weapon prohibition orders in domestic violence cases." },
+            { "rule": "MCR 3.216", "title": "Domestic Relations Arbitration", "summary": "Rules for binding arbitration of domestic relations disputes under the Domestic Relations Arbitration Act." },
+            { "rule": "MCR 3.217", "title": "Court-Ordered Mediation in Domestic Relations Cases", "summary": "Standards for court-ordered mediation in custody and parenting time disputes." },
+            { "rule": "MCR 3.218", "title": "Change of Domicile", "summary": "Procedures when a parent seeks to relocate a child more than 100 miles from the other parent." },
+            { "rule": "MCR 3.219", "title": "Parenting Time", "summary": "Standards for parenting time orders, make-up parenting time, and enforcement." },
+            { "rule": "MCR 3.221", "title": "Income Withholding for Support", "summary": "Automatic income withholding for child support in all cases; employer obligations; modification." },
+            { "rule": "MCR 3.222", "title": "Support Arrearage Judgments", "summary": "Entry of judgment for unpaid support arrearage; collection procedures." },
+            { "rule": "MCR 3.230", "title": "Emancipation of Minor", "summary": "Petition procedure for emancipation of a minor; court's consideration of best interests of minor." }
+          ]
+        },
+        {
+          "subchapter": "3.300",
+          "title": "Adoption",
+          "rules": [
+            { "rule": "MCR 3.301", "title": "Adoption; Applicability", "summary": "Scope of adoption rules; applicability to agency adoptions, step-parent adoptions, and adult adoptions." },
+            { "rule": "MCR 3.302", "title": "Petition for Adoption", "summary": "Contents of adoption petition; required attachments including home study and background checks." },
+            { "rule": "MCR 3.303", "title": "Service of Process; Notice", "summary": "Who must receive notice in adoption proceedings including parents, alleged fathers, and agencies." },
+            { "rule": "MCR 3.304", "title": "Termination of Parental Rights in Adoption Proceedings", "summary": "Procedures for terminating parental rights as a step in the adoption process." },
+            { "rule": "MCR 3.305", "title": "Hearing on Adoption Petition", "summary": "Hearing requirements; attendance of petitioner and adoptee; judicial interview of older children." },
+            { "rule": "MCR 3.306", "title": "Confidentiality of Adoption Records", "summary": "Adoption records are sealed; procedures for accessing records; disclosure to adoptees and birth parents." },
+            { "rule": "MCR 3.307", "title": "Adoption Records; Central Registry", "summary": "SCAO maintenance of central adoption registry; identity disclosure procedures." }
+          ]
+        },
+        {
+          "subchapter": "3.400",
+          "title": "Appeals from Administrative Agencies",
+          "rules": [
+            { "rule": "MCR 3.401", "title": "Appeals from Administrative Agencies and License Revocations", "summary": "Procedures for circuit court review of decisions by state and local administrative agencies." },
+            { "rule": "MCR 3.411", "title": "Condemnation of Property", "summary": "Eminent domain proceedings; jury trial on just compensation; court appointment of commissioners." }
+          ]
+        },
+        {
+          "subchapter": "3.500",
+          "title": "Class Actions; Derivative Proceedings",
+          "rules": [
+            { "rule": "MCR 3.501", "title": "Class Actions", "summary": "Requirements for class certification: numerosity, commonality, typicality, and adequacy; notice to class members; settlement approval." },
+            { "rule": "MCR 3.502", "title": "Derivative Actions by Shareholders", "summary": "Procedures for shareholder derivative suits; demand requirement; security for expenses." }
+          ]
+        },
+        {
+          "subchapter": "3.600",
+          "title": "Miscellaneous Proceedings",
+          "rules": [
+            { "rule": "MCR 3.601", "title": "Habeas Corpus", "summary": "Procedure for writ of habeas corpus to inquire into the cause of detention or imprisonment." },
+            { "rule": "MCR 3.602", "title": "Arbitration", "summary": "Court proceedings to confirm, vacate, or modify arbitration awards under the Michigan Arbitration Act." },
+            { "rule": "MCR 3.604", "title": "Interpleader", "summary": "When a stakeholder holding property claimed by multiple parties may file an interpleader action." },
+            { "rule": "MCR 3.605", "title": "Injunctions", "summary": "Requirements for preliminary injunctions and temporary restraining orders; bond; notice; duration." },
+            { "rule": "MCR 3.606", "title": "Contempt of Court Outside the Immediate Presence of the Court", "summary": "Indirect contempt procedures: notice, hearing, burden of proof, and sanctions." },
+            { "rule": "MCR 3.607", "title": "Appointment of Receiver for Assignment for Benefit of Creditors", "summary": "Procedures for court-appointed receivers in insolvency and creditor protection proceedings." }
+          ]
+        },
+        {
+          "subchapter": "3.700",
+          "title": "Proceedings Involving Juveniles",
+          "rules": [
+            { "rule": "MCR 3.901", "title": "Applicability; Definitions", "summary": "Defines terms and scope of juvenile proceedings including abuse/neglect, delinquency, and status offenses." },
+            { "rule": "MCR 3.902", "title": "General Provisions", "summary": "Confidentiality of juvenile proceedings and records; victim rights; interpreter services." },
+            { "rule": "MCR 3.903", "title": "Definitions", "summary": "Definitions specific to juvenile proceedings: child, court, juvenile, petition, and ward of the court." },
+            { "rule": "MCR 3.961", "title": "Preliminary Inquiry", "summary": "Intake officer's assessment of whether a formal petition should be filed; diversion options." },
+            { "rule": "MCR 3.962", "title": "Preliminary Hearing", "summary": "Initial hearing in child protective proceedings to determine if child should remain in home." },
+            { "rule": "MCR 3.963", "title": "Petition", "summary": "Requirements for the petition in child abuse/neglect proceedings; authorized petitioners." },
+            { "rule": "MCR 3.965", "title": "Preliminary Hearing", "summary": "Probable cause determination; placement decisions; parental rights at preliminary hearing." },
+            { "rule": "MCR 3.966", "title": "Bench Warrant; Taking Child into Protective Custody", "summary": "Procedures for emergency removal of a child from parental custody without prior court order." },
+            { "rule": "MCR 3.971", "title": "Pleas of Admission or No Contest", "summary": "Procedure for accepting parent's admission or no-contest plea in child protective proceedings." },
+            { "rule": "MCR 3.972", "title": "Trial", "summary": "Trial procedures in child abuse/neglect cases; burden of proof (clear and convincing); jury waived." },
+            { "rule": "MCR 3.973", "title": "Dispositional Hearing", "summary": "Hearing to determine appropriate placement and services after adjudication in child protective case." },
+            { "rule": "MCR 3.974", "title": "Review and Permanency Planning Hearings", "summary": "Periodic review hearings; ASFA timelines for permanency; reasonable efforts findings." },
+            { "rule": "MCR 3.975", "title": "Post-Dispositional Proceedings; Modification; Termination of Court Jurisdiction", "summary": "Modifying or terminating dispositional orders when circumstances change." },
+            { "rule": "MCR 3.976", "title": "Termination of Parental Rights", "summary": "Grounds and procedures for terminating parental rights in child protective proceedings." },
+            { "rule": "MCR 3.977", "title": "Termination of Parental Rights", "summary": "Statutory grounds for termination; best interests analysis; burden of proof." },
+            { "rule": "MCR 3.978", "title": "Post-Termination Review Hearings", "summary": "Court oversight of children after parental rights are terminated until adoption or another permanency goal is achieved." },
+            { "rule": "MCR 3.979", "title": "Indian Children; Michigan Indian Family Preservation Act", "summary": "Special procedures under ICWA and MIFPA for proceedings involving Native American children." }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "District Court",
+      "rules": [
+        { "rule": "MCR 4.001", "title": "Applicability", "summary": "Chapter 4 applies to all proceedings in district court, supplemented by Chapter 2 where applicable." },
+        { "rule": "MCR 4.002", "title": "Commencement of Civil Action", "summary": "Civil actions in district court are commenced by filing a complaint and paying the filing fee." },
+        { "rule": "MCR 4.003", "title": "Service of Process in District Court", "summary": "Methods for serving process in district court civil actions; personal, substituted, and mail service." },
+        { "rule": "MCR 4.101", "title": "Civil Infraction Actions", "summary": "Procedures for civil traffic and non-traffic infraction cases; informal hearings; formal hearings; default." },
+        { "rule": "MCR 4.201", "title": "Summary Proceedings to Recover Possession of Premises (Eviction)", "summary": "Expedited procedures for landlord-tenant eviction cases; notice requirements; default judgment; stay." },
+        { "rule": "MCR 4.202", "title": "Summary Proceedings; Land Contract Forfeiture", "summary": "Procedures for forfeiture of land contracts; notice requirements; redemption rights." },
+        { "rule": "MCR 4.301", "title": "Small Claims Actions", "summary": "Informal procedure for claims up to $7,000 ($10,000 for sole proprietors); no attorneys; simplified evidence rules." },
+        { "rule": "MCR 4.302", "title": "Small Claims; Removal and Transfer", "summary": "Defendant may remove a small claims case to the general civil docket for a more formal proceeding." },
+        { "rule": "MCR 4.303", "title": "Small Claims; Judgment and Costs", "summary": "Judgment entry in small claims; costs recoverable; judgment lien on real property." },
+        { "rule": "MCR 4.401", "title": "Criminal Procedure in District Court", "summary": "General criminal procedure rules applicable in district court, supplemented by Chapter 6." },
+        { "rule": "MCR 4.402", "title": "Arraignment in District Court", "summary": "Arraignment on a misdemeanor charge; reading of charge; entry of plea; setting of bail." },
+        { "rule": "MCR 4.403", "title": "Misdemeanor Trial", "summary": "Trial procedures for misdemeanor cases in district court; jury of 6; verdict requirements." },
+        { "rule": "MCR 4.404", "title": "Sentencing in District Court", "summary": "Sentencing procedures, pre-sentence investigations, and post-sentence rights in district court." }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Probate Court",
+      "rules": [
+        { "rule": "MCR 5.001", "title": "Applicability; Definitions", "summary": "Applies to all probate proceedings; defines 'fiduciary,' 'interested person,' 'minor,' and 'petition.'" },
+        { "rule": "MCR 5.002", "title": "Waiver and Consent", "summary": "Interested persons may waive notice or consent to relief sought; effect of waiver on jurisdiction." },
+        { "rule": "MCR 5.003", "title": "Waiver of Fees", "summary": "Procedure for waiving court fees for indigent parties in probate proceedings." },
+        { "rule": "MCR 5.101", "title": "Commencement of Proceedings", "summary": "All probate proceedings are commenced by filing a verified petition; contents of petition." },
+        { "rule": "MCR 5.102", "title": "Original Petition; Notice; Interested Persons", "summary": "Notice requirements when a petition is filed; who must receive notice; method and timing of notice." },
+        { "rule": "MCR 5.103", "title": "Interested Persons", "summary": "Defines who are interested persons in various types of proceedings; changes in interested persons." },
+        { "rule": "MCR 5.104", "title": "Service of Process and Notice in Probate Proceedings", "summary": "Service of process and notice requirements; personal service, mail, and publication." },
+        { "rule": "MCR 5.105", "title": "Filing and Service", "summary": "Filing requirements for documents in probate proceedings; electronic filing." },
+        { "rule": "MCR 5.106", "title": "Hearings", "summary": "Setting and conducting hearings; waiver of hearing; contested hearings; evidence." },
+        { "rule": "MCR 5.107", "title": "Presence at Hearing", "summary": "Who must be present at hearing; attendance of the ward or protected individual; use of videoconferencing." },
+        { "rule": "MCR 5.108", "title": "Continuances", "summary": "Standards for granting continuances in probate proceedings." },
+        { "rule": "MCR 5.109", "title": "Entry of Orders", "summary": "Procedures for preparing and entering orders in probate court." },
+        { "rule": "MCR 5.110", "title": "Record", "summary": "Court records in probate proceedings; public access; confidential records." },
+        { "rule": "MCR 5.111", "title": "Appeals from Probate Court", "summary": "Procedures for appealing probate court orders to the Court of Appeals." },
+        { "rule": "MCR 5.112", "title": "Enforcement of Orders", "summary": "Contempt and other enforcement procedures for probate court orders." },
+        { "rule": "MCR 5.113", "title": "Accounts; Accountings", "summary": "Requirements for annual and final accountings by fiduciaries (personal representatives, guardians, conservators)." },
+        { "rule": "MCR 5.114", "title": "Final Account and Petition for Settlement", "summary": "Procedures for closing a probate estate; final accounting; distribution; discharge of personal representative." },
+        { "rule": "MCR 5.115", "title": "Settlement of Accounts", "summary": "Informal and formal procedures for approving fiduciary accounts." },
+        { "rule": "MCR 5.116", "title": "Bond", "summary": "When a fiduciary must post bond; amount; surety requirements; waiver." },
+        { "rule": "MCR 5.117", "title": "Inventory", "summary": "Requirements for personal representative's inventory of estate assets; filing and notice." },
+        { "rule": "MCR 5.118", "title": "Appointment and Qualification of Fiduciary", "summary": "Procedures for appointing personal representatives, guardians, and conservators." },
+        { "rule": "MCR 5.119", "title": "Removal and Resignation of Fiduciary", "summary": "Grounds and procedures for removing a fiduciary or accepting resignation; successor appointment." },
+        { "rule": "MCR 5.120", "title": "Supervised Administration of Decedent's Estates", "summary": "Procedures for formal, court-supervised administration (DA cases)." },
+        { "rule": "MCR 5.201", "title": "Guardianship of Minor", "summary": "Petition requirements; notice; standards for appointing guardian for a minor; annual reports." },
+        { "rule": "MCR 5.202", "title": "Guardianship of an Incapacitated Individual", "summary": "Procedures for appointing and monitoring guardians for incapacitated adults; limited guardianship." },
+        { "rule": "MCR 5.203", "title": "Conservatorship", "summary": "Procedures for appointing and monitoring conservators to manage financial affairs of protected individuals." },
+        { "rule": "MCR 5.204", "title": "Standby and Successor Guardianship", "summary": "Procedures for designating and activating standby and successor guardians." },
+        { "rule": "MCR 5.205", "title": "Protective Orders (Financial)", "summary": "Procedures for obtaining protective orders to manage financial affairs without full conservatorship." },
+        { "rule": "MCR 5.301", "title": "Decedent's Estates; Applicability", "summary": "Scope of estate rules; applicability to testate and intestate estates." },
+        { "rule": "MCR 5.302", "title": "Testacy Proceedings; Determination of Heirs", "summary": "Formal proceedings to admit will to probate or establish intestacy; determination of heirs." },
+        { "rule": "MCR 5.303", "title": "Small Estates; Affidavit of Heirship", "summary": "Summary procedures for estates below the statutory threshold; affidavit of heirship in lieu of probate." },
+        { "rule": "MCR 5.304", "title": "Supervised Administration", "summary": "Formal supervised estate administration (DA) requiring court approval at each stage." },
+        { "rule": "MCR 5.305", "title": "Determination of Heirs; Succession Without Administration", "summary": "Procedures for determining heirs without full estate administration." },
+        { "rule": "MCR 5.306", "title": "Claims Against Estate", "summary": "Notice to creditors; time limits for filing claims; procedures for allowing or disallowing claims." },
+        { "rule": "MCR 5.307", "title": "Personal Representative", "summary": "Duties, powers, and limitations of personal representatives; appointment and qualification." },
+        { "rule": "MCR 5.308", "title": "Information to Devisees and Heirs", "summary": "Personal representative's obligation to inform beneficiaries and heirs of the estate." },
+        { "rule": "MCR 5.309", "title": "Closing of Decedent's Estate", "summary": "Procedures for closing an estate; statement of completion; discharge of personal representative." }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Criminal Procedure",
+      "subchapters": [
+        {
+          "subchapter": "6.000",
+          "title": "General Provisions",
+          "rules": [
+            { "rule": "MCR 6.001", "title": "Applicability; Definitions", "summary": "Applies to all criminal proceedings in Michigan courts; defines offense levels (felony, misdemeanor, civil infraction)." },
+            { "rule": "MCR 6.002", "title": "Purpose and Scope", "summary": "Rules are to be construed to secure just, speedy, and economical determination of every criminal proceeding." },
+            { "rule": "MCR 6.003", "title": "Electronic Filing and Service", "summary": "Requirements for electronic filing of criminal documents in courts with e-filing systems." },
+            { "rule": "MCR 6.004", "title": "Speedy Trial", "summary": "Defendant's constitutional and statutory right to a speedy trial; procedures to assert the right; consequences of violation." },
+            { "rule": "MCR 6.005", "title": "Right to Assistance of Lawyer; Advice; Appointment", "summary": "Defendant's Sixth Amendment right to counsel; procedures for appointment of counsel at public expense." },
+            { "rule": "MCR 6.006", "title": "Video and Audio Proceedings", "summary": "Standards for conducting arraignments, probable cause conferences, and other hearings by video." },
+            { "rule": "MCR 6.007", "title": "Confidential Records", "summary": "Sealing of criminal records in appropriate cases; access to confidential records." },
+            { "rule": "MCR 6.008", "title": "Victim's Rights", "summary": "Crime victim's rights in criminal proceedings including notice, attendance, and statement at sentencing." }
+          ]
+        },
+        {
+          "subchapter": "6.100",
+          "title": "Preliminary Proceedings",
+          "rules": [
+            { "rule": "MCR 6.101", "title": "Complaint", "summary": "Requirements for criminal complaint; sworn statement of facts; magistrate review for probable cause." },
+            { "rule": "MCR 6.102", "title": "Arrest Without Warrant; Arraignment on Complaint", "summary": "Procedures following warrantless arrest; probable cause determination; arraignment within 24 hours." },
+            { "rule": "MCR 6.103", "title": "Arraignment on the Warrant or Summons", "summary": "Arraignment procedures for defendant arrested on warrant or served with summons to appear." },
+            { "rule": "MCR 6.104", "title": "Arraignment in the Circuit Court", "summary": "Arraignment on the information in circuit court after bind-over from district court." },
+            { "rule": "MCR 6.105", "title": "Probable Cause Conference", "summary": "Mandatory conference within 7-14 days of arraignment to discuss plea, case evaluation, and scheduling." },
+            { "rule": "MCR 6.106", "title": "Release or Detention Pending Trial", "summary": "Bail and bond standards; conditions of pretrial release; detention for dangerous defendants." },
+            { "rule": "MCR 6.107", "title": "Competency to Stand Trial", "summary": "Procedures when defendant's competency to stand trial is in question; evaluation; hearing; commitment." },
+            { "rule": "MCR 6.108", "title": "Transfer of Case from District Court to Circuit Court", "summary": "Procedures for transfer (bind-over) following preliminary examination." },
+            { "rule": "MCR 6.110", "title": "Preliminary Examination", "summary": "Defendant's right to preliminary examination within 14 days of arraignment; probable cause standard." },
+            { "rule": "MCR 6.111", "title": "Waiver of Preliminary Examination", "summary": "Defendant may waive preliminary examination and be bound over directly to circuit court." },
+            { "rule": "MCR 6.112", "title": "The Indictment or Information", "summary": "Requirements for the information (formal criminal charge): party names, offense, MCL citation, date, signature." },
+            { "rule": "MCR 6.113", "title": "Arraignment on the Information", "summary": "Formal arraignment in circuit court; entry of plea; scheduling; waiver of reading of information." }
+          ]
+        },
+        {
+          "subchapter": "6.200",
+          "title": "Discovery and Disclosure",
+          "rules": [
+            { "rule": "MCR 6.201", "title": "Discovery", "summary": "Criminal discovery rights: prosecution must disclose witness lists, statements, reports, and exculpatory evidence." },
+            { "rule": "MCR 6.202", "title": "Expert Witnesses", "summary": "Disclosure of expert witness identity and opinions in criminal cases; procedures for challenging experts." }
+          ]
+        },
+        {
+          "subchapter": "6.300",
+          "title": "Pleas",
+          "rules": [
+            { "rule": "MCR 6.301", "title": "Available Pleas", "summary": "A defendant may plead: not guilty, guilty, nolo contendere, not guilty by reason of insanity, or guilty but mentally ill." },
+            { "rule": "MCR 6.302", "title": "Plea of Guilty or Nolo Contendere", "summary": "Requirements for accepting a plea: understanding of rights, voluntariness, factual basis, and sentencing consequences." },
+            { "rule": "MCR 6.303", "title": "Plea of Insanity; Guilty But Mentally Ill", "summary": "Procedures for entering special pleas of not guilty by reason of insanity or guilty but mentally ill." },
+            { "rule": "MCR 6.304", "title": "Plea of Guilty to Lesser Offense or Included Offense", "summary": "Plea to lesser-included offense or reduced charge with prosecution's concurrence." },
+            { "rule": "MCR 6.310", "title": "Withdrawal and Nullification of Plea", "summary": "Standards for allowing plea withdrawal before sentencing; after sentencing only to correct a manifest injustice." },
+            { "rule": "MCR 6.311", "title": "Plea Agreement Disclosure", "summary": "Prosecutor and defense must disclose plea agreement terms on the record in open court." }
+          ]
+        },
+        {
+          "subchapter": "6.400",
+          "title": "Trial",
+          "rules": [
+            { "rule": "MCR 6.401", "title": "Right to Trial by Jury", "summary": "Defendant in a felony case has a right to trial by jury of 12; misdemeanors with more than 92 days incarceration—jury of 6." },
+            { "rule": "MCR 6.402", "title": "Waiver of Jury Trial", "summary": "Defendant may waive jury trial with approval of the court; waiver must be in writing or on the record." },
+            { "rule": "MCR 6.403", "title": "Nonjury Trial", "summary": "Procedures for bench trial in criminal cases; findings of fact and conclusions of law required." },
+            { "rule": "MCR 6.410", "title": "Preliminary Matters Before Trial", "summary": "Motions in limine; suppression motions; matters to be resolved before trial commences." },
+            { "rule": "MCR 6.412", "title": "Selection of Jurors", "summary": "Jury selection procedures: questionnaires, voir dire, challenges for cause, peremptory challenges." },
+            { "rule": "MCR 6.413", "title": "Alternate Jurors", "summary": "Selection and use of alternate jurors; when alternates are seated in deliberations." },
+            { "rule": "MCR 6.414", "title": "Conduct of Jury Trial", "summary": "General conduct of criminal jury trial from opening statements through verdict." },
+            { "rule": "MCR 6.416", "title": "Peremptory Challenges", "summary": "Number of peremptory challenges in criminal cases (felony: 12 each; misdemeanor: 5 each)." },
+            { "rule": "MCR 6.417", "title": "Challenge for Cause", "summary": "Grounds and procedure for challenges for cause including bias, relationship, and inability to be fair." },
+            { "rule": "MCR 6.419", "title": "Motion for Directed Verdict of Acquittal", "summary": "Defense may move for directed verdict at end of prosecution's case; court's standard of review." },
+            { "rule": "MCR 6.420", "title": "Acquittal After Submission to Jury", "summary": "Post-verdict motion for acquittal notwithstanding verdict; standard." }
+          ]
+        },
+        {
+          "subchapter": "6.400",
+          "title": "Sentencing",
+          "rules": [
+            { "rule": "MCR 6.425", "title": "Sentencing; Appointment of Appellate Counsel", "summary": "Pre-sentence investigation report; sentencing guidelines; scoring; victim impact statement; right to allocution; appointment of appellate counsel." },
+            { "rule": "MCR 6.427", "title": "Judgment of Conviction", "summary": "Requirements for written judgment of conviction; entry; copies to parties and MDOC." },
+            { "rule": "MCR 6.428", "title": "Correction of Sentence", "summary": "Court may correct an invalid sentence at any time; procedure for motion to correct sentence." },
+            { "rule": "MCR 6.429", "title": "Modification of Sentence", "summary": "Circumstances under which a sentence may be modified; Cobbs evaluation; sentence bargain." },
+            { "rule": "MCR 6.430", "title": "Custodial Credit", "summary": "Defendant entitled to credit for time spent in custody prior to sentencing." },
+            { "rule": "MCR 6.431", "title": "New Trial", "summary": "Grounds and procedures for motion for new trial in criminal cases; newly discovered evidence." },
+            { "rule": "MCR 6.433", "title": "Motions Affecting Judgment", "summary": "Post-trial motions: new trial, judgment notwithstanding verdict, and arrest of judgment." },
+            { "rule": "MCR 6.440", "title": "Disability of Judge", "summary": "Procedures when the trial judge is unable to continue; substitution of judge for sentencing or new trial." },
+            { "rule": "MCR 6.445", "title": "Probation", "summary": "Conditions of probation; modification; revocation procedures; violation hearings." }
+          ]
+        },
+        {
+          "subchapter": "6.500",
+          "title": "Post-Conviction Proceedings",
+          "rules": [
+            { "rule": "MCR 6.501", "title": "Scope; Purpose", "summary": "Post-conviction relief is available to challenge a conviction or sentence after direct appeal." },
+            { "rule": "MCR 6.502", "title": "Motion for Relief from Judgment", "summary": "Post-conviction motion; must be filed in trial court that imposed sentence; time limits." },
+            { "rule": "MCR 6.503", "title": "Contents of Motion", "summary": "What the motion must contain: grounds for relief, facts, law, affidavits, and argument." },
+            { "rule": "MCR 6.504", "title": "Response to Motion", "summary": "Prosecution's response; defendant's reply; expansion of record." },
+            { "rule": "MCR 6.505", "title": "Expansion of Record", "summary": "Court may allow submission of materials outside the existing record including affidavits and documents." },
+            { "rule": "MCR 6.506", "title": "Evidentiary Hearing", "summary": "When the court must hold an evidentiary hearing; defendant's right to be present." },
+            { "rule": "MCR 6.507", "title": "Decision", "summary": "Court must state its findings and conclusions of law; entry of order." },
+            { "rule": "MCR 6.508", "title": "Entitlement to Relief", "summary": "Standard for granting post-conviction relief; showing of cause and prejudice required for procedurally defaulted claims." },
+            { "rule": "MCR 6.509", "title": "Successive Motions", "summary": "Second and successive post-conviction motions are disfavored; must show good cause for not raising issue earlier." }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Appellate Rules",
+      "subchapters": [
+        {
+          "subchapter": "7.000",
+          "title": "General Provisions",
+          "rules": [
+            { "rule": "MCR 7.001", "title": "Applicability; Definitions", "summary": "Applies to all appeals and original proceedings in the Court of Appeals and Supreme Court." },
+            { "rule": "MCR 7.002", "title": "Jurisdiction of Appellate Courts", "summary": "Defines the jurisdictional bases for the Court of Appeals and Supreme Court, including appeal of right and leave to appeal." },
+            { "rule": "MCR 7.003", "title": "Calendar Cases in Appellate Courts", "summary": "Priority scheduling for certain categories of cases (e.g., termination of parental rights, criminal appeals)." },
+            { "rule": "MCR 7.004", "title": "Motions in Appellate Courts", "summary": "General procedure for motions in the Court of Appeals and Supreme Court." },
+            { "rule": "MCR 7.005", "title": "Filing and Service", "summary": "Requirements for filing documents in appellate courts; electronic filing; proof of service." },
+            { "rule": "MCR 7.006", "title": "Record on Appeal", "summary": "What constitutes the appellate record; correction or supplementation of record." },
+            { "rule": "MCR 7.007", "title": "Confidential Materials", "summary": "Procedures for protecting confidential materials in appellate proceedings." },
+            { "rule": "MCR 7.008", "title": "Original Proceedings; Extraordinary Writs", "summary": "Standards and procedures for original writs (mandamus, prohibition, superintending control) in appellate courts." }
+          ]
+        },
+        {
+          "subchapter": "7.100",
+          "title": "Appeals to Circuit Court",
+          "rules": [
+            { "rule": "MCR 7.101", "title": "Definitions", "summary": "Definitions for Chapter 7.100: 'appeal,' 'appellant,' 'appellee,' 'circuit court,' and 'lower court.'" },
+            { "rule": "MCR 7.102", "title": "Claim of Appeal to Circuit Court", "summary": "Filing a claim of appeal from district court or probate court to circuit court; deadline (21 days); filing fee." },
+            { "rule": "MCR 7.103", "title": "Cross-Appeal", "summary": "Time and procedure for filing a cross-appeal." },
+            { "rule": "MCR 7.104", "title": "Stay of Proceedings", "summary": "Standards and procedure for staying lower court proceedings or judgment pending appeal." },
+            { "rule": "MCR 7.105", "title": "Filing and Service", "summary": "Filing documents in circuit court appeals; proof of service; transcript orders." },
+            { "rule": "MCR 7.106", "title": "Record on Appeal", "summary": "Contents of the record on appeal from district or probate court to circuit court." },
+            { "rule": "MCR 7.107", "title": "Briefs in Circuit Court Appeals", "summary": "Brief format, content, length, and filing deadlines in circuit court appeals." },
+            { "rule": "MCR 7.108", "title": "Oral Argument in Circuit Court Appeals", "summary": "Scheduling and conduct of oral argument in circuit court appeals." },
+            { "rule": "MCR 7.109", "title": "Decision; Motion for Reconsideration", "summary": "Circuit court's decision on appeal; motion for reconsideration standard and deadline." },
+            { "rule": "MCR 7.110", "title": "Costs in Circuit Court Appeals", "summary": "Recovery of costs by prevailing party on appeal." },
+            { "rule": "MCR 7.111", "title": "Miscellaneous Relief in Circuit Court Appeals", "summary": "Other relief available in circuit court appeals including remand and supplementing the record." }
+          ]
+        },
+        {
+          "subchapter": "7.200",
+          "title": "Court of Appeals",
+          "rules": [
+            { "rule": "MCR 7.201", "title": "Organization and Operation", "summary": "Court of Appeals sits in panels of 3 judges; districts; assignment of cases; en banc proceedings." },
+            { "rule": "MCR 7.202", "title": "Definitions", "summary": "Definitions for Chapter 7.200: 'appeal of right,' 'application for leave,' 'final order,' and 'interlocutory order.'" },
+            { "rule": "MCR 7.203", "title": "Jurisdiction of the Court of Appeals", "summary": "Final orders are appealable of right; interlocutory orders require leave; list of specifically appealable orders." },
+            { "rule": "MCR 7.204", "title": "Filing Appeal of Right; Appearance", "summary": "Deadline to file claim of appeal of right (21 days from entry of final order); entry fee; docketing statement." },
+            { "rule": "MCR 7.205", "title": "Application for Leave to Appeal", "summary": "Procedure for seeking leave to appeal interlocutory orders; grounds; answer; standard for granting." },
+            { "rule": "MCR 7.206", "title": "Original Proceedings; Superintending Control", "summary": "Procedure for original writs in the Court of Appeals including superintending control over lower courts." },
+            { "rule": "MCR 7.207", "title": "Cross-Appeal", "summary": "Appellee may file a cross-appeal within 21 days after service of appellant's claim of appeal." },
+            { "rule": "MCR 7.208", "title": "Stays Pending Appeal", "summary": "Standards for staying enforcement of a trial court judgment while appeal is pending." },
+            { "rule": "MCR 7.209", "title": "Bond; Other Security", "summary": "When appellant must post bond or other security to obtain a stay pending appeal." },
+            { "rule": "MCR 7.210", "title": "Record on Appeal", "summary": "Contents of the record on appeal to the Court of Appeals; duty to order transcripts; correction of record." },
+            { "rule": "MCR 7.211", "title": "Motions in Court of Appeals", "summary": "Procedure for filing motions in the Court of Appeals; emergency motions; single-judge orders." },
+            { "rule": "MCR 7.212", "title": "Briefs", "summary": "Brief content, format (Times New Roman 14-point or Courier 12-point), page limits (50 pages), and deadlines in COA." },
+            { "rule": "MCR 7.213", "title": "Calendar Cases; Submission", "summary": "Scheduling of cases for submission on briefs or oral argument; priority docket." },
+            { "rule": "MCR 7.214", "title": "Oral Argument", "summary": "When oral argument is held; each side gets 30 minutes unless otherwise ordered." },
+            { "rule": "MCR 7.215", "title": "Opinions, Orders, Judgments, and Final Process", "summary": "Publication of COA opinions; binding precedent; unpublished opinions; effective date of judgment." },
+            { "rule": "MCR 7.216", "title": "Miscellaneous Relief", "summary": "COA may grant any just order, including remand, reversal, and dismissal." },
+            { "rule": "MCR 7.217", "title": "Involuntary Dismissal", "summary": "COA may dismiss appeal for failure to prosecute or comply with rules." },
+            { "rule": "MCR 7.218", "title": "Vexatious Proceedings", "summary": "Sanctions including fees and costs for filing frivolous appeals." },
+            { "rule": "MCR 7.219", "title": "Costs and Fees", "summary": "Recovery of costs in Court of Appeals; taxable costs; attorney fees as sanction." }
+          ]
+        },
+        {
+          "subchapter": "7.300",
+          "title": "Supreme Court",
+          "rules": [
+            { "rule": "MCR 7.301", "title": "Organization and Operation", "summary": "Supreme Court consists of 7 Justices; Chief Justice; quorum; concurrence of 4 required for decision." },
+            { "rule": "MCR 7.302", "title": "Applications for Leave to Appeal", "summary": "Procedure to seek MSC review; grounds for granting leave; time limit (56 days from COA decision)." },
+            { "rule": "MCR 7.303", "title": "Original Proceedings in Supreme Court", "summary": "Procedure for original writs in the Supreme Court including superintending control." },
+            { "rule": "MCR 7.304", "title": "Cross-Appeals in Supreme Court", "summary": "Appellee may file cross-appeal within 28 days of service of appellant's application." },
+            { "rule": "MCR 7.305", "title": "Stays Pending Appeal to Supreme Court", "summary": "Procedures for stays of COA or trial court judgments pending Supreme Court review." },
+            { "rule": "MCR 7.306", "title": "Record on Appeal in Supreme Court", "summary": "Record on appeal to MSC; when transmission is required; additions to record." },
+            { "rule": "MCR 7.307", "title": "Motions in Supreme Court", "summary": "Procedure for filing motions in the Supreme Court; single justice orders." },
+            { "rule": "MCR 7.308", "title": "Briefs and Appendices in Supreme Court", "summary": "Brief requirements in MSC: format, length, content, and filing deadlines after leave is granted." },
+            { "rule": "MCR 7.309", "title": "Oral Argument in Supreme Court", "summary": "Oral argument in Supreme Court; each side gets 30 minutes unless otherwise ordered." },
+            { "rule": "MCR 7.310", "title": "Opinions, Orders, and Judgments of Supreme Court", "summary": "Publication and precedential status of MSC opinions; reconsideration procedures." },
+            { "rule": "MCR 7.311", "title": "Miscellaneous Relief", "summary": "Supreme Court may grant any just order including remand, reversal, and modification." },
+            { "rule": "MCR 7.312", "title": "Vexatious Proceedings", "summary": "Sanctions for frivolous applications and vexatious conduct in Supreme Court proceedings." }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Administrative Rules of Court",
+      "rules": [
+        { "rule": "MCR 8.001", "title": "Trial Court Case File Management", "summary": "Requirements for managing and retaining trial court files; electronic case files; SCAO oversight." },
+        { "rule": "MCR 8.002", "title": "Conducting Court Business Outside the County", "summary": "When and how circuit or probate court may hold court outside its county." },
+        { "rule": "MCR 8.003", "title": "Court Hearing Equipment", "summary": "Standards for audio and video equipment used in courtrooms." },
+        { "rule": "MCR 8.004", "title": "Electronic Media and Photography", "summary": "Rules governing cameras, recording devices, and electronic media in court proceedings." },
+        { "rule": "MCR 8.005", "title": "Recording of Court Proceedings", "summary": "Verbatim recording of all court proceedings; court reporter or electronic recording; transcription." },
+        { "rule": "MCR 8.006", "title": "Remote and Hybrid Proceedings", "summary": "Standards for conducting court proceedings remotely or in hybrid (in-person and remote) format." },
+        { "rule": "MCR 8.101", "title": "Assignment of District Court and Probate Court Judges", "summary": "Assignment of visiting judges to district and probate courts to cover absences and heavy caseloads." },
+        { "rule": "MCR 8.102", "title": "Jury Certificates", "summary": "Issuance of jury certificates to jurors; compensation rates." },
+        { "rule": "MCR 8.103", "title": "Payments and Deposits into Court", "summary": "Rules governing deposits of money or property into court custody." },
+        { "rule": "MCR 8.104", "title": "Court Reporting", "summary": "Certification and duties of court reporters; official reporters; freelance reporters; transcript fees." },
+        { "rule": "MCR 8.105", "title": "Attorney Reporting Requirements", "summary": "Annual reporting obligations of attorneys to the State Bar; address changes; inactive status." },
+        { "rule": "MCR 8.106", "title": "Records Management and Retention", "summary": "Retention schedules for court records; destruction of records; transfer to state archives." },
+        { "rule": "MCR 8.107", "title": "Facsimile and Electronic Transmission", "summary": "Standards for accepting documents filed by facsimile or electronic transmission." },
+        { "rule": "MCR 8.108", "title": "Court Interpreters and Translators", "summary": "Appointment and compensation of qualified interpreters for Limited English Proficient parties and witnesses." },
+        { "rule": "MCR 8.110", "title": "Chief Judge; Duties and Powers", "summary": "Selection of chief judge; administrative authority over the trial court; caseload management." },
+        { "rule": "MCR 8.111", "title": "Assignment of Cases", "summary": "Random assignment of cases; reassignment; recusal procedures; presiding judge for all purposes." },
+        { "rule": "MCR 8.112", "title": "Local Court Rules", "summary": "Courts may adopt local rules not inconsistent with the MCR; submission to SCAO for approval." },
+        { "rule": "MCR 8.113", "title": "Law Students and Recent Graduates", "summary": "Supervised practice by law students and recent graduates under a supervising attorney in court." },
+        { "rule": "MCR 8.114", "title": "Processing of Court Fines and Costs", "summary": "Collection and disbursement of fines, costs, and assessments imposed by courts." },
+        { "rule": "MCR 8.115", "title": "Temporary Absence of Judge", "summary": "Procedures for designating a substitute judge during a judge's temporary absence." },
+        { "rule": "MCR 8.116", "title": "Photographing, Filming, and Broadcasting", "summary": "Standards for media coverage of court proceedings; courtroom decorum; judge's discretion." },
+        { "rule": "MCR 8.117", "title": "Court Filing Standards", "summary": "Standards for all documents filed in Michigan courts including format, type size, and margins." },
+        { "rule": "MCR 8.119", "title": "Court Records; Access and Redaction", "summary": "Public access to court records; categories of confidential records; redaction of personal identifiers." },
+        { "rule": "MCR 8.120", "title": "Court Facilities", "summary": "Standards for adequate court facilities; SCAO oversight; minimum requirements." },
+        { "rule": "MCR 8.121", "title": "Reporting Requirements for Trial Courts", "summary": "Statistical reporting obligations of trial courts to SCAO; caseload reports; financial reports." },
+        { "rule": "MCR 8.122", "title": "Annual Statistical Report", "summary": "Annual caseload statistics to be reported by all courts to SCAO by January 31." },
+        { "rule": "MCR 8.123", "title": "Fiscal Year Financial Report", "summary": "Courts' obligation to report annual financial data to SCAO; fee revenue; costs." },
+        { "rule": "MCR 8.125", "title": "Public Access to Court Proceedings", "summary": "Presumptive right of public access to court proceedings and records; closure requires specific findings." },
+        { "rule": "MCR 8.126", "title": "Limited English Proficient Persons", "summary": "Courts' obligations to provide meaningful access to LEP persons; interpreter services; translated forms." }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Professional Disciplinary Proceedings",
+      "subchapters": [
+        {
+          "subchapter": "9.100",
+          "title": "Judicial Tenure Commission (JTC) Proceedings",
+          "rules": [
+            { "rule": "MCR 9.100", "title": "Commission on Judicial Tenure; Authority", "summary": "Authority and structure of the Judicial Tenure Commission; constitutional basis." },
+            { "rule": "MCR 9.101", "title": "Definitions", "summary": "Definitions: 'judge,' 'commission,' 'formal complaint,' 'master,' and 'supreme court.'" },
+            { "rule": "MCR 9.102", "title": "Organization of Commission", "summary": "JTC membership; chair; quorum; staff; budget." },
+            { "rule": "MCR 9.103", "title": "Confidentiality of Proceedings", "summary": "JTC proceedings are confidential until formal complaint is filed; exceptions." },
+            { "rule": "MCR 9.104", "title": "Grounds for Discipline of Judges", "summary": "Grounds: misconduct in office, failure to perform duties, mental or physical disability, conviction of felony." },
+            { "rule": "MCR 9.105", "title": "Investigative Subpoenas", "summary": "JTC may issue subpoenas during investigations; witness immunity; non-compliance." },
+            { "rule": "MCR 9.106", "title": "Consent Agreements; Interim Suspension", "summary": "JTC may negotiate consent agreements; emergency interim suspension for serious misconduct." },
+            { "rule": "MCR 9.107", "title": "Appointment of Counsel for Judge", "summary": "Judge's right to retained or appointed counsel in JTC proceedings." },
+            { "rule": "MCR 9.108", "title": "Complaint and Investigation", "summary": "Anyone may file a complaint with JTC; investigation procedures; dismissal; exoneration." },
+            { "rule": "MCR 9.109", "title": "Appointment of Master", "summary": "JTC may appoint a master to conduct hearings and take evidence." },
+            { "rule": "MCR 9.110", "title": "Review by Commission", "summary": "After master's report, commission reviews evidence and recommends discipline to Supreme Court." },
+            { "rule": "MCR 9.111", "title": "Review by Supreme Court", "summary": "Supreme Court reviews JTC recommendations; may impose, modify, or reject recommended discipline." },
+            { "rule": "MCR 9.112", "title": "Confidentiality", "summary": "Proceedings remain confidential until formal complaint is filed; records of dismissed complaints sealed." },
+            { "rule": "MCR 9.113", "title": "Costs", "summary": "Supreme Court may assess costs against a disciplined judge." },
+            { "rule": "MCR 9.114", "title": "Reinstatement", "summary": "Procedures for a disciplined or suspended judge to seek reinstatement." },
+            { "rule": "MCR 9.115", "title": "Public Nature of Formal Proceedings", "summary": "Once formal complaint is filed, proceedings are public; notice to parties." },
+            { "rule": "MCR 9.116", "title": "Contempt of Commission", "summary": "JTC may seek contempt citation from Supreme Court for disobedience of subpoenas." },
+            { "rule": "MCR 9.117", "title": "Duties of Clerk of Supreme Court", "summary": "Clerk's responsibilities regarding JTC matters filed with the Supreme Court." },
+            { "rule": "MCR 9.118", "title": "Discipline Based on Conviction", "summary": "Automatic interim suspension upon conviction of a felony or crime involving dishonesty." },
+            { "rule": "MCR 9.119", "title": "Resignation", "summary": "Effect of judge's resignation on JTC proceedings." },
+            { "rule": "MCR 9.120", "title": "Discipline Based on Action in Another Jurisdiction", "summary": "JTC may impose discipline based on discipline imposed in another jurisdiction." },
+            { "rule": "MCR 9.121", "title": "Interim Suspension on Felony Conviction", "summary": "Supreme Court may immediately suspend a judge convicted of a felony pending JTC proceedings." }
+          ]
+        },
+        {
+          "subchapter": "9.200",
+          "title": "Attorney Discipline Proceedings",
+          "rules": [
+            { "rule": "MCR 9.200", "title": "Applicability", "summary": "Applies to all disciplinary proceedings against Michigan-licensed attorneys." },
+            { "rule": "MCR 9.201", "title": "Definitions", "summary": "Defines 'attorney,' 'grievance administrator,' 'commission,' 'board,' and 'hearing panel.'" },
+            { "rule": "MCR 9.202", "title": "Attorney Grievance Commission", "summary": "AGC organization, authority, and procedures; master rule for attorney discipline intake." },
+            { "rule": "MCR 9.203", "title": "Attorney Discipline Board", "summary": "ADB organization; review of hearing panel decisions; authority to impose, affirm, or modify discipline." },
+            { "rule": "MCR 9.204", "title": "Hearing Panels", "summary": "Three-person panels (2 lawyers, 1 layperson) that conduct evidentiary hearings in attorney discipline cases." },
+            { "rule": "MCR 9.205", "title": "Confidentiality", "summary": "Discipline proceedings are confidential until formal complaint is filed; exceptions for public safety." },
+            { "rule": "MCR 9.206", "title": "Grounds for Discipline", "summary": "Grounds: violation of MRPC, criminal conviction, conduct prejudicial to administration of justice." },
+            { "rule": "MCR 9.207", "title": "Attorney Discipline; Authority", "summary": "Types of discipline: disbarment, suspension, reprimand, admonishment, probation, restitution." },
+            { "rule": "MCR 9.208", "title": "Filing of Complaints", "summary": "Anyone may file a grievance against an attorney; filing procedures; initial review by AGC." },
+            { "rule": "MCR 9.209", "title": "Investigation", "summary": "AGC investigates grievances; power to issue investigative subpoenas; interview witnesses." },
+            { "rule": "MCR 9.210", "title": "Disclosure of Investigation", "summary": "When and how the AGC must disclose investigation to the respondent attorney." },
+            { "rule": "MCR 9.211", "title": "Investigation File; Dismissal; Admonishment", "summary": "Dismissal of frivolous grievances; informal admonishment; escalation to formal complaint." },
+            { "rule": "MCR 9.212", "title": "Formal Complaint", "summary": "When and how a formal complaint is filed; contents; respondent's obligation to answer." },
+            { "rule": "MCR 9.213", "title": "Service of Formal Complaint", "summary": "Service of formal complaint on respondent; consequences of failure to respond." },
+            { "rule": "MCR 9.214", "title": "Answer to Formal Complaint", "summary": "Respondent's answer requirements; admission and denial; affirmative defenses." },
+            { "rule": "MCR 9.215", "title": "Supplemental and Amended Complaints", "summary": "Procedures for amending or supplementing a formal complaint." },
+            { "rule": "MCR 9.216", "title": "Prehearing Conferences", "summary": "Prehearing conference to simplify issues, obtain stipulations, and schedule hearing." },
+            { "rule": "MCR 9.217", "title": "Hearing Procedure", "summary": "Conduct of evidentiary hearing before hearing panel; rules of evidence apply; burden of proof (preponderance)." },
+            { "rule": "MCR 9.218", "title": "Evidence", "summary": "Evidence rules applicable in discipline hearings; admissibility; documentary evidence; testimony." },
+            { "rule": "MCR 9.219", "title": "Decision of Hearing Panel", "summary": "Hearing panel's written decision; findings of fact; conclusions of law; recommended discipline." },
+            { "rule": "MCR 9.220", "title": "Appeal to Board", "summary": "Either party may appeal hearing panel decision to ADB within 21 days." },
+            { "rule": "MCR 9.221", "title": "Review by Board", "summary": "ADB standard of review; may increase, decrease, or affirm panel discipline." },
+            { "rule": "MCR 9.222", "title": "Review by Supreme Court", "summary": "Final review by MSC; Supreme Court has ultimate authority over attorney discipline." },
+            { "rule": "MCR 9.223", "title": "Costs", "summary": "Disciplined attorney may be ordered to pay costs of proceedings." },
+            { "rule": "MCR 9.224", "title": "Restitution", "summary": "Disciplined attorney may be ordered to pay restitution to aggrieved clients." },
+            { "rule": "MCR 9.225", "title": "Reinstatement", "summary": "Procedures for seeking reinstatement after suspension or disbarment; showing of rehabilitation." },
+            { "rule": "MCR 9.226", "title": "Contempt", "summary": "Non-compliance with subpoenas or orders may result in contempt proceedings." },
+            { "rule": "MCR 9.227", "title": "Reciprocal Discipline", "summary": "Discipline imposed in another jurisdiction triggers reciprocal discipline proceedings in Michigan." },
+            { "rule": "MCR 9.228", "title": "Consent Order of Discipline", "summary": "Respondent attorney may consent to a specified discipline; procedure for approval." },
+            { "rule": "MCR 9.229", "title": "Interim Suspension", "summary": "AGC may seek emergency interim suspension when attorney poses immediate danger to clients or public." },
+            { "rule": "MCR 9.230", "title": "Reciprocal Discipline; Grounds", "summary": "Types of out-of-state discipline that trigger Michigan reciprocal proceedings." },
+            { "rule": "MCR 9.231", "title": "Summary Proceedings", "summary": "Expedited procedures for discipline based on conviction of a crime or another jurisdiction's discipline." },
+            { "rule": "MCR 9.232", "title": "Disbarment on Consent", "summary": "An attorney may consent to disbarment in lieu of contested discipline proceedings." },
+            { "rule": "MCR 9.233", "title": "Suspension for Failure to Pay Child Support", "summary": "Attorney's license may be suspended for failure to comply with a child support order." },
+            { "rule": "MCR 9.234", "title": "Suspension for Default on Student Loan", "summary": "Attorney's license may be suspended for defaulting on a state-guaranteed student loan." },
+            { "rule": "MCR 9.235", "title": "Discipline Based on Conviction of Crime", "summary": "Procedures when an attorney is convicted of a crime, including felonies and misdemeanors involving moral turpitude." }
+          ]
+        }
+      ]
+    }
+  ]
+}

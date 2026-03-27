@@ -140,9 +140,11 @@ The federal trial court for the **eastern portion of Michigan**, including Detro
 
 ### W.D. Mich. — U.S. District Court for the Western District of Michigan
 
-The federal trial court for the **western portion of Michigan**, including Grand Rapids, Lansing, Kalamazoo, Marquette, and surrounding areas.
+The federal trial court for the **western portion of Michigan**, including Grand Rapids, Lansing, Kalamazoo, **Muskegon**, Marquette, and surrounding areas.
 
 > *Primary Courthouse:* Grand Rapids, Michigan  
+> *Division Locations:* Grand Rapids, Kalamazoo, Lansing, Marquette  
+> *Notable Cities Covered:* Grand Rapids, Kalamazoo, Lansing, Muskegon, Marquette, Traverse City  
 > *Citation Example:* *Doe v. Roe*, 789 F. Supp. 3d 123 (W.D. Mich. 2021)
 
 ---
@@ -254,6 +256,14 @@ Every Michigan case number ends with a two-letter alpha code indicating the cour
 The complete catalogue is also available in machine-readable format:
 
 - **[`catalogue.json`](catalogue.json)** — Structured JSON with all entries, descriptions, and metadata.
+
+## Extended Rule References
+
+Full atomized references for each major rule set:
+
+- **[`mcr.md`](mcr.md)** / **[`mcr.json`](mcr.json)** — Complete Michigan Court Rules (MCR), all chapters 1–9
+- **[`mre.md`](mre.md)** / **[`mre.json`](mre.json)** — Complete Michigan Rules of Evidence (MRE), all articles I–XI
+- **[`mcl.md`](mcl.md)** / **[`mcl.json`](mcl.json)** — Key Michigan Compiled Laws (MCL) sections applicable to court practice
 
 ---
 
