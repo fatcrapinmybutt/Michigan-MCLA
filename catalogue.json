@@ -1,0 +1,266 @@
+{
+  "title": "Michigan Court Abbreviation Catalogue",
+  "description": "A comprehensive catalogue of Michigan state and federal court abbreviations, administrative authority codes, and case type classification codes.",
+  "version": "1.0.0",
+  "categories": [
+    {
+      "id": "state_courts",
+      "name": "Michigan State Court Abbreviations",
+      "description": "Abbreviations for courts within Michigan's 'One Court of Justice' system, as established by the Michigan Constitution of 1963, Article VI.",
+      "entries": [
+        {
+          "abbreviation": "Mich.",
+          "full_name": "Michigan Supreme Court",
+          "acronym": "MSC",
+          "description": "The highest court in Michigan. It has superintending control over all courts in the state, has final appellate jurisdiction, and issues Michigan Supreme Court opinions cited as 'Mich.'",
+          "tier": "Supreme Court",
+          "constitutional_basis": "Mich. Const. 1963, art. VI, § 1"
+        },
+        {
+          "abbreviation": "Mich. App.",
+          "full_name": "Michigan Court of Appeals",
+          "acronym": "COA",
+          "description": "An intermediate appellate court that hears appeals from the circuit courts, the probate courts, and certain administrative agencies. Opinions are cited as 'Mich. App.'",
+          "tier": "Appellate Court",
+          "constitutional_basis": "Mich. Const. 1963, art. VI, § 1"
+        },
+        {
+          "abbreviation": "Cir. Ct.",
+          "full_name": "Circuit Court",
+          "description": "The highest trial court in Michigan, with general original jurisdiction over all civil claims over $25,000, felony criminal cases, family law matters, and appeals from lower courts.",
+          "tier": "Trial Court - General",
+          "constitutional_basis": "Mich. Const. 1963, art. VI, § 11"
+        },
+        {
+          "abbreviation": "Dist. Ct.",
+          "full_name": "District Court",
+          "description": "Often called the 'people's court', handles civil claims up to $25,000, misdemeanors, civil infractions, landlord-tenant disputes, and small claims. The most frequently used court by Michigan residents.",
+          "tier": "Trial Court - Limited",
+          "constitutional_basis": "Mich. Const. 1963, art. VI, § 15"
+        },
+        {
+          "abbreviation": "Prob. Ct.",
+          "full_name": "Probate Court",
+          "description": "Handles estates, trusts, mental health proceedings, guardianships, conservatorships, and matters involving minors. Has exclusive jurisdiction over the administration of decedents' estates.",
+          "tier": "Trial Court - Limited",
+          "constitutional_basis": "Mich. Const. 1963, art. VI, § 15"
+        },
+        {
+          "abbreviation": "Mun. Ct.",
+          "full_name": "Municipal Court",
+          "description": "Retained by a few cities such as Grosse Pointe. These courts predate the district court system and continue to operate under local authority, handling local ordinance violations and limited civil matters.",
+          "tier": "Trial Court - Local",
+          "note": "Most municipal courts were replaced by the district court system established in 1968."
+        },
+        {
+          "abbreviation": "JTC",
+          "full_name": "Judicial Tenure Commission",
+          "description": "An independent body that investigates complaints against judges in Michigan. The JTC has the authority to recommend discipline, including removal from office, to the Michigan Supreme Court.",
+          "tier": "Administrative / Oversight Body",
+          "constitutional_basis": "Mich. Const. 1963, art. VI, § 30"
+        }
+      ]
+    },
+    {
+      "id": "federal_courts",
+      "name": "Federal Court Abbreviations",
+      "description": "Abbreviations for federal courts located in or whose jurisdiction affects Michigan.",
+      "entries": [
+        {
+          "abbreviation": "U.S.",
+          "full_name": "United States Supreme Court",
+          "description": "The highest court in the federal judiciary and the final authority on federal constitutional questions. Its decisions are binding on all courts throughout the United States.",
+          "tier": "Federal - Supreme Court",
+          "citation_example": "Marbury v. Madison, 5 U.S. 137 (1803)"
+        },
+        {
+          "abbreviation": "6th Cir.",
+          "full_name": "U.S. Court of Appeals for the Sixth Circuit",
+          "description": "The federal intermediate appellate court that covers Michigan, Ohio, Kentucky, and Tennessee. Decisions are binding on the federal district courts within those states.",
+          "tier": "Federal - Circuit Court of Appeals",
+          "states_covered": ["Michigan", "Ohio", "Kentucky", "Tennessee"],
+          "location": "Cincinnati, Ohio",
+          "citation_example": "Smith v. Jones, 123 F.3d 456 (6th Cir. 2020)"
+        },
+        {
+          "abbreviation": "E.D. Mich.",
+          "full_name": "U.S. District Court for the Eastern District of Michigan",
+          "description": "The federal trial court for the eastern portion of Michigan, including Detroit, Flint, Ann Arbor, Saginaw, and surrounding areas. One of two federal district courts in Michigan.",
+          "tier": "Federal - District Court",
+          "location": "Detroit, Michigan (primary courthouse)",
+          "citation_example": "Doe v. Roe, 456 F. Supp. 3d 789 (E.D. Mich. 2021)"
+        },
+        {
+          "abbreviation": "W.D. Mich.",
+          "full_name": "U.S. District Court for the Western District of Michigan",
+          "description": "The federal trial court for the western portion of Michigan, including Grand Rapids, Lansing, Kalamazoo, Marquette, and surrounding areas.",
+          "tier": "Federal - District Court",
+          "location": "Grand Rapids, Michigan (primary courthouse)",
+          "citation_example": "Doe v. Roe, 789 F. Supp. 3d 123 (W.D. Mich. 2021)"
+        }
+      ]
+    },
+    {
+      "id": "administrative_authorities",
+      "name": "Court Rule & Administrative Authorities",
+      "description": "Abbreviations identifying the primary authorities and rule sets governing the Michigan 'One Court of Justice' system.",
+      "entries": [
+        {
+          "abbreviation": "MCR",
+          "full_name": "Michigan Court Rules",
+          "description": "The principal set of procedural rules governing practice and procedure in all Michigan courts. Promulgated by the Michigan Supreme Court, these rules cover pleadings, motions, discovery, trials, and appeals.",
+          "promulgated_by": "Michigan Supreme Court",
+          "citation_example": "MCR 2.116 (motion for summary disposition)",
+          "scope": "General procedure in all Michigan courts"
+        },
+        {
+          "abbreviation": "MRE",
+          "full_name": "Michigan Rules of Evidence",
+          "description": "The rules governing the admissibility of evidence in Michigan courts. Modeled in part on the Federal Rules of Evidence, the MRE controls what evidence may be presented to the trier of fact at trial.",
+          "promulgated_by": "Michigan Supreme Court",
+          "citation_example": "MRE 803 (hearsay exceptions)",
+          "scope": "Evidentiary standards in all Michigan courts"
+        },
+        {
+          "abbreviation": "SCAO",
+          "full_name": "State Court Administrative Office",
+          "description": "The administrative arm of the Michigan Supreme Court, responsible for providing administrative support to the Michigan court system, collecting and publishing court statistics, and developing standard court forms.",
+          "parent_body": "Michigan Supreme Court",
+          "scope": "Statewide court administration and standardized forms"
+        },
+        {
+          "abbreviation": "MRPC",
+          "full_name": "Michigan Rules of Professional Conduct",
+          "description": "The ethical rules governing the professional conduct of attorneys licensed in Michigan. Violations may result in discipline by the Attorney Grievance Commission and the Attorney Discipline Board.",
+          "promulgated_by": "Michigan Supreme Court",
+          "citation_example": "MRPC 1.7 (conflict of interest)",
+          "enforcement_body": "Attorney Grievance Commission / Attorney Discipline Board",
+          "scope": "Professional ethics for Michigan-licensed attorneys"
+        },
+        {
+          "abbreviation": "MCJC",
+          "full_name": "Michigan Code of Judicial Conduct",
+          "description": "The ethical standards governing the conduct of all judges in Michigan, including standards for impartiality, integrity, and the avoidance of impropriety. Enforced through the Judicial Tenure Commission.",
+          "promulgated_by": "Michigan Supreme Court",
+          "enforcement_body": "Judicial Tenure Commission (JTC)",
+          "scope": "Professional ethics for Michigan judges"
+        }
+      ]
+    },
+    {
+      "id": "case_type_codes",
+      "name": "Case Type Classification Codes",
+      "description": "Every Michigan case number ends with a two-letter alpha code indicating the court's jurisdiction and the nature of the case. These codes are assigned by the State Court Administrative Office (SCAO).",
+      "courts": [
+        {
+          "court": "Circuit Court",
+          "abbreviation": "Cir. Ct.",
+          "codes": [
+            {
+              "code": "AA",
+              "label": "Administrative Agencies",
+              "description": "Appeals from decisions of state and local administrative agencies, including licensing boards and regulatory bodies.",
+              "type": "Appeal"
+            },
+            {
+              "code": "AR",
+              "label": "Criminal Appeals",
+              "description": "Appeals of criminal convictions or sentences from the district court to the circuit court.",
+              "type": "Appeal"
+            },
+            {
+              "code": "AV",
+              "label": "Civil Appeals",
+              "description": "Appeals of civil judgments from the district court or probate court to the circuit court.",
+              "type": "Appeal"
+            },
+            {
+              "code": "CH",
+              "label": "Housing",
+              "description": "Circuit-level housing matters, including appeals from district court housing cases or circuit-jurisdiction housing issues.",
+              "type": "Civil"
+            },
+            {
+              "code": "DM",
+              "label": "Divorce with Minor Children",
+              "description": "Domestic relations cases involving divorce or separate maintenance where there are minor children, requiring determinations of custody, parenting time, and child support.",
+              "type": "Domestic Relations"
+            },
+            {
+              "code": "FY",
+              "label": "Felony",
+              "description": "Criminal cases involving felony-level offenses. Circuit courts have original jurisdiction over all felony proceedings in Michigan.",
+              "type": "Criminal"
+            }
+          ]
+        },
+        {
+          "court": "District Court",
+          "abbreviation": "Dist. Ct.",
+          "codes": [
+            {
+              "code": "GC",
+              "label": "General Civil",
+              "description": "General civil claims filed in district court, typically for money damages up to the jurisdictional limit of $25,000.",
+              "type": "Civil"
+            },
+            {
+              "code": "LT",
+              "label": "Landlord-Tenant",
+              "description": "Summary proceedings for possession of residential or commercial property, including eviction (summary proceedings) and related claims.",
+              "type": "Civil"
+            },
+            {
+              "code": "SC",
+              "label": "Small Claims",
+              "description": "Informal proceedings for civil money claims up to $7,000 (or $10,000 for sole proprietors) where attorneys generally may not represent parties.",
+              "type": "Civil"
+            },
+            {
+              "code": "SM",
+              "label": "Statute Misdemeanor",
+              "description": "Criminal cases involving state-law misdemeanor offenses punishable by up to one year in jail.",
+              "type": "Criminal"
+            },
+            {
+              "code": "SI",
+              "label": "Statute Civil Infraction",
+              "description": "Non-criminal civil infraction violations, including traffic offenses, where no jail time may be imposed.",
+              "type": "Civil Infraction"
+            }
+          ]
+        },
+        {
+          "court": "Probate Court",
+          "abbreviation": "Prob. Ct.",
+          "codes": [
+            {
+              "code": "DA",
+              "label": "Supervised Estates",
+              "description": "Formal, court-supervised administration of a decedent's estate, requiring court approval of all significant steps from inventory through final distribution.",
+              "type": "Estate"
+            },
+            {
+              "code": "DE",
+              "label": "Unsupervised Estates",
+              "description": "Independent (unsupervised) administration of a decedent's estate, where the personal representative acts without routine court oversight, subject to a final accounting.",
+              "type": "Estate"
+            },
+            {
+              "code": "MI",
+              "label": "Mental Illness",
+              "description": "Proceedings related to the involuntary hospitalization or treatment of individuals with serious mental illness, including petitions for clinical certificates and hospitalization orders.",
+              "type": "Mental Health"
+            },
+            {
+              "code": "JA",
+              "label": "Judicial Admission",
+              "description": "Voluntary admission proceedings for individuals who consent to mental health treatment under judicial oversight, as distinguished from involuntary commitment.",
+              "type": "Mental Health"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
