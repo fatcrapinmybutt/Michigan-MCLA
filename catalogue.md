@@ -21,18 +21,32 @@ Every substantive factual assertion is pinned to an authoritative citation. Item
    - [Child Custody Act of 1970](#child-custody-act-of-1970-mcl-72221722-31)
    - [Best Interest of the Child Factors](#best-interest-of-the-child-factors-mcl-72223)
    - [Parenting Time](#parenting-time-mcl-72227a)
+   - [Parenting Time Factors](#parenting-time-factors-mcl-72227a7)
    - [Custody Modification Standard](#custody-modification-standard)
+   - [Change of Domicile — 100-Mile Rule](#change-of-domicile--100-mile-rule-mcl-72231)
+   - [Paternity & Parentage](#paternity--parentage)
+   - [Child Support Framework](#child-support-framework)
+   - [Personal Protection Orders (PPOs) — Defensive Awareness](#personal-protection-orders-ppos--defensive-awareness)
 8. [Due Process Protections & Constitutional Framework](#8-due-process-protections--constitutional-framework)
+   - [Michigan Code of Judicial Conduct (MCJC) — Canon Summary](#michigan-code-of-judicial-conduct-mcjc--canon-summary)
+   - [Judicial Disqualification — MCR 2.003](#judicial-disqualification--mcr-2003)
 9. [Friend of the Court (FOC) — Responsibilities & Accountability](#9-friend-of-the-court-foc--responsibilities--accountability)
    - [FOC Statutory Duties](#foc-statutory-duties)
    - [FOC Referee Hearings & De Novo Review](#foc-referee-hearings--de-novo-review)
    - [FOC Grievance Procedure](#foc-grievance-procedure)
+   - [Key SCAO / FOC Forms for Family Law](#key-scao--foc-forms-for-family-law)
+   - [Domestic Relations Court Rules (MCR 3.2xx)](#domestic-relations-court-rules-mcr-32xx)
 10. [Judicial Accountability, Bias & Misconduct](#10-judicial-accountability-bias--misconduct)
     - [Judicial Tenure Commission](#judicial-tenure-commission-jtc)
+    - [MCJC Canon 3 — Key Provisions for Bias & Ex Parte Contact](#mcjc-canon-3--key-provisions-for-bias--ex-parte-contact)
     - [Systemic Bias & Corruption Concerns](#systemic-bias--corruption-concerns)
+    - [Due Process Violation Checklist for Family Court](#due-process-violation-checklist-for-family-court)
 11. [Michigan Family Law Case Law](#11-michigan-family-law-case-law)
 12. [Federal Case Law & U.S. Supreme Court Landmarks](#12-federal-case-law--us-supreme-court-landmarks)
 13. [Appellate Escalation Pathways & Strategy](#13-appellate-escalation-pathways--strategy)
+    - [Published vs. Unpublished Opinions](#published-vs-unpublished-opinions--mcr-7215c)
+    - [Motion Practice Tips & Preservation Checklist](#motion-practice-tips--preservation-checklist)
+    - [PPO Defense & Weaponization Awareness](#ppo-defense--weaponization-awareness)
 14. [Benchbooks, Training Materials & Reference Resources](#14-benchbooks-training-materials--reference-resources)
 15. [Michigan State Government & Court System Web Resources](#15-michigan-state-government--court-system-web-resources)
 16. [Sourcing & Verification](#16-sourcing--verification)
@@ -487,8 +501,32 @@ Parenting time is a **separate determination** from custody. MCL 722.27a require
 - Parenting time **shall be granted** in accordance with the best interests of the child (MCL 722.27a(1))
 - A parent's frequency of parenting time does not alone determine an "established custodial environment"
 - **Makeup parenting time** (MCL 722.27b): If a parent wrongfully denies parenting time, the court shall order makeup time and may award reasonable attorney fees
+- If **both parents agree** on parenting time terms, the court must order those terms unless clear and convincing evidence shows they are not in the child's best interests (MCL 722.27a(2))
+- A child has a **right** to parenting time unless it would **endanger** the child — the standard is **clear and convincing evidence** (MCL 722.27a(3))
 
 > *Authority:* MCL 722.27a; MCL 722.27b  
+> *Source:* <https://legislature.mi.gov/Laws/MCL?objectName=mcl-722-27a>
+
+---
+
+### Parenting Time Factors (MCL 722.27a(7))
+
+When determining the frequency, duration, and type of parenting time, the court considers the following factors:
+
+| Factor | MCL 722.27a(7) | Description |
+|---|---|---|
+| (a) | Special circumstances | The existence of any special circumstances or needs of the child |
+| (b) | Nursing child | Whether the child is a nursing child less than 6 months old, or less than 1 year old if the child is primarily nursed by the mother |
+| (c) | Abuse/neglect risk | The reasonable likelihood of abuse or neglect of the child during parenting time |
+| (d) | Abuse of parent risk | The reasonable likelihood of abuse of a parent resulting from the exercise of parenting time |
+| (e) | Travel burden on child | The inconvenience to, and burdensome impact or effect on, the child of traveling for purposes of parenting time |
+| (f) | Compliance likelihood | Whether a parent can reasonably be expected to exercise parenting time in accordance with the court order |
+| (g) | Failure to exercise | Whether a parent has frequently failed to exercise reasonable parenting time |
+| (h) | Detention/concealment | The threatened or actual detention of the child with the intent to retain or conceal the child from the other parent or from a third person who has legal custody (*A custodial parent's temporary residence at a domestic violence shelter does not constitute evidence of detention or concealment*) |
+| (i) | Any other factor | Any other relevant factors |
+
+> *Authority:* MCL 722.27a(7)  
+> *Critical Note:* Factors (c), (d), and (h) are particularly relevant when defending against false allegations designed to restrict a father's parenting time. Factor (g) can be used offensively if a mother is the one failing to exercise parenting time or encourage the child's time with the father.  
 > *Source:* <https://legislature.mi.gov/Laws/MCL?objectName=mcl-722-27a>
 
 ---
@@ -504,6 +542,132 @@ If an **established custodial environment** exists, the movant must show by **cl
 > *Leading Authority:* *Vodvarka v Grasmeyer*, 259 Mich App 499; 675 NW2d 847 (2003) — established the threshold standard for proper cause / change of circumstances  
 > *Authority:* MCL 722.27(1)(c)  
 > *Source:* <https://www.courts.michigan.gov/49da80/siteassets/case-documents/uploads/opinions/final/coa/20031202_c248058_28_229o.248058.opn.coa.pdf>
+
+---
+
+### Change of Domicile — 100-Mile Rule (MCL 722.31)
+
+A parent with custody may **not** move a child's legal residence more than **100 miles** from the child's current residence (measured in a straight line) or out of state unless:
+- The other parent **consents**, or
+- The **court approves** the move, or
+- The move brings the parents **closer together** (unless it is out of state)
+
+**MCL 722.31(4) — Court Factors for Evaluating a Change of Domicile:**
+
+| Factor | Description |
+|---|---|
+| **(a)** | Whether the legal residence change has the capacity to **improve the quality of life** for both the child and the relocating parent |
+| **(b)** | The degree to which each parent has **complied with**, and utilized time under, a court order governing parenting time — and whether the proposed change is **motivated by a desire to defeat or frustrate** the other parent's parenting time |
+| **(c)** | The feasibility of **preserving the relationship** between the child and the non-relocating parent through **suitable parenting time arrangements** — considering logistics, expense, and the effect on the child's quality of life |
+| **(d)** | Whether the opposing parent's objection is motivated primarily by a desire to **secure a financial advantage** regarding support |
+| **(e)** | **Domestic violence**, regardless of whether the violence was directed against or witnessed by the child |
+
+> *Standard of proof:* Preponderance of the evidence  
+> *Leading Authority:* *D'Onofrio v D'Onofrio*, 365 A.2d 27 (NJ 1976) — persuasive authority; Michigan's MCL 722.31 factors are based on the D'Onofrio framework  
+> *Authority:* MCL 722.31  
+> *Source:* <https://legislature.mi.gov/Laws/MCL?objectName=mcl-722-31>
+>
+> *Critical Note for Fathers:* Factor (b) is your primary tool — if the relocating parent has a pattern of denying or restricting your parenting time, this factor directly supports opposing the move. Factor (c) is critical for demonstrating that a long-distance arrangement is impractical.
+
+---
+
+### Paternity & Parentage
+
+Unmarried fathers have **no legal rights or responsibilities** until paternity is legally established. Once established, the father has equal standing to seek custody and parenting time.
+
+**Key Statutes:**
+
+| Act / Statute | MCL Range | Description |
+|---|---|---|
+| **Paternity Act** | MCL 722.711–722.730 | Provides for establishing paternity of children born to unmarried parents; any party (mother, alleged father, or MDHHS) may bring an action in circuit court |
+| **Order of Filiation** | MCL 722.717 | After paternity is established (by agreement, court order, or genetic testing), the court enters an order of filiation making the biological father legally responsible for the child |
+| **Acknowledgment of Parentage Act** | MCL 722.1001 *et seq.* | Parents may sign a voluntary Acknowledgment of Parentage (AOP) to establish paternity without a court proceeding; becomes a legal finding of paternity unless revoked |
+| **Revocation of Parentage Act (ROPA)** | MCL 722.1431 *et seq.* | Allows challenging or revoking previously established parentage (by acknowledgment, presumption of marriage, or court order) when biological relationship is in doubt or fraud/mistake occurred |
+| **ROPA — Set Aside Acknowledgment** | MCL 722.1437 | Governs motions to set aside an Acknowledgment of Parentage |
+| **ROPA — Challenge Presumed Parent** | MCL 722.1441 | Governs motions to determine that a presumed parent (typically the mother's husband) is not the legal father |
+
+**Key points for unmarried fathers:**
+- Signing the **Acknowledgment of Parentage** at the hospital establishes paternity but **does not grant custody** — the mother has initial custody by default until the court orders otherwise
+- To obtain **custody or parenting time**, the father must file a separate action in circuit court after paternity is established
+- **ROPA actions** have **time limits** — generally within 3 years of the acknowledgment or after learning of new evidence (consult statute for specific deadlines)
+
+> *Authority:* MCL 722.711 et seq.; MCL 722.1001 et seq.; MCL 722.1431 et seq.  
+> *Sources:*  
+> <https://legislature.mi.gov/Laws/MCL?objectName=mcl-722-711>  
+> <https://legislature.mi.gov/Laws/MCL?objectName=mcl-Act-159-of-2012>
+
+---
+
+### Child Support Framework
+
+Michigan child support is governed by the **Support and Parenting Time Enforcement Act** (PA 295 of 1982, MCL 552.601–552.650) and the **Michigan Child Support Formula (MCSF) Manual**, published by SCAO.
+
+**Key statutory provisions:**
+
+| MCL Section | Subject | Description |
+|---|---|---|
+| **MCL 552.602** | Definitions | Defines income, support, and related terms |
+| **MCL 552.605** | Support order / deviation | Court must order support per the MCSF; deviation permitted only if formula amount is unjust or inappropriate, with written findings |
+| **MCL 552.605b** | Income imputation | Court may impute income to a parent who is voluntarily unemployed or underemployed |
+| **MCL 552.607** | Income withholding | Immediate income withholding is required for all child support orders |
+| **MCL 552.608** | Health care | Child support orders must include provisions for health care coverage |
+| **MCL 552.517e** | FOC review | FOC must conduct a review of support obligations at least every 36 months, or upon request, to determine if modification is warranted |
+
+**MCSF Deviation Requirements (MCL 552.605(2)):**
+
+When deviating from the formula, the court order **must** include:
+1. The child support amount determined by the formula
+2. How the ordered amount departs from the formula amount
+3. The value of property or other support ordered instead of or in addition to cash payments
+4. The reasons that the application of the formula would be unjust or inappropriate
+
+**MCSF deviation factors (MCSF Manual § 1.04):**
+- Special needs of the child (medical, educational, emotional)
+- A child's extraordinary educational or medical expenses
+- Income disparity, unreported income, or hidden assets
+- Long-distance parenting time or extraordinary transportation costs
+- Extraordinary variations in living arrangements or extended parenting time
+- Provision of significant in-kind support (housing, food, clothing)
+
+> *Authority:* MCL 552.601 et seq.; MCSF Manual (2021 ed.)  
+> *MCSF Manual:* <https://www.courts.michigan.gov/siteassets/court-administration/standardsguidelines/foc/2021mcsf.pdf>  
+> *Critical Note for Fathers:* If you have **substantially equal or greater parenting time** than was assumed when support was set, you may have grounds for a **support modification**. Always request the **MCSF worksheet** to verify the formula was correctly applied.
+
+---
+
+### Personal Protection Orders (PPOs) — Defensive Awareness
+
+PPOs are governed by **MCL 600.2950** (domestic relationship) and **MCL 600.2950a** (stalking/non-domestic). Procedural rules are in **MCR 3.705** and **MCR 3.706**.
+
+PPOs can be issued **ex parte** (without notice to the respondent) and entered into the **Law Enforcement Information Network (LEIN)** immediately. They are frequently filed in custody disputes and can have a **devastating impact** on a father's custody and parenting time rights.
+
+**Types of PPOs:**
+
+| Type | Statute | Who Qualifies | Duration |
+|---|---|---|---|
+| **Domestic Relationship PPO** | MCL 600.2950 | Spouse, former spouse, person with shared child, cohabitant, dating partner | Typically at least 182 days |
+| **Non-Domestic / Stalking PPO** | MCL 600.2950a | Any person alleging stalking or similar threatening conduct | Typically at least 182 days |
+
+**What a domestic PPO can prohibit:**
+- Entering the petitioner's residence or premises
+- Assaulting, attacking, beating, molesting, or wounding the petitioner
+- Threatening to kill or physically injure the petitioner
+- **Removing minor children** from the person with legal custody
+- Purchasing or possessing a firearm
+- Interfering with petitioner's efforts to remove personal property
+- Interfering with the petitioner at the petitioner's place of employment or education
+- Other conduct specified by the court
+
+**Defensive strategy for fathers:**
+1. **Respond immediately** — file a motion to terminate, modify, or dissolve the PPO within the time allowed
+2. **Request a hearing** — MCR 3.706(H) provides the right to a hearing on the PPO
+3. **Document everything** — false PPO allegations affect Factor (j) (willingness to foster) and Factor (f) (moral fitness) of MCL 722.23
+4. **Preserve the record** — if a PPO is used to deny parenting time, document each denial for use in custody modification proceedings
+5. **Challenge ex parte issuance** — if the petition contains material falsehoods, the PPO may be dissolved
+
+> *Authority:* MCL 600.2950; MCL 600.2950a; MCR 3.705; MCR 3.706  
+> *PPO Forms:* <https://www.courts.michigan.gov/SCAO-forms/PPO/>  
+> *Critical Note:* A PPO is **not** a criminal conviction — it is a civil order. However, **violation** of a PPO is a criminal offense. If a false PPO has been obtained against you, seek legal counsel immediately and file a motion to dissolve.
 
 ---
 
@@ -542,6 +706,59 @@ The **established custodial environment** doctrine (MCL 722.27(1)(c)) is itself 
 > — If modifying an established custodial environment: **clear and convincing evidence**  
 > — If no established custodial environment: **preponderance of the evidence**  
 > *Authority:* MCL 722.27(1)(c); *Vodvarka v Grasmeyer*, 259 Mich App 499 (2003)
+
+---
+
+### Michigan Code of Judicial Conduct (MCJC) — Canon Summary
+
+The **MCJC** is the ethical code governing all Michigan judges. Violations are grounds for discipline by the Judicial Tenure Commission.
+
+| Canon | Title | Key Obligation |
+|---|---|---|
+| **Canon 1** | Integrity and Independence | A judge shall uphold the integrity and independence of the judiciary; maintain high standards of conduct |
+| **Canon 2** | Avoiding Impropriety | A judge shall avoid impropriety **and the appearance of impropriety** in all activities; public confidence must be maintained |
+| **Canon 3** | Impartial and Diligent Performance | A judge shall perform duties **impartially and diligently**; ensure every person's right to be heard; avoid ex parte communications; disclose conflicts |
+| **Canon 4** | Extrajudicial Activities | Extrajudicial activities must not conflict with judicial duties, cast doubt on impartiality, or interfere with performance |
+| **Canon 5** | Judicial Candidates | Candidates for judicial office must maintain integrity and impartiality during campaigns; campaign misconduct is disciplinable |
+| **Canon 6** | Reporting Compensation | Judges must regularly report compensation for quasi-judicial and extra-judicial activities and monetary contributions |
+| **Canon 7** | Political Activity | Judges shall refrain from political activity inappropriate to judicial office |
+
+> *Authority:* Michigan Code of Judicial Conduct (promulgated by Michigan Supreme Court)  
+> *Full Text:* <https://www.courts.michigan.gov/4a3fd4/siteassets/rules-instructions-administrative-orders/code-of-judicial-conduct/code-of-judicial-conduct.pdf>  
+> *Annotated Edition (MJI):* <https://www.courts.michigan.gov/490524/siteassets/publications/benchbooks/mcjca/mcjca.pdf>
+
+---
+
+### Judicial Disqualification — MCR 2.003
+
+**MCR 2.003** is the primary mechanism for removing a biased judge from your case. This is a **critical tool** for fathers who believe the assigned judge is not impartial.
+
+**Grounds for Disqualification (MCR 2.003(C)):**
+
+| Ground | Description |
+|---|---|
+| **(C)(1)(a)** | The judge is **personally biased or prejudiced** for or against a party or attorney |
+| **(C)(1)(b)(i)** | **Serious risk of actual bias** impacting due process rights (*Caperton v A.T. Massey Coal Co.*, 556 U.S. 868 (2009)) |
+| **(C)(1)(b)(ii)** | Failure to adhere to **appearance-of-impropriety** standard under MCJC Canon 2 |
+| **(C)(1)(c)** | The judge has **personal knowledge** of disputed evidentiary facts |
+| **(C)(1)(d)** | The judge was **previously an attorney** in the matter |
+| **(C)(1)(e)** | The judge was a **partner or associate** of a law firm representing a party within the preceding 2 years |
+| **(C)(1)(f)** | The judge or close family members have a **more-than-minimal economic interest** that could be substantially impacted |
+
+**Procedure for Filing (MCR 2.003(D)):**
+
+| Step | Action | Details |
+|---|---|---|
+| 1 | File motion for disqualification | Must be filed **within 14 days** of discovering the grounds for disqualification (good cause may extend this) |
+| 2 | Attach affidavit | Must include sworn statement of facts and grounds supporting disqualification |
+| 3 | Include all known grounds | All currently known grounds must be stated in the initial motion |
+| 4 | Challenged judge decides first | The judge who is the subject of the motion initially rules on it |
+| 5 | If denied — escalate | In courts with 2+ judges: request referral to chief judge for **de novo** decision. In single-judge courts: referral to State Court Administrator for assignment to another judge |
+
+> *Authority:* MCR 2.003  
+> *MJI Judicial Disqualification Benchbook:* <https://www.courts.michigan.gov/siteassets/publications/benchbooks/jdq/jdq.pdf>  
+> *MJI Checklist:* <https://www.courts.michigan.gov/4aa64c/siteassets/publications/benchbooks/qrms/judicial-disqualifications/judicial-disqualification-checklist.pdf>  
+> *Critical Note:* The challenged judge decides their own disqualification motion in the first instance. If denied, **always escalate** to the chief judge or State Court Administrator. Document every instance of bias or ex parte contact — these form the factual basis for your affidavit.
 
 ---
 
@@ -609,6 +826,75 @@ If a party believes the FOC office has acted improperly (e.g., biased investigat
 
 ---
 
+### Key SCAO / FOC Forms for Family Law
+
+The following SCAO-approved forms are essential for fathers navigating custody, parenting time, and support proceedings. All forms are available at <https://www.courts.michigan.gov/SCAO-forms/FOC-forms/>.
+
+**Custody & Parenting Time Forms:**
+
+| Form | Title | Purpose |
+|---|---|---|
+| **FOC 87** | Motion Regarding Custody | Request a change in custody in an existing case |
+| **FOC 88** | Response to Motion Regarding Custody | Respond to a custody modification motion |
+| **FOC 89** | Order Regarding Custody and Parenting Time | Proposed order based on motion and hearing |
+| **FOC 87a** | Motion Regarding Parenting Time | Request a change in parenting time |
+| **FOC 88a** | Response to Motion Regarding Parenting Time | Respond to a parenting time motion |
+| **FOC 89a** | Order Regarding Parenting Time | Proposed order for parenting time changes |
+| **MC 416** | UCCJEA Affidavit | **Required** with nearly all custody/parenting time filings (interstate compliance) |
+
+**Support Forms:**
+
+| Form | Title | Purpose |
+|---|---|---|
+| **FOC 50** | Motion Regarding Support | Request a change in child support |
+| **FOC 51** | Response to Motion Regarding Support | Respond to a support modification motion |
+| **FOC 10** | Uniform Child Support Order | Standard child support order |
+| **FOC 10a** | Uniform Spousal Support Order | Standard spousal support order |
+| **FOC 65** | Request for Review of Support | Initiate an FOC review of support without a full motion |
+
+**Grievance & Enforcement Forms:**
+
+| Form | Title | Purpose |
+|---|---|---|
+| **FOC 1a** | Friend of the Court Grievance | Formal grievance about FOC office conduct |
+| **FOC 104** | Motion and Verified Statement for Makeup Parenting Time | Request makeup time after wrongful denial (MCL 722.27b) |
+
+> *Forms Portal:* <https://www.courts.michigan.gov/SCAO-forms/FOC-forms/>  
+> *Critical Note:* **Always use the current SCAO-approved version** of forms. Local courts may require additional supplemental forms. Check your county's FOC website.
+
+---
+
+### Domestic Relations Court Rules (MCR 3.2xx)
+
+The following Michigan Court Rules govern the **procedural framework** for all domestic relations cases in the Family Division of Circuit Court:
+
+| MCR Rule | Title | Key Provisions |
+|---|---|---|
+| **MCR 3.201** | Applicability | Scope of domestic relations rules; definitions |
+| **MCR 3.202** | Parties | Proper parties in domestic relations actions; joinder |
+| **MCR 3.203** | Venue | Where domestic relations cases must be filed |
+| **MCR 3.205** | Prior / Pending Actions | Coordination of multiple proceedings affecting the same family |
+| **MCR 3.206** | Initiating a Case | Filing requirements; verified complaint; required forms |
+| **MCR 3.207** | Temporary Orders | Ex parte and noticed temporary orders for custody, support, parenting time, and property |
+| **MCR 3.208** | Friend of the Court | FOC participation, reports, and recommendations in domestic relations cases |
+| **MCR 3.210** | Hearings and Trials | Procedures for evidentiary hearings and trials in domestic relations matters |
+| **MCR 3.211** | Judgments and Orders | Requirements for final judgments (custody, support, parenting time provisions) |
+| **MCR 3.212** | Post-Judgment Motions | Procedures for modifying or enforcing judgments (support, custody, parenting time) |
+| **MCR 3.214** | Interstate Proceedings | UCCJEA and UIFSA proceedings; registration and enforcement of out-of-state orders |
+| **MCR 3.215** | Domestic Relations Mediation | Mediation of custody, support, and parenting time through FOC or private mediators |
+| **MCR 3.216** | Domestic Relations Arbitration | Binding arbitration in domestic relations matters |
+| **MCR 3.217** | FOC Enforcement | Court rules for FOC enforcement of support, parenting time, and custody orders |
+| **MCR 3.218** | FOC Proceedings | Court rules for FOC referees, hearings, and de novo review |
+| **MCR 3.219** | Case Transfer | Transfer of domestic relations cases between circuits |
+| **MCR 3.705** | PPO Proceedings | Procedures for Personal Protection Orders (domestic & stalking) |
+| **MCR 3.706** | PPO Issuance / Enforcement | Issuance, service, modification, and enforcement of PPOs |
+
+> *Authority:* MCR Chapter 3, Subchapter 3.200 (Domestic Relations Actions)  
+> *Source:* <https://www.courts.michigan.gov/siteassets/rules-instructions-administrative-orders/michigan-court-rules/>  
+> *Critical Note:* **MCR 3.207** (Temporary Orders) is especially important — ex parte temporary orders can set the initial custody arrangement, creating an "established custodial environment" that is then harder to change. **Always respond immediately** to ex parte motions.
+
+---
+
 ## 10. Judicial Accountability, Bias & Misconduct
 
 ### Judicial Tenure Commission (JTC)
@@ -642,6 +928,25 @@ The **Judicial Tenure Commission (JTC)** is the independent constitutional body 
 
 ---
 
+### MCJC Canon 3 — Key Provisions for Bias & Ex Parte Contact
+
+Canon 3 is the **most frequently relevant Canon** in family law disputes involving allegations of judicial bias. Key sub-provisions:
+
+| Sub-Rule | Provision | Description |
+|---|---|---|
+| **Canon 3(A)(1)** | Impartial adjudication | A judge shall hear and decide matters unless disqualification is required |
+| **Canon 3(A)(3)** | Patience and courtesy | A judge shall be patient, dignified, and courteous to litigants, jurors, witnesses, lawyers, and others |
+| **Canon 3(A)(4)** | **Ex parte communications prohibited** | A judge shall not initiate, permit, or consider ex parte communications (communications with one party outside the presence of the other party) concerning a pending or impending proceeding |
+| **Canon 3(A)(5)** | Public proceedings | A judge shall not, while a proceeding is pending, make any public comment that might reasonably be expected to affect the outcome or impair fairness |
+| **Canon 3(B)(5)** | Administrative duties / bias prohibition | A judge shall perform administrative duties impartially and shall not discriminate on the basis of race, sex, religion, national origin, disability, age, sexual orientation, or socioeconomic status |
+| **Canon 3(B)(8)** | Required disclosures | A judge shall diligently discharge the responsibility to report information about attorney or judicial misconduct to the appropriate authority |
+| **Canon 3(C)(1)** | **Disqualification** | A judge shall disqualify himself or herself in a proceeding in which the judge's impartiality might reasonably be questioned |
+
+> *Authority:* Michigan Code of Judicial Conduct, Canon 3  
+> *Critical Note for Fathers:* **Canon 3(A)(4)** — the ex parte communication prohibition — is the most commonly violated Canon in family court. If the judge communicates privately with the FOC, the other party, or the other party's attorney about your case outside of a hearing, this is a **Canon 3 violation** and grounds for both a JTC complaint and a motion for disqualification under MCR 2.003.
+
+---
+
 ### Systemic Bias & Corruption Concerns
 
 The following are **documented systemic concerns** in family court litigation. This section does not assert that all courts are corrupt; it catalogues the **legal frameworks available to address bias when it occurs**.
@@ -671,6 +976,42 @@ The following are **documented systemic concerns** in family court litigation. T
 
 ---
 
+### Due Process Violation Checklist for Family Court
+
+Use this checklist to identify and document potential due process violations. Each item, if violated, may support an appellate argument, a JTC complaint, a motion for disqualification, or a § 1983 federal action.
+
+**Before the Hearing:**
+- [ ] Were you given **adequate written notice** of the hearing, the issues to be decided, and the relief sought?
+- [ ] Were you served with all **motion papers and supporting documents** in advance?
+- [ ] Did the court allow **sufficient time to prepare** (no improperly short notice)?
+- [ ] Were you informed of your right to **legal counsel**?
+- [ ] Were you informed of your right to **request a de novo hearing** if a referee is assigned?
+
+**During the Hearing:**
+- [ ] Were you given the **opportunity to testify** and present evidence?
+- [ ] Were you allowed to **cross-examine** witnesses, including the FOC investigator?
+- [ ] Did the judge remain **impartial** — no visible bias, hostility, or prejudgment?
+- [ ] Were there any **ex parte communications** between the judge, FOC, or opposing party outside your presence?
+- [ ] Were **evidentiary rules** followed (MRE; no consideration of inadmissible hearsay)?
+- [ ] Were you permitted to **object** and have your objections ruled upon and recorded?
+
+**After the Hearing:**
+- [ ] Did the court make **specific findings of fact** on the record or in a written order?
+- [ ] Did the court address **all 12 best interest factors** (MCL 722.23) for custody decisions?
+- [ ] Did the court state the **legal standard** it applied (preponderance vs. clear and convincing)?
+- [ ] Were you informed of your **right to appeal** and the applicable deadline?
+- [ ] Was the **order reduced to writing** and served upon you?
+
+**FOC-Specific Issues:**
+- [ ] Did the FOC **interview both parents** during any custody/parenting time investigation?
+- [ ] Were you granted the **right to meet with the investigator** before the recommendation was made (MCL 552.505(1)(f))?
+- [ ] Was the FOC recommendation **served on you** with sufficient time to respond before the hearing?
+- [ ] Did the FOC accurately **present the facts** in its recommendation (no material omissions or misstatements)?
+
+> *How to use:* Check each box as you review your case. Any unchecked item is a potential basis for appeal, grievance, or federal action. **Document the specific facts** supporting each violation — dates, times, witnesses, transcript references.
+
+---
+
 ## 11. Michigan Family Law Case Law
 
 Key Michigan appellate decisions relevant to custody, parenting time, and fathers' rights. Cases are cited by the Michigan Court of Appeals or Michigan Supreme Court.
@@ -686,8 +1027,32 @@ Key Michigan appellate decisions relevant to custody, parenting time, and father
 | **Pierron v Pierron** | 486 Mich 81; 782 NW2d 480 | 2010 | Court must make specific findings for each best interest factor; failure to do so is reversible error |
 | **Brown v Loveman** | 260 Mich App 576; 680 NW2d 432 | 2004 | Parenting time cannot be restricted without evidence of endangerment to the child; court must apply MCL 722.27a factors |
 | **Berger v Berger** | 277 Mich App 700; 747 NW2d 336 | 2008 | A parent may not be denied parenting time solely because of a refusal to comply with a condition not required by law |
+| **Harvey v Harvey** | 470 Mich 186; 680 NW2d 835 | 2004 | Trial court's failure to make adequate findings on the record regarding custody factors is reversible error; parties must have a meaningful opportunity to challenge the court's factual basis |
+| **Rains v Rains** | 301 Mich App 313; 836 NW2d 709 | 2013 | Court must not apply a de facto presumption in favor of the status quo in custody proceedings; each factor must be independently evaluated |
+| **Sinicropi v Mazurek** | 273 Mich App 149; 729 NW2d 256 | 2006 | An established custodial environment can exist with both parents simultaneously; the clear-and-convincing standard applies when modifying custody with either parent where the environment exists with both |
+| **Grew v Knox** | 265 Mich App 333; 694 NW2d 772 | 2005 | **[UNVERIFIED: confirm citation]** Trial court abused discretion by modifying custody without proper cause or change of circumstances threshold |
+| **Mogle v Scriver** | 241 Mich App 192; 614 NW2d 696 | 2000 | The established custodial environment is a question of fact; appellate review is for clear error |
+| **Lombardo v Lombardo** | 202 Mich App 151; 507 NW2d 788 | 1993 | Parental disagreement on religious upbringing is not sufficient basis to modify custody; the court may not evaluate the merits of religious beliefs under Factor (b) |
+| **Lieberman v Orr** | 319 Mich App 68; 900 NW2d 345 | 2017 | The non-custodial parent's burden on a change-of-domicile motion is preponderance of the evidence for MCL 722.31 factors; the D'Onofrio framework applies |
+| **Baker v Baker** | 411 Mich 567; 309 NW2d 532 | 1981 | The primary purpose of joint custody is to assure the child frequent and continuing contact with both parents; court must consider feasibility of joint custody when requested |
+| **Rittershaus v Rittershaus** | 273 Mich App 462; 730 NW2d 262 | 2007 | Court may not impute income for child support purposes without making specific findings on the parent's actual ability to earn |
 
-> *Note:* These case summaries are provided as reference points. Always verify the full opinion and subsequent treatment (e.g., through Westlaw, LexisNexis, or courts.michigan.gov) before citing in litigation.
+> *Note:* These case summaries are provided as reference points. Cases marked **[UNVERIFIED]** require confirmation of the exact citation. Always verify the full opinion and subsequent treatment (e.g., through Westlaw, LexisNexis, or courts.michigan.gov) before citing in litigation.
+
+**Case Law Categories — Quick Reference:**
+
+| Topic | Key Cases |
+|---|---|
+| **Custody modification threshold** | *Vodvarka*; *Grew* |
+| **Best interest factor findings** | *Fletcher*; *Shade*; *Eldred*; *Pierron*; *Harvey* |
+| **Established custodial environment** | *Bowers*; *Sinicropi*; *Mogle* |
+| **Parenting time rights** | *Brown v Loveman*; *Berger* |
+| **Change of domicile / relocation** | *Lieberman v Orr*; MCL 722.31 |
+| **Joint custody** | *Baker*; MCL 722.26a |
+| **Status quo presumption (prohibited)** | *Rains* |
+| **Religious upbringing** | *Lombardo* |
+| **Child support / income imputation** | *Rittershaus* |
+| **Third-party care vs. parental care** | *Ireland v Smith* |
 
 ---
 
@@ -705,6 +1070,24 @@ Key U.S. Supreme Court decisions establishing the constitutional framework for p
 | **Lassiter v Dep't of Social Services** | 452 U.S. 18 | 1981 | Due process may require appointment of counsel for indigent parents in termination proceedings, depending on the circumstances |
 | **Pulliam v Allen** | 466 U.S. 522 | 1984 | Judicial immunity does **not** bar federal injunctive or declaratory relief under 42 U.S.C. § 1983 for constitutional violations by judges (partially limited by Federal Courts Improvement Act of 1996) |
 | **Mathews v Eldridge** | 424 U.S. 319 | 1976 | Three-factor balancing test for determining what process is due: (1) private interest affected, (2) risk of erroneous deprivation and value of additional safeguards, (3) government's interest and burden |
+| **Caban v Mohammed** | 441 U.S. 380 | 1979 | Gender-based distinction between unwed mothers and unwed fathers in adoption consent requirements violates the Equal Protection Clause; fathers cannot be categorically excluded |
+| **M.L.B. v S.L.J.** | 519 U.S. 102 | 1996 | A state may not condition a parent's right to appeal a termination-of-parental-rights decree on the parent's ability to pay record preparation fees; access to justice cannot depend on wealth |
+| **Quilloin v Walcott** | 434 U.S. 246 | 1978 | The unwed father who has never taken custody of his child or participated in the child's rearing does not have the same constitutional protections as a father who has established a relationship with the child |
+| **Caperton v A.T. Massey Coal** | 556 U.S. 868 | 2009 | Due process requires recusal when there is a **serious risk of actual bias** based on objective and reasonable perceptions — incorporated into MCR 2.003(C)(1)(b)(i) |
+| **Boddie v Connecticut** | 401 U.S. 371 | 1971 | Due process prohibits a state from denying access to courts for divorce (and by extension family law) proceedings based on inability to pay filing fees |
+| **Turner v Rogers** | 564 U.S. 431 | 2011 | Due process does not automatically require appointment of counsel in civil contempt proceedings for child support, but the state must provide **alternative procedural safeguards** to ensure a fair proceeding |
+
+### 6th Circuit Court of Appeals — Key Decisions
+
+The **U.S. Court of Appeals for the Sixth Circuit** covers Michigan, Ohio, Kentucky, and Tennessee. Key decisions relevant to family law, due process, and § 1983 actions:
+
+| Case | Citation | Year | Key Holding / Principle |
+|---|---|---|---|
+| **Rapp v Dutcher** | 557 F. App'x 444 (6th Cir.) | 2014 | **[UNVERIFIED: confirm citation]** A § 1983 action alleging due process violations in state custody proceedings may proceed where the claim is based on ongoing constitutional violations rather than a challenge to the state court judgment itself |
+| **Kovacic v Cuyahoga Cty. Dep't of Children & Family Svcs.** | 606 F.3d 301 (6th Cir.) | 2010 | A parent's right to custody of his child is a fundamental liberty interest; social workers who fabricate evidence or withhold exculpatory information in family court proceedings may be liable under § 1983 |
+| **Pittman v Cuyahoga Cty. Dep't of Children & Family Svcs.** | 640 F.3d 716 (6th Cir.) | 2011 | Government officials (including social workers and FOC employees) enjoy only **qualified immunity** — not absolute immunity — for actions taken in family law proceedings; qualified immunity is defeated if the right was "clearly established" |
+
+> *Note:* Sixth Circuit cases are binding on federal district courts in Michigan. Some citations above are marked **[UNVERIFIED]** and should be confirmed through Westlaw or PACER before reliance.
 
 ### 42 U.S.C. § 1983 — Civil Action for Deprivation of Rights
 
@@ -794,6 +1177,87 @@ This section maps the procedural routes for escalating Michigan family law dispu
 
 ---
 
+### Published vs. Unpublished Opinions — MCR 7.215(C)
+
+Understanding the difference between published and unpublished Michigan Court of Appeals opinions is critical for legal research and advocacy.
+
+| Type | Authority Level | Rule | Key Details |
+|---|---|---|---|
+| **Published opinions** (post-Nov. 1, 1990) | **Binding precedent** | MCR 7.215(J) | Binding on all lower courts and subsequent COA panels unless overruled by the Michigan Supreme Court or a conflict panel |
+| **Published opinions** (pre-Nov. 1, 1990) | **Binding precedent** (subject to conflict-panel analysis) | MCR 7.215(J) | Generally binding; recent case law clarifies their status |
+| **Unpublished opinions** | **Not binding precedent** | MCR 7.215(C) | Not precedentially binding under stare decisis; may be cited only if there is **no published authority** on point; the citing party must explain why the unpublished opinion is relevant and necessary |
+
+**Rules for citing unpublished opinions:**
+1. Unpublished opinions **should not** be cited for propositions of law for which published authority exists
+2. If an unpublished opinion must be cited, the party must **explain the reason** for citing it and its **relevance** to the issue
+3. The party must provide a copy of the unpublished opinion to the court and opposing parties
+
+> *Authority:* MCR 7.215(C); MCR 7.215(J)  
+> *Strategic Note:* When researching your case on courts.michigan.gov, most search results include both published and unpublished opinions. **Always check the designation** before citing. A favorable unpublished opinion can still be cited as persuasive authority if no published case is on point — but it will not be binding.
+
+---
+
+### Motion Practice Tips & Preservation Checklist
+
+**Critical deadlines — never miss these:**
+
+| Action | Deadline | Authority | Consequence of Missing |
+|---|---|---|---|
+| Object to FOC referee recommendation | **21 days** from recommended order | MCL 552.507 | Recommended order becomes binding; no de novo review |
+| File claim of appeal (appeal of right) | **21 days** from entry of final order | MCR 7.204(A) | Loss of appeal of right; must seek leave to appeal |
+| File application for leave to appeal (COA) | **21 days** from entry of order | MCR 7.205(A) | Discretionary; late filing may be excused for good cause |
+| File application for leave to appeal (MSC) | **42 days** from COA decision | MCR 7.302(C) | Loss of right to seek MSC review |
+| File motion for disqualification | **14 days** from discovery of grounds | MCR 2.003(D) | Motion may be denied as untimely |
+| File motion for reconsideration | **21 days** from order | MCR 2.119(F) | Cannot bring issue to trial court again on same grounds |
+| File motion for relief from judgment | **Within 1 year** (fraud, mistake, new evidence) | MCR 2.612(C) | Loss of right to seek relief; must rely on independent action |
+| PPO — motion to dissolve | **Promptly** after service | MCR 3.706(H) | PPO remains in effect pending hearing |
+
+**Preservation checklist — what to do at every hearing:**
+
+1. **Request a court reporter** — if the court does not provide one by default, ask that the hearing be recorded. Without a transcript, appellate review is nearly impossible.
+2. **Make specific objections** on the record — stating the legal basis (e.g., "I object under MCR 2.003 / MCJC Canon 3(A)(4) / MRE 802")
+3. **Request findings on all 12 best interest factors** — if the court does not make findings, ask the court to do so on the record
+4. **Object to ex parte contact** — if you learn the judge communicated with the FOC or opposing party outside your presence, state your objection on the record
+5. **File a written statement of position** — if you are self-represented, file a written brief or statement of position before the hearing so your arguments are preserved in the court file
+6. **Keep copies of everything** — file-stamped copies of all motions, orders, and pleadings
+
+> *Critical Note:* **You cannot appeal an error you did not object to.** Michigan appellate courts will generally not consider issues that were not raised and preserved in the trial court. The only exception is "plain error" affecting substantial rights — which is an extremely high standard.
+
+---
+
+### PPO Defense & Weaponization Awareness
+
+Personal Protection Orders (PPOs) are sometimes **strategically weaponized** in custody disputes. A PPO can:
+- Remove a father from the family home
+- Restrict or eliminate parenting time
+- Create a negative record used against the father in custody proceedings
+- Restrict firearm rights (even without a criminal conviction)
+- Affect employment (especially in jobs requiring background checks or security clearances)
+
+**Red flags for PPO weaponization:**
+- PPO is filed **immediately before or during** custody/parenting time proceedings
+- Allegations are **vague or conclusory** without specific incidents
+- No police reports, medical records, or other corroborating evidence
+- The petitioner seeks **custody-related relief** (e.g., removal of children) rather than personal safety
+- PPO is used to **establish a de facto custody arrangement** before the court rules on custody
+
+**Defense steps:**
+
+| Step | Action | Authority | Notes |
+|---|---|---|---|
+| 1 | Obtain and read the PPO petition carefully | — | Identify every specific allegation; prepare a point-by-point response |
+| 2 | File motion to terminate / dissolve PPO | MCR 3.706(H) | Request a hearing; the court must hold one |
+| 3 | Gather evidence | — | Text messages, emails, call logs, witness statements, surveillance footage contradicting allegations |
+| 4 | Subpoena records | MCR 2.305 | Police reports, 911 records, medical records |
+| 5 | Request the hearing | MCR 3.706(H) | Present evidence; cross-examine the petitioner |
+| 6 | Document impact on parenting time | MCL 722.23(j) | Lost parenting time supports custody modification and reflects on petitioner's willingness to foster (Factor j) |
+| 7 | File custody modification motion if warranted | MCL 722.27; FOC 87 | If the false PPO constitutes a "change of circumstances" material to the child's well-being |
+
+> *Authority:* MCL 600.2950; MCR 3.706; MCL 722.23(j)  
+> *Critical Note:* Do **not** violate the PPO, even if you believe it was obtained fraudulently. A PPO violation is a **criminal offense**. Challenge the PPO through the legal process.
+
+---
+
 ## 14. Benchbooks, Training Materials & Reference Resources
 
 ### Michigan Judicial Institute (MJI) Benchbooks
@@ -804,27 +1268,50 @@ The **Michigan Judicial Institute (MJI)**, a division of SCAO, produces benchboo
 |---|---|---|---|
 | **Michigan Family Law Benchbook** (2nd Ed.) | ICLE / SCAO | Comprehensive benchbook covering custody, parenting time, child support, divorce, paternity; used by all Family Division judges | ICLE: <https://www.icle.org/modules/store/books/book.aspx?PRODUCT_CODE=2006553550> |
 | **MJI Benchbooks & Quick Reference Materials** | MJI / SCAO | Full library of benchbooks for family, criminal, civil, juvenile, and probate matters | <https://www.courts.michigan.gov/publications/benchbooks/mji-benchbooks-and-qrms/> |
+| **Judicial Disqualification in Michigan** | MJI / SCAO | Benchbook on grounds and procedures for judicial disqualification under MCR 2.003 | <https://www.courts.michigan.gov/siteassets/publications/benchbooks/jdq/jdq.pdf> |
+| **Judicial Disqualification Checklist** | MJI / SCAO | Quick-reference checklist for MCR 2.003 motions | <https://www.courts.michigan.gov/4aa64c/siteassets/publications/benchbooks/qrms/judicial-disqualifications/judicial-disqualification-checklist.pdf> |
+| **MCJC — Annotated Edition** | MJI / JTC | Full annotated text of the Michigan Code of Judicial Conduct with commentary and case law | <https://www.courts.michigan.gov/490524/siteassets/publications/benchbooks/mcjca/mcjca.pdf> |
+| **Establishing Parenting Time Checklist** | MJI / SCAO | Quick reference for establishing parenting time under MCL 722.27a | <https://www.courts.michigan.gov/4ab6e0/siteassets/publications/benchbooks/qrms/family/domestic-relations/establishing-parenting-time-checklist.pdf> |
 | **Adoption Proceedings Benchbook** | MJI / SCAO | Detailed guide to Michigan adoption law and procedure | courts.michigan.gov/publications/benchbooks/ |
-| **Domestic Violence: A Guide to Civil & Criminal Proceedings** | MJI / SCAO | PPO/DVPO procedures and standards | courts.michigan.gov/publications/benchbooks/ |
+| **Domestic Violence: A Guide to Civil & Criminal Proceedings** | MJI / SCAO | PPO/DVPO procedures and standards; how judges should handle PPO petitions and hearings | courts.michigan.gov/publications/benchbooks/ |
+| **Revocation of Parentage Act (ROPA) QRM** | MJI / SCAO | Quick reference for ROPA proceedings | <https://www.courts.michigan.gov/49b6a8/siteassets/publications/benchbooks/qrms/family/domestic-relations/deternining-that-a-genetic-father-is-not-a-childs-father.pdf> |
+
+> *Why benchbooks matter:* These materials reveal the **exact standards and checklists** judges are trained to follow. If a judge deviates from the procedures described in their own benchbook, this is powerful evidence of error on appeal. For example, the Establishing Parenting Time Checklist shows the step-by-step analysis a judge is supposed to perform — if the judge skipped steps, you can cite the benchbook as evidence.
 
 ### Citation & Legal Research Reference
 
 | Resource | Description | Relevance |
 |---|---|---|
-| **The Bluebook: A Uniform System of Citation** | Standard citation format used by courts and legal publications | Required citation format for Michigan appellate briefs per MCR 7.212(B) |
+| **The Bluebook: A Uniform System of Citation** (21st Ed.) | Standard citation format used by courts and legal publications nationwide | Required citation format for Michigan appellate briefs per MCR 7.212(B); learn this format for self-represented filings |
 | **Michigan Citation Manual** | Michigan-specific citation guidance | Used in conjunction with the Bluebook for Michigan-specific authorities |
 | **Michigan Compiled Laws (MCL)** | Official codification of Michigan statutes | Primary statutory authority; accessible at legislature.mi.gov |
-| **Michigan Court Rules (MCR)** | Procedural rules for all Michigan courts | Promulgated by Michigan Supreme Court |
-| **Michigan Rules of Evidence (MRE)** | Evidentiary rules | Promulgated by Michigan Supreme Court |
+| **Michigan Court Rules (MCR)** | Procedural rules for all Michigan courts | Promulgated by Michigan Supreme Court; know the MCR chapter applicable to your proceeding |
+| **Michigan Rules of Evidence (MRE)** | Evidentiary rules | Promulgated by Michigan Supreme Court; critical for objections at hearings |
+| **Michigan Child Support Formula Manual** (2021 ed.) | Official formula and guidelines for calculating child support | Published by SCAO; <https://www.courts.michigan.gov/siteassets/court-administration/standardsguidelines/foc/2021mcsf.pdf> |
+
+**Bluebook citation format — quick reference for Michigan sources:**
+
+| Source Type | Format Example |
+|---|---|
+| Michigan statute | MCL 722.23 |
+| Michigan court rule | MCR 7.203(A) |
+| Michigan Supreme Court case | *Fletcher v Fletcher*, 447 Mich 871; 526 NW2d 889 (1994) |
+| Michigan Court of Appeals case | *Vodvarka v Grasmeyer*, 259 Mich App 499; 675 NW2d 847 (2003) |
+| U.S. Supreme Court case | *Troxel v Granville*, 530 U.S. 57 (2000) |
+| Michigan Constitution | Mich Const 1963, art VI, § 1 |
+| U.S. Constitution | U.S. Const amend XIV, § 1 |
+| Federal statute | 42 U.S.C. § 1983 |
 
 ### Training & Continuing Education
 
 | Organization | Description | Resources |
 |---|---|---|
 | **Institute of Continuing Legal Education (ICLE)** | Michigan's primary CLE provider; publishes practice guides, benchbooks, and seminars | <https://www.icle.org/> |
-| **Michigan Judicial Institute (MJI)** | Judicial training arm of SCAO | <https://www.courts.michigan.gov/publications/benchbooks/mji-benchbooks-and-qrms/> |
+| **Michigan Judicial Institute (MJI)** | Judicial training arm of SCAO; produces all benchbooks and QRMs | <https://www.courts.michigan.gov/publications/benchbooks/mji-benchbooks-and-qrms/> |
 | **State Bar of Michigan — Family Law Section** | Professional section for family law practitioners; publications and events | <https://www.michbar.org/family> |
 | **National Council of Juvenile and Family Court Judges** | National training and best practices for family court | <https://www.ncjfcj.org/> |
+| **Michigan Legal Help** | Free legal information and do-it-yourself tools for self-represented litigants | <https://michiganlegalhelp.org/> |
+| **American Bar Association — Section of Family Law** | National family law resources, publications, and standards | <https://www.americanbar.org/groups/family_law/> |
 
 ---
 
@@ -861,6 +1348,20 @@ The **Michigan Judicial Institute (MJI)**, a division of SCAO, produces benchboo
 | **Michigan Legal Help — Best Interest Factors** | <https://michiganlegalhelp.org/resources/family/best-interests-of-child-factors> | Plain-language guide to MCL 722.23 factors |
 | **Michigan Law Libraries** | Varies by county | Free public access to legal databases and print resources |
 | **Law Library of Michigan** | See UNVERIFIED items in § 16 | State law library resources |
+
+### Federal Court & Legal Research Resources
+
+| Resource | URL | Description |
+|---|---|---|
+| **PACER (Public Access to Court Electronic Records)** | <https://www.pacer.gov/> | Federal court filings and docket search; required for § 1983 actions |
+| **U.S. Courts — Sixth Circuit** | <https://www.ca6.uscourts.gov/> | Sixth Circuit Court of Appeals; opinions, rules, and procedures |
+| **Cornell Legal Information Institute** | <https://www.law.cornell.edu/> | Free access to federal statutes, U.S. Supreme Court opinions, and legal encyclopedias |
+| **Justia** | <https://supreme.justia.com/> | Free U.S. Supreme Court opinion archive with full-text search |
+| **Google Scholar — Case Law** | <https://scholar.google.com/> | Searchable database of state and federal court opinions |
+| **SCAO FOC Forms Portal** | <https://www.courts.michigan.gov/SCAO-forms/FOC-forms/> | Complete index of SCAO-approved FOC forms |
+| **SCAO PPO Forms** | <https://www.courts.michigan.gov/SCAO-forms/PPO/> | Forms and instructions for Personal Protection Orders |
+| **Michigan Child Support Formula Manual** | <https://www.courts.michigan.gov/siteassets/court-administration/standardsguidelines/foc/2021mcsf.pdf> | Official MCSF Manual (2021 ed.) — PDF |
+| **Michigan Courts Case Search** | <https://www.courts.michigan.gov/case-search/> | Search for Michigan court opinions and case information |
 
 ---
 
@@ -914,6 +1415,30 @@ Consumers of this catalogue **must not rely on [UNVERIFIED] items as litigation-
 | 42 U.S.C. § 1983 | Civil action for deprivation of rights | Federal statute |
 | Appeal of right deadline | 21 days from final order | MCR 7.204(A) |
 | Application for leave to MSC | 42 days from COA decision | MCR 7.301 |
+| Parenting time factors | MCL 722.27a(7) — 9 factors | MCL 722.27a(7) |
+| Change of domicile factors | MCL 722.31(4) — 5 factors | MCL 722.31(4) |
+| Paternity Act | MCL 722.711–722.730 | PA 205 of 1956 |
+| Acknowledgment of Parentage Act | MCL 722.1001 et seq. | Michigan Legislature |
+| Revocation of Parentage Act (ROPA) | MCL 722.1431 et seq. | PA 159 of 2012 |
+| Child support formula / deviation | MCL 552.605 | PA 295 of 1982 |
+| MCSF Manual | 2021 edition published by SCAO | courts.michigan.gov |
+| PPO (domestic) statute | MCL 600.2950 | Michigan Legislature |
+| PPO (stalking) statute | MCL 600.2950a | Michigan Legislature |
+| PPO court rules | MCR 3.705; MCR 3.706 | Michigan Supreme Court |
+| MCJC Canon 3 (ex parte prohibition) | Canon 3(A)(4) | Michigan Code of Judicial Conduct |
+| MCR 2.003 disqualification grounds | MCR 2.003(C) — 7 grounds | Michigan Supreme Court |
+| MCR 2.003 disqualification procedure | 14-day filing deadline | MCR 2.003(D) |
+| Unpublished opinions not binding | MCR 7.215(C) | Michigan Supreme Court |
+| Caperton v Massey (judicial bias / due process) | 556 U.S. 868 (2009) | U.S. Supreme Court |
+| Caban v Mohammed (equal protection / fathers) | 441 U.S. 380 (1979) | U.S. Supreme Court |
+| M.L.B. v S.L.J. (access to justice) | 519 U.S. 102 (1996) | U.S. Supreme Court |
+| Turner v Rogers (civil contempt safeguards) | 564 U.S. 431 (2011) | U.S. Supreme Court |
+| MCR 3.207 (temporary orders) | MCR 3.207 | Michigan Supreme Court |
+| MCR 3.210–3.218 (domestic relations rules) | MCR Chapter 3, Subchapter 3.200 | Michigan Supreme Court |
+| FOC Form FOC 87 (custody motion) | SCAO approved | courts.michigan.gov |
+| Rains v Rains (no status-quo presumption) | 301 Mich App 313; 836 NW2d 709 (2013) | Michigan Court of Appeals |
+| Harvey v Harvey (findings on record required) | 470 Mich 186; 680 NW2d 835 (2004) | Michigan Supreme Court |
+| Sinicropi v Mazurek (dual ECE) | 273 Mich App 149; 729 NW2d 256 (2006) | Michigan Court of Appeals |
 
 ### Remaining UNVERIFIED Items (ACQUIRE PLAN)
 
@@ -926,6 +1451,10 @@ Consumers of this catalogue **must not rely on [UNVERIFIED] items as litigation-
 | [UNVERIFIED] | SCAO case-type code provenance (authoritative list document) | Request SCAO case-type code list or cite applicable SCAO administrative memorandum |
 | [UNVERIFIED] | Michigan Citation Manual current edition and publisher | Consult State Bar of Michigan or ICLE |
 | [UNVERIFIED] | Law Library of Michigan URL | Confirm at michigan.gov |
+| [UNVERIFIED] | *Grew v Knox* citation and holding | Verify via courts.michigan.gov or Westlaw |
+| [UNVERIFIED] | *Rapp v Dutcher* (6th Cir.) citation and holding | Verify via PACER or Westlaw |
+| [UNVERIFIED] | *Kovacic v Cuyahoga* (6th Cir.) citation and holding | Verify via PACER or Westlaw |
+| [UNVERIFIED] | *Pittman v Cuyahoga* (6th Cir.) citation and holding | Verify via PACER or Westlaw |
 
 ---
 
@@ -945,4 +1474,4 @@ Full atomized references for each major rule set:
 
 ---
 
-*Primary Sources: Michigan Constitution of 1963; Michigan Compiled Laws (MCL 600.8301, 600.8401, 600.8035, 24.201 et seq., 440.1101 et seq., 450.1101 et seq., 450.4101 et seq., 552.501–552.535, 722.21–722.31); Michigan Court Rules (MCR 2.003, 2.116, 3.218, 3.302, 7.202–7.301, 9.100, 9.200); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); State Court Administrative Office (SCAO) publications; Michigan Administrative Hearing System Uniform Hearing Rules (MI Admin Code R 792.10101 et seq.); U.S. Constitution (Amendments I, IV, V, VI, XIV); U.S. Supreme Court decisions (Stanley v Illinois, 405 U.S. 645 (1972); Santosky v Kramer, 455 U.S. 745 (1982); Troxel v Granville, 530 U.S. 57 (2000); Pulliam v Allen, 466 U.S. 522 (1984)); 42 U.S.C. § 1983; U.S. Courts (ca6.uscourts.gov; mied.uscourts.gov; miwd.uscourts.gov).*
+*Primary Sources: Michigan Constitution of 1963; Michigan Compiled Laws (MCL 24.201 et seq., 440.1101 et seq., 450.1101 et seq., 450.4101 et seq., 552.501–552.535, 552.601–552.650, 600.2950, 600.2950a, 600.8301, 600.8401, 600.8035, 722.21–722.31, 722.711–722.730, 722.1001 et seq., 722.1431 et seq.); Michigan Court Rules (MCR 2.003, 2.116, 2.119, 2.305, 2.612, 3.201–3.219, 3.302, 3.705, 3.706, 7.202–7.301, 7.215, 9.100, 9.200); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC), Canons 1–7; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; Michigan Child Support Formula Manual (2021 ed.); Michigan Administrative Hearing System Uniform Hearing Rules (MI Admin Code R 792.10101 et seq.); U.S. Constitution (Amendments I, IV, V, VI, XIV); U.S. Supreme Court decisions (Stanley v Illinois, 405 U.S. 645 (1972); Santosky v Kramer, 455 U.S. 745 (1982); Troxel v Granville, 530 U.S. 57 (2000); Pulliam v Allen, 466 U.S. 522 (1984); Caperton v A.T. Massey Coal, 556 U.S. 868 (2009); Caban v Mohammed, 441 U.S. 380 (1979); M.L.B. v S.L.J., 519 U.S. 102 (1996); Turner v Rogers, 564 U.S. 431 (2011); Boddie v Connecticut, 401 U.S. 371 (1971)); 42 U.S.C. § 1983; U.S. Courts (ca6.uscourts.gov; mied.uscourts.gov; miwd.uscourts.gov).*
