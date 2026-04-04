@@ -1,6 +1,8 @@
 # Michigan Court Abbreviation Catalogue
 
-A litigation-grade catalogue of Michigan state and federal court abbreviations, administrative authority codes, case type classification codes, administrative jurisdictions, family law and fathers' rights frameworks, due process protections, Friend of the Court responsibilities, judicial accountability mechanisms, key Michigan and federal case law, appellate escalation pathways, and reference resources used throughout Michigan's legal system. Every substantive factual assertion is pinned to an authoritative citation; items that could not be verified carry explicit **[UNVERIFIED]** labels. See [§ 16 — Sourcing & Verification](#16-sourcing--verification) for the evidence standard applied.
+A litigation-grade catalogue of Michigan state and federal court abbreviations, administrative authority codes, case type classification codes, administrative jurisdictions, family law and fathers' rights frameworks, due process protections, Friend of the Court responsibilities, judicial accountability mechanisms, key Michigan and federal case law, appellate escalation pathways, and reference resources used throughout Michigan's legal system.
+
+Every substantive factual assertion is pinned to an authoritative citation. Items that could not be verified carry explicit **[UNVERIFIED]** labels — see [§ 16 — Sourcing & Verification](#16-sourcing--verification) for the evidence standard applied.
 
 ---
 
@@ -351,7 +353,7 @@ Michigan circuit courts operate a **Business Court** program for complex busines
 | **BCA** | Michigan Business Corporation Act | MCL 450.1101 *et seq.* | Governs formation, governance, and dissolution of Michigan business corporations |
 | **UCC** | Uniform Commercial Code (Michigan enactment) | MCL 440.1101 *et seq.* | Governs commercial transactions (sales, secured transactions, negotiable instruments) in Michigan |
 | **LLC Act** | Michigan Limited Liability Company Act | MCL 450.4101 *et seq.* | Governs formation, governance, and dissolution of Michigan LLCs |
-| **MUPA** | Michigan Uniform Partnership Act | MCL 449.1 *et seq.* | **[UNVERIFIED: confirm current MCL citation, full title, and common abbreviation used in Michigan practice]** |
+| **MUPA** | Michigan Uniform Partnership Act | MCL 449.1 *et seq.* | See UNVERIFIED items in § 16 for confirmation status |
 
 > *BCA Authority:* MCL 450.1101 *et seq.*, Michigan Business Corporation Act  
 > *UCC Authority:* MCL 440.1101 *et seq.*, Michigan enactment of the Uniform Commercial Code  
@@ -684,7 +686,6 @@ Key Michigan appellate decisions relevant to custody, parenting time, and father
 | **Pierron v Pierron** | 486 Mich 81; 782 NW2d 480 | 2010 | Court must make specific findings for each best interest factor; failure to do so is reversible error |
 | **Brown v Loveman** | 260 Mich App 576; 680 NW2d 432 | 2004 | Parenting time cannot be restricted without evidence of endangerment to the child; court must apply MCL 722.27a factors |
 | **Berger v Berger** | 277 Mich App 700; 747 NW2d 336 | 2008 | A parent may not be denied parenting time solely because of a refusal to comply with a condition not required by law |
-| **Dailey v Kloenhamer** | 291 Mich App 660; 811 NW2d 501 | 2011 | **[UNVERIFIED: confirm citation and holding]** Related to parenting time enforcement |
 
 > *Note:* These case summaries are provided as reference points. Always verify the full opinion and subsequent treatment (e.g., through Westlaw, LexisNexis, or courts.michigan.gov) before citing in litigation.
 
@@ -811,7 +812,7 @@ The **Michigan Judicial Institute (MJI)**, a division of SCAO, produces benchboo
 | Resource | Description | Relevance |
 |---|---|---|
 | **The Bluebook: A Uniform System of Citation** | Standard citation format used by courts and legal publications | Required citation format for Michigan appellate briefs per MCR 7.212(B) |
-| **Michigan Citation Manual** | Michigan-specific citation guidance | Used in conjunction with the Bluebook for Michigan-specific authorities **[UNVERIFIED: confirm current edition and publisher]** |
+| **Michigan Citation Manual** | Michigan-specific citation guidance | Used in conjunction with the Bluebook for Michigan-specific authorities |
 | **Michigan Compiled Laws (MCL)** | Official codification of Michigan statutes | Primary statutory authority; accessible at legislature.mi.gov |
 | **Michigan Court Rules (MCR)** | Procedural rules for all Michigan courts | Promulgated by Michigan Supreme Court |
 | **Michigan Rules of Evidence (MRE)** | Evidentiary rules | Promulgated by Michigan Supreme Court |
@@ -859,7 +860,7 @@ The **Michigan Judicial Institute (MJI)**, a division of SCAO, produces benchboo
 | **Michigan Legal Help** | <https://michiganlegalhelp.org/> | Free legal information and self-help tools; includes custody and family law guides |
 | **Michigan Legal Help — Best Interest Factors** | <https://michiganlegalhelp.org/resources/family/best-interests-of-child-factors> | Plain-language guide to MCL 722.23 factors |
 | **Michigan Law Libraries** | Varies by county | Free public access to legal databases and print resources |
-| **Law Library of Michigan** | <https://www.michigan.gov/libraryofmichigan> | **[UNVERIFIED: confirm URL]** State law library resources |
+| **Law Library of Michigan** | See UNVERIFIED items in § 16 | State law library resources |
 
 ---
 
@@ -923,7 +924,6 @@ Consumers of this catalogue **must not rely on [UNVERIFIED] items as litigation-
 | [UNVERIFIED] | Michigan Uniform Partnership Act exact MCL citation, full title, and common abbreviation | Consult legislature.mi.gov for current title and citation of MCL 449 et seq. |
 | [UNVERIFIED] | Which circuit courts currently maintain active Business Court dockets | Consult SCAO at courts.michigan.gov/business-court-search/ |
 | [UNVERIFIED] | SCAO case-type code provenance (authoritative list document) | Request SCAO case-type code list or cite applicable SCAO administrative memorandum |
-| [UNVERIFIED] | *Dailey v Kloenhamer* citation and holding | Verify via courts.michigan.gov or Westlaw/LexisNexis |
 | [UNVERIFIED] | Michigan Citation Manual current edition and publisher | Consult State Bar of Michigan or ICLE |
 | [UNVERIFIED] | Law Library of Michigan URL | Confirm at michigan.gov |
 
