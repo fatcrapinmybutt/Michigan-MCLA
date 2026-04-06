@@ -607,6 +607,166 @@ Ex parte PPOs are issued without notice; respondent must file a motion to modify
 
 ---
 
+### Joint vs. Sole Custody — Legal & Physical Distinctions
+
+**Legal Custody** — decision-making authority over major life decisions (education, medical, religion):
+
+| Type | Description | Standard |
+|---|---|---|
+| **Sole legal custody** | One parent has final decision-making authority | Awarded when joint legal custody is not in the best interests of the child |
+| **Joint legal custody** | Both parents share major decisions | Presumptively preferred; requires that parents can cooperate; *Bofysil v Bofysil*, 239 Mich App 667 (2000) |
+
+**Physical Custody** — where the child primarily resides:
+
+| Type | Description |
+|---|---|
+| **Sole physical custody** | Child resides primarily with one parent; other has parenting time |
+| **Joint physical custody** | Child spends substantial time with both parents; often defined by overnights for MCSF purposes |
+
+> *Authority:* MCL 722.26a (joint custody statute); MCL 722.26b (joint custody granted on request unless not in best interests); *Bofysil v Bofysil*, 239 Mich App 667 (2000); *Pierron v Pierron*, 486 Mich 81 (2010)
+
+**Joint Custody — Required Findings (MCL 722.26a(1)):**
+Before awarding joint custody, the court must consider:
+1. The agreement or lack thereof of the parents
+2. Whether the parents will be able to cooperate and generally agree concerning important decisions affecting the welfare of the child
+3. Whether domestic violence is present
+4. Geographical separation of parents
+5. Established custodial environment
+
+---
+
+### Emergency Ex Parte Custody Orders (EPOC)
+
+A parent may request an emergency ex parte custody order when immediate action is necessary to protect the child.
+
+**Standards for EPOC (MCR 3.207(B); MCL 722.27c):**
+1. Irreparable harm will result if the ex parte order is not issued
+2. The harm is immediate — no time to provide notice
+3. Supporting affidavit with specific facts (not conclusory)
+
+**Procedure:**
+1. File verified motion and affidavit with circuit court family division (CC 385 or similar)
+2. Clerk presents to duty judge immediately
+3. Judge rules same day (ex parte — no notice to opposing party)
+4. Order served on other parent with a return hearing date (within 14 days, MCR 3.207(B)(3))
+5. At return hearing, regular temporary order standards apply; opposing party may contest
+
+> *Note:* Courts disfavor EPOC without genuine emergency; filing an unwarranted EPOC may harm the requesting party in the best-interest analysis (factor (j) — facilitating the other parent's relationship).
+
+---
+
+### Guardian Ad Litem (GAL) Appointment
+
+Courts may appoint a **Guardian Ad Litem** (GAL) or **Children's Lawyer** to represent the interests of a minor child in contested custody proceedings.
+
+| Role | Authority | Purpose |
+|---|---|---|
+| **Guardian ad litem** | MCL 722.24; MCR 5.121 | Investigates child's best interests; reports to court; may testify |
+| **Children's attorney** | MCR 3.916 | Acts as traditional attorney for child; represents child's stated wishes |
+| **CASA volunteer** | MCL 722.632 | Court Appointed Special Advocate; lay volunteer who monitors child's welfare |
+
+**When Appointed:**
+- High-conflict custody cases
+- Allegations of abuse or neglect in custody context
+- Child's preference is a significant disputed issue
+- Drug or alcohol abuse allegations
+
+**Costs:** Courts may allocate GAL fees between parties (MCL 722.24(2)); may be waived if parties are indigent.
+
+---
+
+### MCSF Child Support Calculation — Step-by-Step
+
+The **Michigan Child Support Formula (MCSF)** calculation follows a structured sequence:
+
+**Step 1: Determine Each Parent's Gross Income**
+- All income from all sources: wages, self-employment, rental, interest, gifts, inheritances, unemployment, workers' comp, disability, etc. (MCSF §2.01(A))
+- Exclude: public assistance (TANF, SSI, food stamps), child support received for other children
+
+**Step 2: Deduct Specific Allowances (MCSF §2.05)**
+- Federal, state, local income taxes (using actual or estimated withholding)
+- Social Security/FICA taxes
+- Mandatory union dues
+- Mandatory retirement contributions
+- Health insurance premiums for parents only (not child)
+- Support paid for other natural/adopted children per prior support orders
+- Reasonable business expenses for self-employed parents
+
+→ Result: **Net Income** for each parent
+
+**Step 3: Calculate Combined Net Income**
+- Add both parents' net incomes
+
+**Step 4: Determine Overnight Percentage**
+- Count overnight parenting time for the non-custodial parent
+- Threshold: ≥ 128 overnights/year triggers the shared economic responsibility calculation (MCSF §3.04)
+
+**Step 5: Calculate Base Support**
+Using the MCSF income-sharing tables (Appendix):
+- At <128 overnights: straight percentage of combined income allocated to obligor
+- At ≥128 overnights: offset calculation comparing what each parent would owe if the other was the custodial parent
+
+**Step 6: Add Medical Support**
+- Child's health insurance premium (MCL 552.519; MCL 552.605c)
+- Uninsured medical expenses: typically split proportionally to income
+
+**Step 7: Add Child Care Support**
+- Work/school-related child care costs (MCSF §3.06)
+- Adjusted for federal/state tax credits
+
+**Step 8: Confirm Minimum Order**
+- Minimum support: $25/month per child (MCSF §2.06(B)(1)) even if obligor has little or no income
+
+**Deviation Grounds (MCSF §1.04):**
+Court may deviate from the formula if application would be **unjust or inappropriate** based on:
+- Additional support obligations (not in prior order)
+- Educational costs
+- Significant income fluctuations
+- Special needs of child
+- Custody arrangements not captured by overnight formula
+- Health care, etc.
+Court **must** state deviation grounds on the record and in the order.
+
+> *Authority:* MCL 552.519; MCL 552.605; MCSF Manual (current edition); *Ghidotti v Barber*, 459 Mich 189 (1998)
+
+---
+
+### Parenting Time — MCL 722.27a Atomized
+
+**MCL 722.27a** sets out specific parenting time rights and enforcement mechanisms:
+
+**MCL 722.27a(1):** Parenting time is the right of the child. Either parent may petition for parenting time.
+
+**MCL 722.27a(3):** Parenting time shall be granted in frequency, duration, and type reasonably calculated to promote a strong relationship between child and parent *unless* the court determines it would endanger the child's physical, mental, or emotional health.
+
+**MCL 722.27a(5) — Factors Court Considers:**
+1. Existence of domestic violence
+2. Child's age
+3. Each parent's ability to be flexible and work cooperatively
+4. Whether child has special needs
+5. Reasonable likelihood of abuse or neglect during parenting time
+6. Reasonable likelihood of parental abduction
+7. Whether a parent has failed to exercise parenting time
+8. Whether a parent has established a pattern of noncompliance
+9. Whether parenting time interferes with school or social activities
+
+**MCL 722.27a(7) — Parenting Time Interference Remedies:**
+When a parent **willfully denies** parenting time without good cause:
+1. Court shall order makeup parenting time within a reasonable time
+2. Court may order civil contempt
+3. Court may impose sanctions, including fines or attorney fees
+4. **Repeat violation** is grounds for modification of custody (one of the strongest arguments for custody change — *Marik v Marik*, 325 Mich App 353 (2018))
+
+**Supervised Parenting Time:**
+Court may order supervision when there is credible evidence of:
+- Child abuse or neglect
+- Domestic violence
+- Substance abuse that affects parenting
+- Credible risk of abduction
+Supervision is ordered through: parenting time center, professional supervisor, neutral third party, or a family member.
+
+---
+
 ## 6. Friend of the Court (FOC)
 
 ---
@@ -684,6 +844,82 @@ Parties may jointly request FOC services be waived if: (1) no minor children are
 
 ---
 
+### FOC Support Enforcement Toolkit — Atomized
+
+When a support obligor fails to pay, the FOC and the court have an array of enforcement tools:
+
+**1. Income Withholding Order (IWO) — Automatic (MCL 552.604)**
+- All support orders in Michigan are automatically accompanied by an IWO
+- Employer must deduct support from wages and remit to Michigan State Disbursement Unit (MiSDU) within **3 business days** of payday
+- IWO binds employer; employer liability for non-compliance
+- Employer may not discharge employee solely because of IWO (MCL 552.613)
+
+**2. License Suspension (MCL 552.635; MCL 257.321a)**
+- FOC may initiate suspension of: driver's license, professional/occupational licenses, hunting/fishing licenses, recreational vehicle registrations
+- Notice required: obligor given **20 days** to bring account current before suspension is requested from issuing agency
+- Must be at least **2 months** in arrears to trigger license action [UNVERIFIED — confirm current threshold]
+- Conditional reinstatement available: payment agreement + compliance
+
+**3. Tax Refund Intercept (MCL 552.171)**
+- FOC submits account to Michigan Revenue Collection (Michigan Income Tax Refund Intercept) and federal Treasury Offset Program (TOP)
+- Federal TOP intercepts federal income tax refunds, federal retirement payments
+- Threshold: arrears ≥ $150 (for families on public assistance) or ≥ $500 (for others)
+
+**4. Credit Reporting (MCL 552.637)**
+- FOC may report support arrears to consumer credit reporting agencies
+- Helps create financial incentive for compliance
+
+**5. Contempt of Court (MCR 3.208; MCL 552.641)**
+- Show cause order issued; obligor summoned to appear
+- If obligor fails to appear: bench warrant
+- At hearing: court examines ability to pay; if willful non-payment found → jail (civil contempt with purge condition) or fine
+- **Ability to pay** is a jurisdictional prerequisite to civil contempt (*Tkachik v Mandeville*, 487 Mich 38 (2010))
+- Purge condition: pay specific amount to be released from jail
+
+**6. Passport Denial (42 USC 652(k))**
+- Federal law requires denial/revocation of U.S. passport for persons with child support arrears ≥ $2,500
+- Coordinated through federal Office of Child Support Enforcement (OCSE) and State Department
+
+**7. Financial Institution Data Match (FIDM) (MCL 552.672)**
+- FOC/OCSE matches support obligors against financial institution account records
+- May freeze and seize funds to satisfy arrears
+
+**8. Lien on Property (MCL 552.641)**
+- Support arrears create automatic lien on real property in the county of the case
+- Must record with register of deeds to attach to property in other counties
+
+---
+
+### FOC Referee Procedure — Atomized (MCR 3.207)
+
+**Step 1: Referee Hearing**
+- Referee conducts hearing on referee-eligible matters: child support, parenting time, income withholding, modification of support
+- Referee is not a judge; cannot make binding orders — issues a **recommended order** (MCR 3.207(A))
+- Both parties may appear and present evidence
+- Referee records the hearing (audio or transcript)
+
+**Step 2: Recommended Order**
+- Referee issues written recommendation within a reasonable time after hearing
+- Served on all parties with notice of the right to object
+
+**Step 3: Objection Process (MCR 3.207(D))**
+- Any party may file a **written objection** within **21 days** of notification of the recommendation
+- Use **FOC Form 23** (Objection to Referee's Recommended Order)
+- Objection must state **specific grounds** — general objection is insufficient
+- If no timely objection: recommendation becomes an **enforceable court order** (MCR 3.207(D)(1))
+
+**Step 4: De Novo Hearing Before Judge (MCR 3.207(E))**
+- If objection filed, request a de novo hearing using **FOC Form 24**
+- De novo hearing is a **fresh hearing** before the circuit judge — not review of the referee's decision
+- New evidence may be presented; referee's recommendation is not binding
+- Judge may adopt, modify, or reject the referee's recommendation
+- **Deadline:** Request de novo hearing with the objection or promptly after
+
+**Step 5: Appeal**
+- Order following de novo hearing is a final order subject to appeal as of right to the Court of Appeals within **21 days** (MCR 7.204(A)(1))
+
+---
+
 ## 7. Judicial Disqualification & Judicial Conduct
 
 ---
@@ -757,6 +993,65 @@ A judge must not communicate privately with a party or counsel about a pending m
 
 ---
 
+### Federal Judicial Disqualification — 28 USC 455
+
+Federal judges in E.D. Mich. or W.D. Mich. are subject to disqualification under **28 USC 455**:
+
+**28 USC 455(a) — Catch-All:**
+Any justice, judge, or magistrate shall disqualify themselves in any proceeding in which their **impartiality might reasonably be questioned**.
+
+**28 USC 455(b) — Per Se Grounds:**
+| Subsection | Ground |
+|---|---|
+| (b)(1) | Personal bias or prejudice concerning a party or personal knowledge of disputed evidentiary facts |
+| (b)(2) | Former attorney in the matter in controversy |
+| (b)(3) | Former association with law firm that was associated with the matter while judge was a member |
+| (b)(4) | Financial interest in the subject matter (individually or as a fiduciary) |
+| (b)(5) | Party or attorney is a person within the third degree of relationship to judge |
+
+**Procedure — Federal:**
+1. File motion to recuse addressed to the assigned judge
+2. Judge rules on own motion — may recuse voluntarily
+3. If denied, seek a writ of mandamus in the 6th Circuit (rarely granted — extraordinary remedy)
+4. Review on appeal after final judgment for abuse of discretion
+
+**Liteky Standard:** *Liteky v United States*, 510 US 540 (1994) — judicial rulings and conduct in the same case are almost never sufficient for disqualification; bias must stem from an extrajudicial source.
+
+---
+
+### JTC Investigation — Stages & Timeline
+
+| Stage | Description | Approximate Timeline |
+|---|---|---|
+| **Complaint filed** | JTC-1 form submitted; screened for jurisdiction | Day 1 |
+| **Screening** | Staff attorney reviews; if not frivolous, assigned for investigation | Weeks 1–4 |
+| **Preliminary investigation** | Request for response from judge; review of records | Weeks 4–12 |
+| **Investigation complete** | Staff recommends: dismiss, caution, formal complaint | 3–9 months |
+| **Formal complaint filed** | Master appointed; formal hearing scheduled | After investigation |
+| **Master's hearing** | Contested evidentiary hearing; findings of fact | 1–3 months after filing |
+| **JTC recommendation** | Transmitted to Michigan Supreme Court | After master's report |
+| **MSC order** | Censure, suspension, removal, or retirement | Final |
+
+**Discipline Outcomes (Mich Const 1963, art VI, § 30):**
+- **Censure** — public reprimand; no suspension
+- **Censure + suspension** — temporary removal from office without pay
+- **Censure + removal** — permanent removal from office
+- **Compulsory retirement** — if judge is permanently disabled
+
+**Confidentiality:**
+- All JTC proceedings are **confidential** until a formal complaint is filed and served on the judge
+- Once formal complaint is filed, proceedings are public
+
+---
+
+### Disqualification in Referee Proceedings
+
+- **Referee** is subject to the same disqualification standards as a judge: MCR 2.003 applies
+- Motion for disqualification of referee must be filed with the chief judge
+- Delayed disqualification after knowledge is waived
+
+---
+
 ## 8. Due Process Checklist
 
 ---
@@ -822,6 +1117,54 @@ Use this checklist to identify and preserve due process objections:
 - [ ] Transcript ordered to preserve record for appeal (MCR 7.210)
 
 > *Failure to object at the hearing generally waives the issue on appeal.* See *Walters v Nadell*, 481 Mich 377 (2008).
+
+---
+
+### Notice Requirements by Proceeding Type
+
+| Proceeding | Minimum Notice | Authority | Content Required |
+|---|---|---|---|
+| **Contested custody hearing** | MCR 2.119(C): 7 days for non-motion; 9 days by mail | MCR 2.119; MCR 3.206 | Issues to be heard; date, time, place |
+| **Show cause/contempt** | Served personally or by mail; at least 7 days before hearing | MCR 3.208; MCR 3.606 | Specific acts alleged; possible penalties including jail |
+| **PPO modification/termination hearing** | Scheduled within 14 days; service required | MCR 3.703(G)(3) | Copy of PPO; motion; hearing date |
+| **Ex parte order — return date** | Within 14 days of service (PPO); within reasonable time (custody EPOC) | MCR 3.703(G); MCR 3.207(B) | Issued order; return hearing date |
+| **Termination of parental rights** | Personal service required (MCR 3.920(B)(1)) | MCR 3.921; MCL 712A.19b | Petition; specific grounds; date of hearing; right to counsel |
+| **Preliminary hearing (child removal)** | Within 24 hours of removal or next business day | MCR 3.965(B)(1) | Notice to all parties; right to attorney |
+| **Juvenile court arraignment** | Promptly after detention; usually same or next day | MCR 3.935 | Specific charges; rights; right to counsel |
+| **Administrative agency contested case** | MCL 24.271: reasonable notice before hearing | MCL 24.271 | Statement of issues; legal authority; time and place |
+| **Referee recommendation — objection** | Notice of recommendation served; 21 days to object | MCR 3.207(D) | Recommendation; objection deadline; right to de novo hearing |
+
+---
+
+### Due Process Rights at TPR Hearing
+
+Because termination of parental rights is among the most severe state interventions, heightened procedural due process applies:
+
+1. **Right to appointed counsel** — indigent parents are entitled to appointed counsel (MCL 712A.17c; MCR 3.915(B))
+2. **Right to notice** — personal service of petition required; published service not sufficient for parents whose addresses are known
+3. **Clear and convincing evidence standard** — statutory grounds must be proven at this standard (*Santosky v Kramer*, 455 US 745 (1982))
+4. **Right to be present** — parent may not be excluded from the adjudicative hearing
+5. **Right to present evidence and cross-examine** — full adversarial hearing required
+6. **Right to appeal** — free transcript for indigent parent (*M.L.B. v S.L.J.*, 519 US 102 (1996))
+7. **Best interests must be separately found** — two-step process; statutory ground + best interest finding
+8. **ICWA heightened requirements** — if ICWA applies, "beyond a reasonable doubt" + active efforts required (25 USC 1912(d)–(f))
+
+---
+
+### Due Process Rights at Contempt Hearings
+
+**Civil Contempt for Non-Payment of Support:**
+1. Notice of the contempt hearing in writing
+2. Opportunity to present evidence of inability to pay
+3. Court must inquire into current ability to pay (*Turner v Rogers*, 564 US 431 (2011))
+4. If self-represented and facing incarceration, court must provide alternative procedural safeguards (notice of importance of ability-to-pay; form to dispute ability to pay; opportunity to respond to statements re: employment) (*Turner v Rogers*)
+5. Purge condition must be one the contemnor is actually capable of meeting
+
+**Criminal Contempt (PPO violations and other):**
+1. Full criminal due process rights: notice of charge, right to counsel, right to jury trial if potential imprisonment > 6 months (*Bloom v Illinois*, 391 US 194 (1968))
+2. Beyond reasonable doubt standard
+3. Right to silence
+4. Government bears burden of proof
 
 ---
 
@@ -898,6 +1241,43 @@ Use this checklist to identify and preserve due process objections:
 
 ---
 
+### Modification of Child Support — Key Cases
+
+| Case | Citation | Holding / Significance |
+|---|---|---|
+| *Kosch v Kosch* | 233 Mich App 346 (1999) | Support may be modified retroactive to date of filing motion; not to date of change in circumstances |
+| *Coplai v Coplai* | unpub (Mich App) | [UNVERIFIED] Voluntary income reduction does not by itself constitute change of circumstances for support modification |
+| *Cielak v Cielak* | unpub (Mich App) | [UNVERIFIED] Voluntary quit from employment to return to school: income may be imputed at former earning capacity |
+| *Stout v Stout* | unpub (Mich App) | [UNVERIFIED] Court must use MCSF formula; deviation requires specific findings on the record |
+
+### Domestic Relations — Property Division
+
+| Case | Citation | Holding / Significance |
+|---|---|---|
+| *Sparks v Sparks* | 440 Mich 141 (1992) | Sets out factors for equitable property division: length of marriage, contributions, age, health, prior marriage, circumstances; equitable does not mean equal |
+| *Reeves v Reeves* | 226 Mich App 490 (1997) | Marital estate vs. separate property distinction; separate property traced to pre-marital assets or inheritance |
+| *McNamara v Horner* | 249 Mich App 177 (2002) | Fault in causing the divorce is a relevant factor in property distribution; courts retain discretion |
+| *Olson v Olson* | 256 Mich App 619 (2003) | Pension and retirement accounts are marital property subject to equitable distribution; QDRO required for division |
+
+### Custody — Custodial Environment & Modification
+
+| Case | Citation | Holding / Significance |
+|---|---|---|
+| *In re AP* | 283 Mich App 574 (2009) | Where ECE exists with both parents, neither parent can modify custody without clear and convincing evidence |
+| *Lombardo v Lombardo* | 202 Mich App 151 (1993) | Best-interest factors (a)–(l) are not equally weighted; court must balance all factors; no single factor is dispositive |
+| *Arndt v Kasem* | unpub (Mich App) | [UNVERIFIED] Factor (j) (facilitating relationship) should be given significant weight where one parent systematically excludes the other |
+| *Dowd v Dowd* | unpub (Mich App) | [UNVERIFIED] Court must consider domestic violence under factor (k) even if no criminal conviction |
+
+### Spousal Support (Alimony)
+
+| Case | Citation | Holding / Significance |
+|---|---|---|
+| *Loutts v Loutts* | 298 Mich App 21 (2012) | Sets out factors for spousal support: length of marriage, contributions, age, ability to pay, needs, earning capacity; spousal support not a punishment |
+| *Cassidy v Cassidy* | unpub (Mich App) | [UNVERIFIED] Cohabitation with new partner does not automatically terminate spousal support unless the order so provides |
+| *Moore v Moore* | unpub (Mich App) | [UNVERIFIED] Court must consider fault as one factor in spousal support; not a free-standing right to permanent support |
+
+---
+
 ## 10. Federal Caselaw — SCOTUS & 6th Circuit
 
 ---
@@ -951,6 +1331,27 @@ Use this checklist to identify and preserve due process objections:
 | *Mann v Berrien Cnty.* | unpub (6th Cir) | [UNVERIFIED] Summary judgment for defendant reversed; triable issue on whether CPS workers violated clearly established parental rights |
 | *Kottmyer v Maas* | 436 F3d 684 (6th Cir 2006) | Social worker entitled to qualified immunity when removing child if reasonable basis for belief of abuse; no clearly established violation |
 | *Teets v Cuyahoga Cnty.* | unpub (6th Cir) | [UNVERIFIED] Substantive due process claim survives where parent alleges fabricated evidence in custody proceeding |
+
+---
+
+### Additional SCOTUS Caselaw — Family & Child Welfare
+
+| Case | Citation | Holding / Significance |
+|---|---|---|
+| *Parham v J.R.* | 442 US 584 (1979) | Parents generally have authority to commit minor children to mental institutions; substantial due process rights remain but not full adversarial hearing required |
+| *Schall v Martin* | 467 US 253 (1984) | Preventive detention of juveniles before trial may be constitutional when serious risk of flight or harm; *In re Gault* rights distinguished |
+| *Carey v Population Services Int'l* | 431 US 678 (1977) | Constitutional privacy right extends to minors' reproductive decisions; broad state restrictions on contraceptive access to minors unconstitutional |
+| *Wisconsin v Yoder* | 406 US 205 (1972) | Parental right to direct religious education overrides compulsory school attendance law as applied to Amish families |
+| *Zablocki v Redhail* | 434 US 374 (1978) | Right to marry is a fundamental right; state may not condition marriage on ability to pay child support for prior children |
+| *Boddie v Connecticut* | 401 US 371 (1971) | Due process prohibits state from denying access to divorce proceedings solely because of inability to pay filing fees |
+
+### Additional 6th Circuit Key Cases — Family Law
+
+| Case | Citation | Holding / Significance |
+|---|---|---|
+| *Sherbrooke v City of Pelican Rapids* | unpub (6th Cir) | [UNVERIFIED] Removal of children without exigent circumstances or court order is Fourth Amendment seizure |
+| *Pittman v Cuyahoga Cnty. Dep't of Children & Family Servs.* | 640 F3d 716 (6th Cir 2011) | Social worker who removes children from home without warrant absent exigency violates Fourth Amendment |
+| *Brokaw v Mercer Cnty.* | 235 F3d 1000 (7th Cir 2000) | [Persuasive 7th Cir] — Malicious prosecution by social workers in child protective context may be cognizable under § 1983 |
 
 ---
 
@@ -1012,6 +1413,50 @@ Unpreserved errors are reviewed for plain error affecting substantial rights:
 4. Manifest injustice requires reversal
 
 > *Authority:* *People v Carines*, 460 Mich 750 (1999) (criminal); *Vushaj v Farm Bureau Gen Ins Co*, 284 Mich App 513 (2009) (civil).
+
+---
+
+### Additional Michigan Court Deadlines — Family Division
+
+| Action | Deadline | Authority |
+|---|---|---|
+| **Emergency custody order — return hearing** | Within 14 days of service of EPOC | MCR 3.207(B)(3) |
+| **GAL report** | As ordered by court; typically 21 days before hearing | MCR 3.916 |
+| **QDRO submission after divorce judgment** | No statutory deadline, but promptly — pension benefits vest quickly | ERISA/MCL 552 |
+| **Response to complaint (family division)** | 21 days after service (MCR 2.108(A)(1)); 28 days if served by mail | MCR 2.108 |
+| **Response to counter-complaint** | 21 days from service of counter-complaint | MCR 2.108 |
+| **FOC recommended order — final** | 21 days after notice; if no objection, becomes enforceable | MCR 3.207(D)(1) |
+| **Parenting time makeup — ordered** | Court typically orders within 30 days of missed time | MCL 722.27a(7) |
+| **Support modification — retroactivity** | Back to filing date of motion; not before | MCL 552.603a; *Kosch v Kosch* |
+| **Child support termination** | Age 18 or graduation from high school, whichever is later (but not beyond age 19.5) | MCL 552.605b |
+| **Spousal support review** | As specified in judgment; absent provision, no automatic review | MCL 552.28 |
+
+### Michigan Court of Appeals Specific Deadlines
+
+| Action | Deadline | Authority |
+|---|---|---|
+| **Claim of appeal (final order)** | 21 days after entry of order | MCR 7.204(A)(1) |
+| **Application for leave (interlocutory)** | 21 days after entry of order | MCR 7.205(F)(3) |
+| **Application for leave (after delayed appeal)** | Up to 12 months after order; late application discretionary | MCR 7.205(G) |
+| **Appellee's response brief** | 35 days after appellant's brief | MCR 7.212(B) |
+| **Appellant's reply brief** | 21 days after appellee's brief | MCR 7.212(B) |
+| **Cross-appeal brief** | 35 days after appellant's brief | MCR 7.207 |
+| **Motion for reconsideration** | 21 days after COA decision | MCR 7.215(I)(1) |
+| **Application to MSC** | 56 days after COA decision | MCR 7.305(C)(2) |
+| **Motions in COA** | By motion; respond within 7 days (emergency) or 14 days (non-emergency) | MCR 7.211(C)(7) |
+
+### Juvenile Court Deadlines
+
+| Action | Deadline | Authority |
+|---|---|---|
+| **Preliminary hearing after removal** | Within 24 hours or next business day | MCR 3.965(B)(1) |
+| **Pretrial conference** | Within 21 days of petition | MCR 3.962 |
+| **Adjudicative hearing** | Within 63 days of filing of petition (if child detained) | MCR 3.972 |
+| **Dispositional hearing** | Within 28 days of adjudication (if child detained) | MCR 3.973 |
+| **Review hearing** | Every 91 days after disposition | MCL 712A.19 |
+| **Permanency planning hearing** | Within 12 months of removal or within 30 days of finding reunification not possible | MCL 712A.19a |
+| **TPR petition** (required) | After 15 months of out-of-home placement in last 22 months (ASFA) | MCL 712A.19a(8); 42 USC 671(a)(15)(E) |
+| **Notice to ICWA tribe** | As soon as child welfare proceeding begins | 25 USC 1912(a) |
 
 ---
 
@@ -1085,6 +1530,77 @@ If charged with PPO violation (criminal contempt, MCL 764.15b; or civil contempt
 
 ---
 
+### MCL 600.2950 — Prohibited Acts (Domestic Relationship PPO)
+
+A domestic relationship PPO may prohibit any of the following acts (MCL 600.2950(1)):
+
+| Act | Description |
+|---|---|
+| **(a)** | Entering onto premises |
+| **(b)** | Assaulting, attacking, beating, molesting, or wounding the petitioner |
+| **(c)** | Threatening to kill or physically injure the petitioner or another person |
+| **(d)** | Removing minor children from the person having legal custody, except as authorized by existing custody order |
+| **(e)** | Stalking as defined in MCL 750.411h or 750.411i |
+| **(f)** | Purchasing or possessing a firearm |
+| **(g)** | Interfering with petitioner at petitioner's place of employment or education; interfering with petitioner's employment or educational relationships or environment |
+| **(h)** | Having access to information in the records of the department regarding address, employer, or school of petitioner or minor children |
+| **(i)** | Engaging in conduct that imposes on or interferes with personal liberty or that causes a reasonable apprehension of violence |
+| **(j)** | Posting a message through the use of any medium of communication, including the internet or a computer or any electronic medium |
+
+**Important:** The order must specify which prohibited acts apply. A blanket "all of the above" order may be challenged on specificity grounds.
+
+---
+
+### MCL 600.2950a — Non-Domestic PPO — Prohibited Acts
+
+A non-domestic stalking PPO may prohibit the same acts listed in MCL 600.2950(1)(a)–(j) above and additionally:
+- Following petitioner to or from work
+- Appearing at petitioner's home or workplace
+- Monitoring petitioner's internet or electronic communications
+- Sending petitioner electronic communications or messages
+
+---
+
+### Stalking — MCL 750.411h — Elements Atomized
+
+For a **non-domestic stalking PPO** under MCL 600.2950a, petitioner must show conduct constituting **stalking** (MCL 750.411h) or **aggravated stalking** (MCL 750.411i).
+
+**Stalking — MCL 750.411h(1):**
+"Stalking" means a **willful course of conduct** involving **repeated or continuing harassment** of an individual that would cause a **reasonable person** to feel terrorized, frightened, intimidated, threatened, harassed, or molested, and that actually causes the victim to feel terrorized, frightened, intimidated, threatened, harassed, or molested.
+
+**Required Elements:**
+1. **Willful** — the conduct is intentional
+2. **Course of conduct** — a pattern of behavior composed of 2 or more separate noncontinuous acts evidencing a continuity of purpose
+3. **Repeated or continuing harassment** — the conduct must be more than an isolated act
+4. **Objectively reasonable person** would feel terrorized, frightened, intimidated, threatened, harassed, or molested
+5. **Subjectively** — the petitioner actually feels terrorized, frightened, intimidated, threatened, harassed, or molested
+
+**Harassment — MCL 750.411h(1)(c):**
+"Harassment" means conduct directed toward a victim that includes, but is not limited to, **repeated or continuing** unconsented contact that would cause a reasonable individual to suffer emotional distress.
+
+**Aggravated Stalking — MCL 750.411i:**
+Adds one or more aggravating circumstances:
+- Violation of a PPO or restraining order
+- Making a credible threat (express or implicit)
+- Prior stalking conviction
+- Victim is under 18
+- Defendant was armed with a dangerous weapon
+
+---
+
+### PPO Penalty Schedule
+
+| Violation | Type | Maximum Penalty |
+|---|---|---|
+| **Criminal contempt — PPO violation** | Criminal misdemeanor (MCL 764.15b) | 93 days jail; $500 fine (first offense) |
+| **Second or subsequent PPO violation** | Criminal misdemeanor | 1 year jail; $1,000 fine |
+| **Aggravated stalking** | Felony (MCL 750.411i) | 5 years; $10,000 fine |
+| **Stalking — subsequent conviction** | Felony | 5 years; $10,000 fine |
+| **Violation of PPO by registered sex offender** | Enhanced penalty | [UNVERIFIED — confirm current penalty] |
+| **Civil contempt** | Court discretion | Fine; imprisonment until compliance (purge) |
+
+---
+
 ## 13. Benchbooks & Citation Format
 
 ---
@@ -1129,6 +1645,40 @@ Michigan uses the **Uniform System of Citation** with local modifications. The a
 | **Michigan Uniform System of Citation** | Official citation guide | https://courts.michigan.gov/Courts/MichiganSupremeCourt/Clerks/Pages/StyleManual.aspx |
 | **Michigan Rules of Court — State** | Official bound rules (Thomson Reuters / LexisNexis) | Law libraries; LexisNexis; Westlaw |
 | **Attorney General Opinions** | Formal opinions of the Michigan AG interpreting state law | https://www.michigan.gov/ag/divisions/opinions |
+
+---
+
+### Michigan Citation Format — Advanced Rules
+
+**Pinpoint Citations:**
+- Add specific page: *Fletcher v Fletcher*, 447 Mich 871, 877 (1994)
+- Add specific subsection of statute: MCL 722.23(j)
+- Add specific subsection of rule: MCR 7.204(A)(1)(a)
+
+**Michigan Register:**
+- Administrative rules: Mich Admin Code R 325.xxx — cite to current Michigan Administrative Code (MAC)
+- Proposed rules: Michigan Register (Mich Reg), e.g., 2024 MR 10, p 23
+
+**SCAO Memoranda:**
+- Not binding authority but persuasive; cite as: SCAO Memorandum, dated [date]
+
+**Attorney General Opinions:**
+- Formal OAG: OAG 1996, No 6896, p 1 (Feb 5, 1996)
+- Informal: Unpublished opinion of the Michigan Attorney General, dated [date]
+
+**Unpublished Court of Appeals Opinions — Caution:**
+- Under MCR 7.215(C)(1): unpublished opinions are NOT precedentially binding
+- May be cited for persuasive value with notation "unpub op"
+- Must include: full docket number and date of issuance
+- Citing published opinion in same area is always preferred
+
+**Short-form Citations:**
+- After first full citation: use case name alone or *Id.* for immediately preceding citation
+- *Id. at 500* — same case, different page
+- *Supra* — not used in Michigan courts (use full cite again or shortened case name)
+
+**Court Rules — Amended:**
+- When a rule has been amended, specify effective date if relevant: MCR 7.212(B) (as amended eff Jan 1, 2023)
 
 ---
 
@@ -1365,6 +1915,76 @@ The **Office of Administrative Hearings and Rules** (formerly known as SOAH) pro
 
 ---
 
+### MAPA Contested Case Procedure — Atomized (MCL 24.271–24.292)
+
+**Step-by-Step Procedure:**
+
+1. **Notice of Hearing (MCL 24.271)**
+   - Agency must give reasonable notice of hearing to affected parties
+   - Notice must include: time, place, nature of hearing, legal authority, issues to be heard
+   - Must be given sufficiently in advance to allow preparation
+
+2. **Hearing Rights (MCL 24.272)**
+   - All parties have right to: submit evidence; cross-examine witnesses; make arguments; file objections
+   - Informal disposition by consent; settlement; stipulation of facts (MCL 24.273)
+   - Evidence: rules of evidence inapplicable unless agency adopts them; hearsay admissible if reliable; weight in agency discretion
+
+3. **Subpoenas (MCL 24.277)**
+   - ALJ or presiding officer may issue subpoenas for witnesses and documents
+   - Subpoenas enforceable in circuit court
+
+4. **Proposed Decision (MCL 24.281)**
+   - After hearing: ALJ issues proposal for decision
+   - Parties may file **exceptions** within time set by agency (usually 20–30 days)
+   - Exceptions: must identify specific findings or conclusions objected to; cite evidence
+
+5. **Final Decision (MCL 24.285)**
+   - Agency issues final order after considering exceptions
+   - Must contain: findings of fact on each contested material fact; conclusions of law; reasons
+   - Must be served on all parties
+
+6. **Judicial Review (MCL 24.301–24.306)**
+   - File **complaint for review** in circuit court of county where agency's principal office is located
+   - Deadline: **60 days** after final agency decision (jurisdictional)
+   - Court reviews administrative record; may order additional evidence if record insufficient
+   - Standards per MCL 24.306 (substantial evidence; arbitrary and capricious; beyond authority)
+
+---
+
+### Michigan Unemployment Insurance Agency (UIA) — Appeals
+
+| Level | Body | Deadline |
+|---|---|---|
+| Initial claim decision | UIA determination | Agency issues; parties notified |
+| First appeal | Unemployment Insurance Appeals Commission (UIAC) Referee | **30 days** after mailing of determination |
+| Second appeal | UIAC Board of Review | **30 days** after Referee decision |
+| Judicial review | Circuit court (under APA) | **30 days** after UIAC Board of Review final order |
+| Further appeal | Court of Appeals / MSC | Standard MCR 7 deadlines |
+
+**Key UIA Issues:**
+- Misconduct standard: simple negligence is NOT misconduct; willful or wanton disregard of employer's interests required
+- Voluntary quit without good cause: disqualifies for benefits
+- Independent contractor vs. employee: economic realities test
+
+---
+
+### Michigan Tax Tribunal (MTT) — Procedure
+
+The **Michigan Tax Tribunal** (MTT) is the exclusive venue for appeals of property tax assessments and certain state tax disputes.
+
+**Jurisdiction:** MCL 205.731–205.753
+**Property tax appeals:** assessments; classification; exemptions; special assessments
+**Small Claims Division:** assessed value ≤ $100,000; informal procedure
+
+| Type | Deadline | Authority |
+|---|---|---|
+| Property tax — residential/agricultural | Petition by **July 31** of the tax year | MCL 205.735a |
+| Property tax — commercial/industrial | Petition by **May 31** of the tax year | MCL 205.735a |
+| Residential — small claims | Same July 31 deadline | MCL 205.762 |
+| State tax disputes | **60 days** after final determination | MCL 205.735 |
+
+---
+
 ## 18. Juvenile Proceedings & Child Protection
 
 ---
@@ -1474,6 +2094,70 @@ The **Indian Child Welfare Act** (ICWA), 25 USC 1901 et seq., applies whenever a
 
 ---
 
+### All MCL 712A.19b(3) TPR Grounds — Complete
+
+The **complete list** of statutory grounds for termination of parental rights under MCL 712A.19b(3):
+
+| Subsection | Ground | Summary |
+|---|---|---|
+| **(a)** | Desertion | Parent has deserted child for 91 or more days; no efforts to reestablish contact |
+| **(b)(i)** | Physical abuse | Parent physically abused child or allowed physical abuse; likelihood of harm if returned |
+| **(b)(ii)** | Sexual abuse | Parent sexually abused or allowed sexual abuse; likelihood of harm |
+| **(b)(iii)** | Non-accidental physical injury | Person living in home inflicted non-accidental physical injury; parent failed to protect |
+| **(c)(i)** | Failure to rectify conditions | Conditions that led to adjudication still exist; no reasonable likelihood of rectification within reasonable time |
+| **(c)(ii)** | Other conditions | Other conditions exist; no reasonable likelihood of rectification within reasonable time |
+| **(d)** | Substantial failure to substantially comply with case service plan | Without reasonable cause; expected to continue |
+| **(e)** | Developmental disability/mental illness | Parent is unable to provide proper care or custody due to developmental disability or mental illness; condition will continue |
+| **(f)** | Failure of reasonable efforts | Agency made reasonable efforts to provide services; parent failed to participate or benefit |
+| **(g)** | Failure to provide care — without regard to intent | Parent, without regard to intent, fails to provide proper care; no reasonable expectation of improvement |
+| **(h)** | Incarceration | Parent is imprisoned and, considering the age and needs of the child, will be unable to provide proper care within a reasonable time |
+| **(i)** | Parental rights terminated to another child | Parent's rights to sibling terminated under §19b or similar provision of another state |
+| **(j)** | Likelihood of harm | Reasonable likelihood that child will be harmed if returned to parent |
+| **(k)** | Aggravated circumstances | Murder or voluntary manslaughter of a child; aided or abetted such murder; committed assault resulting in serious bodily injury to child; abandonment with intent to permanently relinquish parental rights |
+| **(l)** | Prior TPR | Parent's rights to another child have been terminated due to serious or chronic neglect or physical or sexual abuse |
+| **(m)** | Criminal conviction | Parent was convicted of certain enumerated felonies including: 1st degree murder, 2nd degree murder, 1st degree CSC involving minor, armed robbery involving minor, etc. |
+| **(n)** | Nonparent adult's criminal conduct | Nonparent adult living in home convicted of certain crimes involving child |
+
+---
+
+### Preliminary Hearing (MCR 3.965) — Atomized Procedure
+
+The preliminary hearing must occur **within 24 hours or next business day** after a child is removed from the home without a court order.
+
+**At the Preliminary Hearing, Court Must Determine:**
+1. **Jurisdiction:** Whether the court has jurisdiction over the child
+2. **Probable cause:** Whether there is probable cause to believe the child is within the court's jurisdiction under MCL 712A.2
+3. **Safety:** Whether it is contrary to the welfare of the child to remain in or be returned to the home
+4. **Placement:** Where the child should be placed pending further proceedings
+5. **Reasonable efforts:** Whether the agency has made reasonable efforts to prevent removal or whether an emergency existed precluding such efforts
+
+**Placement Preferences:**
+1. With a relative (MCL 712A.13a(1)) — preferred
+2. With licensed foster family
+3. Group home
+4. Residential facility (only if less restrictive placements inadequate)
+
+**Orders the Court May Make:**
+- Return child to parent with or without conditions
+- Place child with relative under supervision
+- Place child in licensed foster care
+- Order services for parent; drug testing; parenting classes
+- Authorize MDHHS placement
+
+---
+
+### Reasonable Efforts vs. Active Efforts (ICWA)
+
+| Standard | Context | Description |
+|---|---|---|
+| **Reasonable efforts** | Non-ICWA cases; reunification | Agency must make reasonable efforts to preserve family and prevent removal; reasonable efforts to reunify after removal (MCL 712A.19a; 42 USC 671(a)(15)) |
+| **Active efforts** | ICWA cases | Higher standard; affirmative, active efforts to provide services; must go beyond merely offering services — must actively assist the parent in obtaining them (25 USC 1912(d); 25 CFR 23.2) |
+
+**Active Efforts Definition (25 CFR 23.2):**
+"Active efforts" means affirmative, active, thorough, and timely efforts intended primarily to maintain or reunite an Indian child with his or her family. Passive efforts — such as merely informing a parent of services — are insufficient.
+
+---
+
 ## 19. Criminal Procedure Essentials
 
 ---
@@ -1520,19 +2204,78 @@ Michigan uses a **grid-based sentencing guidelines** system for felony sentences
 
 > *After* People v Lockridge, 498 Mich 358 (2015)*, the guidelines are advisory only following the holding that mandatory guidelines violated the Sixth Amendment. Courts must consult but are not bound by the range; any sentence within the statutory maximum may be imposed with adequate explanation.*
 
-**Selected OV Scores:**
+**Complete MSGCS Offense Variables (OV):**
 
-| Variable | Topic | Max Points |
-|---|---|---|
-| OV 1 | Aggravated use of weapon | 25 pts |
-| OV 3 | Physical injury to victim | 100 pts |
-| OV 4 | Psychological injury | 10 pts |
-| OV 10 | Exploitation of vulnerable victim | 15 pts |
-| OV 13 | Continuing pattern of criminal behavior | 50 pts |
+| Variable | Topic | Point Range | Key Thresholds |
+|---|---|---|---|
+| OV 1 | Aggravated use of weapon | 0–25 | 25 = firearm discharged; 20 = firearm pointed; 15 = firearm displayed; 10 = knife/blade; 5 = other dangerous weapon |
+| OV 2 | Lethal potential of weapon | 0–15 | 15 = machine gun or similar; 10 = short-barreled rifle/shotgun; 5 = pistol/firearm; 1 = other dangerous weapon |
+| OV 3 | Physical injury to victim | 0–100 | 100 = death; 50 = life-threatening injury; 25 = serious impairment; 10 = bodily injury requiring professional medical treatment; 5 = bodily injury not requiring treatment; 0 = no injury |
+| OV 4 | Psychological injury to victim | 0–10 | 10 = serious psychological injury requiring professional treatment; 0 = no injury |
+| OV 5 | Psychological injury to member of victim's family | 0–15 | 15 = family member suffered; 0 = no injury |
+| OV 6 | Offender's role in planning criminal episode | 0–50 | 50 = premeditated intent to kill; 25 = acted with reckless disregard; 10 = created risk of injury; 0 = no relevant offense |
+| OV 7 | Aggravated physical abuse | 0–50 | 50 = victim treated with sadism, torture, or excessive brutality or conduct designed to substantially increase victim's fear; 0 = no aggravated conduct |
+| OV 8 | Asportation or captivity of victim | 0–15 | 15 = asported more than incidental to crime; 0 = no asportation |
+| OV 9 | Number of victims | 0–100 | 100 = ≥ 20 victims; 25 = 4–19 victims; 10 = 2–3 victims; 0 = 1 victim |
+| OV 10 | Exploitation of vulnerable victim | 0–15 | 15 = predatory conduct; 10 = victim's vulnerability was exploited; 5 = victim was a member of a "vulnerable class" |
+| OV 11 | Criminal sexual penetration | 0–50 | 50 = ≥ 2 separate penetrations; 25 = 1 penetration; 0 = no penetration |
+| OV 12 | Contemporaneous felonious criminal acts | 0–25 | 25 = 3+ contemporaneous felonious acts; 10 = 2 contemporaneous felonious acts; 5 = 1 contemporaneous felonious act |
+| OV 13 | Continuing pattern of criminal behavior | 0–50 | 50 = offenses spanning 5+ years; 25 = 3+ crimes of same category within 5 years; 10 = 3+ crimes in different categories within 5 years |
+| OV 14 | Offender's role | 0–10 | 10 = leader; 0 = not a leader |
+| OV 16 | Property obtained, damaged, lost, or destroyed | 0–10 | 10 = > $5,000; 5 = $1,000–$5,000; 0 = < $1,000 |
+| OV 17 | Degree of negligence | 0–10 | 10 = acted with gross negligence; 5 = acted with negligence |
+| OV 18 | Operator ability affected by alcohol/drugs | 0–20 | 20 = BAC ≥ 0.15; 15 = BAC 0.08–0.15; 10 = under influence of controlled substance; 0 = not applicable |
+| OV 19 | Threat to security of penal institution or court | 0–25 | 25 = threatened security of penal institution; 10 = interfered with administration of justice; 0 = no interference |
+
+**Complete MSGCS Prior Record Variables (PRV):**
+
+| Variable | Topic | Point Range | Key Thresholds |
+|---|---|---|---|
+| PRV 1 | Prior high-severity felony convictions | 0–75 | 75 = ≥ 3; 50 = 2; 25 = 1; 0 = none |
+| PRV 2 | Prior low-severity felony convictions | 0–30 | 30 = ≥ 4; 20 = 3; 10 = 2; 5 = 1; 0 = none |
+| PRV 3 | Prior high-severity juvenile adjudications | 0–50 | 50 = ≥ 3; 25 = 2; 10 = 1; 0 = none |
+| PRV 4 | Prior low-severity juvenile adjudications | 0–20 | 20 = ≥ 6; 15 = 4–5; 10 = 2–3; 5 = 1; 0 = none |
+| PRV 5 | Prior misdemeanor convictions or juvenile adjudications | 0–20 | 20 = ≥ 7; 15 = 5–6; 10 = 3–4; 5 = 1–2; 0 = none |
+| PRV 6 | Relationship to criminal justice system at time of offense | 0–20 | 20 = incarcerated; 15 = on probation or parole; 10 = on bond or on escape; 5 = on delayed sentence; 0 = no relationship |
+| PRV 7 | Subsequent or concurrent felony convictions | 0–20 | 20 = ≥ 2; 10 = 1; 0 = none |
+
+**Sentencing Grid:**
+PRV and OV scores together locate the defendant in a cell (A–I) of the sentencing grid for the appropriate felony classification (A–H, plus life offense). The grid prescribes a minimum sentence range.
 
 ---
 
-### Plea Bargaining
+### Brady/Giglio Material — Discovery Rights
+
+**Brady v Maryland**, 373 US 83 (1963): Prosecution must disclose all material exculpatory evidence.
+
+**Giglio v United States**, 405 US 150 (1972): Duty extends to impeachment evidence about prosecution witnesses (prior convictions, deals with prosecution, inconsistent statements).
+
+**Materiality Standard:** Evidence is material if there is a "reasonable probability" that disclosure would produce a different result.
+
+**MCR 6.201 — Michigan Discovery Obligations:**
+- Prosecution must disclose: names and addresses of witnesses; prior criminal convictions of prosecution witnesses; exculpatory evidence; any deal or agreement with a prosecution witness
+- Defense must disclose: names of alibi witnesses; expert witnesses and their reports
+
+**Brady Violation — Elements:**
+1. The evidence is favorable to the defendant (exculpatory or impeaching)
+2. The prosecution suppressed or withheld the evidence
+3. The evidence is material (reasonable probability of different outcome)
+
+---
+
+### Post-Conviction Motions — Complete Procedure
+
+**MCR 6.500 — Motion for Relief from Judgment:**
+1. File in trial court; no time limit but one year is typical
+2. Motion must: state grounds; cite authority; include verification
+3. Grounds that can be raised: ineffective assistance of counsel; newly discovered evidence; constitutional violations; newly recognized right
+4. **Procedural default rule (MCR 6.508(D)):** If ground was not raised on direct appeal, must show "good cause" for failure to raise AND actual prejudice (or fundamental miscarriage of justice)
+5. Only one motion as of right; subsequent motions require leave of court showing new grounds
+6. If trial court denies: appeal by leave to Court of Appeals; if COA denies: application to MSC
+
+---
+
+## 20. Standards of Review
 
 **Types of Plea Agreements (MCR 6.302):**
 
@@ -1615,6 +2358,33 @@ Michigan appellate courts apply different standards of review depending on the n
 
 ---
 
+### Preservation of Standard of Review
+
+To preserve the applicable standard, a party must:
+- **Object to legal errors** at the time of ruling → preserves de novo review
+- **Object to factual findings** at or before entry of order → preserves clearly erroneous review
+- **Challenge evidentiary rulings** at time evidence is offered → preserves abuse-of-discretion review
+- **Challenge constitutional issues** in the trial court → preserves de novo review
+- **Fail to object** → plain error review (4-prong *Carines* test)
+
+**First-Instance vs. Second-Instance Review:**
+When the Court of Appeals reviews a trial court decision de novo, the MSC reviews the Court of Appeals decision de novo as well. If the COA reviewed for clear error, the MSC still applies its own de novo standard to any embedded legal question but clear error to the COA's fact-review.
+
+---
+
+### Standards of Review — Criminal Context
+
+| Issue | Standard | Authority |
+|---|---|---|
+| Sufficiency of evidence | Whether rational trier of fact could find elements proven beyond a reasonable doubt | *People v Wolfe*, 440 Mich 508 (1992) |
+| Sentencing departure (MSGCS post-*Lockridge*) | Reasonableness / abuse of discretion | *People v Lockridge*, 498 Mich 358 (2015) |
+| Constitutional search/seizure questions | De novo (legal); clear error (factual) | *People v Kazmierczak*, 461 Mich 411 (2000) |
+| Ineffective assistance of counsel | Mixed: de novo (legal standard); clearly erroneous (factual findings) | *Strickland v Washington*, 466 US 668 (1984); *People v Carbin*, 463 Mich 590 (2001) |
+| Jury instruction error | De novo; if unpreserved, plain error | *People v Aldrich*, 246 Mich App 101 (2001) |
+| Prosecutorial misconduct | De novo; if unpreserved, plain error | *People v Brown*, 279 Mich App 116 (2008) |
+
+---
+
 ## 21. Interstate Jurisdiction — UCCJEA & UIFSA
 
 ---
@@ -1681,6 +2451,25 @@ UIFSA establishes that only **one controlling support order** may be in effect a
 
 ---
 
+### UCCJEA — International Custody (MCL 722.1105)
+
+The UCCJEA may also apply to international custody disputes:
+- Court may treat a foreign country as a state for UCCJEA purposes
+- Foreign judgment may be recognized if rendered under due process equivalent to Michigan's
+- **Hague Convention on Child Abduction:** separate framework for international parental abduction; if applicable, return of child to country of habitual residence ordered unless statutory exceptions (grave risk of harm; child's well-settled in new country)
+- Federal implementing statute: International Child Abduction Remedies Act (ICARA), 22 USC 9001 et seq.
+
+### UIFSA — Income Withholding — Employer Obligations
+
+**When Michigan employer receives IWO from another state (MCL 552.2501):**
+1. Employer must **begin withholding** no later than the pay date in the next pay period after the IWO is received
+2. Employer must **remit** to the payment processing location in the IWO within **2 business days** of the pay date
+3. Employer may NOT fire or refuse to hire because of an IWO
+4. Employer may deduct a **processing fee** (up to $5 per pay period in Michigan)
+5. If withholding exceeds income limits (Consumer Credit Protection Act, 15 USC 1673): withhold only up to 50%–65% of disposable earnings depending on support obligations and arrears status
+
+---
+
 ## 22. Attorney Ethics — Key MRPC Rules
 
 The **Michigan Rules of Professional Conduct** (MRPC) are promulgated by the Michigan Supreme Court and enforced by the Attorney Grievance Commission (AGC) and Attorney Discipline Board (ADB).
@@ -1724,6 +2513,45 @@ MRPC 1.5(d)(1) prohibits contingency fees in domestic relations cases (divorce, 
 5. Appeal to full ADB board; then to Michigan Supreme Court
 
 > *Resources:* Michigan State Bar ethics helpline: (800) 223-6107; formal ethics opinions published at https://www.michbar.org/opinions
+
+---
+
+### MRPC 1.7 Conflict of Interest — Full Analysis Framework
+
+**Step 1: Is there a directly adverse conflict?**
+- Does Lawyer's representation of Client A directly conflict with Client B?
+- Direct adversity exists when clients' legal positions are opposed in the same or related matter
+
+**Step 2: Is there a material limitation conflict?**
+- Will Lawyer's representation of Client A be **materially limited** by Lawyer's responsibilities to Client B, a third person, or Lawyer's own interests?
+- Includes representing both parents in a custody dispute (prohibited)
+
+**Step 3: Can the conflict be waived?**
+- Both clients must provide **informed written consent**
+- After full disclosure of implications
+- Lawyer must reasonably believe they can provide competent, diligent representation to both
+
+**Non-Consentable Conflicts:**
+- Representing both parties to a divorce
+- Representing adverse parties in custody (e.g., both parents when their interests are adverse)
+- Criminal defense attorney who has a personal financial stake in the outcome
+
+---
+
+### MRPC 1.15 — Trust Account Obligations (Atomized)
+
+Attorneys holding client funds must:
+1. Maintain funds in an **IOLTA (Interest on Lawyers Trust Account)** account at an eligible financial institution
+2. Maintain **separate records** for each client's funds
+3. **Never commingle** client funds with attorney's operating funds
+4. Promptly notify client of receipt of funds; promptly disburse
+5. Provide accounting of funds upon request
+6. Maintain records for **5 years** after representation ends (MCR 9.128)
+
+**Common Trust Account Violations (often lead to disbarment):**
+- Conversion: using client funds for personal purposes
+- Commingling: depositing client funds in operating account
+- Failure to maintain records
 
 ---
 
@@ -1793,6 +2621,49 @@ When a PPO is issued, Michigan law and federal law impose **firearm restrictions
 | Legal Services of South Central Michigan | https://lsscm.org | Free legal help for DV survivors |
 | Wolverine Human Services | — | Residential and therapeutic services |
 | Michigan Legal Help — DV Section | https://michiganlegalhelp.org/topics/domestic-violence | Plain-language guides, forms |
+
+---
+
+### DV Lethality Assessment & Safety Planning
+
+When representing DV victims, attorneys and advocates should conduct a **lethality assessment**:
+
+**High-Risk Indicators (Jacquelyn Campbell Danger Assessment):**
+- Perpetrator has threatened to kill victim or children
+- Perpetrator owns or has access to firearms
+- Perpetrator has choked or strangled victim
+- Perpetrator is obsessively jealous or controlling
+- Perpetrator has violated a PPO
+- Escalating frequency or severity of violence
+- Perpetrator has made suicidal statements
+
+**Safety Planning Considerations:**
+- Have an "escape bag" with documents (ID, Social Security card, birth certificates, money, medications)
+- Know alternate safe locations (shelter, trusted person's home)
+- Document evidence of abuse (photographs, medical records, 911 call records)
+- Consider Safe at Home enrollment before serving divorce papers
+- Consider timing of PPO application relative to other proceedings
+
+**DV in Custody Cases — Factor (k) Analysis:**
+MCL 722.23(k) requires courts to consider domestic violence and its effect on children in custody determinations. Courts must:
+- Treat DV as a significant factor weighing against joint legal/physical custody with the perpetrator
+- Require supervised parenting time where DV poses continuing risk to child
+- Reference *Nassar v Nassar*, 481 Mich App (unpub) [UNVERIFIED — confirm citation]
+
+**DAIP Duluth Model:**
+Many Michigan counties use the Duluth Model (Domestic Abuse Intervention Project) for batterer intervention programs. Judges may order completion as a condition of supervised parenting time.
+
+---
+
+### VAWA Housing Protections — Atomized (34 USC 12491)
+
+Under VAWA 2013 and 2022 reauthorization:
+
+1. **Public housing:** Public housing authority (PHA) cannot evict a victim of DV, dating violence, sexual assault, or stalking solely on the basis of that violence
+2. **Lease bifurcation:** PHA may bifurcate lease to remove the perpetrator and let victim remain
+3. **Emergency transfer:** Victim may request emergency transfer to a new unit; PHA must have emergency transfer plan
+4. **Confidentiality:** PHA may not disclose victim's information without consent; disclosure only to law enforcement or if necessary to protect health/safety
+5. **Private housing:** Covered under HUD-assisted programs; tenant may terminate lease by providing certification of DV + 30-day notice
 
 ---
 
@@ -1877,6 +2748,26 @@ For contempt outside the domestic relations context (e.g., discovery violations,
 - Indirect contempt (outside court): show cause procedure with notice and hearing
 - Written findings required
 - Court may impose jail, fine, or coercive sanction
+
+---
+
+### Contempt Sanctions — Table
+
+| Sanction | Civil Contempt | Criminal Contempt | Notes |
+|---|---|---|---|
+| Incarceration (conditional) | Yes — released upon compliance | No — fixed term | Purge condition required for civil |
+| Fine | Yes — coercive | Yes — punitive | Civil: may be coercive (accumulating per day); criminal: fixed |
+| Attorney fees | Yes | No | MCL 552.641; MCR 3.208 |
+| Makeup parenting time | Yes (family law) | N/A | MCL 722.27a(7) |
+| Modify custody | Yes (repeated violation) | No | *Marik v Marik*, 325 Mich App 353 (2018) |
+| Bench warrant | If fail to appear | If fail to appear | MCR 3.208(D) |
+
+### Contempt in Discovery Context — MCR 2.313
+
+When a party fails to comply with a discovery order:
+- Court may: strike pleadings; render default judgment; dismiss the action; hold in contempt; award attorney fees
+- Must first issue order compelling discovery before sanctions
+- Contempt is available **only if** a prior order was violated — not for initial non-disclosure
 
 ---
 
@@ -1995,6 +2886,71 @@ An approved home study (background check, home assessment, references) is requir
 > *Authority:* MCL 710.21–710.70; *In re Clausen*, 442 Mich 648 (1993) (competing claims to child placement; analysis of consent and revocation); *DeBoer v Schmidt*, 509 US 1301 (1993) (same controversy, SCOTUS level) [UNVERIFIED — confirm *DeBoer* citation]
 
 > *Authority:* MCL 710.21–710.70; *In re Clausen*, 442 Mich 648 (1993) (competing claims to child placement; analysis of consent and revocation); *DeBoer v Schmidt*, 509 US 1301 (1993) (same controversy, SCOTUS level) [UNVERIFIED — confirm *DeBoer* citation]
+
+---
+
+### Minor Guardianship — Full Petition Procedure (MCL 700.5204)
+
+**Required Documents:**
+1. Petition for Appointment of Guardian of Minor (PC 651)
+2. List of interested parties (parents, minor if 14+, spouse if married minor)
+3. Acceptance of Appointment (PC 571)
+4. Medical/psychological information if relevant
+5. Proposed Order
+
+**Step-by-Step Procedure:**
+1. File petition in probate court in county where minor resides
+2. Pay filing fee (waiver available for indigent petitioners)
+3. Court sets hearing date; schedules appointment of GAL if contested
+4. Serve all interested parties: parents; minor (if 14+); any person having care or custody
+5. If parents do not consent: court may appoint attorney for parents; conduct evidentiary hearing
+6. Standard: appointment must be in the **best interest of the minor**
+7. Court enters Order Regarding Appointment of Guardian of Minor (PC 654)
+8. Letters of Guardianship issued (PC 631); valid until revoked or ward turns 18
+
+**Annual Reporting:**
+- Guardian must file annual report (PC 654) with probate court
+- Report must include: current placement; child's condition; educational status; reasons guardianship should continue
+
+**Termination:**
+- Motion to terminate guardianship (PC 661); any interested party may move
+- Parent seeking return of child must show changed circumstances and that return is in child's best interest
+
+---
+
+### Limited Guardianship (MCL 700.5206)
+
+A **limited guardianship** may be created with parental consent when parents are temporarily unable to care for a child but are not unfit:
+- Parents and proposed guardian prepare a **placement plan** specifying conditions for return
+- Court approves plan and appoints limited guardian
+- Limited guardian has only authority specified in the order
+- If parents comply with plan, guardianship ends; if not, may be converted to full or permanent guardianship
+- **Annual review** by court required
+
+---
+
+### Adult Guardianship — Petition Procedure (MCL 700.5301 et seq.)
+
+**Required Documents:**
+1. Petition for Appointment of Guardian of Legally Incapacitated Individual (PC 625)
+2. Physician's certificate or clinical certificate (PC 583)
+3. Notice to ward and interested parties (PC 563)
+4. Acceptance of Appointment (PC 571)
+
+**Step-by-Step:**
+1. File petition in probate court; pay filing fee
+2. Court appoints GAL (distinct from proposed guardian)
+3. GAL visits proposed ward; reports to court on ward's wishes and condition
+4. Notice to all interested persons (heirs, next of kin, persons providing care)
+5. Medical/psychological evaluation required (MCL 700.5306)
+6. Hearing: proposed ward has right to be present; right to attorney; right to jury trial (MCL 700.5308)
+7. Court must find by **clear and convincing evidence** that individual is incapacitated and guardianship is necessary
+8. Least restrictive alternative must be considered; **limited guardianship** preferred where possible
+9. Letters of Guardianship issued (PC 631)
+
+**Annual Requirements:**
+- Annual report to court (PC 639)
+- Annual review hearing; court may modify or terminate
 
 ---
 
