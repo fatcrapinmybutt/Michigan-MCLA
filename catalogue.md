@@ -161,6 +161,33 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [TrueFiling — Court of Appeals & MSC](#truefiling--court-of-appeals--msc)
     - [OTIS — Online Records Search](#otis--online-records-search)
     - [Remote Hearings & Zoom Protocol](#remote-hearings--zoom-protocol)
+36. [Federal Courts in Michigan](#36-federal-courts-in-michigan)
+    - [Eastern District of Michigan (E.D. Mich)](#eastern-district-of-michigan-ed-mich)
+    - [Western District of Michigan (W.D. Mich)](#western-district-of-michigan-wd-mich)
+    - [U.S. Court of Appeals — Sixth Circuit](#us-court-of-appeals--sixth-circuit)
+    - [Federal Subject Matter Jurisdiction](#federal-subject-matter-jurisdiction)
+    - [Removal to Federal Court (28 USC 1441–1453)](#removal-to-federal-court-28-usc-14411453)
+    - [42 USC § 1983 — Civil Rights Actions](#42-usc--1983--civil-rights-actions)
+    - [Federal Habeas Corpus — 28 USC 2254 & 2255](#federal-habeas-corpus--28-usc-2254--2255)
+    - [PACER & CM/ECF](#pacer--cmecf)
+37. [Michigan Supreme Court — Practice & Procedure](#37-michigan-supreme-court--practice--procedure)
+    - [Original Jurisdiction & Superintending Control](#original-jurisdiction--superintending-control)
+    - [Administrative Orders & Court Rules Authority](#administrative-orders--court-rules-authority)
+    - [Application for Leave — Strategy & Standards](#application-for-leave--strategy--standards)
+    - [Briefing & Oral Argument at the MSC](#briefing--oral-argument-at-the-msc)
+    - [Reconsideration & Motions Practice](#reconsideration--motions-practice)
+    - [MSC Advisory Opinions](#msc-advisory-opinions)
+38. [Federal RICO — 18 USC 1961–1968 & Michigan RICO](#38-federal-rico--18-usc-19611968--michigan-rico)
+    - [Overview & Elements](#overview--elements)
+    - [Enterprise (18 USC 1961(4))](#enterprise-18-usc-19614)
+    - [Pattern of Racketeering Activity](#pattern-of-racketeering-activity)
+    - [Predicate Acts (18 USC 1961(1))](#predicate-acts-18-usc-19611)
+    - [Prohibited Conduct (18 USC 1962)](#prohibited-conduct-18-usc-1962)
+    - [Criminal RICO — Prosecution & Penalties](#criminal-rico--prosecution--penalties)
+    - [Civil RICO — 18 USC 1964](#civil-rico--18-usc-1964)
+    - [Pleading Civil RICO — *Twombly/Iqbal* & 9(b)](#pleading-civil-rico--twomblyiqbal--9b)
+    - [Michigan RICO — MCL 750.159f et seq.](#michigan-rico--mcl-750159f-et-seq)
+    - [Key RICO Caselaw](#key-rico-caselaw)
 
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
@@ -2971,5 +2998,611 @@ Michigan courts have adopted permanent rules for remote hearings following the C
 ---
 
 *Sources updated: Michigan Constitution of 1963 (art I, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 37, 125, 330, 408, 418, 450, 552, 554, 600, 691, 700, 710, 712A, 722, 750, 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments IV, V, VI, XIV; FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); ICWA (25 USC 1901); VAWA (34 USC 12291); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
+
+*Last substantively revised: April 2026.*
+
+---
+
+## 36. Federal Courts in Michigan
+
+---
+
+### Eastern District of Michigan (E.D. Mich)
+
+The **United States District Court for the Eastern District of Michigan** (E.D. Mich) sits in Detroit (Theodore Levin U.S. Courthouse) with satellite courthouses in Flint, Bay City, and Ann Arbor.
+
+**Jurisdiction:** Federal question (28 USC 1331), diversity (28 USC 1332), bankruptcy (referred to U.S. Bankruptcy Court, E.D. Mich), admiralty, and specific statutory grants.
+
+**Key Local Rules (E.D. Mich Local Rules — LR):**
+
+| Rule | Topic | Key Points |
+|---|---|---|
+| LR 5.1 | Format of documents | Times New Roman or Arial 12-pt; 1-inch margins; double-spaced; line numbering not required |
+| LR 5.1.1 | Electronic filing | CM/ECF mandatory for attorneys; pro se may e-file by consent; filing deadline = 11:59 PM |
+| LR 7.1 | Motion practice | Must seek concurrence before filing non-dispositive motion; 21-day response for dispositive motions; 14-day for non-dispositive |
+| LR 7.1(b)(1) | Page limits | Dispositive motions: 25 pages; response: 20 pages; reply: 10 pages |
+| LR 7.1(e) | Oral argument | Requested in motion; court decides whether to hear; hearing notice via CM/ECF |
+| LR 16.1 | Scheduling | Scheduling order after Rule 26(f) conference; dates typically set within 60 days |
+| LR 26.2 | Discovery | E.D. Mich permits discovery motions only after good-faith conference; may require joint statement |
+| LR 54.1.2 | Attorneys' fees | Bill of costs within 28 days of judgment; fee motions within 28 days |
+| LR 83.20 | Pro hac vice | Admission requires motion, sponsoring local counsel, $80 fee (current) |
+| LR 83.21 | Local counsel requirement | Out-of-state attorneys must associate local Michigan-licensed counsel |
+
+**Divisions:**
+- **Southern Division:** Detroit, Ann Arbor, Flint, Bay City
+- Case assignment is generally random among all district judges
+- Magistrate judges handle dispositive matters on consent (28 USC 636(c)) and non-dispositive matters by referral
+
+**U.S. Bankruptcy Court, E.D. Mich:**
+- Separate court; cases filed under 11 USC
+- Appeals from Bankruptcy Court → District Court (28 USC 158(a)) or directly to 6th Circuit BAP
+- Bankruptcy Appellate Panel (BAP) available in the 6th Circuit
+
+---
+
+### Western District of Michigan (W.D. Mich)
+
+The **United States District Court for the Western District of Michigan** sits in Grand Rapids (Gerald R. Ford Federal Building) with additional courthouses in Kalamazoo, Marquette, and Lansing.
+
+**Key Local Rules (W.D. Mich LCivR):**
+
+| Rule | Topic | Key Points |
+|---|---|---|
+| LCivR 5.7 | Electronic filing | CM/ECF mandatory for attorneys; midnight deadline |
+| LCivR 7.1 | Motion briefs | Dispositive motions: 28-page brief; response: 28 pages; reply: 10 pages; 28-day response to dispositive |
+| LCivR 7.2 | Summary judgment motions | Must include statement of undisputed material facts; opponent must admit or deny each fact |
+| LCivR 7.3 | Motion to reconsider | Must be filed within 14 days; must identify palpable defect; not a vehicle for new arguments |
+| LCivR 10.1 | Format | 12-pt font; 1-inch margins; double-spaced |
+| LCivR 26.3 | Discovery disputes | Must seek concurrence; informal conference with judge prior to motion (many judges require joint letter) |
+| LCivR 54.1 | Bill of costs | 28 days after judgment |
+
+**Specialty Divisions:**
+- **Northern Division** (Marquette): upper peninsula matters; fewer cases; single district judge resident
+- Many W.D. Mich judges are located in Grand Rapids
+
+---
+
+### U.S. Court of Appeals — Sixth Circuit
+
+The **U.S. Court of Appeals for the Sixth Circuit** covers Michigan, Ohio, Kentucky, and Tennessee, headquartered at the Potter Stewart U.S. Courthouse in Cincinnati, Ohio.
+
+**Jurisdiction:**
+- Appeals from final judgments of E.D. Mich and W.D. Mich (28 USC 1291)
+- Interlocutory appeals by right (28 USC 1292(a)): injunctions, receiverships, admiralty orders
+- Interlocutory appeals by permission (28 USC 1292(b)): certified question of law; court must agree
+- Mandamus (28 USC 1651)
+
+**Sixth Circuit Local Rules (6 Cir. R.):**
+
+| Rule | Topic | Key Points |
+|---|---|---|
+| 6 Cir. R. 25 | Electronic filing | CM/ECF through 6th Circuit's system; attorneys must e-file |
+| 6 Cir. R. 26 | Scheduling | Mediation conference often required first (6 Cir. R. 33) |
+| 6 Cir. R. 28 | Briefs | FRAP 32 applies; 30 pages or 13,000 words for principal brief; 15 pages or 6,500 words for reply |
+| 6 Cir. R. 29 | Amicus | Leave required unless government; must file within 7 days of principal brief |
+| 6 Cir. R. 33 | Mediation | Circuit mediators available; most civil cases referred for mediation conference |
+| 6 Cir. R. 35 | En banc | Petition for rehearing en banc within 45 days; panel within 14 days |
+
+**Deadlines (FRAP + 6th Cir. R.):**
+
+| Filing | Deadline |
+|---|---|
+| Notice of appeal — civil | **30 days** after judgment (FRAP 4(a)(1)(A)); 60 days if USA is a party |
+| Notice of appeal — criminal | **14 days** after judgment/sentence (FRAP 4(b)) |
+| Appellant's opening brief | **40 days** after entry of scheduling order |
+| Appellee's brief | **30 days** after service of appellant's brief |
+| Reply brief | **21 days** after service of appellee's brief |
+| Petition for rehearing/en banc | **45 days** (civil); **14 days** (criminal) after opinion |
+| Petition for certiorari to SCOTUS | **90 days** after 6th Circuit opinion (28 USC 2101(c)) |
+
+**En Banc Review:**
+A majority of active circuit judges must vote to grant en banc rehearing; used for circuit conflicts, issues of exceptional importance. *Sixth Circuit splits* on federal criminal law and civil rights questions often trigger SCOTUS certiorari petitions.
+
+---
+
+### Federal Subject Matter Jurisdiction
+
+| Basis | Statute | Key Requirements |
+|---|---|---|
+| **Federal question** | 28 USC 1331 | Claim arises under Constitution, federal law, or treaty; must appear in well-pleaded complaint (not anticipated defense) |
+| **Diversity of citizenship** | 28 USC 1332 | Complete diversity of citizenship + amount in controversy > **$75,000** (exclusive of interest and costs) |
+| **Supplemental jurisdiction** | 28 USC 1367 | State claims so related to federal claims they form same case or controversy; court may decline if federal claims dismissed |
+| **United States as party** | 28 USC 1345, 1346 | Suits by/against US government |
+| **Specific statutory grants** | various | ERISA, FMLA, FLSA, Clean Air Act, Bankruptcy, admiralty, patent, copyright |
+
+**Amount in Controversy — Diversity:**
+- Plaintiff's good-faith allegation controls; dismissed only if legally certain amount cannot be recovered
+- Aggregation: plaintiff may aggregate multiple claims against single defendant; multiple plaintiffs cannot aggregate absent common undivided interest
+- Declaratory judgment: value of the right declared controls
+
+**Citizenship — Corporations:**
+- Corporation is citizen of state of incorporation **AND** principal place of business (*Hertz Corp v Friend*, 559 US 77 (2010) — "nerve center" test)
+
+---
+
+### Removal to Federal Court (28 USC 1441–1453)
+
+| Element | Rule |
+|---|---|
+| **Right to remove** | Defendant may remove any civil action over which federal court would have original jurisdiction |
+| **Deadline** | **30 days** after service of removable complaint (or after it becomes removable); **1-year** outer limit for diversity cases (except bad faith) |
+| **All defendants must consent** | Rule of unanimity — all properly joined and served defendants must join in or consent to removal |
+| **Forum defendant rule** | In diversity cases, a defendant who is a citizen of the state in which the action is filed **cannot** remove (28 USC 1441(b)(2)) |
+| **Procedure** | File notice of removal in federal district court; file copies in state court within 7 days; serve all adverse parties |
+| **Remand** | Motion to remand must be filed within **30 days** of removal notice for procedural defects; subject matter jurisdiction defects may be raised at any time |
+| **Attorneys' fees on remand** | Court may award fees if removal lacked objectively reasonable basis (28 USC 1447(c)) |
+
+**Class Action Fairness Act (CAFA) — 28 USC 1332(d):**
+- Removal available for class actions with: 100+ members; $5M+ aggregate claims; minimal diversity
+- Any defendant may remove regardless of citizenship; 30-day deadline from service
+
+---
+
+### 42 USC § 1983 — Civil Rights Actions
+
+Section 1983 provides a federal cause of action for deprivation of **constitutional or federal statutory rights** under color of state law.
+
+**Elements:**
+1. Defendant acted **under color of state law** (state/local government actor; private actor acting in concert with state)
+2. Defendant's conduct **deprived plaintiff** of a right secured by the Constitution or federal law
+3. **Causation** — deprivation was proximately caused by defendant's conduct
+
+**Common § 1983 Claims in Michigan Practice:**
+
+| Claim | Constitutional Basis |
+|---|---|
+| Excessive force | 4th Amendment (pre-trial); 8th Amendment (convicted prisoner) |
+| False arrest / malicious prosecution | 4th Amendment |
+| Denial of due process | 14th Amendment (procedural or substantive) |
+| Equal protection / discrimination | 14th Amendment |
+| First Amendment retaliation | 1st Amendment |
+| Deliberate indifference to medical needs | 8th / 14th Amendment |
+| Child's constitutional rights (CPS/DCFS) | 14th Amendment — substantive due process (*DeShaney* limitation) |
+
+**Qualified Immunity:**
+Government officials are entitled to qualified immunity unless they violated a **clearly established** statutory or constitutional right that a reasonable person would have known. *Harlow v Fitzgerald*, 457 US 800 (1982). Immunity is evaluated at summary judgment; denial is immediately appealable (collateral order doctrine).
+
+**Municipal Liability — *Monell* Claims:**
+A municipality is liable under § 1983 only when the constitutional violation results from:
+- An **official policy** or custom
+- A **widespread practice** that is the "moving force" behind the violation
+- Inadequate **training** amounting to deliberate indifference
+- Decision by official with **final policymaking authority**
+
+*Monell v Dep't of Social Services*, 436 US 658 (1978). Respondeat superior does not apply to municipalities.
+
+**Statute of Limitations:**
+- § 1983 borrows the state's personal injury limitations period — **3 years** in Michigan (MCL 600.5805(2))
+- Accrual: when plaintiff knows or should know of injury and identity of responsible party
+
+**Venue:** E.D. Mich or W.D. Mich depending on where events occurred; 28 USC 1391.
+
+---
+
+### Federal Habeas Corpus — 28 USC 2254 & 2255
+
+**28 USC § 2254 — State Prisoner Collateral Attack:**
+
+Challenges to a **state court conviction** or sentence. Filed in the federal district court for the district where the petitioner is imprisoned.
+
+| Requirement | Rule |
+|---|---|
+| **Exhaustion** | Petitioner must have exhausted all available state remedies (raised claim to Michigan Supreme Court) |
+| **Procedural default** | Claim not properly raised in state court is defaulted unless: cause and prejudice; or actual innocence (*Martinez v Ryan*) |
+| **Statute of limitations** | **1-year** limitations period from: final judgment; newly discovered facts; new constitutional right (retroactive); removal of state-created impediment |
+| **AEDPA deference** | Court shall not grant relief unless state court decision was (1) **contrary to** or involved **unreasonable application of** clearly established federal law (as determined by SCOTUS); or (2) based on **unreasonable determination of facts** (*28 USC 2254(d)*) |
+| **Procedural** | Petition form (AO 241); filing fee; service on AG of Michigan; AG files answer; petitioner may reply |
+| **Evidentiary hearing** | Rarely available; petitioner must show diligence and compliance with § 2254(e) |
+| **Certificate of appealability (COA)** | Required to appeal denial; petitioner must make "substantial showing of denial of constitutional right" |
+| **Successive petitions** | Must get authorization from 6th Circuit before filing; very limited grounds |
+
+**Common Grounds:**
+- Ineffective assistance of trial or appellate counsel (*Strickland*)
+- Brady violation (suppressed exculpatory evidence)
+- *Batson* violation (discriminatory jury selection)
+- Confrontation Clause (*Crawford v Washington*, 541 US 36 (2004))
+- Sufficiency of the evidence (*Jackson v Virginia*, 443 US 307 (1979))
+- Jury instruction error of constitutional dimension
+
+**28 USC § 2255 — Federal Prisoner Motion:**
+Challenges to **federal conviction or sentence**; filed in the court of conviction. Same AEDPA framework. One year from: judgment; new retroactive rule; new facts.
+
+---
+
+### PACER & CM/ECF
+
+**PACER** (Public Access to Court Electronic Records): https://pacer.uscourts.gov
+- Search and retrieve federal court documents; $0.10/page (cap $3.00/document)
+- Free access if charges ≤ $30/quarter; non-profit and pro se fee exemptions available
+
+**CM/ECF** (Case Management/Electronic Case Files):
+- Mandatory e-filing for attorneys in E.D. Mich, W.D. Mich, and 6th Circuit
+- Register at each court separately
+- Email notification of all docket activity (NEF — Notice of Electronic Filing)
+- Deadlines: documents filed by **11:59 PM** local court time on due date count as timely
+
+**Key Federal Court Websites:**
+
+| Court | URL |
+|---|---|
+| E.D. Mich | https://www.mied.uscourts.gov |
+| W.D. Mich | https://www.miwd.uscourts.gov |
+| 6th Circuit | https://www.ca6.uscourts.gov |
+| U.S. Bankruptcy Court E.D. Mich | https://www.mieb.uscourts.gov |
+| U.S. Bankruptcy Court W.D. Mich | https://www.miwb.uscourts.gov |
+| PACER | https://pacer.uscourts.gov |
+| SCOTUS | https://www.supremecourt.gov |
+
+---
+
+## 37. Michigan Supreme Court — Practice & Procedure
+
+---
+
+### Original Jurisdiction & Superintending Control
+
+**Original Jurisdiction (Mich Const 1963, art VI, § 4):**
+The Michigan Supreme Court has **superintending control** over all courts in Michigan and may exercise original jurisdiction in specified matters:
+- Quo warranto (challenging authority to hold office)
+- Mandamus (compelling inferior court or officer to act)
+- Habeas corpus (testing legality of detention)
+- Certiorari to the Court of Appeals (supervisory jurisdiction)
+- Superintending control orders over inferior courts (MCR 3.302)
+
+**Superintendent Control (MCR 3.302):**
+- Complaint for superintending control filed in MSC or COA depending on which court supervises
+- Used to correct failure of inferior court to perform clear legal duty; not a substitute for ordinary appeal
+- Court of Appeals has superintending control over circuit, district, and probate courts
+- MSC has superintending control over all courts
+
+---
+
+### Administrative Orders & Court Rules Authority
+
+The Michigan Supreme Court has **exclusive authority** to adopt, amend, and abrogate the Michigan Court Rules (MCR), Michigan Rules of Evidence (MRE), and Michigan Rules of Professional Conduct (MRPC) under Mich Const 1963, art VI, § 5.
+
+**Administrative Orders (AO):**
+- Issued by the MSC pursuant to its superintending control
+- Govern temporary or permanent changes in court operations statewide
+- Published in the Michigan Register and on the MSC website
+- Examples: AO 1985-6 (case classification), AO 2020-6 (remote hearings), AO 2021-9 (e-filing expansion)
+
+**Rule Amendment Process:**
+1. Proposal submitted to MSC (by any person, bar committee, or judicial conference)
+2. Published for public comment (60-day comment period)
+3. MSC considers comments; adopts, modifies, or rejects
+4. Rule amendments take effect on date specified (typically January 1 or May 1)
+
+---
+
+### Application for Leave — Strategy & Standards
+
+**When to File:**
+- After adverse COA opinion (published or unpublished) or order
+- After COA grants or denies application for leave below (MSC may grant leave from COA denial)
+
+**Grounds for Granting Leave (MCR 7.305(B)):**
+1. **Conflict** with a prior MSC decision
+2. **Significant question of law** — great public importance or affecting state law development
+3. **Clear error** by the COA
+4. **Constitutional question**
+
+**Strategic Considerations:**
+- MSC grants leave in approximately **3–5%** of applications [UNVERIFIED — verify with MSC statistics]
+- Applications with published COA dissent have higher grant rate
+- Identify circuit splits (different COA panels reaching different outcomes)
+- Frame as a question of statewide law, not individual result
+
+**Content Requirements (MCR 7.305(C)):**
+- Cover page (case name, docket numbers, court below, party)
+- Table of contents and index of authorities
+- Statement of questions presented
+- Concise statement of facts and procedural history
+- Argument explaining why leave should be granted (not the full merits argument)
+- Appendix: copy of COA opinion/order; relevant lower court orders
+- **Maximum 50 pages or 16,000 words**
+
+**Response to Application:**
+- Opponent may file answer within **28 days** of service
+- Maximum 20 pages or 6,400 words
+
+**MSC Possible Dispositions:**
+- Deny leave (order: "application for leave to appeal … is DENIED")
+- Grant leave (full briefing on the merits follows)
+- Grant leave in part (limit to specific questions)
+- Peremptory reversal or remand (without full briefing) — MCR 7.305(H)(1)
+- Order argument in lieu of full briefing (rare)
+- Hold for pending case
+
+---
+
+### Briefing & Oral Argument at the MSC
+
+**After Leave is Granted — Briefing (MCR 7.312):**
+
+| Brief | Due | Limit |
+|---|---|---|
+| Appellant's brief on appeal | **56 days** after entry of leave order | 50 pages / 16,000 words |
+| Appellee's brief | **35 days** after service of appellant's brief | 50 pages / 16,000 words |
+| Reply brief | **21 days** after service of appellee's brief | 20 pages / 6,400 words |
+| Amicus brief | Must move for leave; file with appellant's or appellee's brief | 20 pages |
+
+**Format (MCR 7.312(B)):**
+- Cover page (MSC case number, title, party designation, attorney information)
+- Statement of jurisdiction
+- Questions presented (mirror language from leave order if leave was granted on specific questions)
+- Statement of facts with record citations (cites to COA appendix, trial court record)
+- Standard of review for each issue
+- Argument
+- Conclusion and relief requested
+
+**Oral Argument (MCR 7.314):**
+- Held at Lansing (MSC courtroom, Michigan Hall of Justice) or on circuit visits (Detroit, Grand Rapids, etc.)
+- **30 minutes per side** unless MSC orders otherwise (complex cases may receive 45 min)
+- Appellant argues first; appellee responds; appellant may reserve time for rebuttal (must state at outset)
+- 7 justices; quorum is 4; majority of participating justices decides
+- Argument schedule set by MSC Clerk; advance notice given
+
+---
+
+### Reconsideration & Motions Practice
+
+**Motion for Reconsideration (MCR 7.311(F)):**
+- **21 days** after MSC order or opinion
+- Must identify palpable error of law or fact that, if corrected, would require different disposition
+- Not a vehicle for rearguing the merits
+- No oral argument on reconsideration unless ordered
+
+**Emergency Motions:**
+- Emergency stay or other emergency relief: file motion with supporting affidavit showing irreparable harm and likelihood of success on merits
+- MSC may act on emergency basis through individual Justice in chambers or by emergency order
+
+**Motion for Immediate Consideration:**
+- Filed simultaneously with application or brief
+- Used in custody, TPR, or other time-sensitive matters
+
+**Other MSC Motions:**
+- Motion to extend time (MCR 7.311(B)): file before deadline
+- Motion to file excess pages: show complexity
+- Motion to consolidate: when related applications pending
+
+---
+
+### MSC Advisory Opinions
+
+Under Mich Const 1963, art III, § 8, the **Governor or either house of the Legislature** may request an advisory opinion from the MSC on constitutional questions. The MSC has discretion to answer or decline.
+
+- Advisory opinions are not binding precedent (they are advisory) but are highly persuasive
+- Litigants cannot request advisory opinions; only the Governor or Legislature
+- MSC publishes advisory opinions in the same reporters as regular opinions
+
+---
+
+## 38. Federal RICO — 18 USC 1961–1968 & Michigan RICO
+
+---
+
+### Overview & Elements
+
+The **Racketeer Influenced and Corrupt Organizations Act** (RICO), enacted as Title IX of the Organized Crime Control Act of 1970 (Pub. L. 91-452), prohibits specified patterns of racketeering activity connected to an enterprise. RICO has both criminal (18 USC 1963) and civil (18 USC 1964) enforcement provisions.
+
+**Four Elements of a RICO Violation (18 USC 1962):**
+1. **Enterprise** — an enterprise affecting interstate or foreign commerce
+2. **Pattern** — a pattern of racketeering activity (at least 2 predicate acts within 10 years)
+3. **Predicate acts** — at least 2 acts of racketeering activity listed in 18 USC 1961(1)
+4. **Connection** — defendant conducted or participated in conducting the enterprise's affairs through the pattern of racketeering
+
+---
+
+### Enterprise (18 USC 1961(4))
+
+An **"enterprise"** includes:
+- Any individual, partnership, corporation, association, or other legal entity
+- Any **union or group of individuals** associated in fact, although not a legal entity
+
+**Associated-in-Fact Enterprise:**
+- Need not have formal hierarchical structure
+- Must have: (1) ongoing organization; (2) associates function as a continuing unit; (3) enterprise exists separate and distinct from the pattern of racketeering itself
+- *United States v Turkette*, 452 US 576 (1981) — illegitimate enterprises qualify
+- *Boyle v United States*, 556 US 938 (2009) — associated-in-fact enterprise need not have ascertainable structure beyond that inherent in the pattern of racketeering
+
+**Separate Existence Requirement:**
+The enterprise must be an entity separate from the pattern of racketeering, but need not be separate from the defendant. *Cedric Kushner Promotions v King*, 533 US 158 (2001) — sole proprietor can be "person" distinct from corporation as "enterprise."
+
+---
+
+### Pattern of Racketeering Activity
+
+**Requirements:**
+- At least **2 predicate acts** within a **10-year period** (excluding imprisonment)
+- Predicate acts must be **related** and **continuous**
+
+**Relatedness:**
+- Same or similar purposes, results, participants, victims, or methods of commission
+- Connection to enterprise's affairs
+
+**Continuity — Two Forms (H.J. Inc. v Northwestern Bell Tel. Co., 492 US 229 (1989)):**
+
+| Type | Description |
+|---|---|
+| **Closed-ended** | A series of related predicates extending over a **substantial period of time** (courts generally require at least 1–2 years; shorter periods may qualify with multiple distinct schemes) |
+| **Open-ended** | A past series of conduct plus a threat of future criminal conduct — either because the predicate acts are part of regular criminal conduct or the acts are a regular way of conducting ongoing business |
+
+**Two Predicate Acts Are Not Enough by Themselves:**
+*H.J. Inc.* — Congress did not intend liability for isolated incidents; there must be continuity plus relatedness.
+
+---
+
+### Predicate Acts (18 USC 1961(1))
+
+**Racketeering activity** means any act or threat involving:
+
+| Category | Examples |
+|---|---|
+| **State felonies** | Murder, kidnapping, gambling, arson, robbery, bribery, extortion, dealing in controlled substances |
+| **Federal offenses — financial** | Mail fraud (18 USC 1341); wire fraud (18 USC 1343); bank fraud (18 USC 1344); money laundering (18 USC 1956–1957) |
+| **Federal offenses — violent** | Hobbs Act extortion/robbery (18 USC 1951); *Travel Act* (18 USC 1952); threats against witnesses (18 USC 1512–1513) |
+| **Federal offenses — other** | Securities fraud (15 USC 78j(b)); copyright infringement (not a predicate act — *Dowling v US*); bribery (18 USC 201); counterfeiting; trafficking in contraband |
+| **Drug offenses** | Trafficking in controlled substances under federal law |
+
+**Most Common Civil RICO Predicates:**
+- **Mail fraud (18 USC 1341):** Use of mails in scheme to defraud; includes knowingly false representations to obtain money or property
+- **Wire fraud (18 USC 1343):** Use of wire communications (phone, email, internet) in scheme to defraud
+- **Bank fraud (18 USC 1344):** Scheme to defraud financial institution or obtain bank money/property by false representations
+
+> *Key limitation:* Ordinary business fraud alone does not make a RICO claim. Courts demand more than routine commercial disputes dressed in RICO clothing. *Fitzgerald v Chrysler Corp*, 116 F3d 225 (7th Cir 1997) [UNVERIFIED — verify circuit]; see also *6th Circuit decisions* on RICO as a "litigation weapon."
+
+---
+
+### Prohibited Conduct (18 USC 1962)
+
+| Subsection | Prohibition |
+|---|---|
+| **§ 1962(a)** | Using income **derived from** a pattern of racketeering to acquire an interest in, establish, or operate an enterprise in interstate commerce |
+| **§ 1962(b)** | **Acquiring or maintaining** an interest in or control of an enterprise through a pattern of racketeering |
+| **§ 1962(c)** | **Conducting or participating** in the conduct of an enterprise's affairs through a pattern of racketeering (most commonly charged) |
+| **§ 1962(d)** | **Conspiracy** to violate subsections (a), (b), or (c) — does not require commission of a predicate act; requires agreement to violate RICO |
+
+**§ 1962(c) "Conduct or Participate" — *Reves* Test:**
+Defendant must participate in the **operation or management** of the enterprise itself. *Reves v Ernst & Young*, 507 US 170 (1993). Outside professionals (accountants, lawyers) who merely provide services do not "conduct" the enterprise unless they have some part in directing its affairs.
+
+---
+
+### Criminal RICO — Prosecution & Penalties
+
+**Penalties (18 USC 1963):**
+- Imprisonment up to **20 years** per violation (life if predicate act carries life sentence)
+- Mandatory **criminal forfeiture** of:
+  - Any interest acquired or maintained in violation of RICO
+  - Any interest in the enterprise
+  - Any proceeds from the violation
+- Forfeiture is in addition to fines and imprisonment
+- **Substitute assets provision:** court may order forfeiture of other assets up to the value of forfeitable assets if proceeds cannot be located, transferred, etc.
+
+**Pretrial Restraining Orders:**
+Government may obtain ex parte order to restrain assets subject to forfeiture prior to conviction (18 USC 1963(d)).
+
+**No Statute of Limitations Defense After 2002:**  
+*Rotella v Wood*, 528 US 549 (2000) — civil RICO 4-year period runs from discovery of **injury** (not discovery of RICO pattern). [See civil RICO below]
+
+---
+
+### Civil RICO — 18 USC 1964
+
+**Standing:**
+Any person **injured in business or property** by reason of a violation of § 1962 may sue. *Sedima, SPRL v Imrex Co.*, 473 US 479 (1985) — no prior criminal conviction required; no "racketeering injury" separate from predicate act injury required.
+
+**Damages:**
+- **Treble damages** — plaintiff recovers 3× actual damages
+- **Attorneys' fees and costs** — mandatory if plaintiff prevails
+- Injunctive relief available (18 USC 1964(a)) — includes divestiture, dissolution, restrictions on future activities
+
+**Statute of Limitations:**
+- **4 years** from **discovery of injury** (not discovery of the RICO violation or pattern)
+- *Agency Holding Corp v Malley-Duff & Associates*, 483 US 143 (1987) — 4-year period borrowed from Clayton Act
+- *Rotella v Wood* — accrual at injury discovery, not when pattern becomes known
+
+**Civil RICO Plaintiff Must Prove:**
+1. Defendant violated § 1962 (all elements including enterprise, pattern, predicates)
+2. Plaintiff suffered injury to **business or property** (personal injury, emotional distress not enough; *Reiter v Sonotone Corp*)
+3. Injury was **by reason of** the RICO violation (**proximate cause** — *Holmes v Securities Investor Protection Corp*, 503 US 258 (1992))
+
+---
+
+### Pleading Civil RICO — *Twombly/Iqbal* & 9(b)
+
+**Federal Pleading Standard:**
+Civil RICO claims must satisfy *Twombly/Iqbal* plausibility pleading. Boilerplate assertions of enterprise, pattern, and predicate acts are insufficient.
+
+**Rule 9(b) — Particularity for Fraud Predicates:**
+When the predicate acts are fraud-based (mail fraud, wire fraud, bank fraud), plaintiff must plead:
+- The **time, place, and contents** of the false representations
+- The **identity of the person** making the misrepresentation
+- What was obtained thereby
+
+*Kenty v Transamerica Premium Ins. Co.*, 72 F3d 130 (6th Cir 1995) [UNVERIFIED — verify citation] — 6th Circuit applies Rule 9(b) rigorously to mail/wire fraud RICO predicates.
+
+**RICO Case Statement:**
+Many federal courts (including E.D. Mich and W.D. Mich) require plaintiffs to file a **RICO Case Statement** (or answer a RICO questionnaire) early in the case, detailing:
+- Each defendant's role in the enterprise
+- Each predicate act with specificity (date, nature, participants)
+- How the acts form a pattern
+- Nexus to interstate commerce
+
+---
+
+### Michigan RICO — MCL 750.159f et seq.
+
+Michigan's own racketeering statute, the **Michigan Corrupt Organizations Act**, MCL 750.159b–750.159x, closely parallels federal RICO.
+
+**Michigan Predicate Acts (MCL 750.159b(c)) — "Racketeering" includes:**
+- Certain state felonies: arson, bribery, child sexually abusive activity, criminal enterprise (felony or felony conspiracy), counterfeiting, extortion, forgery, gambling offenses, health care fraud, home invasion, kidnapping, money laundering, murder, robbery, securities fraud, weapons offenses
+- Any act involving controlled substances
+- Violations of the Michigan Business Corporation Act (MCL 450.1541a) in some contexts
+
+**Michigan Enterprise (MCL 750.159b(a)):**
+Same broad definition as federal RICO — any individual, partnership, corporation, association, union, or group of individuals associated in fact.
+
+**Pattern (MCL 750.159b(b)):**
+At least **2 incidents** of racketeering, one of which occurred after the act's effective date, and the last occurring within **10 years** of a prior incident; must have **similar intents, results, accomplices, victims, or methods** or are interrelated and not isolated.
+
+**Prohibited Conduct (MCL 750.159i):**
+- Same structure as 18 USC 1962(a)–(d): investing proceeds, acquiring enterprise, conducting enterprise, conspiracy
+
+**Criminal Penalties (MCL 750.159j):**
+- Felony punishable by up to **20 years** imprisonment
+- Mandatory forfeiture of proceeds, property, and enterprise interests
+- Cumulative with other penalties
+
+**Civil Michigan RICO (MCL 750.159n):**
+- Any person injured by a violation may sue
+- **3× actual damages** + attorneys' fees
+- **Statute of limitations: 5 years** from the date of the last act of racketeering [UNVERIFIED — verify MCL 750.159n(2) period]
+- Standing: injury to "business or property" — same as federal requirement
+
+**Key Differences — Michigan vs. Federal RICO:**
+
+| Feature | Federal RICO | Michigan RICO |
+|---|---|---|
+| Predicate acts | Broad list; includes many federal offenses + state felonies | State felonies specifically enumerated; narrower list |
+| Civil SOL | 4 years from injury discovery | 5 years from last predicate act [UNVERIFIED] |
+| Treble damages | 3× | 3× |
+| Court | Federal district court | Circuit court (state) |
+| Enterprise | Very broad (legitimate + illegitimate) | Same broad definition |
+| Conspiracy | Yes (§ 1962(d) / MCL 750.159i(4)) | Yes |
+| Prior conviction required | No (*Sedima*) | No |
+
+---
+
+### Key RICO Caselaw
+
+**U.S. Supreme Court:**
+
+| Case | Citation | Holding |
+|---|---|---|
+| *United States v Turkette* | 452 US 576 (1981) | RICO applies to wholly illegitimate enterprises |
+| *Sedima, SPRL v Imrex Co.* | 473 US 479 (1985) | No prior criminal conviction required for civil RICO; broad standing |
+| *H.J. Inc. v Northwestern Bell* | 492 US 229 (1989) | Pattern requires continuity plus relatedness; defines open/closed-ended continuity |
+| *Reves v Ernst & Young* | 507 US 170 (1993) | § 1962(c) requires participation in operation or management of enterprise |
+| *Boyle v United States* | 556 US 938 (2009) | Associated-in-fact enterprise requires no formal structure beyond pattern of racketeering |
+| *Cedric Kushner Promotions v King* | 533 US 158 (2001) | Person and enterprise can overlap; natural person can be distinct from corporate enterprise |
+| *Holmes v Securities Investor Protection Corp* | 503 US 258 (1992) | Civil RICO requires proximate cause; first-party injury rule |
+| *Rotella v Wood* | 528 US 549 (2000) | 4-year SOL runs from injury discovery, not when RICO pattern discovered |
+| *Agency Holding Corp v Malley-Duff* | 483 US 143 (1987) | 4-year civil RICO limitations period |
+| *Anza v Ideal Steel Supply Corp* | 547 US 451 (2006) | Proximate cause limits civil RICO — harm must flow directly from predicate acts |
+
+**Sixth Circuit:**
+
+| Case | Citation | Holding |
+|---|---|---|
+| *VanDenBroeck v CommonPoint Mortgage Co.* | 210 F3d 696 (6th Cir 2000) | Applying *H.J. Inc.* continuity; 7-month scheme insufficient for closed-ended continuity [UNVERIFIED — verify citation] |
+| *Frank v D'Ambrosi* | 4 F3d 1378 (6th Cir 1993) | Ordinary contract dispute; repackaging as RICO disfavored; continuity analysis [UNVERIFIED] |
+| *Aces High Coal Sales, Inc. v Cmty. Bank & Trust* | 768 F App'x 446 (6th Cir 2019) | Wire/mail fraud predicates; *Reves* operation-or-management test [UNVERIFIED] |
+
+> *Practice Note:* Federal courts in the 6th Circuit (and nationwide) scrutinize civil RICO complaints aggressively. A complaint that merely repackages a commercial fraud dispute as RICO will typically fail at the pleading stage or on summary judgment for failure to show continuity, pattern, or the required proximate causation. RICO should be reserved for genuinely enterprise-driven, sustained criminal schemes.
+
+---
+
+*Sources updated: Michigan Constitution of 1963 (art I, art III, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 37, 125, 330, 408, 418, 450, 552, 554, 600, 691, 700, 710, 712A, 722, 750 (including 750.159b–750.159x), 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments IV, V, VI, XIV; RICO (18 USC 1961–1968); 28 USC 1291, 1292, 1331, 1332, 1367, 1441–1453; 42 USC 1983; 28 USC 2254, 2255; FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); ICWA (25 USC 1901); VAWA (34 USC 12291); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
 
 *Last substantively revised: April 2026.*
