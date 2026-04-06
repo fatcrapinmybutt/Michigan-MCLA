@@ -104,6 +104,7 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Expert Testimony (MRE 702–706)](#expert-testimony-mre-702706)
     - [Authentication & Best Evidence (MRE 901–1002)](#authentication--best-evidence-mre-9011002)
     - [Privileges (MRE 501–502)](#privileges-mre-501502)
+    - [Common Objections Quick Reference](#common-objections-quick-reference)
 27. [Appellate Practice — MCR 7](#27-appellate-practice--mcr-7)
     - [Jurisdiction & Routes to the COA](#jurisdiction--routes-to-the-coa)
     - [Claim of Appeal (MCR 7.204)](#claim-of-appeal-mcr-7204)
@@ -2275,9 +2276,9 @@ PRV and OV scores together locate the defendant in a cell (A–I) of the sentenc
 
 ---
 
-## 20. Standards of Review
+### Plea Agreements (MCR 6.302)
 
-**Types of Plea Agreements (MCR 6.302):**
+**Types of Plea Agreements:**
 
 | Type | Description |
 |---|---|
@@ -3155,7 +3156,7 @@ Attorney-client privilege does not protect communications made in furtherance of
 
 ---
 
-## 34. Employment Law Essentials
+### Common Objections Quick Reference
 
 | Objection | MRE Basis | Appropriate When |
 |---|---|---|
