@@ -3094,6 +3094,94 @@ Attorney-client privilege does not protect communications made in furtherance of
 
 ---
 
+### MRE 601–615 — Witnesses (Selected Rules)
+
+| Rule | Topic | Key Points |
+|---|---|---|
+| **MRE 601** | Competency | Every person is competent to be a witness; no minimum age; competency may be challenged |
+| **MRE 602** | Personal knowledge | Witness may testify only as to matters of which they have personal knowledge |
+| **MRE 607** | Who may impeach | Any party, including the party who called the witness, may attack witness credibility |
+| **MRE 608** | Credibility by opinion/reputation | Opinion/reputation testimony on truthfulness; specific instances of conduct on cross |
+| **MRE 610** | Religious beliefs | Inadmissible to attack/support witness credibility |
+| **MRE 611** | Control by court | Court controls mode and order of examining witnesses; leading questions on direct disfavored except hostile witnesses |
+| **MRE 612** | Writing used to refresh recollection | Adverse party entitled to examine writing used to refresh; may offer in evidence portions relating to testimony |
+| **MRE 613** | Prior statements — impeachment | Prior inconsistent statement: witness must be given opportunity to deny or explain |
+| **MRE 615** | Exclusion of witnesses | Court may exclude witnesses from courtroom; cannot exclude parties or designated expert witnesses |
+
+**Child Witnesses:**
+- Competency hearing: court may conduct *in camera* inquiry to determine if child has sufficient understanding of truth/falsity obligation
+- MRE 803(4) medical treatment exception frequently used for child hearsay statements to health care providers
+
+---
+
+### Confrontation Clause & *Crawford* Analysis
+
+**Confrontation Clause:** US Const amend VI; Mich Const 1963, art I, § 20 — the right to confront adverse witnesses applies in criminal proceedings.
+
+***Crawford v Washington***, 541 US 36 (2004): Testimonial hearsay may not be admitted against a criminal defendant unless:
+1. Declarant is **unavailable**, AND
+2. Defendant had a **prior opportunity to cross-examine** the declarant
+
+**What is "testimonial"?**
+- Formal police interrogation statements (core testimonial)
+- Preliminary hearing/grand jury testimony
+- Statements made to law enforcement officers during formal investigation
+- **NOT testimonial:** 911 emergency calls with ongoing emergency (*Davis v Washington*, 547 US 813 (2006)); excited utterances during emergency
+
+**Michigan Application:**
+- *People v Lonsby*, 268 Mich App 375 (2005) — applying *Crawford* in Michigan context [UNVERIFIED — verify citation]
+- Out-of-court statements to forensic interviewers in child abuse cases: **testimonial** → Confrontation Clause applies
+- Business records and public records: generally **non-testimonial** if created in regular course, not primarily for prosecution
+
+---
+
+### Evidence Objection Guide — Quick Reference
+
+| Exception | Requirements |
+|---|---|
+| Search incident to arrest | Lawful arrest; search of person and area within immediate control |
+| Automobile exception | Probable cause to believe contraband or evidence of crime is in vehicle |
+| Exigent circumstances | Hot pursuit of fleeing felon; imminent destruction of evidence; emergency aid |
+| Plain view | Officer lawfully present; incriminating character of item is immediately apparent |
+| Consent | Voluntary, informed consent; no need for probable cause |
+| Stop and frisk (Terry) | Reasonable articulable suspicion of criminal activity; pat-down for weapons only (*Terry v Ohio*, 392 US 1 (1968)) |
+| Inventory search | Routine booking/impoundment inventory; standard procedures followed |
+
+**Exclusionary Rule — Exceptions:**
+- Good faith (*United States v Leon*, 468 US 897 (1984); *People v Goldston*, 470 Mich 523 (2004))
+- Inevitable discovery
+- Independent source
+- Attenuation (*Utah v Strieff*, 579 US 232 (2016))
+
+---
+
+## 34. Employment Law Essentials
+
+| Objection | MRE Basis | Appropriate When |
+|---|---|---|
+| Relevance | MRE 402 | Evidence has no tendency to make a material fact more or less probable |
+| Prejudice | MRE 403 | Probative value substantially outweighed by unfair prejudice |
+| Hearsay | MRE 802 | Out-of-court statement offered for truth; no applicable exception |
+| No foundation | MRE 602 | Witness lacks personal knowledge; document not authenticated |
+| Speculation | MRE 602 | Witness asked to speculate about facts they don't know |
+| Leading | MRE 611(c) | Leading question to own witness (direct examination); not hostile |
+| Assumes facts not in evidence | MRE 611(a) | Question contains premise not yet established |
+| Asked and answered | MRE 611(a) | Examiner repeating question already answered |
+| Narrative | MRE 611(a) | Witness giving uncontrolled narrative instead of answering questions |
+| Cumulative | MRE 403 | Evidence is repetitive of evidence already before court |
+| Best evidence | MRE 1002 | Secondary evidence of document when original required and available |
+| Improper character evidence | MRE 404 | Character/propensity evidence improperly offered |
+| Improper 404(b) | MRE 404(b) | Prior bad acts offered without proper notice or purpose |
+| Privilege | MRE 501 | Communications protected by applicable privilege |
+| Improper expert | MRE 702 | Expert not qualified; methodology not reliable (*Daubert*/*Gilbert*) |
+
+**Preserving Objections:**
+- Must state specific ground; general objection insufficient (MRE 103)
+- Must object when evidence is offered, not after it is admitted
+- Running objection: request to preserve objection to ongoing similar evidence; court may allow
+
+---
+
 ## 27. Appellate Practice — MCR 7
 
 ---
@@ -3200,6 +3288,41 @@ A "final judgment" is the first judgment or order that disposes of all claims an
 - Limited to **50 pages** or **16,000 words**
 - Must contain: questions presented; concise statement of case; reasons for granting leave
 - Response: 28 days after filing
+
+---
+
+### Mootness, Standing & Justiciability in Michigan Appellate Courts
+
+**Mootness:**
+- Michigan appellate courts will dismiss an appeal as moot if there is no longer a controversy to resolve
+- Exception: issues **capable of repetition yet evading review** will be addressed if: (1) duration of challenged action is too short to be fully litigated before cessation; and (2) reasonable expectation that same complaining party will be subject to same action again
+- Exception: issues of great public importance
+
+**Standing:**
+- Party must have a real, present interest in the outcome
+- Taxpayer standing: limited; must show personal stake beyond general interest in proper government
+- In parental rights/custody: a parent who was not a party to the original order may lack standing to appeal
+
+**Preservation on Appeal:**
+- Only issues raised in the lower court may be raised on appeal
+- Exception: **plain error** test (4-part *Carines* test) for unpreserved error
+- Exception: **jurisdictional** issues may be raised at any time
+- New argument on same preserved ground: generally permitted
+- New legal theory on same preserved facts: usually permitted
+
+---
+
+### Requests for Admissions (MCR 2.312)
+
+| Element | Rule |
+|---|---|
+| **Scope** | Admit or deny truth of any relevant matter, including genuineness of documents |
+| **Response deadline** | **28 days** after service; failure to respond = **admission by default** |
+| **Effect of admission** | Conclusively established for purposes of the pending action; may not be contradicted without leave of court |
+| **Withdrawal** | Court may permit withdrawal if justice would be served and not prejudicial to other party |
+| **Limit** | No specific limit; subject to proportionality (MCR 2.302(B)(1)) |
+
+**Strategic Value:** Requests for admissions can narrow issues, establish key facts, and expose weak points in opposing party's case. Unanswered RFAs become binding admissions.
 
 ---
 
@@ -3382,6 +3505,25 @@ Michigan's e-discovery rules follow the federal model (FRCP 26(b)(5)):
 
 ---
 
+### ESI — Practical Litigation Hold Protocol
+
+When litigation is reasonably anticipated, counsel should:
+1. Issue **written litigation hold notice** to client identifying custodians and categories of potentially relevant ESI
+2. Identify and preserve: email (including deleted items); text messages; social media; cloud storage; internal communications (Slack, Teams); surveillance footage; financial records in electronic form
+3. Suspend automated deletion policies for covered categories
+4. Collect and image devices of key custodians
+5. Log all preserved ESI; document chain of custody
+6. Supplement hold as litigation develops and new custodians identified
+7. When litigation concludes: release hold in writing
+
+**Failure consequences:**
+- Sanctions under MCR 2.313
+- Adverse inference instruction to jury
+- Exclusion of evidence at trial
+- In extreme cases: default or dismissal
+
+---
+
 ## 30. Civil Litigation Procedure — MCR 2
 
 ---
@@ -3483,6 +3625,67 @@ Michigan's e-discovery rules follow the federal model (FRCP 26(b)(5)):
 
 ---
 
+### MCR 2.405 — Offer of Judgment
+
+**Michigan's offer of judgment rule** (MCR 2.405) encourages settlement by shifting costs:
+
+| Element | Rule |
+|---|---|
+| **When to serve** | Any time; typically before trial |
+| **Acceptance deadline** | **28 days** after service |
+| **If accepted** | Judgment entered per offer; binding settlement |
+| **If rejected — offeree wins** | No cost shifting |
+| **If rejected — offeror does better at trial** | Offeree must pay offeror's **actual costs** (attorneys' fees, expert fees) from rejection through verdict |
+| **Offers must be made in good faith** | Nominal or token offers may be stricken |
+| **Cross-offers** | Either party may make offer; each evaluated independently |
+
+---
+
+### Preliminary & Permanent Injunctions (MCR 3.310)
+
+**Preliminary injunction** — preserves status quo pending trial:
+
+**Four-Factor Test (Michigan):**
+1. **Likelihood of success on the merits** — must show substantial probability of success at trial
+2. **Irreparable harm** — harm that cannot be adequately compensated by money damages
+3. **Balance of harms** — harm to plaintiff if denied vs. harm to defendant if granted
+4. **Public interest** — whether granting/denying injunction serves the public interest
+
+**Temporary Restraining Order (TRO) — MCR 3.310(B):**
+- May be granted ex parte without notice if immediate and irreparable harm will result
+- Must be accompanied by security (bond)
+- Expires within **14 days** unless extended for good cause or by consent
+
+**Procedure:**
+1. File verified motion or complaint with supporting affidavits
+2. Give notice to opposing party unless TRO basis
+3. Hearing on the record
+4. Written order required; specific findings
+
+---
+
+### Trial Procedure Checklist (Circuit Court — Civil)
+
+**Before Trial:**
+- [ ] Final Pretrial Conference (MCR 2.401(J)): submit pretrial statement, witness lists, exhibit lists
+- [ ] Motions in limine filed and argued
+- [ ] Jury instructions submitted (MCR 2.516(A): submit at close of proofs or as ordered)
+- [ ] Jury demand filed within **28 days** of last day for filing responsive pleadings (MCR 2.508(B))
+- [ ] Voir dire questions submitted to court
+- [ ] Exhibits pre-marked and disclosed
+
+**Trial:**
+- Opening statements → Plaintiff's case → Defendant's motion for directed verdict → Defendant's case → Plaintiff rebuttal → Closing arguments → Instructions → Deliberations
+- Directed verdict (MCR 2.516) or JNOV (MCR 2.610): after evidence by non-moving party
+- Jury selection: 6 jurors in civil; MCR 2.511; challenges: peremptory = 3 per side (can be expanded); challenges for cause = unlimited
+
+**After Trial:**
+- Motion for new trial: **21 days** after verdict (MCR 2.611(B))
+- JNOV: **21 days** (MCR 2.610(A))
+- Motion to amend findings: **21 days** (MCR 2.517(B))
+
+---
+
 ## 31. Landlord-Tenant & Housing Law
 
 ---
@@ -3572,6 +3775,16 @@ Michigan's e-discovery rules follow the federal model (FRCP 26(b)(5)):
 **Filing:**
 - Federal: HUD complaint within 1 year; or file in federal district court within 2 years
 - Michigan: LARA / MDCR complaint within 180 days; or ELCRA civil action in circuit court within 3 years
+
+---
+
+### Repair-and-Deduct / Rent Escrow
+
+Michigan tenants have limited statutory rights to withhold rent:
+- **No express statutory rent-withholding statute** in Michigan — tenants cannot simply withhold rent without risk of eviction
+- **Petition for escrow:** Some courts allow tenant to pay rent into escrow when landlord fails to maintain habitability
+- **Habitability defense:** *Rome v Walker*, 38 Mich App 458 (1972) — implied warranty of habitability is a defense to nonpayment eviction if the breach substantially affects habitability; landlord's damages reduced proportionally
+- **Documented request to repair** + written notice to landlord is **critical** before asserting habitability defense
 
 ---
 
@@ -3697,6 +3910,48 @@ The **Estates and Protected Individuals Code** (EPIC), MCL 700.1101 et seq., gov
 
 ---
 
+### Trust Administration (MCL 700.7201 et seq.)
+
+**Revocable Living Trust:**
+- Created during settlor's lifetime; settlor typically serves as trustee
+- Assets in trust avoid probate on death
+- Revocable until settlor's incapacity or death
+- Successor trustee takes over upon settlor's incapacity/death
+
+**Irrevocable Trust:**
+- Cannot be revoked by settlor without beneficiary consent
+- Used for: tax planning; Medicaid planning; special needs trusts; asset protection
+
+**Trust Administration After Death:**
+1. Successor trustee identifies and marshals trust assets
+2. Notice to beneficiaries (MCL 700.7813): notify qualified beneficiaries within 63 days
+3. Inventory and value assets
+4. Pay debts and taxes
+5. Distribute to beneficiaries per trust terms
+6. Obtain receipts; close trust
+
+**Trust Modification/Termination:**
+- Non-judicial settlement agreement: MCL 700.7111 — beneficiaries and trustee may agree to modify/terminate (if not contrary to material purpose and meets statutory requirements)
+- Judicial modification: court may modify administrative or dispositive provisions on petition
+
+---
+
+### Will Contests
+
+A will may be contested in probate court on the following grounds:
+
+| Ground | Standard | Notes |
+|---|---|---|
+| **Lack of testamentary capacity** | Clear and convincing evidence | Must have: known nature of act; known nature/value of property; known natural objects of bounty; understood effect of will |
+| **Undue influence** | Clear and convincing evidence | Exploitation of testator's susceptibility by someone in position of trust |
+| **Fraud** | Clear and convincing evidence | Fraud in inducement: false representations that induced will; fraud in execution: deceived about nature of document |
+| **Forgery** | Clear and convincing evidence | Document not signed by testator |
+| **Revocation** | Preponderance | Prior will revoked by subsequent will or physical act |
+
+**Procedure:** Contest filed as formal proceeding in probate court; notice to all interested persons; evidentiary hearing; de novo standard on appeal.
+
+---
+
 ## 33. Michigan Constitutional Rights Quick Reference
 
 ---
@@ -3775,6 +4030,34 @@ Michigan Const 1963, art I, § 20 provides the right to counsel in **all** crimi
 - Right attaches at **arraignment** in Michigan (earlier than federal 6th Amendment right in some contexts)
 - **Effective assistance:** *Strickland v Washington* two-part test adopted in Michigan (deficiency + prejudice) — *People v Pickens*, 446 Mich 298 (1994)
 - Right to **self-representation** (*Faretta v California*; *People v Anderson*, 398 Mich 361 (1976)) — must be knowing, voluntary, and intelligent waiver
+
+---
+
+### Fourth Amendment Search & Seizure — Key Exceptions (art I, § 11)
+
+| Exception | Requirements |
+|---|---|
+| **Search incident to arrest** | Lawful arrest; search of person and area within immediate control; *Chimel v California*, 395 US 752 (1969) |
+| **Automobile exception** | Probable cause to believe contraband or evidence is in vehicle; *Carroll v United States*, 267 US 132 (1925); *People v Kazmierczak*, 461 Mich 411 (2000) |
+| **Exigent circumstances** | Hot pursuit of fleeing felon; imminent destruction of evidence; emergency aid |
+| **Plain view** | Officer lawfully present; incriminating character of item is immediately apparent; *Horton v California*, 496 US 128 (1990) |
+| **Consent** | Voluntary, informed consent; no need for probable cause; third-party consent rules |
+| **Stop and frisk (Terry)** | Reasonable articulable suspicion of criminal activity; pat-down for weapons only; *Terry v Ohio*, 392 US 1 (1968) |
+| **Inventory search** | Routine booking/impoundment inventory; standard procedures followed; *South Dakota v Opperman*, 428 US 364 (1976) |
+| **School search** | Reasonable suspicion (lower than probable cause); *New Jersey v T.L.O.*, 469 US 325 (1985) |
+
+**Exclusionary Rule — Good Faith Exceptions:**
+- *United States v Leon*, 468 US 897 (1984) — objectively reasonable reliance on facially valid warrant
+- *People v Goldston*, 470 Mich 523 (2004) — Michigan adopted good-faith exception
+- Inevitable discovery: evidence would have been discovered through lawful means
+- Independent source: evidence obtained through wholly independent lawful means
+- Attenuation: causal connection between illegal conduct and evidence is sufficiently attenuated (*Utah v Strieff*, 579 US 232 (2016))
+
+**Michigan Suppression Motion — MCR 6.110(D):**
+- File written motion to suppress at or before scheduled hearing
+- If not filed timely: waived unless cause shown
+- Hearing required when factual dispute exists
+- Court must state findings of fact and conclusions of law
 
 ---
 
@@ -3910,6 +4193,38 @@ The **Workers' Disability Compensation Act** (WDCA), MCL 418.101 et seq., provid
 
 ---
 
+### Michigan Non-Compete Agreements
+
+Michigan law on non-compete agreements (also called "covenants not to compete") follows a reasonableness standard:
+
+**Enforceability (MCL 445.774a):**
+A non-compete agreement is enforceable if it is:
+1. Reasonable in **duration**
+2. Reasonable in **geographic area**
+3. Reasonable in the type of **employment** prohibited
+4. Protects a **legitimate business interest** (trade secrets, customer relationships, confidential information)
+
+**Factors for "Reasonable":**
+- Duration: typically 1–2 years; courts have enforced up to 3 years in limited circumstances
+- Geographic area: tied to actual market area served by employer
+- Scope: limited to activities in which employee was actually engaged
+
+**Blue-Penciling:**
+Michigan courts may modify (blue-pencil) an overbroad non-compete rather than voiding it entirely. *Kelly Services, Inc v Marzullo*, 591 F Supp 2d 924 (E.D. Mich 2008) [verify citation].
+
+**Trade Secrets (Michigan Uniform Trade Secrets Act — MCL 445.1901 et seq.):**
+- Misappropriation of trade secrets: improper acquisition, disclosure, or use of trade secrets
+- Injunctive relief + damages (actual losses + unjust enrichment)
+- Exemplary damages up to 2× actual damages for willful misappropriation
+- Attorneys' fees for willful misappropriation
+
+**Federal Defend Trade Secrets Act (DTSA) — 18 USC 1836:**
+- Federal civil action for trade secret misappropriation
+- Nationwide injunctive relief; ex parte seizure orders available in extraordinary circumstances
+- 3-year SOL from date of discovery
+
+---
+
 ## 35. Michigan E-Filing & Court Technology
 
 ---
@@ -3992,7 +4307,36 @@ Michigan courts have adopted permanent rules for remote hearings following the C
 
 ---
 
-*Sources updated: Michigan Constitution of 1963 (art I, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 37, 125, 330, 408, 418, 450, 552, 554, 600, 691, 700, 710, 712A, 722, 750, 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments IV, V, VI, XIV; FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); ICWA (25 USC 1901); VAWA (34 USC 12291); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
+### Technical Failure — E-Filing Contingency Rules
+
+When electronic filing systems fail:
+
+**MiFILE Technical Failure:**
+- Document and screenshot the error message with timestamp
+- Contact SCAO technical support immediately
+- File by alternative method (e-mail to clerk or paper) with explanation of technical failure
+- File certificate of technical failure with evidence when system is restored
+- Courts generally extend deadline when system-wide failure is documented
+
+**TrueFiling Technical Failure:**
+- Same documentation protocol
+- Contact TrueFiling support immediately; obtain ticket number
+- File emergency motion for extension if deadline imminent
+- Provide affidavit of technical failure with supporting evidence
+
+**MCR 1.108 (Time Computation):** If a deadline falls on a day when courts are closed (court holiday, Saturday, Sunday), deadline extends to next court day.
+
+**MCR 8.116(D):** Court administrative closure due to emergency extends filing deadlines.
+
+**Practical Tips:**
+- Never wait until the last minute for e-filing; system may be slow on deadlines
+- Save and print confirmation emails immediately upon successful submission
+- Use PDF/A format for maximum compatibility
+- Maximum file size: varies by system; split large documents into parts if necessary
+
+---
+
+*Sources updated: Michigan Constitution of 1963 (art I, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 37, 125, 330, 408, 418, 445, 450, 552, 554, 600, 691, 700, 710, 712A, 722, 750, 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments IV, V, VI, XIV; FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); ICWA (25 USC 1901); VAWA (34 USC 12291); Defend Trade Secrets Act (18 USC 1836); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
 
 *Last substantively revised: April 2026.*
 
