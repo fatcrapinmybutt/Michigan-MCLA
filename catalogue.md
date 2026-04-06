@@ -4518,6 +4518,55 @@ A municipality is liable under § 1983 only when the constitutional violation re
 
 ---
 
+### § 1983 Qualified Immunity — Full Sequential Analysis
+
+**Two-Part *Pearson* Test (*Pearson v Callahan*, 555 US 223 (2009)):**
+Courts may address either prong first:
+
+**Prong 1: Was a constitutional right violated?**
+- Is there a recognized constitutional right?
+- Were the specific facts sufficient to constitute a violation of that right?
+
+**Prong 2: Was the right "clearly established"?**
+- At the time of the incident, would a reasonable officer have known the conduct was unlawful?
+- "Clearly established" requires: **a prior case with materially similar facts** (from SCOTUS or the relevant circuit); a general constitutional rule so obvious no case law needed; a circuit split does NOT clearly establish the right
+
+**Post-*Mullenix* Standard:**
+*Mullenix v Luna*, 577 US 7 (2015) — The clearly established analysis must be done at a "**high level of particularity**" — not at a broad general level (e.g., "excessive force is unconstitutional") but at the specific conduct level.
+
+**Interlocutory Appeal of QI Denial:**
+- Trial court's denial of qualified immunity at summary judgment stage is **immediately appealable** (collateral order doctrine — *Mitchell v Forsyth*, 472 US 511 (1985))
+- 6th Circuit must decide the QI legal question de novo; may not review district court's finding of material fact in this context
+
+---
+
+### *Monell* Liability — All Four Theories Atomized
+
+***Monell v Dep't of Social Services*, 436 US 658 (1978):** Municipal liability under § 1983 only when the constitutional violation results from the **municipality's own deliberate conduct**; respondeat superior does not apply.
+
+**Theory 1: Official Policy or Custom**
+- An **official written policy** (resolution, ordinance, code) that causes the violation; OR
+- An unofficial **custom** so widespread and persistent that it effectively has the force of policy
+- Custom must be so well-settled that municipal policymakers had actual or constructive knowledge
+
+**Theory 2: Deliberate Indifference — Failure to Train**
+- *City of Canton v Harris*, 489 US 378 (1989): municipality is liable for inadequate training when failure amounts to **deliberate indifference** to the rights of those with whom the municipality comes into contact
+- Requirements: (a) training was inadequate; (b) municipality knew inadequacy was likely to result in constitutional violation; (c) violation resulted
+- **Pattern of prior violations** is the most common way to show deliberate indifference
+
+**Theory 3: Final Policymaker's Decision**
+- *Pembaur v City of Cincinnati*, 475 US 469 (1986): a single decision by an official with **final policymaking authority** on that subject constitutes municipal policy
+- Final policymaker status: a question of **state law** — who has final authority under Michigan law?
+
+**Theory 4: Ratification**
+- Municipality ratifies an unconstitutional act if a policymaker with final authority affirmatively approves the act and its basis *after the fact*
+- Mere failure to discipline does not constitute ratification
+
+**Causation in *Monell* Claims:**
+The municipal policy must be the "**moving force**" behind the constitutional violation (*Bd. of Cnty. Comm'rs v Brown*, 520 US 397 (1997)) — a direct causal link, not merely a contributing factor.
+
+---
+
 ### Federal Habeas Corpus — 28 USC 2254 & 2255
 
 **28 USC § 2254 — State Prisoner Collateral Attack:**
@@ -5312,6 +5361,66 @@ Permits sentence below mandatory minimum for first-time drug offenders who: did 
 
 ---
 
+### USSG Base Offense Levels — Common Federal Offenses
+
+| Offense | Guideline | Base Offense Level | Notes |
+|---|---|---|---|
+| Drug trafficking — marijuana (kg range) | USSG §2D1.1 | Varies by drug type/quantity | Drug weight table; marijuana: 100 kg = BOL 26; 1000 kg = BOL 32 |
+| Drug trafficking — heroin (g range) | USSG §2D1.1 | 100g = BOL 18; 1 kg = BOL 26; 10 kg = BOL 36 | Mandatory minimum overlay |
+| Drug trafficking — cocaine (g range) | USSG §2D1.1 | 500g = BOL 24; 5 kg = BOL 32; 50 kg = BOL 38 | See mandatory minimums (21 USC 841) |
+| Methamphetamine (actual) | USSG §2D1.1 | 5g = BOL 24; 50g = BOL 30; 150g = BOL 34; 1.5 kg = BOL 42 | Actual = pure meth; mixture lower |
+| Fentanyl | USSG §2D1.1 | 40g = BOL 26; 400g = BOL 32 | 50:1 equivalency ratio to heroin |
+| Bank robbery | USSG §2B3.1 | 20 | +2 if bodily injury; +5 if weapon brandished; +7 if weapon discharged |
+| Mail/wire fraud | USSG §2B1.1 | 7 (base) | Enhanced by loss amount; restitution required |
+| Bank fraud | USSG §2B1.1 | 7 (base) | Enhanced by loss amount; financial institution victim adds 2 levels |
+| Money laundering (promotion) | USSG §2S1.1 | Underlying offense level + 2 (§2S1.1(a)(2)) | |
+| 18 USC 924(c) — firearm in drug crime | USSG §2K2.4 | Reflects mandatory consecutive sentence: 5 yrs (possession); 7 yrs (brandish); 10 yrs (discharge); 2nd+ offense doubles | No USSG range; mandatory sentence applied consecutively |
+| Felon in possession (§ 922(g)) | USSG §2K2.1 | 14 (with one prior) to 24 (with 3+ prior crimes of violence/drug offenses) | ACCA (18 USC 924(e)) mandatory 15-year minimum if applicable |
+| Child pornography (possession) | USSG §2G2.2 | 18 | +2 material involves minor under 12; +5 pattern of activity |
+| Child pornography (distribution) | USSG §2G2.2 | 22 | +5 peer-to-peer distribution |
+| Tax evasion / tax fraud | USSG §2T1.1 | 6 (loss < $2K) to 22+ (loss > $550K) | Based on tax loss amount |
+| Identity theft (aggravated) | USSG §2B1.6 | Mandatory 2-year consecutive (no USSG range computation) | |
+| Hobbs Act robbery | USSG §2B3.2 | 18 | +2 bodily injury; +3 permanent/life-threatening |
+
+**18 USC 3553(a) Sentencing Factors (Court Must Consider):**
+1. Nature and circumstances of the offense and history and characteristics of the defendant
+2. Seriousness of the offense; respect for law; deterrence
+3. Protection of the public
+4. Defendant's need for educational, vocational, medical, or correctional treatment
+5. Applicable USSG range
+6. Relevant Sentencing Commission policy statements
+7. Need to avoid unwarranted sentencing disparities
+8. Need to provide restitution to victims
+
+---
+
+### Federal Plea Negotiations — Practice Guide
+
+**Cooperation Agreements:**
+- **Proffer agreement ("Queen for a Day"):** Defendant provides information to AUSA; statements not used directly against defendant at trial (but not full immunity); used to evaluate cooperation value
+- **Cooperation plea agreement:** Defendant pleads guilty, cooperates, and government agrees to file § 5K1.1 motion if defendant's cooperation is "substantial"
+- **Timing:** Earlier cooperation usually produces better § 5K1.1 credit; pre-indictment cooperation strongest
+
+**Common Plea Agreement Terms:**
+1. Plea to specific count(s)
+2. Dismissal of remaining counts
+3. Agreed factual basis (Statement of Facts / Factual Basis)
+4. Government recommendation (non-binding) or binding (C)(1)(C) sentence
+5. Cooperation obligation and § 5K1.1 motion commitment
+6. Waiver of appeal rights (typically waiving appeal of sentence within/below agreed range; *United States v Carradine*, 621 F3d 575 (6th Cir 2010) — appeal waivers enforced if knowing and voluntary)
+7. Waiver of § 2255 rights (right to file habeas motion after conviction — often included; courts enforce unless waiver itself resulted from IAC)
+8. Forfeiture agreement (specific assets)
+9. Restitution amount
+
+**Practical Negotiation Considerations:**
+- **USSG calculation:** run preliminary USSG analysis before negotiations; know the range
+- **Mandatory minimums:** identify applicable mandatory minimums early; safety valve eligibility?
+- **Relevant conduct:** negotiate what conduct is included in the factual basis; it directly drives the USSG range
+- **Rule 11(c)(1)(C) plea:** where applicable, a fixed sentence plea provides certainty; if court rejects, defendant may withdraw
+- **Debriefing order:** if cooperation is part of the deal, control timing of proffer relative to charges
+
+---
+
 ### Speedy Trial Act — 18 USC 3161
 
 | Period | Requirement |
@@ -5528,6 +5637,71 @@ The **Eleventh Amendment** bars suits in federal court against a **state** by ci
 - Michigan counties and municipalities: **not** protected by Eleventh Amendment; they are not "the state" (*Monell* liability applies in federal court)
 - Michigan courts (circuit, district, probate): considered arms of the state for Eleventh Amendment purposes [UNVERIFIED — verify 6th Cir position]
 - University of Michigan: arm of the state for Eleventh Amendment purposes [UNVERIFIED]
+
+---
+
+### Title VII Employment Discrimination — EEOC Procedure
+
+Title VII of the Civil Rights Act of 1964 (42 USC 2000e et seq.) prohibits employment discrimination based on race, color, religion, sex, or national origin.
+
+**Exhaustion Required:**
+Title VII (unlike § 1981) requires exhaustion through the EEOC before filing suit.
+
+**EEOC Charge Process:**
+1. File charge of discrimination with EEOC (or Michigan MDCR) within **300 days** of the discriminatory act (Michigan is a deferral state — dual-file with EEOC and MDCR)
+2. EEOC investigates; may attempt conciliation
+3. EEOC issues **Right to Sue Letter** (RTSL):
+   - EEOC may dismiss and issue RTSL on request after 180 days without resolution
+   - Plaintiff may request RTSL at any time after 180 days
+4. Plaintiff must file suit in federal district court within **90 days** of receipt of RTSL
+
+**Disparate Treatment Analysis (Individual):**
+
+*McDonnell Douglas Corp v Green*, 411 US 792 (1973) burden-shifting framework:
+1. Plaintiff establishes **prima facie case**: member of protected class; qualified; adverse employment action; similarly situated non-protected employees treated more favorably
+2. Burden shifts to employer: **legitimate, non-discriminatory reason** for adverse action
+3. Burden shifts back to plaintiff: show the proffered reason is a **pretext** for discrimination
+
+**Mixed Motive Analysis (*Price Waterhouse v Hopkins*):**
+- Where both legitimate and discriminatory motives exist
+- After 1991 Civil Rights Act: discrimination is unlawful even if legitimate factors would have led to same decision; but only injunctive relief/fees available (not damages/reinstatement) if employer proves "same decision" defense
+
+**Remedies:**
+- Back pay; front pay; reinstatement; compensatory damages; punitive damages (Title VII caps: $300,000 for employers with 500+ employees; lower caps for smaller employers); attorneys' fees
+
+---
+
+### AEDPA Habeas — Step-by-Step Procedure (28 USC 2254)
+
+**Prerequisites:**
+1. **Conviction** must be final (all direct appeals exhausted; no cert petition pending)
+2. **Exhaustion:** Every claim must have been presented to the Michigan Supreme Court (by leave or direct appeal); exhaustion requires fairly presenting federal constitutional basis of the claim, not just state law claim
+3. **Statute of limitations:** One year from the date: (a) conviction becomes final; (b) government impediment to filing is removed; (c) newly recognized constitutional right (if retroactively applicable); or (d) new facts discovered through due diligence
+
+**Petition Preparation:**
+1. Use AO Form 241 (§ 2254) or AO Form 243 (§ 2255)
+2. Each ground for relief must: (a) state the constitutional right violated; (b) cite the specific Supreme Court case establishing the right; (c) state the facts underlying the claim; (d) show the claim was exhausted
+3. Attach relevant portions of the state court record
+
+**After Filing:**
+1. Court reviews petition; if facially insufficient or untimely: dismissal
+2. Court orders respondent (Michigan AG) to file Answer and Rule 5 materials (trial transcript, state court opinions, appellate briefs)
+3. Petitioner may file Reply
+4. If evidentiary hearing warranted: rarely granted; petitioner must show diligence in state court and that claim relies on new factual predicate or new constitutional rule
+5. Court issues opinion; grant or deny
+
+**Certificate of Appealability (COA):**
+- Required to appeal to 6th Circuit
+- Must make a "substantial showing of the denial of a constitutional right"
+- If district court denies on procedural grounds: must show both that reasonable jurists would debate whether the petition stated a valid claim AND whether the procedural ruling was correct
+
+**Common Michigan Habeas Issues in 6th Circuit:**
+- MSGCS scoring errors raising constitutional due process issues (not cognizable — *Tironi v Birkett*)
+- Ineffective assistance of trial counsel (IAC): must meet *Strickland* both in state court and in federal habeas
+- Brady violations: newly discovered suppressed evidence
+- Confrontation Clause violations (*Crawford*)
+- *Batson* violations in jury selection
+- Actual innocence as a gateway to procedurally defaulted claims (*Schlup v Delo*, 513 US 298 (1995))
 
 ---
 
