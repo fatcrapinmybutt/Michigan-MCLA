@@ -188,6 +188,45 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Pleading Civil RICO — *Twombly/Iqbal* & 9(b)](#pleading-civil-rico--twomblyiqbal--9b)
     - [Michigan RICO — MCL 750.159f et seq.](#michigan-rico--mcl-750159f-et-seq)
     - [Key RICO Caselaw](#key-rico-caselaw)
+39. [U.S. Supreme Court — Certiorari Practice](#39-us-supreme-court--certiorari-practice)
+    - [Jurisdiction & Certiorari Overview](#jurisdiction--certiorari-overview)
+    - [Supreme Court Rules — Key Rules](#supreme-court-rules--key-rules)
+    - [Petition for Certiorari — Content & Format](#petition-for-certiorari--content--format)
+    - [Certiorari-Worthy Grounds](#certiorari-worthy-grounds)
+    - [Response, Reply & Amicus at the Certiorari Stage](#response-reply--amicus-at-the-certiorari-stage)
+    - [Merits Briefing After Grant](#merits-briefing-after-grant)
+    - [Oral Argument at SCOTUS](#oral-argument-at-scotus)
+    - [Rehearing & Emergency Applications](#rehearing--emergency-applications)
+    - [SCOTUS Docket Search & Public Access](#scotus-docket-search--public-access)
+40. [Federal Criminal Practice in Michigan](#40-federal-criminal-practice-in-michigan)
+    - [Federal Criminal Jurisdiction & Common Charges](#federal-criminal-jurisdiction--common-charges)
+    - [The Federal Charging Process — Grand Jury & Indictment](#the-federal-charging-process--grand-jury--indictment)
+    - [Initial Appearance, Detention & Bail (18 USC 3141–3156)](#initial-appearance-detention--bail-18-usc-31413156)
+    - [Rule 11 Plea Agreements](#rule-11-plea-agreements)
+    - [United States Sentencing Guidelines (USSG)](#united-states-sentencing-guidelines-ussg)
+    - [Supervised Release & Probation (18 USC 3563–3583)](#supervised-release--probation-18-usc-35633583)
+    - [Federal Sentencing Appeals & Reasonableness Review](#federal-sentencing-appeals--reasonableness-review)
+    - [Speedy Trial Act — 18 USC 3161](#speedy-trial-act--18-usc-3161)
+    - [Federal Conviction — Collateral Consequences in Michigan](#federal-conviction--collateral-consequences-in-michigan)
+41. [Federal Civil Rights Litigation Beyond § 1983](#41-federal-civil-rights-litigation-beyond--1983)
+    - [42 USC § 1981 — Equal Rights Under Law](#42-usc--1981--equal-rights-under-law)
+    - [42 USC § 1985 — Conspiracy to Interfere with Civil Rights](#42-usc--1985--conspiracy-to-interfere-with-civil-rights)
+    - [42 USC § 1986 — Neglect to Prevent Conspiracy](#42-usc--1986--neglect-to-prevent-conspiracy)
+    - [Bivens Actions — Federal Officer Liability](#bivens-actions--federal-officer-liability)
+    - [Title VI — Civil Rights Act of 1964 (42 USC 2000d)](#title-vi--civil-rights-act-of-1964-42-usc-2000d)
+    - [Title IX — Education Amendments of 1972 (20 USC 1681)](#title-ix--education-amendments-of-1972-20-usc-1681)
+    - [Americans with Disabilities Act & Rehabilitation Act](#americans-with-disabilities-act--rehabilitation-act)
+    - [First Amendment Retaliation — Public Employees & Officials](#first-amendment-retaliation--public-employees--officials)
+    - [Eleventh Amendment & State Sovereign Immunity](#eleventh-amendment--state-sovereign-immunity)
+42. [Asset Forfeiture — Federal & Michigan](#42-asset-forfeiture--federal--michigan)
+    - [Federal Civil Forfeiture — 18 USC 981 & CAFRA](#federal-civil-forfeiture--18-usc-981--cafra)
+    - [Federal Criminal Forfeiture — 18 USC 982 & 21 USC 853](#federal-criminal-forfeiture--18-usc-982--21-usc-853)
+    - [DEA/DOJ Equitable Sharing Program](#deadoj-equitable-sharing-program)
+    - [Innocent Owner Defense (18 USC 983(d))](#innocent-owner-defense-18-usc-983d)
+    - [Third-Party Claims — Ancillary Proceedings (21 USC 853(n))](#third-party-claims--ancillary-proceedings-21-usc-853n)
+    - [Michigan Forfeiture Reform — MCL 600.4701 et seq. (2015 PA 11)](#michigan-forfeiture-reform--mcl-6004701-et-seq-2015-pa-11)
+    - [Michigan Drug Forfeiture — MCL 333.7521–333.7524](#michigan-drug-forfeiture--mcl-3337521-3337524)
+    - [Challenging Forfeiture — Federal & Michigan Procedures](#challenging-forfeiture--federal--michigan-procedures)
 
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
@@ -3604,5 +3643,765 @@ At least **2 incidents** of racketeering, one of which occurred after the act's 
 ---
 
 *Sources updated: Michigan Constitution of 1963 (art I, art III, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 37, 125, 330, 408, 418, 450, 552, 554, 600, 691, 700, 710, 712A, 722, 750 (including 750.159b–750.159x), 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments IV, V, VI, XIV; RICO (18 USC 1961–1968); 28 USC 1291, 1292, 1331, 1332, 1367, 1441–1453; 42 USC 1983; 28 USC 2254, 2255; FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); ICWA (25 USC 1901); VAWA (34 USC 12291); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
+
+*Last substantively revised: April 2026.*
+
+---
+
+## 39. U.S. Supreme Court — Certiorari Practice
+
+---
+
+### Jurisdiction & Certiorari Overview
+
+The **Supreme Court of the United States** (SCOTUS) has **discretionary appellate jurisdiction** over the courts of appeals and state supreme courts through the writ of certiorari (28 USC 1254(1); 28 USC 1257). SCOTUS receives approximately **7,000–8,000 petitions per term** and grants approximately **60–80** (roughly 1%). [UNVERIFIED — verify current grant rate]
+
+**Bases for SCOTUS Jurisdiction:**
+| Basis | Statute | Scope |
+|---|---|---|
+| Certiorari from courts of appeals | 28 USC 1254(1) | Any civil or criminal case in a federal court of appeals |
+| Certiorari from state supreme courts | 28 USC 1257(a) | Final judgment by highest state court; federal question necessary |
+| Mandatory jurisdiction — state court | 28 USC 1257(a) | Very narrow; essentially abolished by 1988 amendments |
+| Original jurisdiction | Art III, § 2; 28 USC 1251 | Disputes between states; mandatory; ambassador cases (concurrent with lower courts) |
+| Certified questions from courts of appeals | 28 USC 1254(2) | Court of appeals may certify question before final judgment; rarely used |
+
+**Michigan Supreme Court → SCOTUS:**
+A petition for certiorari to SCOTUS from the **Michigan Supreme Court** (or from the 6th Circuit) must be filed within **90 days** of the entry of the MSC or 6th Circuit judgment (28 USC 2101(c); Sup Ct R 13.1). The MSC's denial of leave to appeal is **not** a final judgment on the merits; the last reasoned state court opinion controls for AEDPA purposes.
+
+---
+
+### Supreme Court Rules — Key Rules
+
+The **Supreme Court Rules** (Sup Ct R) govern practice before SCOTUS. Current edition: effective January 2023. [UNVERIFIED — verify current rule edition]
+
+| Rule | Topic | Key Points |
+|---|---|---|
+| **Sup Ct R 10** | Certiorari — considerations | Conflict between circuits; important federal question; departure from accepted law; not a "second-level appeal" |
+| **Sup Ct R 11** | Certiorari before judgment | Extraordinary circumstances; avoid 6th Circuit first only when imperative and unusual |
+| **Sup Ct R 12** | Petition filing | Must comply with R 33 (printing/format) or R 34 (in forma pauperis); 9 copies + 1 electronic |
+| **Sup Ct R 13** | Time for petition | **90 days** from entry of judgment or denial of rehearing; extensions by individual justice (rare) |
+| **Sup Ct R 14** | Content of petition | Questions presented (critical); list of parties; table of contents; index of authorities; opinions below; jurisdiction statement; constitutional/statutory provisions; statement of the case; argument for granting cert |
+| **Sup Ct R 15** | Response (BIO) | Brief in Opposition due **30 days** after petition distribution; respondent may waive; SCOTUS may request BIO |
+| **Sup Ct R 16** | Reply brief | Petitioner may file reply to BIO; due **30 days** after BIO or waiver; discouraged unless new arguments |
+| **Sup Ct R 21** | Motions | Dispositive motions require 10 copies; non-dispositive filed with Clerk electronically |
+| **Sup Ct R 25** | Briefs on the merits | Due 45 days after cert granted (petitioner); respondent 35 days after petitioner's brief; reply 30 days after respondent's brief |
+| **Sup Ct R 28** | Oral argument | 30 minutes per side (standard); may be extended; Solicitor General often granted 15 min |
+| **Sup Ct R 29** | Filing | Deadline is 11:59 PM Washington D.C. time on due date; electronic submission required via SCOTUS electronic filing system |
+| **Sup Ct R 33** | Document format (booklet) | Booklet format; 6⅛ × 9¼ inches; 12-pt Century typeface; colored covers (cert petition: white; BIO: orange; petitioner merits: light blue; respondent merits: red; reply: yellow; amicus: cream) |
+| **Sup Ct R 34** | IFP documents | 8½ × 11; double-spaced; 40 pages max for petition |
+| **Sup Ct R 37** | Amicus curiae | Must obtain consent of both parties or leave of court at cert stage; 7 days after principal brief at merits stage if consent obtained |
+
+---
+
+### Petition for Certiorari — Content & Format
+
+**Required Elements (Sup Ct R 14):**
+
+1. **Questions Presented** — The single most important component. Must be:
+   - Stated at the beginning, before the table of contents
+   - Concise, focused, and framed in terms of legal principle (not just "did the court below err?")
+   - Limited to the questions on which cert will be sought (court will not grant on other questions)
+   - Maximum: **one page per question**
+
+2. **List of all parties** (if not shown in caption)
+
+3. **Table of Contents** and **Index of Authorities**
+
+4. **Opinions below** — Reproduced in appendix; cite to appendix in statement of jurisdiction
+
+5. **Statement of Jurisdiction** — Basis for SCOTUS jurisdiction; statute; date of judgment; timeliness
+
+6. **Constitutional and statutory provisions** — Text of relevant provisions
+
+7. **Statement of the Case** — Concise; procedural history; facts material to the questions presented
+
+8. **Reasons for Granting the Writ** — Argument section; should address *why cert should be granted*, not just that the court below erred
+
+9. **Appendix** — Must include: court below opinion; all other opinions/orders in the case; relevant statutory/constitutional provisions not in the U.S. Code
+
+**Page/Word Limits:**
+- Petition: **30 pages** (booklet) or 9,000 words
+- BIO: 30 pages or 9,000 words
+- Reply to BIO: 10 pages or 3,000 words
+- Merits briefs: 50 pages or 15,000 words (petitioner/respondent); 20 pages or 6,000 words (reply)
+
+---
+
+### Certiorari-Worthy Grounds
+
+Per **Sup Ct R 10**, review is discretionary and "rarely granted." Compelling considerations include:
+
+**Circuit Conflict:**
+The most powerful cert argument. Must show:
+- A direct, square conflict — same legal question decided differently in different circuits (including the 6th Circuit vs. another)
+- Not merely tension or a factually distinguishable prior ruling
+- The split matters — affects a significant number of cases or parties nationwide
+
+**State Court — Federal Law:**
+- Michigan Supreme Court decision that construes a federal statute or the U.S. Constitution contrary to the weight of federal authority or contrary to SCOTUS precedent
+- Michigan court's interpretation of a federal constitutional right (e.g., 4th Amendment, Due Process) in conflict with the 6th Circuit or another state supreme court
+
+**Important Unsettled Federal Question:**
+- Federal question of broad application not yet addressed by SCOTUS
+- Question arising frequently in courts nationwide
+
+**Departure from SCOTUS Precedent:**
+- Court below expressly departed from SCOTUS ruling
+- Court below reached result contrary to SCOTUS precedent without acknowledging conflict
+
+**What Is NOT Certiorari-Worthy (Common Mistakes):**
+- Claiming the court below simply made the wrong factual determination
+- Pure error correction without broader legal significance
+- Issues arising from unique state procedural rules
+- Questions already settled by controlling SCOTUS precedent
+
+---
+
+### Response, Reply & Amicus at the Certiorari Stage
+
+**Brief in Opposition (BIO):**
+- Filed by respondent within **30 days** after petition is distributed
+- Respondent may **waive** response (signals confidence the petition will be denied; but waiver is risky if petition presents a compelling question)
+- SCOTUS Clerk distributes petition to all justices after waiver period or BIO receipt
+- BIO should: challenge cert-worthiness (not merely argue the merits); show there is no real circuit split; explain why the question is not significant or is moot
+
+**Reply Brief:**
+- Petitioner may file reply to BIO within **30 days** of BIO
+- Not mandatory; file only when BIO raises factual or legal arguments that distort the record or mischaracterize the question
+- Maximum 10 pages / 3,000 words
+
+**Amicus at Cert Stage:**
+- Must have consent of both parties **or** leave of Court (Sup Ct R 37.2)
+- Government amicus (Solicitor General) often filed in response to SCOTUS call for the views of the Solicitor General (CVSG) — a powerful signal the Court is interested
+- Amicus in support of cert: file with or before petitioner's reply (or within 30 days of BIO)
+- Amicus in opposition to cert: file within 30 days of BIO
+
+**The Conference:**
+- Petitions distributed to all nine justices before each Conference (held Fridays)
+- **Rule of Four:** cert is granted if four or more justices vote to grant
+- Majority of petitions disposed of without discussion (on "Discuss List" only if at least one justice requests)
+
+---
+
+### Merits Briefing After Grant
+
+After cert is granted:
+
+| Brief | Due | Limit |
+|---|---|---|
+| Petitioner's merits brief | **45 days** after order granting cert | 50 pp / 15,000 words |
+| Respondent's merits brief | **35 days** after petitioner's brief | 50 pp / 15,000 words |
+| Reply brief | **30 days** after respondent's brief | 20 pp / 6,000 words |
+| Amicus on the merits (consent) | Due with principal brief of party supported; or 7 days after | 20 pp / 6,000 words |
+
+**Merits Brief Format (Sup Ct R 24):**
+- Questions presented (only those on which cert was granted)
+- List of parties
+- Table of contents / index of authorities
+- Opinions below (cite appendix)
+- Jurisdiction
+- Constitutional/statutory text
+- Statement of the case (petitioner) or counter-statement (respondent)
+- Summary of argument
+- Argument
+- Conclusion
+
+---
+
+### Oral Argument at SCOTUS
+
+**Standard Time:** 30 minutes per side; may be extended by Court for complex cases.
+
+**Process:**
+- Petitioner argues first; respondent; petitioner may reserve time for rebuttal (announce at outset)
+- Justices interrupt freely; counsel must answer and maintain argument thread
+- Solicitor General typically granted 15 minutes if the U.S. government is a party or has participated as amicus
+- Oral argument is live-streamed on audio (not video); transcripts posted same day; audio posted Friday
+- Courtroom seats limited; public gallery; press and bar sections
+
+**Practice Tips:**
+- Prepare for all lines of questions from all nine justices; review recent oral argument transcripts
+- Oral argument themes often appear in draft opinions; be ready to shape the questions into your framework
+- Have a clear answer to the first question you're likely to receive
+- Never read from a prepared text; argument is conversational
+
+---
+
+### Rehearing & Emergency Applications
+
+**Petition for Rehearing (Sup Ct R 44):**
+- Filed within **25 days** after entry of judgment
+- Must state the points of law or fact the petitioner believes the Court overlooked or misunderstood
+- Not a vehicle for rearguing; granted only in exceptional circumstances
+- Seldom granted by SCOTUS
+
+**Emergency Applications:**
+- Application for stay, injunction, or other emergency relief directed to an individual Justice (the Circuit Justice for the relevant circuit)
+- **6th Circuit → Justice Sonia Sotomayor** (Circuit Justice, 6th Circuit) [UNVERIFIED — verify current assignment]
+- Filed as a motion with the Circuit Justice; if denied, may be renewed to the full Court
+- Must show: likelihood of success on the merits; irreparable harm; balance of equities; public interest (*Nken v Holder*, 556 US 418 (2009))
+
+---
+
+### SCOTUS Docket Search & Public Access
+
+| Resource | URL | Notes |
+|---|---|---|
+| SCOTUS website | https://www.supremecourt.gov | Docket search, opinions, transcripts, argument calendars |
+| SCOTUS e-filing | https://efiling.supremecourt.gov | Mandatory for represented parties |
+| Oyez (oral argument audio) | https://www.oyez.org | Searchable argument audio and opinion summaries |
+| SCOTUSblog | https://www.scotusblog.com | Expert cert petition tracking; Plain English summaries |
+| PACER | https://pacer.uscourts.gov | SCOTUS records available on PACER (some filings) |
+
+---
+
+## 40. Federal Criminal Practice in Michigan
+
+---
+
+### Federal Criminal Jurisdiction & Common Charges
+
+Federal criminal prosecutions in Michigan are handled by the **U.S. Attorney's Office for the Eastern District of Michigan** (Detroit) and the **U.S. Attorney's Office for the Western District of Michigan** (Grand Rapids).
+
+**Common Federal Criminal Charges in Michigan:**
+
+| Offense | Statute | Notes |
+|---|---|---|
+| Drug trafficking | 21 USC 841, 846 | Most common federal charge nationally; mandatory minimums apply |
+| Firearms offenses | 18 USC 922, 924 | Felon in possession; straw purchases; trafficking; § 924(c) consecutive sentences |
+| Wire/mail fraud | 18 USC 1341, 1343 | Broad; covers health care fraud, mortgage fraud, Ponzi schemes |
+| Bank fraud | 18 USC 1344 | Up to 30 years |
+| Money laundering | 18 USC 1956, 1957 | Concealment or promotion of proceeds of specified unlawful activity |
+| RICO | 18 USC 1962 | See §38 |
+| Hobbs Act robbery/extortion | 18 USC 1951 | Interstate commerce nexus required |
+| Sex trafficking / CSAM | 18 USC 1591, 2252 | Mandatory minimums; sex offender registration (SORNA) |
+| Health care fraud | 18 USC 1347 | False claims to Medicare/Medicaid; Anti-Kickback Statute |
+| Tax evasion | 26 USC 7201 | Up to 5 years; failure to file, false returns, evasion |
+| Identity theft | 18 USC 1028, 1028A | Aggravated identity theft: mandatory 2-year consecutive sentence |
+| Cybercrime | 18 USC 1030 (CFAA) | Unauthorized access; computer fraud |
+| Civil rights offenses | 18 USC 241, 242 | Conspiracy against civil rights; deprivation under color of law |
+
+---
+
+### The Federal Charging Process — Grand Jury & Indictment
+
+**Grand Jury (5th Amendment; Fed R Crim P 6):**
+- Required for all federal felony charges (unless defendant waives in favor of **information** — used primarily in plea contexts)
+- Grand jury consists of **16–23** jurors; **12** must concur to indict
+- Grand jury proceedings are **secret** (Fed R Crim P 6(e)); defendant has no right to appear, present evidence, or be represented
+- Grand jury has broad subpoena power (documents and testimony)
+- **Target letter:** letter from AUSA informing recipient they are a target of grand jury investigation; often precedes indictment
+
+**Indictment Requirements (Fed R Crim P 7):**
+- Must contain: plain, concise, definite statement of essential facts; each offense charged
+- Surplusage may be stricken (Fed R Crim P 7(d))
+- Bill of particulars (Fed R Crim P 7(f)): defendant may move for more specific statement of the charge
+
+**Superseding Indictments:**
+- Government may obtain a superseding indictment adding counts, defendants, or correcting deficiencies while original case pending
+
+---
+
+### Initial Appearance, Detention & Bail (18 USC 3141–3156)
+
+**Initial Appearance (Fed R Crim P 10):**
+- Must occur "without unnecessary delay" after arrest (Gerstein; McNabb-Mallory rule)
+- Arraignment follows shortly; defendant advised of charges; enters plea (almost always not guilty initially)
+
+**Bail Reform Act (18 USC 3141–3156):**
+
+| Standard | Application |
+|---|---|
+| **Rebuttable presumption of detention** | Drug offenses carrying ≥ 10-year maximum; offenses under 18 USC 924(c); crimes of violence; sex trafficking; prior conviction for qualifying offense while on prior release |
+| **Conditions of release** | Least restrictive conditions reasonably assuring appearance and safety; may include electronic monitoring, drug testing, travel restrictions, surrender of passport |
+| **Detention** | Government must prove by **clear and convincing evidence** (danger) or **preponderance** (flight risk) that no conditions will assure appearance or safety |
+| **Detention hearing** | Defendant may be detained for up to **3 business days** pending hearing; may request continuance up to 5 days; government may seek up to 3-day continuance |
+| **Review of detention order** | Motion for reconsideration with new information; appeal to district judge if ordered by magistrate judge; appeal to 6th Circuit (18 USC 3145) |
+
+---
+
+### Rule 11 Plea Agreements
+
+**Plea Agreement Types (Fed R Crim P 11(c)):**
+
+| Type | Description | Court Bound? |
+|---|---|---|
+| **(c)(1)(A)** | Government agrees not to bring other charges or dismiss charges | No — court accepts or rejects based on plea only |
+| **(c)(1)(B)** | Government recommends or agrees not to oppose specific sentence | No — court not bound; but court must tell defendant before acceptance |
+| **(c)(1)(C)** | Agreement specifies sentence or sentencing range | **Yes** — court must accept or reject entire agreement; if rejected, defendant may withdraw plea |
+
+**Rule 11 Colloquy Requirements:**
+Before accepting a guilty plea, the court must:
+1. Advise defendant of rights being waived (trial, confrontation, self-incrimination, jury)
+2. Advise of maximum and mandatory minimum penalties
+3. Advise of applicable USSG range and court's authority to depart or vary
+4. Confirm plea is **voluntary** — no force, threats, or promises outside the agreement
+5. Establish **factual basis** for the plea
+6. Advise of forfeiture consequences, immigration consequences, and sex offender registration if applicable
+
+**Withdrawal of Guilty Plea:**
+- Before sentencing: "fair and just reason" standard (Fed R Crim P 11(d)(2)(B)); more permissive
+- After sentencing: only to correct "manifest injustice" (Fed R Crim P 11(e)); very strict
+
+---
+
+### United States Sentencing Guidelines (USSG)
+
+**Overview:**
+The USSG are advisory following *United States v Booker*, 543 US 220 (2005). Courts must still:
+1. Calculate the USSG range correctly
+2. Consider the range as the starting point
+3. Weigh the 18 USC 3553(a) sentencing factors
+4. Impose a sentence that is procedurally and substantively reasonable
+
+**USSG Structure — Two-Axis Grid:**
+
+| Axis | Description |
+|---|---|
+| **Offense Level (vertical)** | Base offense level from the offense guideline + specific offense characteristics + adjustments ± role in the offense ± obstruction/acceptance of responsibility → **Total Offense Level** (1–43) |
+| **Criminal History Category (horizontal)** | Criminal history points scored from prior convictions → Category I–VI |
+
+**Key Adjustments:**
+- **Acceptance of Responsibility (USSG §3E1.1):** −2 or −3 levels for timely guilty plea and admission; government must move for third point
+- **Role in the Offense:** +2 to +4 (organizer/leader: USSG §3B1.1); −2 to −4 (minor/minimal role: USSG §3B1.2)
+- **Obstruction of Justice (USSG §3C1.1):** +2 levels for perjury, tampering, etc.
+- **Relevant Conduct (USSG §1B1.3):** Sentenced for all "relevant conduct" including acquitted conduct (uncharged acts within the same scheme); a frequent source of appeals
+
+**Variances and Departures:**
+- **Downward departure:** within USSG framework; authorized grounds include cooperating with government (§5K1.1 motion by government), diminished capacity, extraordinary family circumstances
+- **Variance:** court varies outside the USSG range based on 18 USC 3553(a) factors; does not require a USSG basis
+- **Substantial Assistance:** Government must file § 5K1.1 motion; court not bound to depart even with motion but must consider it
+
+**Safety Valve (18 USC 3553(f); USSG §5C1.2):**
+Permits sentence below mandatory minimum for first-time drug offenders who: did not use violence; did not possess a dangerous weapon; did not cause death/serious bodily injury; not an organizer/leader; truthfully debriefed with government.
+
+---
+
+### Supervised Release & Probation (18 USC 3563–3583)
+
+**Supervised Release:**
+- Imposed at sentencing as part of the sentence (not parole); begins upon release from prison
+- Terms: up to **5 years** (Class A/B felony); up to **3 years** (Class C/D/E felony); up to **1 year** (Class A misdemeanor); mandatory for sex offenses (lifetime for some)
+- Standard conditions (USSG §5D1.3): no new crimes, no unlawful drugs, report to probation officer, maintain employment, no firearms
+- Special conditions: drug testing, financial restrictions, internet restrictions, residence requirements
+
+**Revocation (18 USC 3583(e)):**
+- Standard: **preponderance of evidence** that defendant violated condition
+- Grade A violation (new crime; crime of violence): court **shall** revoke unless extraordinary circumstances
+- Grade B/C violations: court may revoke, modify, or continue
+- Revocation sentence: imprisonment term up to the original supervised release term, then a new supervised release term may be added (or not) — varies by category
+
+**Probation:**
+- Alternative to imprisonment; available for felonies where guidelines sentence is in Zone A or B
+- Violations revoked under same preponderance standard
+
+---
+
+### Federal Sentencing Appeals & Reasonableness Review
+
+**Standard of Review for Federal Sentences (6th Circuit):**
+- **Procedural reasonableness:** de novo (legal questions); clear error (factual findings); abuse of discretion (overall)
+  - Procedural errors: miscalculation of guidelines, failure to consider § 3553(a) factors, selection of sentence based on clearly erroneous fact, failure to adequately explain
+- **Substantive reasonableness:** abuse of discretion
+  - Sentence is substantively unreasonable if it cannot be justified by § 3553(a) factors
+  - Guideline-range sentences are presumptively reasonable on appeal (*Rita v United States*, 551 US 338 (2007)); below-guideline sentences are not
+
+**Preservation:**
+- Defendant must object to sentencing errors at or before sentencing to preserve for full review
+- Unpreserved sentencing arguments: plain error review (4-prong *Olano* test)
+
+---
+
+### Speedy Trial Act — 18 USC 3161
+
+| Period | Requirement |
+|---|---|
+| **Indictment** | Within **30 days** of arrest or service of summons |
+| **Trial** | Within **70 days** from indictment or initial appearance (whichever is later) |
+| **Excludable time** | Continuances for ends of justice; delay from pretrial motions; mental competency proceedings; codefendant delay; complex case designation; interlocutory appeals |
+| **Remedy** | Dismissal of indictment — with or without prejudice depending on seriousness of offense, facts of delay, and impact on defendant (18 USC 3162(a)(2)) |
+
+**Ends-of-Justice Continuance (18 USC 3161(h)(7)):**
+Court must make findings on the record that the ends of justice served by granting the continuance outweigh the interests of the public and defendant in a speedy trial. *Zedner v United States*, 547 US 489 (2006) — defendants cannot prospectively waive the STA.
+
+---
+
+### Federal Conviction — Collateral Consequences in Michigan
+
+| Consequence | Michigan/Federal Rule |
+|---|---|
+| **Firearm disability** | 18 USC 922(g)(1): federal felon-in-possession bar; permanent unless expunged/set aside under state law + state grants civil rights (18 USC 921(a)(20)) — Michigan does not automatically restore firearms rights for federal convictions |
+| **Voting rights** | MCL 168.758b: Michigan restores voting rights upon release from incarceration; federal conviction treated same as Michigan conviction |
+| **Professional licenses** | Michigan licensing boards consider federal felonies; varies by license type (MCL 338.41 — general licensing disqualification) |
+| **Federal benefits** | Drug convictions (21 USC 862): temporary or permanent disqualification from certain federal benefits; HEA student loans |
+| **Immigration** | Federal conviction for aggravated felony, crime of moral turpitude, controlled substances, or domestic violence → removal; no expungement relief for immigration consequences under federal law |
+| **Sex offender registration** | SORNA (34 USC 20901 et seq.): federal registration; Michigan Sex Offenders Registration Act (SORA) MCL 28.721 et seq.: Michigan registration; overlap and conflicts |
+| **Federal housing** | Federal public housing: MCL 600 and HUD guidelines restrict admission for drug/violent felons |
+| **Michigan expungement** | MCL 780.621 et seq. (2021 Clean Slate Act): Michigan felonies (including some federal?) — note: Michigan expungement does NOT affect federal records or firearms disability under federal law |
+
+---
+
+## 41. Federal Civil Rights Litigation Beyond § 1983
+
+---
+
+### 42 USC § 1981 — Equal Rights Under Law
+
+**Text:** "All persons within the jurisdiction of the United States shall have the same right in every State and Territory to make and enforce contracts, to sue, be parties, give evidence, and to the full and equal benefit of all laws and proceedings for the security of persons and property as is enjoyed by white citizens."
+
+**Scope:**
+- Protects against **racial discrimination** in the making and enforcement of contracts
+- Applies to private and public actors
+- Covers: employment contracts; commercial contracts; education (contracts for services); housing leases
+
+**Elements:**
+1. Plaintiff is a member of a racial minority (or has been subjected to intentional racial discrimination)
+2. Defendant intentionally discriminated on the basis of race
+3. Discrimination concerned the making, enforcement, performance, modification, or termination of a contract
+
+**Damages:**
+- Compensatory and **punitive** damages available against private defendants (*Johnson v Railway Express Agency*, 421 US 454 (1975))
+- No exhaustion of administrative remedies required (unlike Title VII)
+
+**Key Cases:**
+- *Patterson v McLean Credit Union*, 491 US 164 (1989) — on-the-job conduct vs. contract formation distinction (Congress later overruled by Civil Rights Act of 1991, extending § 1981 to all conduct during contract performance)
+- *Comcast Corp v National Assoc of African American-Owned Media*, 140 S Ct 1009 (2020) — but-for causation standard applies to § 1981 claims
+
+**SOL:** Borrowed from state law in Michigan — **3 years** (personal injury analog, MCL 600.5805(2)); applied uniformly since *Jones v R.R. Donnelley & Sons*, 541 US 369 (2004) — 4-year federal catch-all for claims created after 1990 Civil Rights Act amendments [UNVERIFIED — confirm circuit position]
+
+---
+
+### 42 USC § 1985 — Conspiracy to Interfere with Civil Rights
+
+**§ 1985(2):** Conspiracy to obstruct justice or intimidate parties or witnesses in federal proceedings; also prohibits conspiracies in state courts motivated by racial or class-based animus.
+
+**§ 1985(3):** Two or more persons conspire to deprive a **class of persons** of equal protection of the laws or equal privileges and immunities.
+
+**Elements of § 1985(3) Claim:**
+1. A **conspiracy** of two or more persons
+2. To deprive plaintiff of equal protection or equal privileges
+3. An **act in furtherance** of the conspiracy
+4. Resulting **injury** to person or property or deprivation of rights
+5. **Class-based animus** (racial or other invidious discrimination — *Griffin v Breckenridge*, 403 US 88 (1971))
+
+**Private Conspiracies:**
+§ 1985(3) reaches **purely private** conspiracies (*Griffin v Breckenridge*) — no state action required.
+
+**Key Limitation:**
+- Intracorporate conspiracy doctrine: officers and agents of a single corporation are generally not "two persons" for § 1985(3) purposes (6th Circuit applies this doctrine [UNVERIFIED — verify current 6th Cir position])
+- Must allege class-based animus, not just individual animus
+
+**SOL:** Same as § 1983 — **3 years** in Michigan
+
+---
+
+### 42 USC § 1986 — Neglect to Prevent Conspiracy
+
+Any person having knowledge of a § 1985 conspiracy and the power to prevent it who **neglects or refuses** to prevent it is liable to the injured party.
+
+- Derivative of § 1985 — if § 1985 claim fails, § 1986 claim also fails
+- SOL: **1 year** from the date of the § 1985 violation (specified in the statute — one of the few federal civil rights statutes with its own SOL)
+- Seldom litigated successfully; requires actual knowledge of the conspiracy
+
+---
+
+### Bivens Actions — Federal Officer Liability
+
+*Bivens v Six Unknown Named Agents*, 403 US 388 (1971) created an implied cause of action against **federal officers** (not the federal government itself) for violations of the **Fourth Amendment**.
+
+**Recognized Bivens Contexts:**
+| Context | Case | Amendment |
+|---|---|---|
+| Unreasonable search and seizure | *Bivens* itself | 4th Amendment |
+| Sex discrimination by federal employer | *Davis v Passman*, 442 US 228 (1979) | 5th Amendment |
+| Deliberate indifference to medical needs (federal prisoner) | *Carlson v Green*, 446 US 14 (1980) | 8th Amendment |
+
+**Severely Limited After *Ziglar v Abbasi*:**
+*Ziglar v Abbasi*, 582 US 120 (2017) and *Egbert v Boule*, 596 US 482 (2022) sharply curtailed Bivens:
+- Courts apply a **two-step test**: (1) Is the case a "new context" different from the three recognized cases? (2) Are there "special factors counseling hesitation" (existence of alternative remedies; Congressional inaction; national security)?
+- **Almost any new context** is deemed different from the three recognized Bivens contexts
+- Bivens is nearly extinct for: First Amendment; Fourth Amendment in non-search contexts; Fifth Amendment due process; immigration; national security
+- 6th Circuit has declined to extend Bivens beyond recognized contexts [UNVERIFIED — verify current 6th Cir position]
+
+**Qualified Immunity Applies to Bivens defendants** (same as § 1983)
+
+**No Municipal-Style Liability:** Bivens does not support liability against federal agencies (only individual officers)
+
+---
+
+### Title VI — Civil Rights Act of 1964 (42 USC 2000d)
+
+**Coverage:** No person shall be subjected to discrimination on the ground of **race, color, or national origin** under any program or activity receiving federal financial assistance.
+
+**Who Is Covered:**
+- Federal fund recipients: public schools, universities, hospitals, state agencies, local governments receiving federal funds — virtually all Michigan public entities and most nonprofits receiving federal grants
+
+**Private Right of Action:**
+- **Intentional discrimination:** private right of action available (*Cannon v University of Chicago*, 441 US 677 (1979))
+- **Disparate impact:** private plaintiffs may **not** sue for disparate impact under Title VI (*Alexander v Sandoval*, 532 US 275 (2001)); only intentional discrimination claims survive; federal agencies can enforce disparate impact regulations administratively
+
+**Exhaustion:** No exhaustion required for Title VI intentional discrimination claims
+**SOL:** Borrowed from Michigan personal injury — **3 years** [UNVERIFIED]
+
+---
+
+### Title IX — Education Amendments of 1972 (20 USC 1681)
+
+**Coverage:** No person shall be subjected to discrimination on the basis of **sex** under any education program or activity receiving federal financial assistance.
+
+**Private Right of Action — Damage Claims:**
+- *Cannon v University of Chicago* — implied private right
+- *Franklin v Gwinnett County Public Schools*, 503 US 60 (1992) — monetary damages available
+- *Gebser v Lago Vista Independent School District*, 524 US 274 (1998) — teacher-student harassment: school district liable only with **actual notice** to appropriate official + **deliberate indifference**
+- *Davis v Monroe County Board of Education*, 526 US 629 (1999) — student-on-student harassment: plaintiff must show **severe and pervasive** harassment; school was **deliberately indifferent** after actual knowledge; harassment denied access to educational opportunities
+
+**Retaliation:** Title IX prohibits retaliation against persons who complain of sex discrimination or participate in Title IX proceedings (*Jackson v Birmingham Board of Education*, 544 US 167 (2005))
+
+**Exhaustion:** No administrative exhaustion required for damage claims
+
+---
+
+### Americans with Disabilities Act & Rehabilitation Act
+
+**ADA — Three Titles Relevant to Court Practice:**
+
+| Title | Statute | Coverage |
+|---|---|---|
+| **Title I** | 42 USC 12111 | Employment; employers with 15+ employees; private and state employers |
+| **Title II** | 42 USC 12131 | Public entities (state and local government); no size threshold; includes courts, probation, DMV, public housing |
+| **Title III** | 42 USC 12181 | Public accommodations (private businesses open to public); no size threshold |
+
+**Section 504 of the Rehabilitation Act (29 USC 794):**
+- Applies to programs and activities receiving federal financial assistance
+- Effectively mirrors Title I/II ADA requirements
+- Used to sue federal agencies (ADA Title II doesn't apply to federal government)
+
+**Title II ADA — State and Local Government (Michigan Applications):**
+- Michigan courts, jails, schools, DMV, DHHS, MDHHS must provide **reasonable accommodations**
+- Must provide **auxiliary aids** (sign language interpreters, TTY) for effective communication
+- Physical accessibility (programs in accessible locations)
+- *Tennessee v Lane*, 541 US 509 (2004) — Congress validly abrogated state sovereign immunity for Title II access-to-courts claims
+
+**Employment ADA (Title I):**
+- Employee must establish: (1) disability (physical/mental impairment substantially limiting major life activity; record of impairment; regarded as impaired); (2) qualified individual; (3) adverse employment action because of disability
+- Employer must provide **reasonable accommodation** unless undue hardship
+- SOL: 300 days (in Michigan) to file EEOC charge; then 90 days to file suit after right-to-sue letter (same as Title VII)
+
+---
+
+### First Amendment Retaliation — Public Employees & Officials
+
+**Public Employee Free Speech (*Garcetti/Pickering* Analysis):**
+
+1. Did the employee speak as a **private citizen** (not pursuant to official duties)? — *Garcetti v Ceballos*, 547 US 410 (2006) — if speech was made pursuant to official duties, no First Amendment protection
+2. Was the speech on a matter of **public concern**? — *Connick v Myers*, 461 US 138 (1983)
+3. Does the employee's interest in speech outweigh the government employer's interest in efficient public service? — *Pickering v Board of Education*, 391 US 563 (1968)
+4. Was the protected speech a **motivating factor** in the adverse employment action? — *Mt. Healthy City Sch. Dist. v Doyle*, 429 US 274 (1977)
+5. Would the employer have taken the same action absent the protected speech? (Employer's burden to show)
+
+**Public Official/Citizen Retaliation:**
+- Government may not retaliate against private citizens for exercising First Amendment rights
+- No threshold requirement of official-duty speech analysis
+- *Hartman v Moore*, 547 US 250 (2006) — retaliatory prosecution requires showing no probable cause
+
+**Michigan Whistleblower Protection Act (MCL 15.361):** see §34
+
+---
+
+### Eleventh Amendment & State Sovereign Immunity
+
+The **Eleventh Amendment** bars suits in federal court against a **state** by citizens of another state or of the same state (as construed by *Hans v Louisiana*, 134 US 1 (1890)).
+
+**Abrogation of Immunity:**
+| Method | Requirements |
+|---|---|
+| **Congressional abrogation** | Congress must: (1) unequivocally express intent to abrogate; (2) act pursuant to a valid constitutional authority (Section 5 of the 14th Amendment most common) |
+| **State waiver** | State must clearly and unambiguously waive immunity; waiver not inferred from general litigation conduct |
+| **Ex Parte Young fiction** | *Ex parte Young*, 209 US 123 (1908) — suit against a **state official in their official capacity** for **prospective injunctive relief** to stop ongoing constitutional violation is not a suit against the state; does not apply to retrospective relief |
+
+**Michigan's Position:**
+- Michigan has generally waived immunity in its own state courts (MCL 600.6431 — Court of Claims) but has NOT broadly waived Eleventh Amendment immunity in federal courts
+- Michigan Department of State Police v Sitz and similar cases litigated in Michigan courts, not federal
+
+**Who Is an "Arm of the State":**
+- Michigan state agencies: generally protected (MDHHS, MSP, MDOC, LARA)
+- Michigan counties and municipalities: **not** protected by Eleventh Amendment; they are not "the state" (*Monell* liability applies in federal court)
+- Michigan courts (circuit, district, probate): considered arms of the state for Eleventh Amendment purposes [UNVERIFIED — verify 6th Cir position]
+- University of Michigan: arm of the state for Eleventh Amendment purposes [UNVERIFIED]
+
+---
+
+## 42. Asset Forfeiture — Federal & Michigan
+
+---
+
+### Federal Civil Forfeiture — 18 USC 981 & CAFRA
+
+Federal civil forfeiture permits the government to forfeit property connected to criminal activity **without a criminal conviction** and sometimes **without charging the property owner** with a crime. The primary federal civil forfeiture statute is **18 USC 981**; drug forfeitures under **21 USC 881**.
+
+**Civil Asset Forfeiture Reform Act of 2000 (CAFRA):**
+CAFRA (Pub. L. 106-185) significantly reformed federal civil forfeiture in 2000:
+
+| Pre-CAFRA | Post-CAFRA |
+|---|---|
+| Government needed only probable cause | Government must prove by **preponderance of evidence** that property is forfeitable (18 USC 983(c)) |
+| Owner bore burden of proving innocent ownership | Government bears burden; **innocent owner defense** available (18 USC 983(d)) |
+| Administrative forfeiture without judicial review was common | Claimant who files claim triggers **judicial proceedings** |
+| No attorney fee shifting | Prevailing claimant may recover **attorney fees and costs** (28 USC 2465) |
+
+**Federal Civil Forfeiture Procedure (18 USC 983):**
+1. Seizure by federal agency (DEA, FBI, HSI, IRS-CI, USMS, ATF, CBP, etc.)
+2. **Administrative forfeiture notice** sent to known interested parties within **60 days** of seizure
+3. Property owner may file a **claim** (not a complaint) within **35 days** of notice (or 30 days of final publication) — triggers transfer to U.S. Attorney for **judicial forfeiture** proceedings
+4. After claim filed: government must file **civil forfeiture complaint** within **90 days**
+5. Proceedings in U.S. District Court under Supplemental Rules for Admiralty & Maritime Claims (Rule G)
+6. Government proves by preponderance; claimant may assert innocent owner defense
+7. Default judgment if no timely claim filed
+
+**Seized Currency — Common Scenario in Michigan:**
+Drug interdiction on I-75, I-94, or I-96 frequently results in currency seizures. After CAFRA, claimants can challenge with no criminal charges required.
+
+---
+
+### Federal Criminal Forfeiture — 18 USC 982 & 21 USC 853
+
+Criminal forfeiture is part of the criminal sentence — imposed only upon **conviction**.
+
+**21 USC 853 — Drug Criminal Forfeiture:**
+- Defendant must forfeit all property constituting or derived from proceeds of drug trafficking + all property used to facilitate
+- **Relation back:** government's interest in forfeitable property vests at time of offense (21 USC 853(c))
+- **Restraining orders and preliminary injunctions** may be issued ex parte to preserve assets pending trial (21 USC 853(e))
+- **Substitute assets (21 USC 853(p)):** if forfeitable property cannot be located, has been transferred, placed beyond jurisdiction, diminished in value, or commingled, court may substitute other assets up to the forfeitable value
+
+**18 USC 982 — Criminal Forfeiture (non-drug):**
+- Applies to: money laundering (18 USC 1956/1957), RICO (18 USC 1963), bank fraud, wire/mail fraud, health care fraud, sex offenses, cybercrime
+- RICO forfeiture (18 USC 1963): broadest federal criminal forfeiture provision — forfeits entire enterprise interest, not just proceeds
+
+**Jury vs. Court:**
+- Whether specific property is forfeitable may be submitted to the jury (*United States v Libretti*, 516 US 29 (1995)); but *Honeycutt v United States*, 581 US 443 (2017) — joint-and-several liability does not apply to drug forfeiture; each defendant liable only for proceeds they personally received
+
+---
+
+### DEA/DOJ Equitable Sharing Program
+
+The **Equitable Sharing Program** permits state and local law enforcement (including Michigan agencies) to receive a share of federally forfeited assets when they participate in a federal investigation.
+
+- Michigan police agencies that participate in federal task forces (DEA, FBI, HSI) may receive up to **80%** of federally forfeited proceeds
+- Sharing payments must be used to supplement (not supplant) law enforcement budgets
+- This mechanism allows Michigan agencies to circumvent Michigan's more protective state forfeiture standards (see below) by "adopting" seizures into the federal system
+- *Adoption* cases: state/local agency makes seizure → asks federal agency to adopt → federal forfeiture proceeds → Michigan agency receives equitable share
+- **2015 DOJ Policy Limit:** DOJ limited adoptions to prevent circumvention, though the policy has been revised multiple times [UNVERIFIED — verify current policy status]
+
+---
+
+### Innocent Owner Defense (18 USC 983(d))
+
+Any claimant in a federal civil forfeiture proceeding may assert the **innocent owner defense**:
+
+**Elements (18 USC 983(d)):**
+- **Acquired before the act giving rise to forfeiture:** Owner must prove by preponderance that they did not know of the conduct or, upon learning, did all reasonably practicable to terminate the use of the property
+- **Acquired after the act giving rise to forfeiture:** Owner must prove they were a bona fide purchaser for value who, at time of purchase, did not know and was reasonably without cause to believe the property was subject to forfeiture
+
+**Partial Innocent Ownership:**
+If the court determines only part of the property is subject to forfeiture (co-owners), court may sever the property or award the innocent owner the portion of proceeds attributable to their innocent interest (18 USC 983(d)(5)).
+
+**Practice in Michigan Federal Courts:**
+- Currency forfeitures: claimant must file claim; discovery available; government must prove by preponderance the currency was drug proceeds or proceeds of other specified unlawful activity
+- Vehicles: claimant asserts no knowledge of criminal use; government must disprove with preponderance evidence
+
+---
+
+### Third-Party Claims — Ancillary Proceedings (21 USC 853(n))
+
+In **criminal forfeiture** cases, third parties (e.g., lienholders, co-owners, innocent lenders) cannot intervene in the criminal trial but may petition the court for a hearing in the **ancillary proceeding** after a preliminary order of forfeiture.
+
+**Grounds for Third-Party Relief (21 USC 853(n)(6)):**
+1. Petitioner has a **legal right or interest** in the property and the right vested before the defendant acquired the property or before the crime was committed **superior to the government's interest**; or
+2. Petitioner is a **bona fide purchaser for value** at time of purchase, without reasonable cause to believe the property was subject to forfeiture
+
+**Procedure:**
+- Petition filed within **30 days** of final publication of notice of the preliminary forfeiture order
+- Court may conduct hearing; petitioner bears burden of proof
+- Government may file answer
+- If petitioner prevails, court amends forfeiture order to exclude that interest
+
+**Michigan Lienholders:**
+Michigan auto lenders and mortgage lenders frequently assert third-party interests in criminal forfeiture proceedings in E.D. Mich and W.D. Mich.
+
+---
+
+### Michigan Forfeiture Reform — MCL 600.4701 et seq. (2015 PA 11)
+
+Michigan significantly reformed its civil forfeiture law through **2015 PA 11** (effective March 31, 2015), amending MCL 600.4701–600.4709.
+
+**Key 2015 PA 11 Reforms:**
+
+| Reform | Detail |
+|---|---|
+| **Conviction required (over $50,000)** | For real property valued over $50,000: criminal conviction required before forfeiture *unless* owner consents or is a fugitive |
+| **Burden of proof** | Government must prove by **clear and convincing evidence** that property is subject to forfeiture (MCL 600.4707) — more protective than federal (preponderance) |
+| **Legal representation** | Property owner must be notified of right to attorney; court must appoint counsel if owner cannot afford one in cases over $5,000 |
+| **Proceeds** | Forfeiture proceeds no longer go directly to the seizing agency; go to the general fund (anti-profit-motive reform); forfeiture proceeds to local unit of government or state [UNVERIFIED — verify 2015 PA distribution mechanism exactly] |
+| **Reporting** | Law enforcement agencies must report all forfeitures to the state (LARA) annually |
+
+**Who Brings Michigan Forfeiture Action:**
+- Prosecutor files in circuit court
+- Property owner has right to hearing; may demand jury trial for questions of fact
+
+**Notice Requirements (MCL 600.4703):**
+- Notice to known interested parties within **28 days** of seizure
+- Published notice within 28 days if owner unknown; publication once per week for 2 consecutive weeks
+
+---
+
+### Michigan Drug Forfeiture — MCL 333.7521–333.7524
+
+Michigan's Public Health Code drug forfeiture provisions, MCL 333.7521–333.7524, authorize forfeiture of:
+- Controlled substances, raw materials, and equipment used in manufacture/distribution
+- Vehicles used to transport controlled substances with knowledge
+- Money, currency, and negotiable instruments used in drug transactions
+- Real property used to facilitate a drug felony (with conviction required post-2015)
+
+**Vehicle Forfeiture without Conviction:**
+Prior to 2015 PA 11, Michigan allowed vehicle forfeiture without conviction; after the reform, the general civil forfeiture standards in MCL 600.4701 et seq. apply (clear and convincing evidence; conviction required for real property over $50K).
+
+**Innocent Owner — Michigan:**
+Owner who did not know and could not have reasonably known of the illegal use is entitled to return of the property (MCL 333.7523(4)).
+
+---
+
+### Challenging Forfeiture — Federal & Michigan Procedures
+
+**Federal — Key Motions and Steps:**
+
+| Step | Action | Rule/Statute |
+|---|---|---|
+| File timely claim | Triggers judicial proceedings; without it, default forfeiture enters | 18 USC 983(a) |
+| Move to suppress | Challenge unlawful search/seizure leading to discovery of forfeitable property | 4th Amendment; *United States v $639,558*, 955 F2d 712 (DC Cir 1992) [UNVERIFIED] |
+| Assert innocent owner | Affirmative defense; preponderance standard (claimant's burden) | 18 USC 983(d) |
+| Discovery | Full civil discovery available after claim; depose agents; request all DEA-6 reports | FRCP/Supp. Rule G |
+| Motion to dismiss (Rule G(8)(b)) | Challenge legal sufficiency of government's complaint | Supp. Rule G |
+| Standing | Government often challenges claimant's standing; must have ownership interest in property | Supp. Rule G(5)(a) |
+| Request jury trial | Available for factual disputes in judicial forfeiture proceedings | 18 USC 983; 7th Amendment |
+
+**Michigan — Key Steps:**
+
+| Step | Action | Statute |
+|---|---|---|
+| Demand hearing | Owner must formally demand hearing within time stated in notice | MCL 600.4703 |
+| Demand jury trial | Available on factual questions; must be timely demanded | MCL 600.4707 |
+| Challenge probable cause | Government must show probable cause for seizure at hearing | MCL 600.4705 |
+| Assert innocent owner | Owner did not know of illegal use | MCL 333.7523(4); MCL 600.4707 |
+| Seek return of property | Petition court to return property pending forfeiture proceedings if not needed as evidence | MCR 3.106 |
+
+**Constitutional Challenges:**
+- **Excessive Fines Clause (8th Amendment):** Forfeiture may be an "excessive fine" if grossly disproportional to the gravity of the offense (*United States v Bajakajian*, 524 US 321 (1998))
+- *Timbs v Indiana*, 586 US 146 (2019) — Excessive Fines Clause is incorporated against the states through the 14th Amendment; Michigan forfeiture is subject to proportionality review
+- **Due Process:** Notice must be reasonably calculated to reach property owner (*Dusenbery v United States*, 534 US 161 (2002))
+- **4th Amendment:** Unlawful seizure taints forfeiture; suppression motions available
+
+---
+
+*Sources updated: Michigan Constitution of 1963 (art I, art III, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 37, 125, 330, 333, 408, 418, 450, 552, 554, 600, 691, 700, 710, 712A, 722, 750 (including 750.159b–750.159x), 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments IV, V, VI, VIII, XI, XIV; RICO (18 USC 1961–1968); 18 USC 981–983, 1341, 1343, 1344, 1951, 1956, 1957, 1963, 2252; 21 USC 841, 846, 853, 881; 28 USC 1254, 1257, 1291, 1292, 1331, 1332, 1367, 1441–1453, 2101, 2465; 42 USC 1981, 1983, 1985, 1986, 2000d; 20 USC 1681; 29 USC 794; 42 USC 12101–12189; CAFRA (Pub. L. 106-185); SORNA (34 USC 20901); FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); ICWA (25 USC 1901); VAWA (34 USC 12291); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Supreme Court Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; United States Sentencing Guidelines (USSG); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
 
 *Last substantively revised: April 2026.*
