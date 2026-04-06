@@ -95,6 +95,72 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Adult Guardianship](#adult-guardianship)
     - [Conservatorship](#conservatorship)
     - [Adoption](#adoption)
+26. [Evidence Quick Reference — MRE](#26-evidence-quick-reference--mre)
+    - [Relevance & Exclusion (MRE 401–403)](#relevance--exclusion-mre-401403)
+    - [Character Evidence (MRE 404–405, 608, 609)](#character-evidence-mre-404405-608-609)
+    - [Hearsay — Definition & Exemptions (MRE 801–802)](#hearsay--definition--exemptions-mre-801802)
+    - [Hearsay Exceptions — Declarant Unavailable (MRE 804)](#hearsay-exceptions--declarant-unavailable-mre-804)
+    - [Hearsay Exceptions — Availability Immaterial (MRE 803)](#hearsay-exceptions--availability-immaterial-mre-803)
+    - [Expert Testimony (MRE 702–706)](#expert-testimony-mre-702706)
+    - [Authentication & Best Evidence (MRE 901–1002)](#authentication--best-evidence-mre-9011002)
+    - [Privileges (MRE 501–502)](#privileges-mre-501502)
+27. [Appellate Practice — MCR 7](#27-appellate-practice--mcr-7)
+    - [Jurisdiction & Routes to the COA](#jurisdiction--routes-to-the-coa)
+    - [Claim of Appeal (MCR 7.204)](#claim-of-appeal-mcr-7204)
+    - [Application for Leave (MCR 7.205)](#application-for-leave-mcr-7205)
+    - [Emergency Relief & Stay Pending Appeal](#emergency-relief--stay-pending-appeal)
+    - [Briefing Schedule & Format (MCR 7.212)](#briefing-schedule--format-mcr-7212)
+    - [Michigan Supreme Court (MCR 7.301–7.316)](#michigan-supreme-court-mcr-73017316)
+28. [Mediation, Case Evaluation & ADR](#28-mediation-case-evaluation--adr)
+    - [Case Evaluation (MCR 2.403)](#case-evaluation-mcr-2403)
+    - [Mediation (MCR 2.411)](#mediation-mcr-2411)
+    - [Arbitration](#arbitration)
+    - [Friend of the Court ADR](#friend-of-the-court-adr)
+29. [Discovery Practice — MCR 2.3xx](#29-discovery-practice--mcr-23xx)
+    - [Scope & General Rules (MCR 2.302)](#scope--general-rules-mcr-2302)
+    - [Interrogatories (MCR 2.309)](#interrogatories-mcr-2309)
+    - [Depositions (MCR 2.303–2.308)](#depositions-mcr-23032308)
+    - [Requests to Produce (MCR 2.310)](#requests-to-produce-mcr-2310)
+    - [Physical/Mental Examinations (MCR 2.311)](#physicalmental-examinations-mcr-2311)
+    - [Subpoenas (MCR 2.305)](#subpoenas-mcr-2305)
+    - [Discovery Sanctions (MCR 2.313)](#discovery-sanctions-mcr-2313)
+    - [E-Discovery (MCR 2.302(B)(5))](#e-discovery-mcr-2302b5)
+30. [Civil Litigation Procedure — MCR 2](#30-civil-litigation-procedure--mcr-2)
+    - [Pleadings (MCR 2.111–2.118)](#pleadings-mcr-21112118)
+    - [Service of Process (MCR 2.105–2.107)](#service-of-process-mcr-21052107)
+    - [Motions (MCR 2.116–2.119)](#motions-mcr-21162119)
+    - [Summary Disposition (MCR 2.116)](#summary-disposition-mcr-2116)
+    - [Default & Default Judgment (MCR 2.603)](#default--default-judgment-mcr-2603)
+    - [Judgment Enforcement — Garnishment & Execution](#judgment-enforcement--garnishment--execution)
+31. [Landlord-Tenant & Housing Law](#31-landlord-tenant--housing-law)
+    - [Governing Statutes](#governing-statutes-1)
+    - [Security Deposit (MCL 554.601–554.616)](#security-deposit-mcl-554601554616)
+    - [Summary Proceedings — Eviction (MCL 600.5701–600.5759)](#summary-proceedings--eviction-mcl-60057016005759)
+    - [Tenant Defenses & Rights](#tenant-defenses--rights)
+    - [Fair Housing Protections](#fair-housing-protections)
+32. [Probate & Estate Administration](#32-probate--estate-administration)
+    - [Jurisdiction & EPIC Overview](#jurisdiction--epic-overview)
+    - [Intestate Succession (MCL 700.2101–700.2114)](#intestate-succession-mcl-70021017002114)
+    - [Wills — Execution & Revocation (MCL 700.2501–700.2523)](#wills--execution--revocation-mcl-70025017002523)
+    - [Estate Administration — Formal & Informal Proceedings](#estate-administration--formal--informal-proceedings)
+    - [Creditor Claims & Distribution](#creditor-claims--distribution)
+33. [Michigan Constitutional Rights Quick Reference](#33-michigan-constitutional-rights-quick-reference)
+    - [Declaration of Rights (Mich Const 1963, art I)](#declaration-of-rights-mich-const-1963-art-i)
+    - [Equal Protection & Due Process](#equal-protection--due-process-1)
+    - [Search & Seizure (art I, § 11)](#search--seizure-art-i--11)
+    - [Right to Counsel (art I, § 20)](#right-to-counsel-art-i--20)
+34. [Employment Law Essentials](#34-employment-law-essentials)
+    - [At-Will Employment & Exceptions](#at-will-employment--exceptions)
+    - [Elliott-Larsen Civil Rights Act (ELCRA) — MCL 37.2101](#elliott-larsen-civil-rights-act-elcra--mcl-372101)
+    - [Whistleblower Protection Act — MCL 15.361](#whistleblower-protection-act--mcl-15361)
+    - [FMLA & Michigan Paid Medical Leave Act](#fmla--michigan-paid-medical-leave-act)
+    - [Wage & Hour — WOWA & FLSA](#wage--hour--wowa--flsa)
+    - [Workers' Compensation — MCL 418](#workers-compensation--mcl-418)
+35. [Michigan E-Filing & Court Technology](#35-michigan-e-filing--court-technology)
+    - [MiFILE — Statewide E-Filing](#mifile--statewide-e-filing)
+    - [TrueFiling — Court of Appeals & MSC](#truefiling--court-of-appeals--msc)
+    - [OTIS — Online Records Search](#otis--online-records-search)
+    - [Remote Hearings & Zoom Protocol](#remote-hearings--zoom-protocol)
 
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
@@ -1862,8 +1928,1048 @@ An approved home study (background check, home assessment, references) is requir
 
 > *Authority:* MCL 710.21–710.70; *In re Clausen*, 442 Mich 648 (1993) (competing claims to child placement; analysis of consent and revocation); *DeBoer v Schmidt*, 509 US 1301 (1993) (same controversy, SCOTUS level) [UNVERIFIED — confirm *DeBoer* citation]
 
+> *Authority:* MCL 710.21–710.70; *In re Clausen*, 442 Mich 648 (1993) (competing claims to child placement; analysis of consent and revocation); *DeBoer v Schmidt*, 509 US 1301 (1993) (same controversy, SCOTUS level) [UNVERIFIED — confirm *DeBoer* citation]
+
 ---
 
-*Sources updated: Michigan Constitution of 1963; Michigan Court Rules (MCR); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 24, 330, 450, 552, 600, 691, 700, 710, 712A, 722, 750, 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments V, VI, XIV; Indian Child Welfare Act (25 USC 1901 et seq.); Violence Against Women Act (VAWA, 34 USC 12291 et seq.); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
+## 26. Evidence Quick Reference — MRE
+
+The **Michigan Rules of Evidence** (MRE), effective January 1, 1978, closely parallel the Federal Rules of Evidence (FRE). This section provides a practice-oriented quick reference. The companion file [`mre.md`](mre.md) contains the full text of all rules.
+
+---
+
+### Relevance & Exclusion (MRE 401–403)
+
+| Rule | Title | Summary |
+|---|---|---|
+| **MRE 401** | Definition of relevant evidence | Evidence is relevant if it has any tendency to make a material fact more or less probable than it would be without the evidence |
+| **MRE 402** | General admissibility | All relevant evidence is admissible unless excluded by a specific rule; irrelevant evidence is not admissible |
+| **MRE 403** | Exclusion for prejudice, confusion, waste | Court may exclude relevant evidence if its probative value is **substantially outweighed** by danger of unfair prejudice, confusion of the issues, or misleading the jury (note: "substantially outweighed" — higher bar than FRE 403) |
+
+> *Key case:* *People v Mills*, 450 Mich 61 (1995) — MRE 403 balancing test; trial court has wide discretion but must actually perform balancing.
+
+---
+
+### Character Evidence (MRE 404–405, 608, 609)
+
+| Rule | Topic | Key Points |
+|---|---|---|
+| **MRE 404(a)** | Character of accused/victim | Evidence of a person's character generally inadmissible to prove conduct; exceptions for criminal defendant who opens door; victim's pertinent character trait; self-defense (victim's prior acts of violence) |
+| **MRE 404(b)** | Other acts evidence | Not admissible to prove character/propensity; admissible for other purposes: intent, knowledge, identity, absence of mistake, scheme/plan, etc.; *notice* required |
+| **MRE 405** | Methods of proving character | Reputation or opinion testimony; on cross only, specific instances of conduct |
+| **MRE 608** | Witness credibility | Opinion/reputation evidence of truthfulness; specific acts on cross to attack credibility |
+| **MRE 609** | Prior convictions | Admissible to impeach if crime: (1) punishable by death or imprisonment >1 yr and probative value outweighs prejudice; or (2) involved dishonesty/false statement; 10-year rule for stale convictions |
+
+**404(b) Notice Requirement:**
+The prosecution must provide **pre-trial written notice** of intent to use 404(b) other-acts evidence, or show good cause for late notice. *People v Vandervliet*, 444 Mich 52 (1993).
+
+---
+
+### Hearsay — Definition & Exemptions (MRE 801–802)
+
+**Definition (MRE 801):**
+- **Hearsay** = an out-of-court statement offered to prove the truth of the matter asserted
+- **Non-hearsay by definition** (MRE 801(d)):
+  - Prior statement by witness (prior inconsistent statement under oath; prior consistent statement; prior identification)
+  - Admission by party-opponent (party's own statement; adoptive admission; authorized admission; co-conspirator statement)
+
+**Rule (MRE 802):** Hearsay is inadmissible unless an exception applies under MRE 803, 804, or 807.
+
+---
+
+### Hearsay Exceptions — Availability Immaterial (MRE 803)
+
+| Exception | Rule | Description |
+|---|---|---|
+| Present sense impression | 803(1) | Statement describing event made simultaneously or immediately after |
+| Excited utterance | 803(2) | Statement made under stress of excitement caused by event |
+| State of mind | 803(3) | Statement of then-existing mental, emotional, physical condition (not memory of past fact) |
+| Medical treatment | 803(4) | Statement made for diagnosis/treatment; must be pertinent to diagnosis |
+| Recorded recollection | 803(5) | Past recollection recorded: document when witness cannot recall |
+| Business records | 803(6) | Regular business records; made at or near time by person with knowledge; regular practice |
+| Absence of record | 803(7) | Absence of entry in business record |
+| Public records | 803(8) | Records of public agency: activities, observations, factual findings |
+| Vital statistics | 803(9) | Records of birth, death, marriage |
+| Absence of public record | 803(10) | Certification of absence |
+| Learned treatises | 803(18) | Authoritative texts used in cross of expert; read into evidence but not admitted as exhibit |
+| Reputation — character | 803(21) | Community reputation of a person's character |
+| Judgment of previous conviction | 803(22) | Prior felony conviction to prove essential element |
+
+---
+
+### Hearsay Exceptions — Declarant Unavailable (MRE 804)
+
+**Unavailability (MRE 804(a)):** Declarant is unavailable if: privilege applies; refuses to testify despite order; testifies to lack of memory; is deceased or physically/mentally unable to testify; absent from hearing despite reasonable means to compel.
+
+| Exception | Rule | Description |
+|---|---|---|
+| Former testimony | 804(b)(1) | Testimony given at prior proceeding where party had opportunity to examine declarant |
+| Dying declaration | 804(b)(2) | Statement under belief of imminent death; homicide or civil actions |
+| Statement against interest | 804(b)(3) | Statement so contrary to interest that reasonable person would not make it unless true; includes penal interest with corroboration |
+| Personal/family history | 804(b)(4) | Statements concerning family history, birth, marriage, etc. |
+| Forfeiture by wrongdoing | 804(b)(6) [MRE 804(b)(5)] | Declarant made unavailable by wrongdoing of opposing party |
+
+**Residual Exception (MRE 807):**
+Hearsay not covered by MRE 803 or 804 may be admitted if: (1) trustworthiness; (2) material fact; (3) more probative than other available evidence; (4) interests of justice; **notice required**.
+
+---
+
+### Expert Testimony (MRE 702–706)
+
+| Rule | Summary |
+|---|---|
+| **MRE 702** | Testimony by expert: qualified by knowledge, skill, experience, training, or education; (1) sufficient facts/data; (2) reliable principles/methods; (3) principles reliably applied to the facts (*Daubert*-aligned in Michigan) |
+| **MRE 703** | Basis of expert opinion: facts/data in evidence or reasonably relied upon by experts in the field (need not be independently admissible) |
+| **MRE 704** | Opinion on ultimate issue: not objectionable solely because it embraces ultimate issue |
+| **MRE 705** | Disclosure of facts/data: expert may state opinion without first disclosing underlying facts; on cross, may be required to disclose |
+| **MRE 706** | Court-appointed experts: court may appoint neutral expert; parties informed; expert may be called and cross-examined |
+
+**Michigan's *Daubert* Standard:**  
+Michigan adopted a modified *Daubert* gatekeeping standard for expert testimony. Under *Gilbert v DaimlerChrysler Corp*, 470 Mich 749 (2004), the trial court must act as gatekeeper and exclude expert testimony that is not scientifically reliable.
+
+**Factors (non-exhaustive):**
+- Theory tested / testable
+- Peer review and publication
+- Known or potential error rate
+- General acceptance in the relevant scientific community
+- Specialized expert vs. novel technique
+
+---
+
+### Authentication & Best Evidence (MRE 901–1002)
+
+**Authentication (MRE 901):**
+- Proponent must produce evidence sufficient to support a finding that the item is what the proponent claims it is
+- Methods: testimony of knowledge; comparison; distinctive characteristics; process/system; chain of custody
+
+**Self-Authenticating Documents (MRE 902):**
+- Official government publications; notarized documents; certified copies of public records; official publications; newspapers and periodicals; business records with certification
+
+**Best Evidence Rule (MRE 1002):**
+- Original document required to prove content of a writing, recording, or photograph
+- **Exceptions (MRE 1003–1004):** Duplicate admissible unless genuine question as to authenticity; original unavailable through no fault of proponent
+
+---
+
+### Privileges (MRE 501–502)
+
+Michigan recognizes the following privileges under MRE 501 and the common law:
+
+| Privilege | Scope | Waiver |
+|---|---|---|
+| Attorney-client | Confidential communications between client and attorney; legal advice | Client holds privilege; waived by voluntary disclosure |
+| Spousal testimonial | Spouse may refuse to testify against defendant-spouse in criminal case; witness-spouse holds privilege | Witness-spouse waives; does not apply if victim is the spouse/child |
+| Marital communications | Confidential communications between spouses during marriage | Joint waiver required |
+| Physician-patient | Confidential communications for medical treatment | Patient; waived by placing medical condition in issue |
+| Psychotherapist-patient | *Jaffee v Redmond* (SCOTUS); MCL 330.1750 | Patient; placed in issue |
+| Clergy-penitent | MCL 600.2156 | Penitent |
+| Accountant-client | MCL 339.732 | Client |
+| Social worker-client | MCL 339.1610 | Client |
+| Grand jury secrecy | MCR 6.201(B) | Court order required |
+
+**Crime-Fraud Exception:**
+Attorney-client privilege does not protect communications made in furtherance of a crime or fraud. *In re Grand Jury Subpoena*, unpub (6th Cir) [UNVERIFIED — verify applicable Michigan authority].
+
+---
+
+## 27. Appellate Practice — MCR 7
+
+---
+
+### Jurisdiction & Routes to the COA
+
+**Michigan Court of Appeals (COA) — MCR 7.200 series**
+
+| Route | When Available | Rule |
+|---|---|---|
+| **Claim of Appeal (right of appeal)** | Final judgment or order; certain interlocutory orders listed in MCR 7.202(6)(a) | MCR 7.203(A); MCR 7.204 |
+| **Application for Leave** | Non-final orders; final orders where right of appeal not available | MCR 7.203(B); MCR 7.205 |
+| **Cross-Appeal** | Appellee seeks affirmative relief beyond affirming the judgment | MCR 7.207 |
+| **Delayed Application** | After deadline; must show good cause and lack of prejudice | MCR 7.205(G) |
+
+**As-of-Right (Final Judgment) — MCR 7.202(6)(a)(i):**  
+A "final judgment" is the first judgment or order that disposes of all claims and adjudicates the rights and liabilities of all parties. *Chief Judge's orders* and partial summary dispositions are generally **not** final.
+
+**Interlocutory Appeals as of Right (selected MCR 7.202(6)(a) orders):**
+- Orders granting/denying injunctive relief
+- Orders granting/denying motions for new trial, judgment notwithstanding verdict
+- Orders relating to domestic relations (divorce, custody, support — **final order** required; interlocutory support orders generally by leave)
+- Orders in criminal cases granting/denying motions to suppress (prosecution appeal); orders dismissing the case
+
+---
+
+### Claim of Appeal (MCR 7.204)
+
+| Step | Deadline / Detail |
+|---|---|
+| **Filing deadline** | **21 days** after entry of judgment or order appealed from |
+| **Documents to file** | Claim of appeal; copy of order/judgment; proof of service on all parties; filing fee |
+| **Transcript order** | Must order transcript within 21 days (simultaneously); proof of order filed with COA |
+| **Jurisdiction vests** | Upon timely filing of claim of appeal; trial court loses jurisdiction over appealed issues |
+| **Extension** | No automatic extension; late filing requires application for delayed appeal (MCR 7.205(G)) |
+
+**Note on Domestic Relations:** Final orders in domestic relations matters (judgment of divorce, custody order) are appealable as of right within **21 days**. Temporary (ex parte) support/custody orders are **not** final and appealable only by leave.
+
+---
+
+### Application for Leave (MCR 7.205)
+
+| Step | Detail |
+|---|---|
+| **Filing deadline** | 21 days for interlocutory orders; **12 months** for late appeal of final judgment (MCR 7.205(G)(3)) |
+| **Content** | Application brief: facts, issues, reasons leave should be granted; copy of order; relevant pleadings |
+| **Grounds for leave** | Conflict with COA precedent; significant legal question; substantial injustice; constitutional question |
+| **Response** | Opposing party may file answer within 21 days of service |
+| **Decision** | COA may grant, deny, or grant in part; if granted, proceeds as full appeal |
+
+---
+
+### Emergency Relief & Stay Pending Appeal
+
+**Stay of Enforcement (MCR 7.209):**
+- Motion for stay filed first in the trial court (MCR 7.209(A)(1))
+- If trial court denies, motion may be filed in the COA
+- Bond/security may be required
+- Custody/parenting time orders: stay of custody modification is rare — courts apply best-interests analysis
+
+**Emergency Appeal:**
+- File motion for immediate consideration (MIC) with application
+- COA may expedite briefing and decision
+- Available for irreversible harm (e.g., impending TPR hearing, incarceration, asset dissipation)
+
+---
+
+### Briefing Schedule & Format (MCR 7.212)
+
+| Brief | Due | Page/Word Limit |
+|---|---|---|
+| **Appellant's brief** | 56 days after claim/leave granted | 50 pages or 16,000 words |
+| **Appellee's brief** | 35 days after service of appellant's brief | 50 pages or 16,000 words |
+| **Reply brief** | 21 days after service of appellee's brief | 10 pages or 3,200 words |
+| **Cross-appeal brief** | Filed with appellee's brief | Additional 20 pages or 6,400 words |
+
+**Format Requirements (MCR 7.212(B)):**
+- Cover page with required information (case name, docket number, court, party, attorney)
+- Table of contents with page references
+- Index of authorities (cases, statutes, rules)
+- Statement of questions presented
+- Statement of facts with record references
+- Argument with citations
+- Conclusion and relief requested
+- Double-spaced; 12-point proportionally spaced or 10-character-per-inch monospaced font; 1-inch margins
+
+**Oral Argument:**
+- Any party may request oral argument (MCR 7.214(A))
+- 30 minutes per side unless COA orders otherwise
+- COA may decide on briefs without oral argument
+
+---
+
+### Michigan Supreme Court (MCR 7.301–7.316)
+
+| Route | Deadline | Standard |
+|---|---|---|
+| **Application for leave** | **56 days** after COA opinion or order | MCR 7.305; "question of great public importance" or "conflict with Supreme Court decision" |
+| **Bypass application** | While case pending in COA | MCR 7.305(B) |
+| **Certified question from federal court** | Federal court certifies | MCR 7.308 |
+| **Original action** | Original jurisdiction matters | MCR 7.306 |
+
+**Brief format for MSC Application:**
+- Limited to **50 pages** or **16,000 words**
+- Must contain: questions presented; concise statement of case; reasons for granting leave
+- Response: 28 days after filing
+
+---
+
+## 28. Mediation, Case Evaluation & ADR
+
+---
+
+### Case Evaluation (MCR 2.403)
+
+**Case evaluation** (formerly "mediation" under the old rules) is a non-binding, **evaluative** ADR process requiring attorneys and clients to attend and participate in good faith.
+
+| Element | Detail |
+|---|---|
+| **Applicability** | Available in circuit court civil cases; mandatory for most civil cases when ordered by court |
+| **Panel** | Three-member panel (attorneys); parties may stipulate to different composition |
+| **Evaluation** | Panel issues a monetary award; each party accepts or rejects independently |
+| **Acceptance/Rejection deadline** | 28 days after service of evaluation |
+| **Sanctions for rejection** | If rejecting party fails to improve its position by **more than 10%** at trial, pays opposing party's actual costs from rejection through judgment |
+| **Costs subject to sanction** | Attorneys' fees, expert fees, deposition costs, other actual costs |
+| **Settlement effect** | If both parties accept, binding settlement |
+
+> *Key case:* *Luidens v 63rd District Court*, 219 Mich App 395 (1996) — interpretation of "actual costs" for sanctions.
+
+---
+
+### Mediation (MCR 2.411)
+
+**Mediation** under MCR 2.411 is a **facilitative** process where a neutral mediator assists parties in reaching a voluntary settlement.
+
+| Element | Detail |
+|---|---|
+| **By stipulation or court order** | May be ordered by court; parties may stipulate; domestic relations cases frequently ordered |
+| **Mediator qualifications** | MCR 2.411(F); must meet training requirements; ADR clerk maintains list |
+| **Confidentiality** | All communications during mediation are confidential and not admissible at trial; MCR 2.412 |
+| **Authority to settle** | Parties or representatives with authority must attend |
+| **Agreement** | Written settlement agreement signed by parties is binding; MCR 2.507 |
+
+**Domestic Relations Mediation:**
+- FOC mediators conduct mediation on custody, parenting time, and support in many counties
+- Private mediators used in complex or high-conflict matters
+- MCR 3.216 — domestic relations mediation procedure
+- *Confidentiality applies* — no statements made during mediation may be used in contested hearing
+
+---
+
+### Arbitration
+
+| Type | Authority | Description |
+|---|---|---|
+| **Voluntary/contractual** | MCL 600.5001–600.5035 (Uniform Arbitration Act) | Binding arbitration pursuant to written agreement; award enforceable by circuit court |
+| **Court-annexed** | MCR 3.602 | Parties may stipulate to arbitration; arbitrator selected by court ADR program |
+| **Domestic relations arbitration** | MCL 600.5070–600.5082 | Parties may arbitrate any domestic relations issue except child custody/parenting time (custody is not arbitrable — subject to ongoing court jurisdiction) |
+| **Arbitration award** | MCR 3.602(I) | Confirmed by court on motion; grounds to vacate: fraud, corruption, evident partiality, misconduct, excess of power |
+
+---
+
+### Friend of the Court ADR
+
+In domestic relations cases, the **Friend of the Court** provides ADR services under MCR 3.224:
+
+| Service | Description |
+|---|---|
+| **Conciliation** | Informal conference to resolve custody/support disputes; FOC staff attorney or specialist |
+| **Mediation** | Structured mediation of parenting/custody disputes; neutral facilitates |
+| **Referee hearing** | FOC referee conducts evidentiary hearing and issues recommendation; parties may object and request de novo hearing before judge (MCR 3.215) |
+| **Domestic relations arbitration** | After statewide FOC grievance process |
+
+---
+
+## 29. Discovery Practice — MCR 2.3xx
+
+---
+
+### Scope & General Rules (MCR 2.302)
+
+**Scope:** Parties may obtain discovery of any non-privileged matter that is **relevant** to any party's claim or defense and **proportional** to the needs of the case. (MCR 2.302(B)(1))
+
+**Proportionality factors:**
+- Importance of issues at stake
+- Amount in controversy
+- Parties' relative access to information
+- Resources of parties
+- Importance of the discovery in resolving the issues
+- Whether burden or expense outweighs likely benefit
+
+**Timing:**
+- Discovery commences after parties hold an early scheduling conference (MCR 2.401)
+- Discovery must be completed by close-of-discovery date set in scheduling order
+- Leave required to conduct discovery after deadline
+
+**Duty to Supplement:**
+Parties have a continuing duty to supplement discovery responses if the party learns the response is materially incomplete or incorrect. (MCR 2.302(E))
+
+---
+
+### Interrogatories (MCR 2.309)
+
+| Element | Rule |
+|---|---|
+| Service | May be served any time after commencement of action |
+| Limit | **25 interrogatories** per party (including subparts) unless court orders more |
+| Response deadline | **28 days** after service |
+| Objections | Must state objection with specificity; general objections disfavored |
+| Verification | Answers must be verified (signed under oath) |
+| Use at trial | Answers may be used as admissions; prior inconsistent statements |
+
+---
+
+### Depositions (MCR 2.303–2.308)
+
+| Type | Rule | Notes |
+|---|---|---|
+| Oral deposition | MCR 2.303 | Notice 14 days in advance (expert: additional notice); may be recorded by stenographic, audio, or video means |
+| Written questions | MCR 2.307 | Less common; questions submitted in advance |
+| Subpoena for non-party | MCR 2.305 | Non-party deponent must be subpoenaed |
+| Duration | Default: **7 hours** (one day) per deponent | Court may modify |
+| Objections | Objections must be stated concisely and non-argumentatively; "object to form" preserves for review; witness still answers unless privilege or court order |
+| Deponent's right to review | 30 days after notice to review and sign; or waive |
+
+---
+
+### Requests to Produce (MCR 2.310)
+
+| Element | Detail |
+|---|---|
+| Scope | Production of documents, ESI, tangible things, or entry onto land |
+| Deadline to respond | **28 days** after service |
+| Format of production | Produce in ordinary course of business or organize/label to correspond to categories in request |
+| Objections | State specific ground; party may withhold only specifically objected-to items |
+| ESI | Must confer regarding form of production; default: native format or reasonably usable form |
+
+---
+
+### Physical/Mental Examinations (MCR 2.311)
+
+- Court order required; available when party's **physical or mental condition is in controversy**
+- Common in: personal injury; workers' compensation; criminal competency; custody (psychological evaluation)
+- Examiner must provide written report to requesting party; requesting party must provide copy to opposing party upon request
+- Examiner may be deposed
+
+---
+
+### Subpoenas (MCR 2.305)
+
+| Type | Authority | Notes |
+|---|---|---|
+| Deposition subpoena | MCR 2.305(A) | Compels attendance and/or document production |
+| Trial subpoena | MCR 2.506 | Compels attendance at trial/hearing |
+| Records subpoena | MCR 2.305(A)(2) | Documents only; no deposition |
+| Out-of-state subpoena | MCL 600.1426 (Uniform Interstate Deposition Act) | Michigan court must issue commission; receiving state enforces |
+| Objection | Motion to quash within 14 days; grounds: privileged; undue burden; not relevant; improper service |
+
+---
+
+### Discovery Sanctions (MCR 2.313)
+
+Courts may impose sanctions for discovery violations:
+
+| Violation | Available Sanctions |
+|---|---|
+| Failure to respond to discovery | Order to compel; if compel order violated — dismissal, default, exclusion of evidence, adverse inference, contempt, attorneys' fees |
+| Spoliation of evidence | Adverse inference instruction; dismissal; default; *see also* common law spoliation doctrine |
+| Failure to supplement | Same as failure to respond; exclusion of surprise evidence at trial |
+| Frivolous objections | Attorneys' fees and costs |
+
+**Adverse Inference:**
+When a party in control of evidence fails to produce it and the failure is deliberate or in bad faith, the court or jury may draw an **adverse inference** that the evidence would have been unfavorable to that party. *Trupiano v Allstate Ins Co*, 252 Mich App 98 (2002) [UNVERIFIED — verify citation].
+
+---
+
+### E-Discovery (MCR 2.302(B)(5))
+
+Michigan's e-discovery rules follow the federal model (FRCP 26(b)(5)):
+
+- **ESI** (electronically stored information) is subject to discovery
+- **Proportionality** limits costly e-discovery
+- **"Not reasonably accessible"** ESI: party may object; court may order production upon showing of good cause
+- **Safe harbor:** sanctions not imposed for good-faith loss of ESI pursuant to routine document retention policy unless preservation duty triggered
+- **Litigation hold:** once litigation is reasonably anticipated, party must suspend routine deletion and preserve potentially relevant ESI
+
+---
+
+## 30. Civil Litigation Procedure — MCR 2
+
+---
+
+### Pleadings (MCR 2.111–2.118)
+
+**Required content of complaint (MCR 2.111(B)):**
+1. Statement of facts on which the pleader relies
+2. Statement of the relief demanded
+3. Each separate claim in a separate count
+
+**Heightened pleading:**
+- Fraud, mistake, or special damages must be pleaded with **particularity** (MCR 2.112(B))
+- MCR 2.111(A): short and plain statement suffices for general claims; Michigan does **not** apply *Twombly/Iqbal* federal plausibility standard — notice pleading standard applies
+
+**Responsive Pleadings:**
+- Answer to complaint: **28 days** (MCR 2.108(A)(1)); 21 days if served by publication
+- Counterclaim: filed with answer
+- Reply to counterclaim: 21 days after service
+
+**Amendments (MCR 2.118):**
+- Before responsive pleading: amend as of right
+- After responsive pleading: by leave of court or written consent; freely given when justice requires
+- Relation back: amended pleading relates back to original if same transaction or occurrence
+
+---
+
+### Service of Process (MCR 2.105–2.107)
+
+| Method | Rule | Requirements |
+|---|---|---|
+| Personal service on individual | MCR 2.105(A)(1) | Deliver to individual personally |
+| Substitute service | MCR 2.105(A)(2) | Leave at dwelling with adult resident; then mail |
+| Service on attorney | MCR 2.107(C) | After appearance, serve attorney not party |
+| Service on corporation | MCR 2.105(D) | Officer, director, registered agent, or general agent |
+| Service by publication | MCR 2.106 | Publish in approved newspaper; mail to last known address; only when personal service impractical; court order required |
+| E-mail/Electronic service | MCR 2.107(C)(4) | By consent or court order |
+
+**Proof of Service:**
+- Affidavit of service or written acknowledgment required
+- Filed with court before or at hearing
+
+---
+
+### Motions (MCR 2.116–2.119)
+
+**General Motions (MCR 2.119):**
+- Must state with particularity grounds and relief sought
+- May be supported by brief and affidavits/exhibits
+- Response: **14 days** after service (unless different rule applies)
+- Oral argument: may be requested; court has discretion whether to grant
+
+---
+
+### Summary Disposition (MCR 2.116)
+
+**MCR 2.116(C) Grounds:**
+
+| Subrule | Ground | Standard |
+|---|---|---|
+| **(C)(1)** | Court lacks personal jurisdiction | Legal question; de novo review |
+| **(C)(2)** | Court lacks subject matter jurisdiction | Legal question; de novo review |
+| **(C)(5)** | Claim barred by prior judgment (res judicata / collateral estoppel) | Legal question |
+| **(C)(6)** | Claim barred by statute of limitations | Legal question |
+| **(C)(7)** | No genuine issue of material fact AND moving party entitled to judgment as matter of law (analogous to federal Rule 56) | No genuine issue; view evidence in light most favorable to non-moving party |
+| **(C)(8)** | Opposing party has failed to state a claim on which relief can be granted | Tested on pleadings alone; all well-pleaded facts accepted as true; *purely legal question* |
+| **(C)(10)** | No genuine issue of material fact; moving party entitled to judgment (supported by evidence beyond pleadings) | Affidavits, depositions, discovery used; *de novo* on appeal |
+
+> *Key case:* *Maiden v Rozwood*, 461 Mich 109 (1999) — (C)(8) and (C)(10) distinguished; standards for summary disposition review.
+
+**Timing:**
+- (C)(8): may be brought at any time
+- (C)(10): 21 days before trial at latest (MCR 2.116(D))
+- Response: **21 days** (for (C)(10)); **14 days** (for other motions) after service
+
+---
+
+### Default & Default Judgment (MCR 2.603)
+
+| Step | Procedure |
+|---|---|
+| **Entry of default** | Clerk enters default when party fails to appear or plead within time allowed; on request of moving party |
+| **Default judgment** | Filed by prevailing party; must prove damages (hearing if damages unliquidated) |
+| **Notice** | If defaulted party has appeared, must receive 7 days' written notice before default judgment entered |
+| **Setting aside default** | For good cause shown; trial court has discretion; factors: meritorious defense; default not willful; minimal prejudice to opposing party |
+
+---
+
+### Judgment Enforcement — Garnishment & Execution
+
+| Method | Statute/Rule | Description |
+|---|---|---|
+| **Writ of execution** | MCL 600.6001; MCR 3.104 | Sheriff levies on judgment debtor's non-exempt personal or real property |
+| **Wage garnishment** | MCL 600.4011 et seq. | Continuous income withholding; employer withholds and pays court |
+| **Non-periodic (bank) garnishment** | MCL 600.4011 et seq. | One-time levy on deposit account |
+| **Lien on real property** | MCL 600.2801 | Judgment becomes lien on real property in county where docketed |
+| **Claim of exemption** | MCL 600.5451 | Debtor may claim exemptions (homestead, household goods, tools, $1,000 cash) |
+| **Judgment debtor examination** | MCR 2.621 | Court may order judgment debtor to appear and answer questions about assets |
+
+---
+
+## 31. Landlord-Tenant & Housing Law
+
+---
+
+### Governing Statutes
+
+| Statute | Citation | Scope |
+|---|---|---|
+| Landlord-Tenant Relationships Act | MCL 554.601–554.616 | Security deposits |
+| Truth in Renting Act | MCL 554.631–554.641 | Prohibits certain lease provisions; notice requirements |
+| Rental Property Maintenance (RPMC) | Local ordinances + MCL 125.401 et seq. | Minimum habitability standards |
+| Anti-Lockout / Self-Help Eviction | MCL 600.2918 | Prohibits lockout, removal of belongings, utility shutoff to evict; damages = 3× damages + attorneys' fees |
+| Summary Proceedings Act | MCL 600.5701–600.5759 | Eviction (summary proceeding) in district court |
+| Fair Housing Act | 42 USC 3601 et seq.; MCL 37.2502 (ELCRA housing provisions) | Prohibition on discrimination in housing |
+| Protecting Tenants at Foreclosure Act | 12 USC 5220 note (PTFA) | Tenant protections when property is foreclosed |
+
+---
+
+### Security Deposit (MCL 554.601–554.616)
+
+| Element | Rule |
+|---|---|
+| **Maximum deposit** | 1.5× monthly rent |
+| **Holding requirement** | Deposited in regulated financial institution; held in trust for tenant |
+| **Move-in checklist** | Landlord must provide itemized checklist of existing damage; tenant has 7 days to note disagreements |
+| **Return deadline** | **30 days** after termination of tenancy and delivery of forwarding address |
+| **Itemization** | Written, itemized statement of deductions must accompany any withholding |
+| **Failure to comply** | Landlord who fails to comply forfeits right to any portion of deposit; tenant may recover **2× the amount wrongfully withheld** |
+| **Forwarding address** | Tenant must provide written forwarding address; starts 30-day clock |
+
+---
+
+### Summary Proceedings — Eviction (MCL 600.5701–600.5759)
+
+**Summary proceedings** (Landlord-Tenant actions) are heard in **district court**.
+
+**Grounds for Summary Proceeding (MCL 600.5714):**
+
+| Ground | Notice Required |
+|---|---|
+| Non-payment of rent | 7-day demand notice (MCL 600.5720); may waive notice in lease |
+| Holdover (lease expired) | Statutory notice based on lease term: month-to-month = 1-month notice; year lease = written notice |
+| Violation of lease terms | 7-day written notice to cure or quit (for curable violations) |
+| Illegal activity on premises | Immediate; no cure period |
+| Domestic violence — request for possession | Specific statutory provisions |
+
+**Procedure:**
+
+1. Serve written **notice to quit** (period varies by ground)
+2. File **Complaint for Possession** (form DC 100c) in district court
+3. Summons served; return date set (**3–10 days** after service)
+4. Hearing before district court judge or magistrate
+5. If landlord prevails: **Judgment for Possession** and **Writ of Restitution** issued
+6. **Writ of Restitution** — bailiff/officer enforces; tenant has **10 days** to vacate before lockout
+7. Money judgment for unpaid rent may be entered simultaneously
+
+**Tenant Defenses** (see next subsection)
+
+---
+
+### Tenant Defenses & Rights
+
+| Defense | Basis | Notes |
+|---|---|---|
+| **Retaliatory eviction** | MCL 600.5720(1)(c); MCL 600.5585 | Prohibited: eviction for tenant's exercise of rights (complaining to housing authority, joining tenant union) |
+| **Implied warranty of habitability** | *Rome v Walker*, 38 Mich App 458 (1972); MCL 125.471 | Landlord must maintain premises in habitable condition; tenant may withhold rent or repair-and-deduct |
+| **Waiver of notice** | MCL 600.5720(1)(a) | Tenant did not receive proper notice or notice was defective |
+| **Discrimination** | 42 USC 3604; MCL 37.2502 | Fair Housing Act claim as defense or counterclaim |
+| **Domestic violence victim** | MCL 554.601b | Tenant who is DV victim may terminate lease with notice and documentation; landlord may not evict DV victim for DV-related conduct |
+| **PTFA** | 12 USC 5220 note | Bona fide tenant may remain 90 days after foreclosure sale or through end of lease |
+
+---
+
+### Fair Housing Protections
+
+**Protected Classes (Federal — 42 USC 3604):** Race, color, national origin, religion, sex, familial status, disability
+
+**Michigan ELCRA Housing (MCL 37.2502):** Same classes plus **marital status**, **age**, **height**, **weight**, **sexual orientation**, **gender identity** and **expression**, **source of income** (some municipalities)
+
+**Prohibited Acts:**
+- Refusing to rent or negotiate
+- Different terms and conditions
+- Discriminatory advertising
+- Steering to particular neighborhoods
+- Refusing reasonable accommodations for disability (federal FHA, 42 USC 3604(f))
+
+**Filing:**
+- Federal: HUD complaint within 1 year; or file in federal district court within 2 years
+- Michigan: LARA / MDCR complaint within 180 days; or ELCRA civil action in circuit court within 3 years
+
+---
+
+## 32. Probate & Estate Administration
+
+---
+
+### Jurisdiction & EPIC Overview
+
+The **Estates and Protected Individuals Code** (EPIC), MCL 700.1101 et seq., governs wills, trusts, decedent's estates, guardianship, and conservatorship in Michigan. **Probate court** has exclusive jurisdiction over decedents' estates, guardianship, and conservatorship. (MCL 600.841)
+
+**Key Concepts:**
+
+| Term | Definition |
+|---|---|
+| Testate | Died with a valid will |
+| Intestate | Died without a will; EPIC intestate succession applies |
+| Decedent | The deceased person |
+| Personal representative (PR) | Executor (testate) or administrator (intestate); manages estate |
+| Heir | Person who takes by intestate succession |
+| Legatee | Person who takes under a will |
+| Devise | Real property given by will |
+| Bequest | Personal property given by will |
+| Residuary estate | Property remaining after all specific gifts, debts, and expenses paid |
+
+---
+
+### Intestate Succession (MCL 700.2101–700.2114)
+
+**Intestate share of surviving spouse (MCL 700.2102):**
+
+| Situation | Surviving Spouse's Share |
+|---|---|
+| No children; no parents of decedent | Entire estate |
+| All children also children of surviving spouse; no other children | First $150,000 + ¾ of balance |
+| Children from prior relationship exist | First $150,000 + ½ of balance |
+| No children; parents survive | First $150,000 + ¾ of balance |
+
+**Share of other heirs (MCL 700.2103):**
+- After surviving spouse's share: balance passes to decedent's children per stirpes
+- If no children: parents
+- If no parents: siblings and their descendants
+- More remote heirs by degree of kinship
+
+**Half-bloods, adopted children, non-marital children:**
+- Half-blood: inherits same as whole blood (MCL 700.2107)
+- Adopted child: treated as natural child of adoptive parents; generally no inheritance from biological parents (MCL 700.2114)
+- Non-marital child: inherits from and through both parents if paternity established (MCL 700.2114)
+
+---
+
+### Wills — Execution & Revocation (MCL 700.2501–700.2523)
+
+**Formal Will Execution (MCL 700.2502):**
+1. Writing signed by testator (or at testator's direction and in testator's presence)
+2. Testator's signature or acknowledgment in presence of **2 witnesses**
+3. Witnesses sign within reasonable time
+
+**Holographic Will (MCL 700.2502(2)):**
+- Valid if **material portions** (including signature) are in the testator's own handwriting
+- No witnesses required
+- Date not required but recommended
+
+**Revocation (MCL 700.2507):**
+- Subsequent will or codicil
+- Physical act: burning, tearing, canceling, obliterating with intent to revoke
+- Divorce/annulment revokes gifts to former spouse by operation of law (MCL 700.2804)
+
+**Interested Witness:**
+- Witness who is also a beneficiary: bequest to interested witness is voidable unless there are at least 2 other disinterested witnesses (MCL 700.2505)
+
+**Self-Proved Will (MCL 700.2504):**
+- Will may be executed with notarized affidavits of testator and witnesses; eliminates need for witness testimony at probate
+
+---
+
+### Estate Administration — Formal & Informal Proceedings
+
+**Informal Proceedings (MCL 700.3301 et seq.):**
+- Filed with probate register; no hearing before judge required
+- PR appointed informally; begins administration
+- Appropriate for uncontested matters; no disputes about will or heirs
+
+**Formal Proceedings (MCL 700.3401 et seq.):**
+- Require judicial order after notice and hearing
+- Used when: will contested; heir dispute; PR dispute; creditor issues; need court direction
+
+**Steps in Estate Administration:**
+
+| Step | Timing | Description |
+|---|---|---|
+| File petition/application | — | Informal or formal; file will if any |
+| Appointment of PR | Upon filing (informal) or court order | Letters of Authority issued |
+| Notice to creditors | Publish in newspaper; mail to known creditors | Creditors have **4 months** from notice (MCL 700.3801) |
+| Inventory | **91 days** after appointment | File with court; value all estate assets |
+| Creditor claims | Within 4-month period | PR evaluates and allows or disallows claims |
+| Administration period | Typically 1–2 years | PR manages and liquidates assets; pay debts, taxes, expenses |
+| Accountings | Annual or upon completion | Formal account filed with court |
+| Distribution | After claims and expenses paid | Distribute to beneficiaries/heirs; obtain receipts |
+| Close estate | Sworn statement (informal) or court order (formal) | |
+
+---
+
+### Creditor Claims & Distribution
+
+**Priority Order for Paying Claims (MCL 700.3805):**
+
+1. Costs and expenses of administration
+2. Reasonable funeral and burial expenses
+3. Debts and taxes with preference under federal law
+4. Reasonable and necessary medical and hospital expenses of the decedent's last illness
+5. Debts and taxes with preference under Michigan law
+6. All other claims
+
+**Homestead Allowance (MCL 700.2402):** Surviving spouse or minor children entitled to a $32,000 homestead allowance (adjusted for inflation) — ahead of creditors.
+
+**Exempt Property Allowance (MCL 700.2404):** $15,000 allowance for household furniture, autos, appliances — ahead of creditors.
+
+**Family Allowance (MCL 700.2403):** Reasonable allowance during estate administration for support of surviving spouse and minor children.
+
+**Small Estate Procedure:**
+- If total estate value ≤ **$25,000** (after subtracting liens and encumbrances) and no real property: file **Petition to Assign Estate** or use **Affidavit for Collection of Personal Property** (if ≤ $25,000; MCL 700.3982) — no full probate required
+
+---
+
+## 33. Michigan Constitutional Rights Quick Reference
+
+---
+
+### Declaration of Rights (Mich Const 1963, art I)
+
+The Michigan Constitution of 1963, Article I (§§ 1–26) contains the **Declaration of Rights**, providing individual liberties that are at least as protective as the U.S. Constitution and, in some respects, more so.
+
+| Section | Right | Key Points |
+|---|---|---|
+| § 1 | Political power | Sovereignty in the people; principle of democratic governance |
+| § 2 | Equal protection & due process | "No person shall be denied the equal protection of the laws; nor shall any person be denied the enjoyment of his civil or political rights or be discriminated against in the exercise thereof because of religion, race, color or national origin." |
+| § 3 | Assembly, petition, speech, press | Broader than US First Amendment; right to publish, speak, petition |
+| § 4 | Religion | Free exercise; no establishment; broader than federal clause |
+| § 5 | Freedom of speech and press | Strong press freedom protections |
+| § 6 | Bearing of arms | Right to keep and bear arms for defense of self, family, dwelling |
+| § 11 | Searches & seizures | "Shall not be violated"; **independent** of US 4th Amendment; Michigan courts may interpret more broadly |
+| § 12 | Habeas corpus | Writ shall not be suspended; right to bail |
+| § 13 | Conduct of suits | Right to sue and defend |
+| § 14 | Jury trial | Right to jury trial "in every action at law" including civil cases |
+| § 15 | Jury size | Criminal: 12-person jury; civil: court may allow 6-person jury by consent |
+| § 16 | Bail | Excessive bail prohibited; bail available for bailable offenses |
+| § 17 | Self-incrimination | No person shall be compelled to testify against himself or herself |
+| § 18 | Witness in criminal matters | No witness may be confined for refusal to testify in civil matters except by court order |
+| § 19 | Libel | Truth is a complete defense |
+| § 20 | Rights of accused | Right to counsel; jury trial; speedy and public trial; confrontation; compulsory process; bail |
+| § 21 | Double jeopardy | No person shall be put in jeopardy twice for the same offense |
+| § 22 | Treason | Definition and proof requirements |
+| § 23 | Enumeration of rights | Enumeration does not deny or disparage other rights retained by the people |
+| § 24 | Rights of crime victims | Victim's rights constitutional amendment (Marsy's Law) |
+| § 25 | No public money for private schools | Constitutional limitation |
+| § 26 | Affirmative action ban | Constitutional ban on racial preferences in public employment/education |
+
+---
+
+### Equal Protection & Due Process
+
+**Michigan Equal Protection (Mich Const 1963, art I, § 2):**
+
+| Classification | Standard | Authority |
+|---|---|---|
+| Racial classifications | Strict scrutiny | Mich Const 1963, art I, § 2; US Const amend XIV |
+| Gender/sex | Intermediate scrutiny | Federal standard; Michigan may apply heightened state standard |
+| Other classifications (economic, age) | Rational basis | *Doe v Dep't of Social Services*, 439 Mich 650 (1992) |
+
+**Michigan Due Process (Mich Const 1963, art I, § 17):**
+- Substantive due process: statute depriving liberty/property must not be arbitrary; must be rationally related to legitimate government interest (rational basis); higher scrutiny for fundamental rights
+- Procedural due process: meaningful notice and opportunity to be heard before deprivation of protected interest; *Mathews v Eldridge* balancing applies in Michigan courts
+
+**Independent State Grounds:**
+Michigan courts may interpret Mich Const 1963, art I independently from US Constitution and may provide broader rights. When a Michigan decision rests on **adequate and independent state grounds**, federal review is unavailable.
+
+---
+
+### Search & Seizure (art I, § 11)
+
+Michigan's search-and-seizure clause **parallels** the Fourth Amendment but has been construed more broadly in some contexts.
+
+**Key Principles:**
+- Warrantless searches presumptively unreasonable
+- **Warrant requirements:** probable cause; particularity (place, persons, things to be seized); issued by neutral magistrate
+- **Good-faith exception:** adopted in Michigan, *People v Goldston*, 470 Mich 523 (2004) — evidence not excluded when officer reasonably relied on facially valid warrant
+- **Automobile exception:** probable cause to search vehicle without warrant (*People v Kazmierczak*, 461 Mich 411 (2000))
+- **Search incident to arrest:** search of person and area within immediate control
+- **Consent search:** voluntary consent waives warrant requirement
+- **Exclusionary rule:** evidence obtained in violation of art I, § 11 is excluded; Michigan applies its own exclusionary rule
+
+---
+
+### Right to Counsel (art I, § 20)
+
+Michigan Const 1963, art I, § 20 provides the right to counsel in **all** criminal proceedings, including misdemeanors where imprisonment is a possible sentence.
+
+**Key Applications:**
+- Right to **appointed counsel** if indigent and facing potential imprisonment
+- Right attaches at **arraignment** in Michigan (earlier than federal 6th Amendment right in some contexts)
+- **Effective assistance:** *Strickland v Washington* two-part test adopted in Michigan (deficiency + prejudice) — *People v Pickens*, 446 Mich 298 (1994)
+- Right to **self-representation** (*Faretta v California*; *People v Anderson*, 398 Mich 361 (1976)) — must be knowing, voluntary, and intelligent waiver
+
+---
+
+## 34. Employment Law Essentials
+
+---
+
+### At-Will Employment & Exceptions
+
+Michigan follows the **at-will employment doctrine** — an employer may terminate an employee for any reason or no reason, as long as it is not an **illegal reason**.
+
+**Exceptions to At-Will:**
+
+| Exception | Basis | Description |
+|---|---|---|
+| **Statutory protection** | ELCRA, WDCA, MiOSHA, WPA, FMLA | Termination that violates specific statute |
+| **Public policy exception** | *Suchodolski v Michigan Consolidated Gas Co*, 412 Mich 692 (1982) | Termination for exercising statutory right or refusing to violate law or public policy |
+| **Implied contract** | Employee handbook / oral promises | If handbook or promise contains "just cause" language and employee reasonably relied |
+| **Legitimate expectation** | *Toussaint v Blue Cross & Blue Shield*, 408 Mich 579 (1980) | Legitimate expectation of continued employment if employer established policies suggesting same |
+
+---
+
+### Elliott-Larsen Civil Rights Act (ELCRA) — MCL 37.2101
+
+ELCRA prohibits discrimination in employment, housing, public accommodations, and public services on the basis of:
+
+**Protected Classes:** Religion, race, color, national origin, age (40+), sex, height, weight, familial status, marital status, physical or mental disability (see also Michigan Persons with Disabilities Civil Rights Act — MCL 37.1101 et seq.)
+
+**Employment Prohibitions (MCL 37.2202):**
+- Fail or refuse to hire; discharge; discriminate in terms/conditions of employment
+- Segregate or classify employees
+- Retaliate for exercise of ELCRA rights
+
+**Sexual Harassment (MCL 37.2103(i)):**
+- **Quid pro quo:** submission to sexual conduct made a term of employment
+- **Hostile work environment:** unwelcome sexual conduct; so severe or pervasive as to alter conditions of employment; employer knew or should have known and failed to take corrective action
+
+**Remedies:**
+- Compensatory damages (lost wages, emotional distress)
+- Injunctive relief
+- Attorneys' fees
+- Punitive damages (for malice or reckless disregard in some cases)
+
+**Procedure:**
+- File with LARA / Michigan Department of Civil Rights (MDCR) within **180 days** of discriminatory act; or
+- File civil action in circuit court within **3 years** (MCL 600.5805(2))
+
+---
+
+### Whistleblower Protection Act — MCL 15.361
+
+Michigan's **Whistleblower Protection Act** (WPA) prohibits employers from retaliating against employees who report or are about to report violations of law to a public body.
+
+| Element | Requirement |
+|---|---|
+| Protected activity | Report to a public body; participation in hearing/investigation; refusal to violate law |
+| Covered employer | Any employer in Michigan; includes government and private |
+| Adverse action | Discharge, threat, discrimination, or retaliation |
+| Remedy | Reinstatement; back pay; costs; 2× back wages as damages; attorneys' fees |
+| Limitations | File within **90 days** of prohibited conduct in circuit court |
+
+> *Key case:* *Shallal v Catholic Social Services*, 455 Mich 604 (1997) — WPA elements and protected activity definition.
+
+---
+
+### FMLA & Michigan Paid Medical Leave Act
+
+**Federal FMLA (29 USC 2601 et seq.):**
+
+| Element | Detail |
+|---|---|
+| Covered employer | 50+ employees within 75 miles |
+| Eligible employee | 12 months of employment; 1,250 hours in prior 12 months |
+| Leave entitlement | **12 weeks** unpaid per year: serious health condition; birth/adoption; qualifying military exigency |
+| Serious health condition | Inpatient care; continuing treatment by health care provider (3+ consecutive days + treatment) |
+| Intermittent leave | Allowed for serious health condition with medical certification |
+| Reinstatement | Return to same or equivalent position |
+| Anti-retaliation | Employer may not retaliate for FMLA leave |
+
+**Michigan Paid Medical Leave Act (PMLA) — MCL 408.961 et seq.:**
+
+| Element | Detail |
+|---|---|
+| Covered employer | 50+ employees |
+| Accrual | 1 hour paid leave per 35 hours worked; up to **40 hours** per year |
+| Permitted uses | Personal health; family member health; DV/SA leave; closure of school/business due to public health emergency |
+| Carryover | Employer may limit use to 40 hours/year; up to 40 hours carried over |
+| Prohibited retaliation | Cannot retaliate for use of paid leave |
+
+---
+
+### Wage & Hour — WOWA & FLSA
+
+**Michigan Workforce Opportunity Wage Act (WOWA) — MCL 408.411 et seq.:**
+
+| Element | Current Rate (2026) | Notes |
+|---|---|---|
+| Minimum wage | $10.56/hr (2024; indexed annually) [UNVERIFIED — confirm current rate] | Youth wage (under 18): lower rate; training wage: $4.25/hr first 90 days |
+| Overtime | Not separately required by WOWA (FLSA governs) | — |
+| Tip credit | Tipped employees: minimum $3.84/hr if tips bring to minimum wage [UNVERIFIED] | |
+
+**Federal FLSA (29 USC 201 et seq.):**
+
+| Element | Rule |
+|---|---|
+| Overtime | 1.5× regular rate for hours >40/week for non-exempt employees |
+| Exempt employees | Executive, administrative, professional, outside sales, highly compensated (salary level tests apply; updated periodically by DOL) |
+| Record-keeping | Employer must maintain time and pay records |
+| Remedies | Back wages + equal amount in liquidated damages + attorneys' fees; 2-year SOL (3-year for willful) |
+
+---
+
+### Workers' Compensation — MCL 418
+
+The **Workers' Disability Compensation Act** (WDCA), MCL 418.101 et seq., provides a no-fault system for workplace injuries.
+
+| Benefit | Description |
+|---|---|
+| Medical benefits | All reasonable and necessary medical treatment; no cap |
+| Wage loss benefits | 80% of after-tax wage loss; subject to maximum rate (based on state AWW); payable until maximum medical improvement or return to work |
+| Specific loss benefits | Scheduled losses (amputation, hearing loss, vision loss); compensation by schedule |
+| Death benefits | Dependent spouse and children; maximum 500 weeks |
+| Vocational rehabilitation | Required if employee cannot return to previous work |
+| Exclusive remedy | WDCA is exclusive remedy against employer; employee cannot sue employer in tort for workplace injury (with limited exceptions: intentional acts) |
+
+**Procedure:**
+1. Report injury to employer (90 days; MCL 418.381)
+2. Employer files Form WC-100 with Workers' Comp Agency
+3. Insurance carrier accepts or denies claim
+4. Dispute → hearing before Magistrate at Workers' Compensation Agency
+5. Appeal → Workers' Compensation Appellate Commission (WCAC)
+6. Further appeal → Michigan Court of Appeals (leave required)
+
+---
+
+## 35. Michigan E-Filing & Court Technology
+
+---
+
+### MiFILE — Statewide E-Filing
+
+**MiFILE** (Michigan File & Serve) is the statewide e-filing system for Michigan trial courts, administered by the State Court Administrative Office (SCAO).
+
+| Feature | Detail |
+|---|---|
+| **Website** | https://mifile.courts.michigan.gov |
+| **Mandatory courts** | Circuit courts (civil, domestic relations, family division), district courts, probate courts — rollout ongoing; check local court for status |
+| **Document format** | PDF; individual file size limits apply |
+| **Service** | E-service through system on registered users; traditional service for non-registered parties |
+| **Filing fees** | Paid online by credit/debit card; fee waivers applied in system |
+| **Time of filing** | Document filed when accepted by system (midnight deadline for same-day filing) |
+| **Confirmation** | System sends email confirmation; assigned file-stamp date/time |
+| **Pro se access** | Pro se litigants may register and file through MiFILE |
+
+**Domestic Relations E-Filing:**
+- Domestic relations cases (divorce, custody, PPO, FOC) are filed through MiFILE in most circuit courts
+- SCAO standard forms (CC 375, DC 100, FOC forms) pre-populated through MiFILE
+
+---
+
+### TrueFiling — Court of Appeals & MSC
+
+**TrueFiling** is the e-filing system for the **Michigan Court of Appeals** and the **Michigan Supreme Court**.
+
+| Feature | Detail |
+|---|---|
+| **Website** | https://micourtofappeals.truefiling.com (COA) |
+| **Mandatory** | E-filing is mandatory for all COA and MSC filings by attorneys; pro se litigants may opt in |
+| **Format** | PDF; bookmarked/paginated per MCR 7.212 requirements |
+| **Service** | Automatic e-service on TrueFiling-registered parties |
+| **Filing deadline** | Filing must be completed and accepted by 11:59 PM on the due date |
+| **Technical failures** | Contact TrueFiling support; document technical difficulty for potential extension request |
+
+---
+
+### OTIS — Online Records Search
+
+**OTIS** (One Court of Justice Public Access System) provides public access to Michigan court records.
+
+| Resource | URL | Content |
+|---|---|---|
+| **OTIS Case Search** | https://www.courts.michigan.gov/c/courts/otis | Circuit, district, probate case lookup by name or case number |
+| **Court of Appeals Docket** | Via OTIS / TrueFiling | COA docket, briefs, opinions |
+| **Michigan Supreme Court** | https://www.courts.michigan.gov/courts/michigansupremecourt | MSC opinions, orders, docket |
+| **Michigan Court Rules** | https://www.courts.michigan.gov/rules-instructions-administrative-orders | Official MCR text |
+| **SCAO Forms** | https://www.courts.michigan.gov/forms | All official SCAO forms downloadable |
+
+**Fees/Certification:**
+- Certified copies of court records: fee schedule varies by court
+- Uncertified copies available online or via request
+- FOIA applies to court administrative records; court records themselves governed by MCR 8.119
+
+---
+
+### Remote Hearings & Zoom Protocol
+
+Michigan courts have adopted permanent rules for remote hearings following the COVID-19 expansion of video/telephonic proceedings.
+
+| Rule | Summary |
+|---|---|
+| **MCR 2.407** | Telephone/video participation in proceedings; court may allow on its own motion or on request; party may object for good cause |
+| **MCR 3.210(A)** | Domestic relations — remote hearings; court sets technology requirements |
+| **Administrative Order 2020-6 (as continued)** | Authorized ongoing use of Zoom for government hearings; local administrative orders specify platform |
+| **Zoom decorum** | Same decorum as in-person; attire, background, camera on when required; no recording without court permission |
+| **Pro se remote access** | Court must accommodate if party lacks technology; may appear by phone if Zoom unavailable |
+| **Exhibits** | Pre-marked and pre-exchanged electronically; shared screen during hearing |
+| **Interpreter** | Remote interpreter available; simultaneous interpretation through Zoom |
+
+**Practice Tips for Remote Hearings:**
+- Test technology connection at least 15 minutes before hearing
+- Join Zoom waiting room 5–10 minutes early
+- Have exhibits pre-uploaded or on screen share
+- State your name when speaking for the record
+- Check local court's standing order for remote hearing requirements
+
+---
+
+*Sources updated: Michigan Constitution of 1963 (art I, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 37, 125, 330, 408, 418, 450, 552, 554, 600, 691, 700, 710, 712A, 722, 750, 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments IV, V, VI, XIV; FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); ICWA (25 USC 1901); VAWA (34 USC 12291); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
 
 *Last substantively revised: April 2026.*
