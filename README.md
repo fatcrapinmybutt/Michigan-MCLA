@@ -1,18 +1,43 @@
 # Michigan-MCLA
 
-A litigation-grade reference catalogue of Michigan state and federal court abbreviations, administrative authority codes, case type classification codes, family law and fathers' rights frameworks, due process protections, Friend of the Court (FOC) responsibilities, judicial accountability mechanisms, Michigan and federal case law, appellate escalation pathways, benchbooks, training materials, and court system web resources.
+A comprehensive, litigation-grade catalogue of Michigan court abbreviations, court rules, rules of evidence, statutory law, administrative authority codes, case type classification codes, family law and fathers' rights frameworks, due process protections, Friend of the Court (FOC) responsibilities, judicial accountability mechanisms, Michigan and federal case law, appellate escalation pathways, benchbooks, training materials, and court system web resources.
 
 ## Contents
 
-- **[`catalogue.md`](catalogue.md)** — Main reference document (16 sections, 1,400+ lines)
-- **[`catalogue.json`](catalogue.json)** — Machine-readable JSON format
-- **[`mcr.md`](mcr.md)** / **[`mcr.json`](mcr.json)** — Michigan Court Rules (MCR), all chapters
-- **[`mre.md`](mre.md)** / **[`mre.json`](mre.json)** — Michigan Rules of Evidence (MRE), all articles
-- **[`mcl.md`](mcl.md)** / **[`mcl.json`](mcl.json)** — Key Michigan Compiled Laws (MCL) sections
+### Overview Catalogue
+- **[`catalogue.md`](catalogue.md)** — Main reference document (42 sections, 5,800+ lines) with court abbreviations, admin authority codes, case type codes, family law, criminal law, federal practice, and more.
+- **[`catalogue.json`](catalogue.json)** — Machine-readable JSON version of the catalogue overview.
+
+### Michigan Court Rules (MCR)
+- **[`mcr.md`](mcr.md)** — Complete human-readable reference for all MCR Chapters 1–9, every rule number, title, and summary.
+- **[`mcr.json`](mcr.json)** — Machine-readable MCR data organized by chapter and subchapter.
+
+### Michigan Rules of Evidence (MRE)
+- **[`mre.md`](mre.md)** — Complete human-readable reference for all MRE Articles I–XI, every rule number, title, and summary, plus comparison to the Federal Rules of Evidence.
+- **[`mre.json`](mre.json)** — Machine-readable MRE data organized by article.
+
+### Michigan Compiled Laws (MCL)
+- **[`mcl.md`](mcl.md)** — Human-readable reference for key MCL sections applicable to court practice, organized by chapter.
+- **[`mcl.json`](mcl.json)** — Machine-readable MCL data organized by chapter.
+
+## Coverage Summary
+
+| Category | Contents |
+|---|---|
+| **Michigan State Courts** | Mich. (MSC), Mich. App. (COA), Cir. Ct., Dist. Ct., Prob. Ct., Mun. Ct., JTC |
+| **Federal Courts** | U.S., 6th Cir., E.D. Mich., W.D. Mich. (incl. Muskegon) |
+| **Admin Authorities** | MCR, MRE, SCAO, MRPC, MCJC |
+| **Case Type Codes** | Circuit (AA, AR, AV, CH, DM, FY), District (GC, LT, SC, SM, SI), Probate (DA, DE, MI, JA) |
+| **MCR** | All Chapters 1–9: General Provisions, Civil Procedure, Special Proceedings, District Court, Probate Court, Criminal Procedure, Appellate Rules, Administrative Rules, Professional Discipline |
+| **MRE** | All Articles I–XI: General Provisions, Judicial Notice, Presumptions, Relevancy, Privileges, Witnesses, Expert Testimony, Hearsay (MRE 803/804/807), Authentication, Best Evidence, Miscellaneous |
+| **MCL** | Revised Judicature Act (RJA), EPIC, Child Custody Act, Divorce, Michigan Penal Code, Code of Criminal Procedure, Mental Health Code, Governmental Immunity, Juvenile Code, Vehicle Code, Business Organizations |
+| **Family Law** | Child Custody Act (MCL 722.21–722.31), best interest factors, parenting time, paternity, child support, PPO defense, change of domicile, FOC duties & grievance, custody modification |
+| **Constitutional** | Due process checklists, 14th Amendment parental rights, § 1983, judicial disqualification (MCR 2.003), MCJC Canons |
+| **Federal Practice** | E.D./W.D. Mich. local rules, 6th Circuit, § 1983, habeas (§ 2254/2255), RICO, certiorari, asset forfeiture |
 
 ## How to Use
 
-The catalogue is organized by topic with internal cross-references. Start with the **Table of Contents** in `catalogue.md`. Every factual assertion is pinned to an authoritative primary source (Michigan Legislature, Michigan Constitution, Michigan Supreme Court, SCAO, or equivalent federal authority). Items that could not be independently verified are labeled **[UNVERIFIED]** with an acquire plan.
+The catalogue is organized by topic with internal cross-references. Start with the **Table of Contents** in `catalogue.md`. Every factual assertion is pinned to an authoritative primary source (Michigan Legislature, Michigan Constitution, Michigan Supreme Court, SCAO, or equivalent federal authority). Items that could not be independently verified are labeled **[UNVERIFIED]** with an acquire plan — see § 16 for the evidence standard.
 
 ## Disclaimer
 
@@ -20,4 +45,4 @@ The catalogue is organized by topic with internal cross-references. Start with t
 
 ## Primary Sources
 
-Michigan Constitution of 1963; Michigan Compiled Laws (MCL); Michigan Court Rules (MCR); Michigan Rules of Evidence (MRE); Michigan Code of Judicial Conduct (MCJC); State Court Administrative Office (SCAO); Michigan Judicial Institute (MJI); U.S. Constitution; U.S. Supreme Court decisions; 42 U.S.C. § 1983; Sixth Circuit Court of Appeals.
+Michigan Constitution of 1963; Michigan Compiled Laws (MCL); Michigan Court Rules (MCR); Michigan Rules of Evidence (MRE); Michigan Code of Judicial Conduct (MCJC); Michigan Rules of Professional Conduct (MRPC); State Court Administrative Office (SCAO); Michigan Judicial Institute (MJI); Michigan Child Support Formula Manual; U.S. Constitution; U.S. Supreme Court decisions; 42 U.S.C. § 1983; Sixth Circuit Court of Appeals; Federal Rules of Civil/Criminal Procedure.

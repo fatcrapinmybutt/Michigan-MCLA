@@ -1,0 +1,856 @@
+{
+  "title": "Michigan Compiled Laws (MCL) — Court-Practice Reference",
+  "description": "Key sections of the Michigan Compiled Laws most applicable to court practice, organized by chapter and subject matter. The MCL is the official codification of Michigan statutory law.",
+  "abbreviation": "MCL",
+  "note": "The MCL contains thousands of individual statutes. This reference covers the chapters and sections most frequently encountered in court practice and litigation.",
+  "chapters": [
+    {
+      "chapter": "MCL Chapter 600",
+      "title": "Revised Judicature Act of 1961 (RJA)",
+      "description": "The primary statute governing the structure, jurisdiction, and procedure of Michigan courts.",
+      "citation": "MCL 600.101 et seq.",
+      "sections": [
+        {
+          "section": "MCL 600.101",
+          "title": "Short Title",
+          "summary": "Establishes the short title 'Revised Judicature Act of 1961' (RJA)."
+        },
+        {
+          "section": "MCL 600.151",
+          "title": "One Court of Justice",
+          "summary": "Establishes the 'One Court of Justice' system as required by Mich. Const. 1963, art. VI, § 1."
+        },
+        {
+          "section": "MCL 600.201",
+          "title": "Supreme Court; Jurisdiction",
+          "summary": "Grants the Supreme Court general superintending control over all inferior courts."
+        },
+        {
+          "section": "MCL 600.203",
+          "title": "Supreme Court; Composition; Term",
+          "summary": "Supreme Court consists of 7 justices elected on a nonpartisan ballot to 8-year terms."
+        },
+        {
+          "section": "MCL 600.209",
+          "title": "Supreme Court; Quorum; Decision",
+          "summary": "Four justices constitute a quorum; decision requires concurrence of a majority of justices sitting."
+        },
+        {
+          "section": "MCL 600.223",
+          "title": "Supreme Court; Promulgation of Rules",
+          "summary": "Supreme Court has power to promulgate rules of procedure and evidence for all courts."
+        },
+        {
+          "section": "MCL 600.301",
+          "title": "Court of Appeals; Establishment",
+          "summary": "Establishes the Michigan Court of Appeals as an intermediate appellate court."
+        },
+        {
+          "section": "MCL 600.308",
+          "title": "Court of Appeals; Jurisdiction",
+          "summary": "COA has jurisdiction on appeals of right from final judgments and orders of circuit, probate, and other courts."
+        },
+        {
+          "section": "MCL 600.401",
+          "title": "Circuit Court; Establishment",
+          "summary": "Establishes circuit courts in each county; circuit court is the court of general jurisdiction."
+        },
+        {
+          "section": "MCL 600.605",
+          "title": "Circuit Court; General Jurisdiction",
+          "summary": "Circuit courts have original jurisdiction over all civil claims exceeding $25,000 and over all matters in equity."
+        },
+        {
+          "section": "MCL 600.611",
+          "title": "Circuit Court; Family Division",
+          "summary": "Establishes the Family Division of the Circuit Court with jurisdiction over domestic relations, juvenile, and adoption matters."
+        },
+        {
+          "section": "MCL 600.801",
+          "title": "District Court; Establishment",
+          "summary": "Establishes the district court system; districts defined by statute."
+        },
+        {
+          "section": "MCL 600.8301",
+          "title": "District Court; Jurisdiction",
+          "summary": "District court has exclusive original jurisdiction over civil actions where amount in controversy does not exceed $25,000."
+        },
+        {
+          "section": "MCL 600.8401",
+          "title": "District Court; Small Claims Division",
+          "summary": "Small claims jurisdiction up to $7,000 ($10,000 for sole proprietors); informal procedure; no attorneys."
+        },
+        {
+          "section": "MCL 600.8501",
+          "title": "District Court; Landlord-Tenant",
+          "summary": "District court has exclusive jurisdiction over summary proceedings to recover possession of premises (eviction)."
+        },
+        {
+          "section": "MCL 600.1001",
+          "title": "Probate Court; Establishment",
+          "summary": "Establishes a probate court in each county."
+        },
+        {
+          "section": "MCL 600.1021",
+          "title": "Probate Court; Jurisdiction",
+          "summary": "Probate court has jurisdiction over estates of decedents, trusts, mental health proceedings, guardianships, and conservatorships."
+        },
+        {
+          "section": "MCL 600.1311",
+          "title": "Venue; Generally",
+          "summary": "General venue rules for civil actions; proper county for filing based on defendant's residence or where cause of action arose."
+        },
+        {
+          "section": "MCL 600.1629",
+          "title": "Change of Venue",
+          "summary": "Grounds for change of venue: prejudice, convenience of witnesses, interests of justice."
+        },
+        {
+          "section": "MCL 600.1701",
+          "title": "Summons; Issuance",
+          "summary": "Requirements for issuance of summons to commence a civil action."
+        },
+        {
+          "section": "MCL 600.1811",
+          "title": "Service of Process; Personal Service",
+          "summary": "Methods for personal service of process on individuals, corporations, and other entities."
+        },
+        {
+          "section": "MCL 600.1901",
+          "title": "Subpoenas; Issuance",
+          "summary": "Courts may issue subpoenas to compel attendance of witnesses and production of documents."
+        },
+        {
+          "section": "MCL 600.2101",
+          "title": "Actions; Commencement",
+          "summary": "A civil action is commenced by filing a complaint."
+        },
+        {
+          "section": "MCL 600.2137",
+          "title": "Pleadings; Verification",
+          "summary": "Verification requirements for certain pleadings."
+        },
+        {
+          "section": "MCL 600.2145",
+          "title": "Counterclaims and Cross-Claims",
+          "summary": "Authorization for counterclaims against opposing party and cross-claims against co-parties."
+        },
+        {
+          "section": "MCL 600.2157",
+          "title": "Physician-Patient Privilege",
+          "summary": "A physician shall not disclose confidential information obtained in the course of the professional relationship."
+        },
+        {
+          "section": "MCL 600.2158",
+          "title": "Attorney-Client Privilege (Codified)",
+          "summary": "An attorney shall not disclose communications made to the attorney by a client."
+        },
+        {
+          "section": "MCL 600.2159",
+          "title": "Clergy-Penitent Privilege",
+          "summary": "A minister of the gospel shall not disclose confidential communications made to the minister in the minister's professional capacity."
+        },
+        {
+          "section": "MCL 600.2160",
+          "title": "Husband-Wife Privilege",
+          "summary": "Neither spouse is compelled to testify against the other in a criminal proceeding."
+        },
+        {
+          "section": "MCL 600.2162",
+          "title": "Nurse-Patient Privilege",
+          "summary": "A registered nurse shall not disclose information acquired in the nurse-patient relationship."
+        },
+        {
+          "section": "MCL 600.2163a",
+          "title": "Social Worker Privilege",
+          "summary": "A licensed social worker shall not disclose confidential information obtained in the professional relationship."
+        },
+        {
+          "section": "MCL 600.2165",
+          "title": "Accountant-Client Privilege",
+          "summary": "A certified public accountant shall not disclose information obtained in the professional relationship."
+        },
+        {
+          "section": "MCL 600.2167",
+          "title": "Psychologist-Patient Privilege",
+          "summary": "A licensed psychologist shall not disclose confidential information obtained in the professional relationship."
+        },
+        {
+          "section": "MCL 600.2301",
+          "title": "Jurors; Challenge for Cause",
+          "summary": "Grounds for challenging a juror for cause, including interest, relationship, and bias."
+        },
+        {
+          "section": "MCL 600.1307a",
+          "title": "Peremptory Challenges",
+          "summary": "Number of peremptory challenges in civil and criminal cases."
+        },
+        {
+          "section": "MCL 600.2405",
+          "title": "Costs; Generally",
+          "summary": "Prevailing party in a civil action is entitled to court costs."
+        },
+        {
+          "section": "MCL 600.2591",
+          "title": "Frivolous Claims; Sanctions",
+          "summary": "Court shall award reasonable costs to a party who prevails against a frivolous claim or defense."
+        },
+        {
+          "section": "MCL 600.2601",
+          "title": "Judgments; Generally",
+          "summary": "General provisions governing entry and enforcement of judgments."
+        },
+        {
+          "section": "MCL 600.2807",
+          "title": "Judgment Liens on Real Property",
+          "summary": "A money judgment becomes a lien on real property in the county where docketed."
+        },
+        {
+          "section": "MCL 600.5739",
+          "title": "Small Claims; Monetary Limit",
+          "summary": "Establishes the monetary jurisdictional limit for small claims court."
+        },
+        {
+          "section": "MCL 600.6013",
+          "title": "Interest on Money Judgments",
+          "summary": "Sets the rate of pre-judgment and post-judgment interest on money judgments."
+        },
+        {
+          "section": "MCL 600.6030",
+          "title": "Execution on Judgments",
+          "summary": "Authorizes writs of execution to collect on money judgments."
+        },
+        {
+          "section": "MCL 600.6051",
+          "title": "Garnishment",
+          "summary": "Authorizes garnishment of wages, bank accounts, and other property to satisfy judgments."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 700",
+      "title": "Estates and Protected Individuals Code (EPIC)",
+      "description": "Governs wills, trusts, estates, guardianships, and conservatorships in Michigan.",
+      "citation": "MCL 700.1101 et seq.",
+      "sections": [
+        {
+          "section": "MCL 700.1101",
+          "title": "Short Title",
+          "summary": "Establishes short title 'Estates and Protected Individuals Code' (EPIC), effective April 1, 2000."
+        },
+        {
+          "section": "MCL 700.1105",
+          "title": "Definitions",
+          "summary": "Key definitions: decedent, devisee, distributee, domicile, fiduciary, guardian, incapacitated individual, intestate, personal representative, and trust."
+        },
+        {
+          "section": "MCL 700.2101",
+          "title": "Intestate Succession; Generally",
+          "summary": "Rules for distributing estate assets when a person dies without a will (intestate succession)."
+        },
+        {
+          "section": "MCL 700.2102",
+          "title": "Share of Surviving Spouse",
+          "summary": "Surviving spouse's share of the intestate estate, which varies based on whether the decedent had children from a prior relationship."
+        },
+        {
+          "section": "MCL 700.2301",
+          "title": "Elective Share of Surviving Spouse",
+          "summary": "A surviving spouse may elect against the will to take an elective share of the augmented estate."
+        },
+        {
+          "section": "MCL 700.2401",
+          "title": "Exempt Property and Allowances",
+          "summary": "Protections for surviving spouse and minor children including homestead allowance, exempt property, and family allowance."
+        },
+        {
+          "section": "MCL 700.2501",
+          "title": "Requirements for Execution of Will",
+          "summary": "A valid Michigan will must be: in writing; signed by the testator; witnessed by two individuals who sign in the testator's conscious presence."
+        },
+        {
+          "section": "MCL 700.2502",
+          "title": "Holographic Wills",
+          "summary": "A will is valid as a holographic will if it is dated and signed by the testator in the testator's handwriting."
+        },
+        {
+          "section": "MCL 700.2803",
+          "title": "Revocation of Will",
+          "summary": "A will is revoked by a subsequent will revoking the prior will, or by physical act of destruction."
+        },
+        {
+          "section": "MCL 700.3101",
+          "title": "Probate Jurisdiction of Court",
+          "summary": "Jurisdiction of probate court over decedents' estates."
+        },
+        {
+          "section": "MCL 700.3301",
+          "title": "Informal Probate and Appointment Proceedings",
+          "summary": "Procedures for informal (unsupervised) probate of wills and appointment of personal representatives."
+        },
+        {
+          "section": "MCL 700.3401",
+          "title": "Formal Testacy and Appointment Proceedings",
+          "summary": "Procedures for formal (supervised) probate and appointment proceedings."
+        },
+        {
+          "section": "MCL 700.3701",
+          "title": "Personal Representative; Duties",
+          "summary": "A personal representative is a fiduciary who must act reasonably for the benefit of the interested persons."
+        },
+        {
+          "section": "MCL 700.3801",
+          "title": "Claims Against Estates",
+          "summary": "Creditors must file claims within 4 months of the date of the first publication of the notice to creditors."
+        },
+        {
+          "section": "MCL 700.5101",
+          "title": "Guardianship of Minors",
+          "summary": "Establishes jurisdiction and procedures for appointing guardians for minor children."
+        },
+        {
+          "section": "MCL 700.5301",
+          "title": "Guardianship of Incapacitated Individual",
+          "summary": "Establishes jurisdiction and procedures for appointing guardians for incapacitated adults."
+        },
+        {
+          "section": "MCL 700.5401",
+          "title": "Protective Proceedings; Conservatorship",
+          "summary": "Establishes procedures for appointing conservators to manage finances of protected individuals."
+        },
+        {
+          "section": "MCL 700.7101",
+          "title": "Michigan Trust Code",
+          "summary": "Governs the creation, administration, modification, and termination of trusts in Michigan."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 722",
+      "title": "Child Custody and Parenting Time",
+      "description": "Governs child custody determinations, parenting time, and the Friend of the Court system.",
+      "citation": "MCL 722.21 et seq.",
+      "sections": [
+        {
+          "section": "MCL 722.21",
+          "title": "Child Custody Act; Short Title",
+          "summary": "Establishes the 'Child Custody Act of 1970.'"
+        },
+        {
+          "section": "MCL 722.23",
+          "title": "Best Interests of the Child; Factors",
+          "summary": "Lists the 12 statutory factors courts must consider when determining custody: love and affection; capacity to provide material needs; length of time child has lived in a stable environment; permanence of existing family unit; moral fitness; mental and physical health; performance in school; home, school, and community record; preference of child; willingness to facilitate relationship with other parent; domestic violence; any other relevant factor."
+        },
+        {
+          "section": "MCL 722.24",
+          "title": "Custody Orders; Modification",
+          "summary": "Court may enter and modify custody orders; party seeking modification must first show a change in circumstances or proper cause."
+        },
+        {
+          "section": "MCL 722.25",
+          "title": "Parental Rights; Presumption",
+          "summary": "If the parents agree on custody, the court must follow their agreement unless contrary to best interests. If they disagree, the court determines custody based on best interests."
+        },
+        {
+          "section": "MCL 722.26a",
+          "title": "Joint Custody",
+          "summary": "Court may award joint legal or joint physical custody; factors to consider; parents' ability to cooperate."
+        },
+        {
+          "section": "MCL 722.27a",
+          "title": "Parenting Time; Enforcement",
+          "summary": "Parenting time must be granted in frequency, duration, and type as will promote a strong parent-child relationship."
+        },
+        {
+          "section": "MCL 722.27b",
+          "title": "Grandparenting Time",
+          "summary": "Grandparents may petition for grandparenting time if it is in the best interests of the child and parental rights are not terminated."
+        },
+        {
+          "section": "MCL 722.28",
+          "title": "Custody; Standard of Review",
+          "summary": "Circuit court decisions on custody are reviewed under three standards: de novo (legal questions), clear error (findings of fact), and abuse of discretion (custody award)."
+        },
+        {
+          "section": "MCL 722.31",
+          "title": "Change of Domicile",
+          "summary": "A parent with sole or joint physical custody may not move a child's residence more than 100 miles from the other parent without court approval or other parent's consent."
+        },
+        {
+          "section": "MCL 722.621",
+          "title": "Child Abuse and Neglect; Definitions",
+          "summary": "Defines child abuse and neglect for purposes of mandatory reporting and child protective proceedings."
+        },
+        {
+          "section": "MCL 722.622",
+          "title": "Mandatory Reporting of Child Abuse",
+          "summary": "Mandates certain professionals (teachers, doctors, social workers, clergy) to report suspected child abuse to DHHS."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 552",
+      "title": "Divorce and Separate Maintenance",
+      "description": "Governs grounds for divorce, property division, and spousal support in Michigan.",
+      "citation": "MCL 552.1 et seq.",
+      "sections": [
+        {
+          "section": "MCL 552.6",
+          "title": "Divorce; Grounds",
+          "summary": "The sole ground for divorce in Michigan is that there has been a breakdown of the marriage relationship to the extent that the objects of matrimony have been destroyed and there remains no reasonable likelihood that the marriage can be preserved."
+        },
+        {
+          "section": "MCL 552.9",
+          "title": "Divorce; Residency Requirement",
+          "summary": "At least one party must have been a resident of Michigan for 6 months and a resident of the county for 10 days before filing."
+        },
+        {
+          "section": "MCL 552.13",
+          "title": "Divorce; 60-Day Waiting Period",
+          "summary": "A divorce judgment cannot be entered less than 60 days (or 6 months if minor children) after the complaint is filed."
+        },
+        {
+          "section": "MCL 552.16",
+          "title": "Property Division",
+          "summary": "The court shall award each party their property and may apportion the marital estate. Michigan is an equitable distribution state."
+        },
+        {
+          "section": "MCL 552.23",
+          "title": "Spousal Support (Alimony)",
+          "summary": "The court may award spousal support as it considers just and reasonable considering the ability of either party to pay and the character and situation of the parties."
+        },
+        {
+          "section": "MCL 552.101",
+          "title": "Child Support; Uniform Support Orders",
+          "summary": "Child support must be ordered using the Michigan Child Support Formula; uniform support orders."
+        },
+        {
+          "section": "MCL 552.517",
+          "title": "Income Withholding for Support",
+          "summary": "Income withholding is automatic in all cases where child support is ordered."
+        },
+        {
+          "section": "MCL 552.623",
+          "title": "Personal Protection Orders (PPO); Domestic Violence",
+          "summary": "Authorizes ex parte and after-hearing personal protection orders for domestic violence victims."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 750",
+      "title": "Michigan Penal Code",
+      "description": "Defines criminal offenses and penalties in Michigan.",
+      "citation": "MCL 750.1 et seq.",
+      "sections": [
+        {
+          "section": "MCL 750.1",
+          "title": "Michigan Penal Code; Short Title",
+          "summary": "Establishes the short title 'Michigan Penal Code.'"
+        },
+        {
+          "section": "MCL 750.10",
+          "title": "Felony; Definition",
+          "summary": "A felony is an offense for which the offender may be punished by imprisonment in a state prison."
+        },
+        {
+          "section": "MCL 750.11",
+          "title": "Misdemeanor; Definition",
+          "summary": "A misdemeanor is a violation of a penal law of this state that is not a felony or a violation of an ordinance."
+        },
+        {
+          "section": "MCL 750.81",
+          "title": "Assault and Battery",
+          "summary": "Assault or assault and battery is a misdemeanor punishable by up to 93 days in jail."
+        },
+        {
+          "section": "MCL 750.81a",
+          "title": "Aggravated Assault",
+          "summary": "Assault inflicting serious or aggravated injury without a weapon; misdemeanor up to 1 year."
+        },
+        {
+          "section": "MCL 750.82",
+          "title": "Felonious Assault",
+          "summary": "Assault with a weapon; felony up to 4 years."
+        },
+        {
+          "section": "MCL 750.83",
+          "title": "Assault with Intent to Commit Murder",
+          "summary": "Felony punishable by life or any term of years."
+        },
+        {
+          "section": "MCL 750.91",
+          "title": "Attempted Murder",
+          "summary": "Attempt to commit murder; felony punishable by life or any term of years."
+        },
+        {
+          "section": "MCL 750.110a",
+          "title": "Home Invasion",
+          "summary": "Three degrees of home invasion; first degree is a 20-year felony; second degree is a 15-year felony."
+        },
+        {
+          "section": "MCL 750.136b",
+          "title": "Child Abuse",
+          "summary": "Four degrees of child abuse; first degree is a life felony if intentional harm causing serious physical harm."
+        },
+        {
+          "section": "MCL 750.157a",
+          "title": "Conspiracy",
+          "summary": "Conspiracy to commit a crime is punishable by the same penalty as the underlying offense."
+        },
+        {
+          "section": "MCL 750.159i",
+          "title": "Racketeering (RICO)",
+          "summary": "Michigan's organized crime statute (RICO equivalent); 20-year felony and civil forfeiture."
+        },
+        {
+          "section": "MCL 750.227",
+          "title": "Carrying a Concealed Weapon",
+          "summary": "Carrying a concealed weapon without a valid CPL; 5-year felony."
+        },
+        {
+          "section": "MCL 750.316",
+          "title": "First Degree Murder",
+          "summary": "Premeditated murder, murder by poison, lying in wait, killing during commission of enumerated felonies (felony murder); mandatory life without parole."
+        },
+        {
+          "section": "MCL 750.317",
+          "title": "Second Degree Murder",
+          "summary": "Murder not in the first degree; life or any term of years."
+        },
+        {
+          "section": "MCL 750.321",
+          "title": "Manslaughter",
+          "summary": "Voluntary or involuntary manslaughter; up to 15 years."
+        },
+        {
+          "section": "MCL 750.356",
+          "title": "Larceny",
+          "summary": "Taking and carrying away property of another with intent to steal. Amount determines grade: under $200 = misdemeanor; $200-$999 = misdemeanor; $1,000-$19,999 = felony; $20,000+ = 10-year felony."
+        },
+        {
+          "section": "MCL 750.520b",
+          "title": "Criminal Sexual Conduct, First Degree (CSC-I)",
+          "summary": "Sexual penetration under enumerated circumstances (victim under 13, weapon, multiple persons, etc.); life or any term of years; mandatory minimum 25 years if victim under 13."
+        },
+        {
+          "section": "MCL 750.520c",
+          "title": "Criminal Sexual Conduct, Second Degree (CSC-II)",
+          "summary": "Sexual contact (not penetration) under circumstances listed for CSC-I; up to 15 years."
+        },
+        {
+          "section": "MCL 750.520d",
+          "title": "Criminal Sexual Conduct, Third Degree (CSC-III)",
+          "summary": "Sexual penetration under other specified circumstances; up to 15 years."
+        },
+        {
+          "section": "MCL 750.520e",
+          "title": "Criminal Sexual Conduct, Fourth Degree (CSC-IV)",
+          "summary": "Sexual contact under other specified circumstances; up to 2 years."
+        },
+        {
+          "section": "MCL 750.543",
+          "title": "Michigan Anti-Terrorism Act",
+          "summary": "Defines terrorism and terrorist acts; enhances penalties for terrorist offenses."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 767",
+      "title": "Code of Criminal Procedure — Indictment, Plea, and Trial",
+      "description": "Governs the procedures for indictment, arraignment, plea, and trial in criminal cases.",
+      "citation": "MCL 767.1 et seq.",
+      "sections": [
+        {
+          "section": "MCL 767.1",
+          "title": "Code of Criminal Procedure; Short Title",
+          "summary": "Establishes the short title 'Code of Criminal Procedure.'"
+        },
+        {
+          "section": "MCL 767.4",
+          "title": "Preliminary Examination; Right",
+          "summary": "A person charged with a felony is entitled to a preliminary examination before a district judge."
+        },
+        {
+          "section": "MCL 767.24",
+          "title": "Limitations on Prosecution; Statutes of Limitations",
+          "summary": "General criminal statutes of limitations: murder (no limit); most felonies (6 years); misdemeanors (6 years for serious, 2 years for others)."
+        },
+        {
+          "section": "MCL 767.38",
+          "title": "Indictment; Sufficient Description of Offense",
+          "summary": "An indictment or information is sufficient if it states the offense in the language of the statute."
+        },
+        {
+          "section": "MCL 767.45",
+          "title": "Information; Contents",
+          "summary": "Formal requirements for the information: name of accused, specific charge, statute violated, date range, county."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 769",
+      "title": "Code of Criminal Procedure — Judgment and Sentence",
+      "description": "Governs sentencing, probation, and parole in Michigan.",
+      "citation": "MCL 769.1 et seq.",
+      "sections": [
+        {
+          "section": "MCL 769.1",
+          "title": "Sentencing; Jurisdiction",
+          "summary": "Court's authority to impose sentences including imprisonment, probation, fines, and costs."
+        },
+        {
+          "section": "MCL 769.1k",
+          "title": "Court Costs; Assessment at Sentencing",
+          "summary": "Authorizes circuit courts to assess court costs at sentencing; costs must be reasonably related to the case."
+        },
+        {
+          "section": "MCL 769.8",
+          "title": "Indeterminate Sentences; Felonies",
+          "summary": "Michigan uses indeterminate sentencing for felonies: minimum set by judge (within guidelines), maximum set by statute."
+        },
+        {
+          "section": "MCL 769.9",
+          "title": "Life Sentences; Mandatory and Discretionary",
+          "summary": "Governs imposition of mandatory life sentences (first degree murder) and discretionary life sentences."
+        },
+        {
+          "section": "MCL 769.10",
+          "title": "Habitual Offender; Second Felony Conviction",
+          "summary": "A person convicted of a felony who has a prior felony conviction may be sentenced as a habitual offender with enhanced penalties."
+        },
+        {
+          "section": "MCL 769.11",
+          "title": "Habitual Offender; Third Felony Conviction",
+          "summary": "Third-felony habitual offender enhancement; maximum sentence enhanced to life or any term."
+        },
+        {
+          "section": "MCL 769.12",
+          "title": "Habitual Offender; Fourth or Subsequent Felony Conviction",
+          "summary": "Fourth-felony habitual offender; maximum sentence is life."
+        },
+        {
+          "section": "MCL 769.31",
+          "title": "Michigan Sentencing Guidelines; Applicability",
+          "summary": "Michigan's legislative sentencing guidelines apply to all felony sentences; guidelines are advisory following Lockridge."
+        },
+        {
+          "section": "MCL 769.34",
+          "title": "Sentencing Guidelines; Departure",
+          "summary": "Court may depart from guidelines minimum; must articulate substantial and compelling reasons (pre-Lockridge) or any reasonable reason (post-Lockridge)."
+        },
+        {
+          "section": "MCL 769.35",
+          "title": "Pre-Sentence Investigation Report",
+          "summary": "Court shall order a pre-sentence investigation and report before sentencing a defendant convicted of a felony."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 330",
+      "title": "Mental Health Code",
+      "description": "Governs voluntary and involuntary mental health treatment, hospitalization, and related proceedings.",
+      "citation": "MCL 330.1001 et seq.",
+      "sections": [
+        {
+          "section": "MCL 330.1001",
+          "title": "Mental Health Code; Short Title",
+          "summary": "Establishes the short title 'Mental Health Code.'"
+        },
+        {
+          "section": "MCL 330.1100a",
+          "title": "Definitions",
+          "summary": "Defines: clinical certificate, customer, department, hospital, mental illness, and mental health professional."
+        },
+        {
+          "section": "MCL 330.1401",
+          "title": "Voluntary Admission",
+          "summary": "An individual 18 or older may request voluntary admission to a hospital for mental health treatment."
+        },
+        {
+          "section": "MCL 330.1423",
+          "title": "Clinical Certificate; Involuntary Treatment",
+          "summary": "A mental health professional may execute a clinical certificate for involuntary examination if a person has a mental illness and is a danger to self or others."
+        },
+        {
+          "section": "MCL 330.1434",
+          "title": "Petition for Hospitalization",
+          "summary": "An individual may petition the probate court for the hospitalization of another person who is mentally ill and a danger."
+        },
+        {
+          "section": "MCL 330.1452",
+          "title": "Hearing on Hospitalization Petition",
+          "summary": "Probate court must hold a hearing within 7 days of receipt of petition; right to counsel; standard is clear and convincing evidence."
+        },
+        {
+          "section": "MCL 330.1498",
+          "title": "Assisted Outpatient Treatment",
+          "summary": "Court may order assisted outpatient treatment as an alternative to inpatient hospitalization."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 691",
+      "title": "Tort Liability and Civil Actions",
+      "description": "Key tort reform statutes governing civil liability in Michigan.",
+      "citation": "MCL 691.1401 et seq.",
+      "sections": [
+        {
+          "section": "MCL 600.2912",
+          "title": "Medical Malpractice; Standard of Care",
+          "summary": "A medical malpractice plaintiff must establish the appropriate standard of care and that the defendant failed to meet it."
+        },
+        {
+          "section": "MCL 600.2912a",
+          "title": "Medical Malpractice; Notice of Intent",
+          "summary": "Before filing a medical malpractice claim, plaintiff must file a Notice of Intent (NOI) and wait 182 days."
+        },
+        {
+          "section": "MCL 600.2945",
+          "title": "Products Liability; Seller Liability",
+          "summary": "A product seller (not manufacturer) may be liable only if the seller is also a manufacturer, was negligent, made express warranty, or altered the product."
+        },
+        {
+          "section": "MCL 600.2946",
+          "title": "Products Liability; Defenses",
+          "summary": "Defenses available to product manufacturers and sellers, including state-of-the-art defense."
+        },
+        {
+          "section": "MCL 600.2957",
+          "title": "Pure Comparative Fault",
+          "summary": "Michigan uses a modified comparative fault rule: plaintiff may recover if less than 51% at fault; recovery reduced proportionally."
+        },
+        {
+          "section": "MCL 600.6304",
+          "title": "Allocation of Fault; Several Liability",
+          "summary": "In tort cases, damages are allocated among all tortfeasors based on their percentage of fault; joint liability applies in certain circumstances."
+        },
+        {
+          "section": "MCL 691.1402",
+          "title": "Governmental Immunity; Highway Exception",
+          "summary": "Governmental agencies are generally immune from tort liability; highway exception allows claims for failure to maintain roads in reasonable repair."
+        },
+        {
+          "section": "MCL 691.1405",
+          "title": "Governmental Immunity; Motor Vehicle Exception",
+          "summary": "A governmental agency is liable for bodily injury or property damage resulting from the negligent operation of a government-owned motor vehicle."
+        },
+        {
+          "section": "MCL 691.1407",
+          "title": "Individual Governmental Immunity",
+          "summary": "A government employee is not liable for an act that is the result of a discretionary-decisional, as opposed to ministerial-operational, governmental function, if they did not act in bad faith."
+        },
+        {
+          "section": "MCL 600.5805",
+          "title": "Statutes of Limitations; Personal Injury",
+          "summary": "Most personal injury claims must be filed within 3 years of the date of injury."
+        },
+        {
+          "section": "MCL 600.5838a",
+          "title": "Medical Malpractice; Statute of Limitations",
+          "summary": "Medical malpractice claims must be filed within 2 years of the act or omission giving rise to the claim."
+        },
+        {
+          "section": "MCL 600.5851",
+          "title": "Disability; Tolling of Limitations",
+          "summary": "Limitations periods are tolled for individuals who are a minor or insane at the time the claim arises."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 600 — Family Division and Juvenile Code",
+      "title": "Juvenile Code",
+      "description": "Governs proceedings in the Family Division of Circuit Court involving minors.",
+      "citation": "MCL 712A.1 et seq.",
+      "sections": [
+        {
+          "section": "MCL 712A.1",
+          "title": "Juvenile Code; Short Title",
+          "summary": "Establishes the short title 'Juvenile Code.'"
+        },
+        {
+          "section": "MCL 712A.2",
+          "title": "Juvenile Court; Jurisdiction",
+          "summary": "Family Division has exclusive original jurisdiction over proceedings involving minors: abuse/neglect (b jurisdiction), delinquency (a jurisdiction), and status offenses (d jurisdiction)."
+        },
+        {
+          "section": "MCL 712A.2b",
+          "title": "Criminal Jurisdiction Over Juveniles (Waiver)",
+          "summary": "Court may waive jurisdiction over a juvenile 14 or older charged with a serious felony and allow prosecution as an adult."
+        },
+        {
+          "section": "MCL 712A.18",
+          "title": "Dispositions; Juvenile Delinquency",
+          "summary": "Dispositional options following adjudication: probation, placement, community service, restitution, and commitment to MDHHS."
+        },
+        {
+          "section": "MCL 712A.19b",
+          "title": "Termination of Parental Rights; Grounds",
+          "summary": "Statutory grounds for terminating parental rights including abandonment, abuse, neglect, and felony conviction."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 168",
+      "title": "Election Law — Judicial Elections",
+      "citation": "MCL 168.1 et seq.",
+      "sections": [
+        {
+          "section": "MCL 168.413",
+          "title": "Nonpartisan Judicial Elections",
+          "summary": "Judges at all levels in Michigan are elected on a nonpartisan ballot."
+        },
+        {
+          "section": "MCL 168.421",
+          "title": "Judicial Campaign Conduct",
+          "summary": "Governs campaign conduct for judicial candidates in accordance with the Michigan Code of Judicial Conduct."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 257",
+      "title": "Michigan Vehicle Code — Traffic and Civil Infractions",
+      "description": "Governs traffic laws, civil infractions, and related proceedings in district court.",
+      "citation": "MCL 257.1 et seq.",
+      "sections": [
+        {
+          "section": "MCL 257.625",
+          "title": "Operating While Intoxicated (OWI)",
+          "summary": "Operating a motor vehicle while intoxicated (BAC 0.08 or more, or under the influence of controlled substance). First offense: misdemeanor up to 93 days. Second offense: 1 year. Third offense: felony 1-5 years."
+        },
+        {
+          "section": "MCL 257.625a",
+          "title": "Implied Consent",
+          "summary": "A person who operates a vehicle on Michigan roads impliedly consents to chemical testing for alcohol or controlled substances."
+        },
+        {
+          "section": "MCL 257.904",
+          "title": "Civil Infraction; Defined",
+          "summary": "A civil infraction is a violation of law that is not a crime; no imprisonment may be imposed; civil fines apply."
+        }
+      ]
+    },
+    {
+      "chapter": "MCL Chapter 450",
+      "title": "Business Organizations",
+      "description": "Governs formation and operation of business entities in Michigan.",
+      "citation": "MCL 450.1101 et seq.",
+      "sections": [
+        {
+          "section": "MCL 450.1101",
+          "title": "Business Corporation Act; Short Title",
+          "summary": "Establishes the short title 'Business Corporation Act' (BCA) governing Michigan for-profit corporations."
+        },
+        {
+          "section": "MCL 450.4101",
+          "title": "Limited Liability Company Act; Short Title",
+          "summary": "Establishes the short title 'Michigan Limited Liability Company Act.'"
+        },
+        {
+          "section": "MCL 449.1",
+          "title": "Uniform Partnership Act",
+          "summary": "Governs general partnerships in Michigan; rights and liabilities of partners."
+        }
+      ]
+    }
+  ]
+}
