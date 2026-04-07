@@ -1307,7 +1307,7 @@
       "total_count": 4,
       "severity_distribution": { "critical": 3, "high": 1, "medium": 0, "low": 0 },
       "sample_violations": [
-        "MCR 750.539d: Recordings from eavesdropping device distributed to third parties or submitted in court proceedings"
+        "MCL 750.539d: Recordings from eavesdropping device distributed to third parties or submitted in court proceedings"
       ],
       "unverified": true
     },
