@@ -229,6 +229,26 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Michigan Drug Forfeiture — MCL 333.7521–333.7524](#michigan-drug-forfeiture--mcl-3337521-3337524)
     - [Challenging Forfeiture — Federal & Michigan Procedures](#challenging-forfeiture--federal--michigan-procedures)
 
+**Litigation-Critical Supplement — [catalogue-supplement-43-60.md](catalogue-supplement-43-60.md):**
+43. [Pro Se Litigant Rights & Procedural Toolkit](catalogue-supplement-43-60.md#43-pro-se-litigant-rights--procedural-toolkit)
+44. [Parenting Time Deprivation — Extended Severance as Constitutional Violation](catalogue-supplement-43-60.md#44-parenting-time-deprivation--extended-severance-as-constitutional-violation)
+45. [Contempt — Incarceration Defenses (Expanded)](catalogue-supplement-43-60.md#45-contempt--incarceration-defenses-expanded)
+46. [MCR 7.212 Compliance Checklist](catalogue-supplement-43-60.md#46-mcr-7212-compliance-checklist--atomized-coa-brief-requirements)
+47. [COA Motions Practice During Pending Appeal](catalogue-supplement-43-60.md#47-coa-motions-practice-during-pending-appeal)
+48. [Michigan Civil Conspiracy](catalogue-supplement-43-60.md#48-michigan-civil-conspiracy)
+49. [Judicial Immunity & Exceptions for § 1983](catalogue-supplement-43-60.md#49-judicial-immunity--exceptions-for--1983)
+50. [Vexatious Litigant & Filing Bond Challenges](catalogue-supplement-43-60.md#50-vexatious-litigant--filing-bond-challenges)
+51. [Emergency Motions — Comprehensive Procedure](catalogue-supplement-43-60.md#51-emergency-motions--comprehensive-procedure)
+52. [42 USC § 1983 Pre-Filing & Michigan-Specific Practice](catalogue-supplement-43-60.md#52-42-usc--1983-pre-filing--michigan-specific-practice)
+53. [Prosecutorial & Government Employee Conflicts](catalogue-supplement-43-60.md#53-prosecutorial--government-employee-conflicts)
+54. [MCR 8.119 — Court Records & Minor Identity Confidentiality](catalogue-supplement-43-60.md#54-mcr-8119--court-records--minor-identity-confidentiality)
+55. [Wiretapping & Eavesdropping — Michigan & Federal](catalogue-supplement-43-60.md#55-wiretapping--eavesdropping--michigan--federal)
+56. [Landlord-Tenant — Expanded Defenses](catalogue-supplement-43-60.md#56-landlord-tenant--expanded-defenses)
+57. [Mandamus & Superintending Control](catalogue-supplement-43-60.md#57-mandamus--superintending-control--michigan-practice)
+58. [JTC Complaint Practice — Step-by-Step](catalogue-supplement-43-60.md#58-jtc-complaint-practice--step-by-step)
+59. [Disqualification Post-Denial Strategy](catalogue-supplement-43-60.md#59-disqualification-post-denial-strategy)
+60. [Damages Calculation — Family Law & § 1983](catalogue-supplement-43-60.md#60-damages-calculation--family-law---1983)
+
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
 - [`mre.md`](mre.md) / [`mre.json`](mre.json) — Complete Michigan Rules of Evidence (MRE), all articles I–XI
@@ -5880,3 +5900,7 @@ Owner who did not know and could not have reasonably known of the illegal use is
 *Sources updated: Michigan Constitution of 1963 (art I, art III, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 37, 125, 330, 333, 408, 418, 450, 552, 554, 600, 691, 700, 710, 712A, 722, 750 (including 750.159b–750.159x), 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments IV, V, VI, VIII, XI, XIV; RICO (18 USC 1961–1968); 18 USC 981–983, 1341, 1343, 1344, 1951, 1956, 1957, 1963, 2252; 21 USC 841, 846, 853, 881; 28 USC 1254, 1257, 1291, 1292, 1331, 1332, 1367, 1441–1453, 2101, 2465; 42 USC 1981, 1983, 1985, 1986, 2000d; 20 USC 1681; 29 USC 794; 42 USC 12101–12189; CAFRA (Pub. L. 106-185); SORNA (34 USC 20901); FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); ICWA (25 USC 1901); VAWA (34 USC 12291); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Supreme Court Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; United States Sentencing Guidelines (USSG); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
 
 *Last substantively revised: April 2026.*
+
+---
+
+**Continued in:** [catalogue-supplement-43-60.md](catalogue-supplement-43-60.md) — §§43–60 (Litigation-Critical Supplement)
