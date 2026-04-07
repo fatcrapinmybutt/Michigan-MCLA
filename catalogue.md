@@ -229,7 +229,7 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Michigan Drug Forfeiture — MCL 333.7521–333.7524](#michigan-drug-forfeiture--mcl-3337521-3337524)
     - [Challenging Forfeiture — Federal & Michigan Procedures](#challenging-forfeiture--federal--michigan-procedures)
 43. [Supplementary Detail — Family Law, Business Court & Practice Tools](#43-supplementary-detail--family-law-business-court--practice-tools)
-    - [Administrative Jurisdictions Detail (MDHHS / MOAHR / APA)](#administrative-jurisdictions-detail)
+    - [Administrative Jurisdictions Detail (MDHHS / MOAHR / APA)](#administrative-jurisdictions-mdhhs--moahr--apa)
     - [Corporate/Business Law Coverage](#corporatebusiness-law-coverage)
     - [Parenting Time Factors (MCL 722.27a(7))](#parenting-time-factors-mcl-72227a7)
     - [Change of Domicile / 100-Mile Rule (MCL 722.31)](#change-of-domicile--100-mile-rule-mcl-72231)
@@ -6019,7 +6019,7 @@ Michigan circuit courts operate a **Business Court** program for complex busines
 | **BCA** | Michigan Business Corporation Act | MCL 450.1101 *et seq.* | Governs formation, governance, and dissolution of Michigan business corporations |
 | **UCC** | Uniform Commercial Code (Michigan enactment) | MCL 440.1101 *et seq.* | Governs commercial transactions (sales, secured transactions, negotiable instruments) in Michigan |
 | **LLC Act** | Michigan Limited Liability Company Act | MCL 450.4101 *et seq.* | Governs formation, governance, and dissolution of Michigan LLCs |
-| **MUPA** | Michigan Uniform Partnership Act | MCL 449.1 *et seq.* | See UNVERIFIED items in § 16 for confirmation status |
+| **MUPA** | Michigan Uniform Partnership Act | MCL 449.1 *et seq.* | See UNVERIFIED items in § 16 (Evidence Standards & Labeling Policy) for confirmation status |
 
 > *BCA Authority:* MCL 450.1101 *et seq.*, Michigan Business Corporation Act  
 > *UCC Authority:* MCL 440.1101 *et seq.*, Michigan enactment of the Uniform Commercial Code  
@@ -6033,7 +6033,7 @@ Michigan circuit courts operate a **Business Court** program for complex busines
 Business disputes in Michigan are generally filed in **circuit court** (the court of general jurisdiction) or, where applicable, the **federal district courts** for federal claims or diversity jurisdiction. The Business Court program within specific circuit courts provides a specialized docket for qualifying matters.
 
 > *Venue Authority:* MCL 600.1601 et seq. (general venue provisions)  
-> **[UNVERIFIED: Confirm which circuit courts currently maintain active Business Court dockets via SCAO at courts.michigan.gov/business-court-search/]**
+> **[UNVERIFIED: Confirm which circuit courts currently maintain active Business Court dockets via SCAO at <https://www.courts.michigan.gov/business-court-search/>]**
 
 ---
 
@@ -6502,6 +6502,8 @@ Personal Protection Orders (PPOs) are sometimes **strategically weaponized** in 
 ---
 
 <!-- === Citation Format Quick Reference === -->
+
+### Citation Format Quick Reference
 
 **Bluebook citation format — quick reference for Michigan sources:**
 
