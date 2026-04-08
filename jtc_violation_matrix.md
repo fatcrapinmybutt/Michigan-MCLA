@@ -84,7 +84,7 @@
 
 ## Part 2: Undated Violations by Canon Category
 
-> The following 96 canon/rule categories were identified in the extraction. Each category lists the total violation count (across all dated and undated instances) and sample violation descriptions. Counts across categories may overlap where a single violation is tagged under multiple canons. [UNVERIFIED — AI-assisted extraction; not independently verified.]
+> The following 75 canon/rule categories were identified in the extraction. Each category lists the total violation count (across all dated and undated instances) and sample violation descriptions. Counts across categories may overlap where a single violation is tagged under multiple canons. [UNVERIFIED — AI-assisted extraction; not independently verified.]
 
 ---
 
