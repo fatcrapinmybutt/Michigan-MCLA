@@ -769,7 +769,7 @@ Sample violations:
 
 ## Part 3: MRE 613(b) Prior Inconsistent Statement Index
 
-> MRE 613(b) allows extrinsic evidence of a prior inconsistent statement when the witness has been given an opportunity to explain or deny the statement. The following 102 entries were identified in the extraction, grouped by factual context. [UNVERIFIED — AI-assisted extraction; all entries require transcript page citation before use in any filing.]
+> MRE 613(b) allows extrinsic evidence of a prior inconsistent statement when the witness has been given an opportunity to explain or deny the statement. The following 112 entries were identified in the extraction, grouped by factual context. [UNVERIFIED — AI-assisted extraction; all entries require transcript page citation before use in any filing.]
 
 | # | Context Group | Count | Sample Inconsistency Description |
 |---|--------------|-------|----------------------------------|
