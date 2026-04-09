@@ -950,4 +950,4 @@ Sample violations:
 
 ---
 
-*This working index contains 1,127 total extracted violations (Critical: 377 / High: 243 / Medium: 484 / Low: 23), 96 canon/rule categories, 112 MRE 613(b) entries, 40 tool artifacts, and acquisition requirements for all UNANCHORED categories. It is not a filing-ready document. All entries marked [UNVERIFIED] require independent verification against official court records.*
+*This working index contains 1,127 total extracted violations (Critical: 377 / High: 243 / Medium: 484 / Low: 23), 75 canon/rule categories, 112 MRE 613(b) entries, 40 tool artifacts, and acquisition requirements for all UNANCHORED categories. It is not a filing-ready document. All entries marked [UNVERIFIED] require independent verification against official court records.*
