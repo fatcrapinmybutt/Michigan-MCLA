@@ -54,7 +54,7 @@
 
 > Record Anchor Status Key:
 > - `RECORD_ANCHORED` — Specific court record, docket entry, or filed document identified
-> - `UNANCHORED` — Violation not yet tied to a specific, citeable record
+> - `UNANCHORED` — Violation not yet tied to a specific, citable record
 > - `TOOL_ARTIFACT` — Entry is a tool command or system note, not a violation
 > - `STRATEGY_NOTE` — Strategic planning note, not a judicial act
 > - `DUPLICATE` — Entry appears in multiple categories
