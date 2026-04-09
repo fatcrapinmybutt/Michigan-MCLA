@@ -544,14 +544,6 @@
       "unverified": true
     },
     {
-      "canon_id": "MCL_600_2950",
-      "canon_name": "MCL 600.2950 / MCL 600.2950a — PPO Statute",
-      "total_count": 126,
-      "severity_distribution": { "critical": 90, "high": 30, "medium": 6, "low": 0 },
-      "note": "See top_canons — included here for completeness",
-      "unverified": true
-    },
-    {
       "canon_id": "MCL_600_2918",
       "canon_name": "MCL 600.2918 — Property Interference",
       "total_count": 12,
