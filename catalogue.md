@@ -1915,7 +1915,7 @@ This section expands §7's disqualification framework with **strategic patterns*
 
 | Indicator | What to Document | Supporting Authority |
 |---|---|---|
-| **Disparate rulings** | Judge consistently rules against one party on routine motions while granting the other party's | MCR 2.003(C)(1) — personal bias |
+| **Disparate rulings** | Judge consistently rules against one party on routine motions while granting the other party's routine motions | MCR 2.003(C)(1) — personal bias |
 | **Ex parte contacts** | Judge communicates with FOC, prosecutor, or opposing counsel outside presence of party | MCJC Canon 3A(6); *In re Hocking*, 451 Mich 1 (1996) |
 | **Hostile demeanor** | Interrupting, sarcasm, raised voice, eye-rolling, or refusal to let party finish | *Cain v Dep't of Corrections*, 451 Mich 470 (1996) — hostility can show bias |
 | **Prejudgment of facts** | Judge states conclusions before evidence is presented | MCJC Canon 3A(4) — patient, dignified treatment |
