@@ -136,6 +136,13 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Strategic Sequencing](#strategic-sequencing)
     - [Immunity Barriers & Workarounds](#immunity-barriers--workarounds)
     - [§ 1983 in Family Law Context](#-1983-in-family-law-context)
+34. [Family Court Fraud, Perjury & Structural Bias — Appellate Relief](#34-family-court-fraud-perjury--structural-bias--appellate-relief)
+    - [Fraud/Perjury to Manufacture Bias](#fraudperjury-to-manufacture-bias)
+    - [Court-Employee Conflicts & Recusal](#court-employee-conflicts--recusal)
+    - [Judge Refusal, Overreach & Canon/JTC Escalation](#judge-refusal-overreach--canonjtc-escalation)
+    - [Appellate & Extraordinary Relief From Family-Court Orders](#appellate--extraordinary-relief-from-family-court-orders)
+    - [Structural Court-Capture Indicators](#structural-court-capture-indicators)
+    - [Fathers’ Rights Preservation Hooks](#fathers-rights-preservation-hooks)
 
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
@@ -2438,6 +2445,86 @@ Phase 4: Federal Remedies (if state remedies fail)
 - *Parratt/Hudson doctrine* — random, unauthorized deprivations of property may not state a due process claim if adequate state remedies exist (*Parratt v Taylor*, 451 US 527 (1981))
 
 > *Authority:* 42 USC §1983; *Monell v Dep't of Soc Servs*, 436 US 658 (1978); *Rooker v Fid Trust Co*, 263 US 413 (1923); *Younger v Harris*, 401 US 37 (1971); *Mireles v Waco*, 502 US 9 (1991); *Imbler v Pachtman*, 424 US 409 (1976)
+
+---
+
+## 34. Family Court Fraud, Perjury & Structural Bias — Appellate Relief
+
+This section consolidates **family-court-specific fraud and bias scenarios** — including perjury used to manufacture bias, conflicts when a party works for the court, judicial refusal/overreach, and appellate/extraordinary pathways to higher courts when adverse orders issue.
+
+---
+
+### Fraud/Perjury to Manufacture Bias
+
+| Tool | Purpose | Authority |
+|---|---|---|
+| **MCR 1.109(E)(5)–(6) sanctions** | Seek sanctions for pleadings or affidavits signed without factual basis (replaces former MCR 2.114) | MCR 1.109(E)(5)–(6) |
+| **Relief from judgment — fraud on the court** | Vacate custody/support/PPO orders obtained via perjured affidavits or concealed facts | MCR 2.612(C)(1)(c) (no time limit for fraud on the court) |
+| **Evidentiary hearing on falsity** | Request live testimony and cross-examination to prove falsity and prejudice | MCR 2.119(E); due process |
+| **Criminal referral for perjury** | Refer materially false sworn statements to prosecutor | MCL 750.422–425; MCL 767.39 (aiding/abetting) |
+| **Parallel disqualification motion** | Argue fraud tainted the judge’s impartiality; move under bias grounds | MCR 2.003(C)(1), (C)(6); MCJC Canon 2, 3 |
+
+**Practice:** Pinpoint specific false statements, attach exhibits (records, transcripts, digital messages), and frame as fraud **upon the court** to avoid the one-year limit that applies to ordinary mistake/neglect grounds.
+
+---
+
+### Court-Employee Conflicts & Recusal
+
+When the opposing party is a court employee (clerk, FOC staffer, probation officer) or closely tied to chamber staff, push for **on-record disclosures** and disqualification.
+
+| Scenario | Disqualification Hook | Authority |
+|---|---|---|
+| Judge supervises/works with party or key witness | Appearance of partiality — impartiality reasonably questioned | MCR 2.003(C)(6); MCJC Canon 2A, 2B |
+| Judge’s staff member is a party/witness | Personal bias/conflict through staff relationship | MCR 2.003(C)(1), (C)(2); MCJC Canon 3C |
+| Court employee litigant receives preferential clerk/FOC treatment | Structural bias; unequal docketing or ex parte access | MCJC Canon 3A(6); MCR 2.003(C)(1) |
+
+**Remedies:** Demand written disclosures, file verified motion to disqualify; if denied, seek chief-judge review within 21 days (MCR 2.003(D)(3)(a)), and consider JTC complaint documenting the undisclosed conflict.
+
+---
+
+### Judge Refusal, Overreach & Canon/JTC Escalation
+
+- **Refusal to hear motions/evidence:** Object on the record; cite MCJC Canon 3A(4) (patient, dignified, full opportunity to be heard) and due process; request a specific hearing date.
+- **Standing orders that pre-judge issues:** Move to strike as violating individual consideration; tie to MCR 2.003(C)(1)/(6).
+- **Refusal to recuse despite clear conflict:** Preserve with renewed objection, then escalate to chief judge (MCR 2.003(D)(3)); contemporaneously prepare JTC complaint citing Canon 1 (integrity), Canon 2 (appearance of impropriety), and Canon 3C (disqualification duties).
+- **Record preservation:** If judge blocks creation of record, request court-reporter or digital recording under MCR 8.108 and MCR 8.119 and note the refusal for appellate review.
+
+---
+
+### Appellate & Extraordinary Relief From Family-Court Orders
+
+| Vehicle | Typical Family-Court Use | Deadline/Notes | Authority |
+|---|---|---|---|
+| **Appeal of right (COA)** | Final custody/support orders; PPO final orders | 21 days from entry | MCR 7.203(A); MCR 7.202(6)(a)(iii) |
+| **Application for leave (interlocutory)** | Interim custody, discovery, or contempt orders showing irreparable harm | 21 days; show need for immediate review | MCR 7.205(A), (E) |
+| **Emergency application** | Imminent loss of parenting time/incarceration | Use MCR 7.205(F); attach transcripts/orders | MCR 7.205(F)(1) |
+| **Stay pending appeal** | Pause enforcement of custody/support/PPO orders | Motion in trial court first, then COA | MCR 7.209(A)–(E) |
+| **Superintending control** | Judge acts outside jurisdiction or refuses to act (e.g., will not schedule motion) | Only if no adequate legal remedy | MCR 3.302; Mich Const art VI, §13 |
+
+**Tip:** Pair appellate filings with targeted record excerpts showing bias/perjury (e.g., inconsistent sworn statements, refusal to hold evidentiary hearing) to justify expedited relief.
+
+---
+
+### Structural Court-Capture Indicators
+
+Indicators that a "judge cartel" or systemic capture may be operating (use with care; verify before alleging):
+
+- Same small set of judges/hearing officers rotate all related cases without random draw [UNVERIFIED]
+- Repeated ex parte communications between FOC/court staff and bench regarding one litigant
+- Statistically anomalous outcomes for similarly situated fathers or non-employee litigants
+- Retaliation after filing complaints or disqualification motions (adverse scheduling, sanctions)
+- Use FOIA/public-docket pulls to document patterns; aggregate to support disqualification, superintending control, or federal §1983 pattern-or-practice claims.
+
+> *Note:* Treat any systemic-bias allegation as fact-intensive; corroborate with certified dockets and transcripts before filing.
+
+---
+
+### Fathers’ Rights Preservation Hooks
+
+- **Constitutional floor:** *Stanley v Illinois*, 405 US 645 (1972); *Troxel v Granville*, 530 US 57 (2000) — parental rights are fundamental; use to heighten scrutiny of biased orders.
+- **Statutory anchors:** MCL 722.23(j) (willingness to foster relationship) and MCL 722.27a(1) (strong presumption of parenting time) — emphasize when fraud/bias curtailed parenting time.
+- **Record-building:** Make gender/equal-protection objections contemporaneously; request findings on each best-interest factor to expose bias or reliance on perjured allegations.
+- **Escalation:** If trial court ignores these hooks, cite the omissions in COA appeal and request remand to a different judge (MCR 7.216(A)(7)).
 
 ---
 

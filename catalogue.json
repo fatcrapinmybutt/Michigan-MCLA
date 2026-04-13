@@ -329,6 +329,12 @@
       "name": "Remedies & Strategic Vehicles",
       "section": 33,
       "description": "Master remedies table consolidating all available vehicles \u2014 PPO termination, relief from judgment, disqualification, contempt relief, appeal, superintending control, habeas corpus, JTC/AGC complaints, 42 USC \u00a71983 \u2014 with strategic sequencing, immunity analysis, and \u00a71983 in family law context."
+    },
+    {
+      "id": "family_court_fraud_bias_appellate_relief",
+      "name": "Family Court Fraud, Perjury & Structural Bias \u2014 Appellate Relief",
+      "section": 34,
+      "description": "Consolidated strategy for family-court fraud/perjury, court-employee conflicts, judicial refusal/overreach, appellate and extraordinary relief (appeal/stay/superintending control), structural court-capture indicators, and fathers' rights preservation."
     }
   ],
   "related_files": [
