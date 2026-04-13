@@ -1,0 +1,1589 @@
+{
+  "metadata": {
+    "title": "JTC Violation Matrix — Pigors v Watson",
+    "disclaimer": "Working index only — NOT a filing-ready document. Violation counts, classifications, and record-anchor determinations require independent attorney review and verification against official court records before use in any filing.",
+    "case_info": {
+      "case_name": "Pigors v Watson",
+      "ppo_case_number": "2023-5907-PP",
+      "custody_case_number": "2024-001507-DC",
+      "court": "14th Circuit Court, Muskegon County, Michigan",
+      "presiding_judge": "Hon. Jenny McNeill",
+      "plaintiff": "Andrew J. Pigors (Pro Se)",
+      "defendant": "Emily Watson",
+      "child": "L.D.W. (Lincoln; born approx. 2021)",
+      "coa_docket": "366810"
+    },
+    "extraction_date": "2026-02-28",
+    "matrix_compiled": "2026-04-07",
+    "counts": {
+      "total_violations": 1127,
+      "critical": 377,
+      "high": 243,
+      "medium": 484,
+      "low": 23,
+      "canon_categories": 95,
+      "mre_613b_entries": 112,
+      "tool_artifacts": 40
+    },
+    "top_canons": [
+      { "rank": 1, "canon": "MCR 2.003", "description": "Judicial Disqualification", "count": 167, "primary_severity": "critical" },
+      { "rank": 2, "canon": "PROCEDURAL_MISCONDUCT", "description": "Procedural Misconduct Pattern", "count": 161, "primary_severity": "mixed" },
+      { "rank": 3, "canon": "EX_PARTE_VIOLATION", "description": "Ex Parte Violation Pattern", "count": 150, "primary_severity": "critical" },
+      { "rank": 4, "canon": "MCL 600.2950", "description": "PPO Statute / MCL 600.2950a", "count": 126, "primary_severity": "critical" },
+      { "rank": 5, "canon": "MCR 2.107/2.612", "description": "Service of Process / Post-Judgment Relief", "count": 105, "primary_severity": "high" },
+      { "rank": 6, "canon": "CREDIBILITY_FAILURE", "description": "Credibility Failure Pattern", "count": 51, "primary_severity": "critical" },
+      { "rank": 7, "canon": "PPO_WEAPONIZATION", "description": "PPO Weaponization Pattern", "count": 27, "primary_severity": "high" }
+    ]
+  },
+  "violations": [
+    {
+      "id": "V-001",
+      "date": "2023-10-15",
+      "date_precision": "exact",
+      "event": "False assault allegation made by Emily Watson against Andrew Pigors",
+      "canon_rule": "CREDIBILITY_FAILURE",
+      "severity": "critical",
+      "source_file": "PIGGYPIGGY.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Allegation characterized as false; no police report or criminal charge resulted",
+      "category": "CREDIBILITY_FAILURE",
+      "unverified": true
+    },
+    {
+      "id": "V-002",
+      "date": "2023-10",
+      "date_precision": "month",
+      "event": "Emily Watson files false police report OCA 2023-08121",
+      "canon_rule": "CREDIBILITY_FAILURE",
+      "severity": "critical",
+      "source_file": "PIGGYPIGGY.md",
+      "record_anchor_status": "RECORD_ANCHORED",
+      "evidence_description": "Police report OCA 2023-08121 on file; characterized as false; no arrest or charges followed",
+      "category": "CREDIBILITY_FAILURE / FALSE_POLICE_REPORT",
+      "unverified": true
+    },
+    {
+      "id": "V-003",
+      "date": "2023-11-11",
+      "date_precision": "exact",
+      "event": "Emily Watson serves 30-day eviction notice on Andrew Pigors",
+      "canon_rule": "MCL 600.2950 / MCL 600.2950a",
+      "severity": "critical",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "RECORD_ANCHORED",
+      "evidence_description": "Eviction notice document; timing concurrent with PPO filing pattern",
+      "category": "PPO_WEAPONIZATION / MCL 600.2950",
+      "unverified": true
+    },
+    {
+      "id": "V-004",
+      "date": "2023-11-12",
+      "date_precision": "exact",
+      "event": "Ex parte custody order issued with MCR 3.207(B)(1) affidavit deficiencies — no verified affidavit of immediate harm; no required findings of fact",
+      "canon_rule": "MCR 3.207(B) / MCR 2.003",
+      "severity": "critical",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "RECORD_ANCHORED",
+      "evidence_description": "Ex parte order on docket; MCR 3.207(B)(1) requires verified affidavit showing immediate harm — absent from record",
+      "category": "EX_PARTE_VIOLATION / MCR 3.207(B) / MCR 2.003",
+      "unverified": true
+    },
+    {
+      "id": "V-005",
+      "date": "2023-11-14",
+      "date_precision": "range_start",
+      "date_end": "2023-11-16",
+      "event": "Lori (Emily's mother) and Emily Watson allegedly stage mason jar, webcam, and baby monitor photographs for use as PPO evidence",
+      "canon_rule": "MCL 600.2950 / MCL 600.2950a",
+      "severity": "critical",
+      "source_file": "PIGGYPIGGY.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Photographs referenced in PPO proceedings; staging allegation unconfirmed against photographic metadata or witness affidavit",
+      "category": "STAGED_EVIDENCE / MCL 600.2950 / CREDIBILITY_FAILURE",
+      "unverified": true
+    },
+    {
+      "id": "V-006",
+      "date": "2024-04-11",
+      "date_precision": "exact",
+      "event": "Notice to appear, ex parte order, and PPO filed",
+      "canon_rule": "MCR 3.206(A) / EX_PARTE_VIOLATION",
+      "severity": "critical",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "RECORD_ANCHORED",
+      "evidence_description": "Docket entries for notice, order, and PPO filing on 2024-04-11",
+      "category": "EX_PARTE_VIOLATION / MCR 3.206(A) / PPO_WEAPONIZATION",
+      "unverified": true
+    },
+    {
+      "id": "V-007",
+      "date": "2024-05-09",
+      "date_precision": "exact",
+      "event": "Emily Watson refuses daycare cooperation, denying Andrew Pigors participation in child's care arrangements",
+      "canon_rule": "PROCEDURAL_MISCONDUCT",
+      "severity": "critical",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Daycare cooperation refusal; no court order compelling daycare exchange protocol at this date",
+      "category": "PROCEDURAL_MISCONDUCT / DAYCARE_INTERFERENCE",
+      "unverified": true
+    },
+    {
+      "id": "V-008",
+      "date": "2024-10-20",
+      "date_precision": "exact",
+      "event": "Emily Watson's family members interfere with parenting time exchanges",
+      "canon_rule": "PROCEDURAL_MISCONDUCT",
+      "severity": "critical",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Exchange interference documented; specific family members identified as Cody (Emily's brother) and Lori (Emily's mother)",
+      "category": "PROCEDURAL_MISCONDUCT / EXCHANGE_INTERFERENCE",
+      "unverified": true
+    },
+    {
+      "id": "V-009",
+      "date": "2024-10-20",
+      "date_precision": "range_start",
+      "date_end": "2024-11-15",
+      "event": "Repeated denial of holiday parenting time over a 26-day period",
+      "canon_rule": "PROCEDURAL_MISCONDUCT",
+      "severity": "high",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Pattern of holiday denial; specific holidays and orders denying make-up time not yet record-anchored",
+      "category": "PROCEDURAL_MISCONDUCT / HOLIDAY_INTERFERENCE / MCL 722.27a(7)",
+      "unverified": true
+    },
+    {
+      "id": "V-010",
+      "date": "2024-10-30",
+      "date_precision": "exact",
+      "event": "Transcript excerpts reference MCL 600.2918, 42 USC § 1983, and Fair Housing Act violations",
+      "canon_rule": "MCL 600.2918 / 42 USC § 1983 / FHA",
+      "severity": "critical",
+      "source_file": "JTC_MSC_BINDER_EXTRACTED.md",
+      "record_anchor_status": "RECORD_ANCHORED",
+      "evidence_description": "Transcript on file from 2024-10-30 hearing; specific page citations needed for record-ready use",
+      "category": "MCL 600.2918 / 42_USC_1983 / FHA_VIOLATION",
+      "unverified": true
+    },
+    {
+      "id": "V-011",
+      "date": "2024-11-09",
+      "date_precision": "exact",
+      "event": "Lincoln's birthday denied — Andrew Pigors excluded from child's birthday",
+      "canon_rule": "PPO_WEAPONIZATION",
+      "severity": "medium",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Birthday denial; PPO used as mechanism to exclude father from milestone event",
+      "category": "PPO_WEAPONIZATION / HOLIDAY_INTERFERENCE / MCL 722.27a(7)",
+      "unverified": true
+    },
+    {
+      "id": "V-012",
+      "date": "2024-12-06",
+      "date_precision": "exact",
+      "event": "Emily Watson refuses court-ordered make-up parenting time",
+      "canon_rule": "PROCEDURAL_MISCONDUCT",
+      "severity": "high",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Make-up time refusal; specific order granting make-up time must be identified and cited",
+      "category": "PROCEDURAL_MISCONDUCT / MAKE_UP_TIME_DENIAL",
+      "unverified": true
+    },
+    {
+      "id": "V-013",
+      "date": "2024-12-22",
+      "date_precision": "exact",
+      "event": "Parenting time interference at physical exchange location",
+      "canon_rule": "PROCEDURAL_MISCONDUCT",
+      "severity": "high",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Exchange interference event; exchange photos or police call record needed",
+      "category": "PROCEDURAL_MISCONDUCT / EXCHANGE_INTERFERENCE",
+      "unverified": true
+    },
+    {
+      "id": "V-014",
+      "date": "2025-01-22",
+      "date_precision": "exact",
+      "event": "Emily Watson again refuses court-ordered make-up parenting time",
+      "canon_rule": "PROCEDURAL_MISCONDUCT",
+      "severity": "high",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Second documented make-up time refusal; needs motion-to-enforce docket entry",
+      "category": "PROCEDURAL_MISCONDUCT / MAKE_UP_TIME_DENIAL",
+      "unverified": true
+    },
+    {
+      "id": "V-015",
+      "date": "2025-03-26",
+      "date_precision": "approximate_start",
+      "event": "Chronological withholding pattern begins — systematic denial of parenting time without court order or finding",
+      "canon_rule": "EX_PARTE_VIOLATION",
+      "severity": "critical",
+      "source_file": "ENCYCLOPEDIA_MASTER.md",
+      "record_anchor_status": "UNANCHORED",
+      "evidence_description": "Pattern start date identified; individual denial events need transcript or filed-motion anchors",
+      "category": "EX_PARTE_VIOLATION / PROCEDURAL_MISCONDUCT / PARENTAL_ALIENATION",
+      "unverified": true
+    },
+    {
+      "id": "V-016",
+      "date": "2025-07-29",
+      "date_precision": "exact",
+      "event": "Exchange photographs taken; court continues parenting time suspension without hearing or findings",
+      "canon_rule": "MCR 2.003",
+      "severity": "critical",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "RECORD_ANCHORED",
+      "evidence_description": "Exchange photos on file; court order continuing suspension on docket; no MCR 2.517 findings of fact",
+      "category": "MCR 2.003 / MCR 2.517 / EXCHANGE_INTERFERENCE",
+      "unverified": true
+    },
+    {
+      "id": "V-017",
+      "date": "2025-08-08",
+      "date_precision": "exact",
+      "event": "Ex parte emergency order suspending ALL parenting time with SCAO checkbox contradiction, MCR 3.207(B)(1) affidavit defects, and late service under MCR 2.107",
+      "canon_rule": "MCR 2.003 / MCR 3.207(B) / MCR 2.107 / SCAO",
+      "severity": "critical",
+      "source_file": "JTC_COMPLAINT_COMPILED.md",
+      "record_anchor_status": "RECORD_ANCHORED",
+      "evidence_description": "Ex parte emergency order on docket; SCAO form checkbox checked in contradictory positions; proof-of-service date vs order date discrepancy; affidavit absent or legally insufficient",
+      "category": "MCR 2.003 / MCR 3.207(B) / MCR 2.107 / EX_PARTE_VIOLATION / SCAO_FORM_DEFECT",
+      "unverified": true
+    },
+    {
+      "id": "V-018",
+      "date": "2025-09",
+      "date_precision": "month",
+      "event": "Evidentiary hearing on parenting time suspension",
+      "canon_rule": "MCR 2.003",
+      "severity": "critical",
+      "source_file": "JTC_MSC_BINDER_EXTRACTED.md",
+      "record_anchor_status": "RECORD_ANCHORED",
+      "evidence_description": "Hearing on docket; approximate month known; transcript page citations needed",
+      "category": "MCR 2.003 / EX_PARTE_VIOLATION",
+      "unverified": true
+    }
+  ],
+  "undated_violations_by_canon": [
+    {
+      "canon_id": "MCR_2_003",
+      "canon_name": "MCR 2.003 — Judicial Disqualification",
+      "total_count": 167,
+      "severity_distribution": { "critical": 120, "high": 35, "medium": 12, "low": 0 },
+      "sample_violations": [
+        "Presiding judge fails to disqualify despite documented ex parte communications with opposing party",
+        "MCR 2.003(C)(1)(b): Judge's impartiality reasonably questioned",
+        "MCR 2.003(C)(1)(d): Personal bias or prejudice concerning a party",
+        "Disqualification motion denied without referral to chief judge per MCR 2.003(D)(1)",
+        "Continued presiding after disqualification grounds arose"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "PROCEDURAL_MISCONDUCT",
+      "canon_name": "PROCEDURAL_MISCONDUCT",
+      "total_count": 161,
+      "severity_distribution": { "critical": 40, "high": 80, "medium": 38, "low": 3 },
+      "sample_violations": [
+        "Parenting time denied without court order or emergency finding",
+        "Exchange interference — third parties obstruct transfer",
+        "Failure to provide make-up parenting time as ordered",
+        "Daycare cooperation refused",
+        "Holiday parenting time systematically denied",
+        "Show cause proceedings initiated without required notice",
+        "Remote hearing conducted without adequate platform access for pro se litigant"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "EX_PARTE_VIOLATION",
+      "canon_name": "EX_PARTE_VIOLATION",
+      "total_count": 150,
+      "severity_distribution": { "critical": 110, "high": 30, "medium": 10, "low": 0 },
+      "sample_violations": [
+        "Emergency order suspending parenting time issued without notice or hearing",
+        "Ex parte order 2023-11-12 — no verified affidavit of immediate harm",
+        "Ex parte order 2024-04-11 — no required findings",
+        "Ex parte order 2025-08-08 — SCAO checkbox contradiction; affidavit defects; late service",
+        "Multiple ex parte modifications of custody/parenting without hearing"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_600_2950",
+      "canon_name": "MCL 600.2950 / MCL 600.2950a — PPO Statute",
+      "total_count": 126,
+      "severity_distribution": { "critical": 90, "high": 30, "medium": 6, "low": 0 },
+      "sample_violations": [
+        "PPO issued without required showing of reasonable cause",
+        "PPO extended without hearing or renewed showing of necessity",
+        "PPO issued based on staged or misrepresented evidence",
+        "PPO used as tactical litigation tool to remove father from child's life",
+        "PPO violation alleged without evidentiary basis"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_107_2_612",
+      "canon_name": "MCR 2.107 / MCR 2.612 — Service / Post-Judgment Relief",
+      "total_count": 105,
+      "severity_distribution": { "critical": 20, "high": 60, "medium": 25, "low": 0 },
+      "sample_violations": [
+        "MCR 2.107(C): Service not completed within required timeframe",
+        "MCR 2.612(C)(1)(a): Judgment based on fraud or misrepresentation",
+        "Late service of PPO and extensions",
+        "Orders entered without notice to opposing party",
+        "MCR 2.612(C)(1)(b): Newly discovered evidence not available at time of order"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "CREDIBILITY_FAILURE",
+      "canon_name": "CREDIBILITY_FAILURE",
+      "total_count": 51,
+      "severity_distribution": { "critical": 35, "high": 14, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Emily Watson's account contradicted by police report outcome (no charges)",
+        "Staged photographs contradicted by metadata or physical evidence",
+        "Prior inconsistent statements across hearings",
+        "False police report OCA 2023-08121 — no arrest or prosecution resulted",
+        "Testimony contradicted by documentary evidence"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "PPO_WEAPONIZATION",
+      "canon_name": "PPO_WEAPONIZATION",
+      "total_count": 27,
+      "severity_distribution": { "critical": 5, "high": 18, "medium": 4, "low": 0 },
+      "sample_violations": [
+        "PPO filed concurrently with custody modification as tactical maneuver",
+        "PPO extensions sought without renewed showing of necessity",
+        "PPO used to exclude father from child's birthday",
+        "Show cause for alleged PPO violation based on innocent exchange-location contact"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_3_207B",
+      "canon_name": "MCR 3.207(B) — Emergency Ex Parte Domestic Orders",
+      "total_count": 18,
+      "severity_distribution": { "critical": 14, "high": 4, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCR 3.207(B)(1): Ex parte order issued without verified affidavit demonstrating immediate harm",
+        "MCR 3.207(B)(2): Order fails to schedule prompt hearing as required",
+        "Emergency order suspending parenting time without finding of immediate danger to child"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_3_206A",
+      "canon_name": "MCR 3.206(A) — Domestic Relations Pleadings",
+      "total_count": 9,
+      "severity_distribution": { "critical": 3, "high": 5, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "MCR 3.206(A)(1): Initial pleading does not comply with required format",
+        "Notice to appear fails to comply with MCR 3.206(A) notice requirements"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_3_703_3_705_3_706_3_708",
+      "canon_name": "MCR 3.703 / 3.705 / 3.706 / 3.708 — PPO Procedures",
+      "total_count": 26,
+      "severity_distribution": { "critical": 8, "high": 12, "medium": 6, "low": 0 },
+      "sample_violations": [
+        "PPO petition lacks required factual basis",
+        "PPO issued without required findings under MCR 3.705(A)",
+        "PPO extension without hearing or finding of continued necessity",
+        "Contempt proceedings for alleged PPO violation without required advisement of rights"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_119F",
+      "canon_name": "MCR 2.119(F) — Ex Parte Motion Procedures",
+      "total_count": 8,
+      "severity_distribution": { "critical": 3, "high": 4, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "MCR 2.119(F): Ex parte relief granted without showing irreparable harm",
+        "MCR 2.119(F)(3): No notice to opposing party prior to ex parte emergency motion"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_517",
+      "canon_name": "MCR 2.517 — Required Findings of Fact and Conclusions of Law",
+      "total_count": 15,
+      "severity_distribution": { "critical": 5, "high": 8, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Custody modification order issued without MCR 2.517(A)(1) written findings of fact",
+        "Parenting time suspension order lacks findings of fact or conclusions of law",
+        "Show cause order entered without factual findings supporting contempt"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_3_210",
+      "canon_name": "MCR 3.210 — Custody Hearing Procedures",
+      "total_count": 9,
+      "severity_distribution": { "critical": 3, "high": 4, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCR 3.210(A): Custody hearing held without proper notice",
+        "Evidentiary record closed before plaintiff could present responsive evidence",
+        "Hearing transcript shows plaintiff muted during testimony period"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_3_204_3_211_3_977",
+      "canon_name": "MCR 3.204 / 3.211 / 3.977 — Paternity / Divorce / TPR Procedures",
+      "total_count": 10,
+      "severity_distribution": { "critical": 2, "high": 4, "medium": 4, "low": 0 },
+      "sample_violations": [
+        "MCR 3.211(B): Divorce proceedings fail to resolve all custody issues before entry of judgment",
+        "MCR 3.977: TPR procedures invoked without meeting clear-and-convincing evidence standard"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_6_005",
+      "canon_name": "MCR 6.005 — Right to Counsel",
+      "total_count": 6,
+      "severity_distribution": { "critical": 4, "high": 2, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCR 6.005(D): Contempt proceedings that may result in incarceration conducted without counsel or valid waiver",
+        "Right to appointed counsel in criminal contempt not provided",
+        "Appointed attorney provided insufficient preparation time"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_302_2_313",
+      "canon_name": "MCR 2.302 / 2.313 — Discovery",
+      "total_count": 9,
+      "severity_distribution": { "critical": 0, "high": 4, "medium": 5, "low": 0 },
+      "sample_violations": [
+        "MCR 2.302(B): Defendant fails to produce responsive financial documents",
+        "MCR 2.313: No sanctions imposed for discovery failures by defendant",
+        "Selective enforcement of discovery obligations"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_116",
+      "canon_name": "MCR 2.116 — Summary Disposition",
+      "total_count": 4,
+      "severity_distribution": { "critical": 0, "high": 2, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCR 2.116(C)(10): Motion for summary disposition granted without genuine issue of material fact analysis"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_625",
+      "canon_name": "MCR 2.625 — Costs and Fees",
+      "total_count": 6,
+      "severity_distribution": { "critical": 0, "high": 4, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCR 2.625: Costs assessed against pro se plaintiff without frivolousness finding",
+        "Filing bond imposed without statutory authority or vexatious litigant finding"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_8_119H",
+      "canon_name": "MCR 8.119(H) — Minor Identity Confidentiality",
+      "total_count": 3,
+      "severity_distribution": { "critical": 0, "high": 1, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCR 8.119(H): Minor child's full name used in public filings without required redaction"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_7_212",
+      "canon_name": "MCR 7.212 — Appellate Brief Requirements",
+      "total_count": 5,
+      "severity_distribution": { "critical": 0, "high": 2, "medium": 3, "low": 0 },
+      "sample_violations": [
+        "MCR 7.212(C): Brief format noncompliance issues",
+        "MCR 7.212(G): Appendix requirements not met"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_3_302",
+      "canon_name": "MCR 3.302 — Mandamus / Superintending Control",
+      "total_count": 4,
+      "severity_distribution": { "critical": 1, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCR 3.302: Clear legal duty to restore parenting time ignored",
+        "Superintending control warranted by pattern of procedural violations"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_504_2_604_6_425_2_410",
+      "canon_name": "MCR 2.504 / 2.604 / 6.425 / 2.410 — Misc. Procedures",
+      "total_count": 10,
+      "severity_distribution": { "critical": 0, "high": 3, "medium": 5, "low": 2 },
+      "sample_violations": [
+        "MCR 2.604: Judgment entry fails to include required language",
+        "MCR 6.425: Sentencing/commitment procedures for contempt not followed"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_600_2918",
+      "canon_name": "MCL 600.2918 — Property Interference",
+      "total_count": 12,
+      "severity_distribution": { "critical": 6, "high": 5, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "MCL 600.2918(1): Wrongful interference with property rights during eviction period",
+        "Transcript excerpts reference MCL 600.2918 claims (2024-10-30 hearing)"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_722_27",
+      "canon_name": "MCL 722.27 — Custody Modification",
+      "total_count": 10,
+      "severity_distribution": { "critical": 2, "high": 6, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCL 722.27(1)(c): Custody modified without proper cause or change of circumstances finding",
+        "MCL 722.27(1)(f): Statutory best interest factors not evaluated in modification order"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_722_27a",
+      "canon_name": "MCL 722.27a — Parenting Time Orders",
+      "total_count": 14,
+      "severity_distribution": { "critical": 4, "high": 8, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCL 722.27a(1): Parenting time suspended without showing of harm to child",
+        "MCL 722.27a(3): Court fails to state reasons for restricting parenting time",
+        "MCL 722.27a(6): Parenting time order not enforced against violating parent"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_722_27a_7",
+      "canon_name": "MCL 722.27a(7) — Holiday / School Break Parenting Time",
+      "total_count": 11,
+      "severity_distribution": { "critical": 2, "high": 7, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCL 722.27a(7): Holiday parenting time denied without court order authorizing suspension",
+        "Child's birthday denied in violation of MCL 722.27a(7)",
+        "Thanksgiving, Christmas, and New Year parenting time denied"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_722_23",
+      "canon_name": "MCL 722.23 — Best Interest Factors",
+      "total_count": 8,
+      "severity_distribution": { "critical": 1, "high": 5, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCL 722.23(a)-(l): Best interest factors not addressed in custody order",
+        "Factor (j): Willingness to facilitate relationship with other parent ignored",
+        "Factor (l): Domestic violence findings made without evidentiary basis"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_722_25_24_26_26a",
+      "canon_name": "MCL 722.25 / 722.24 / 722.26 / 722.26a — Custody Presumptions",
+      "total_count": 16,
+      "severity_distribution": { "critical": 2, "high": 10, "medium": 4, "low": 0 },
+      "sample_violations": [
+        "MCL 722.25(1): Best interest presumption not applied to parenting time suspension",
+        "MCL 722.26a: Joint custody presumption not considered",
+        "MCL 722.24: Both parents not treated equitably in proceedings"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_722_31",
+      "canon_name": "MCL 722.31 — Change of Domicile",
+      "total_count": 3,
+      "severity_distribution": { "critical": 0, "high": 2, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "MCL 722.31: Effective change of child's residence achieved through parenting time suspension without change-of-domicile hearing"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_552_17a",
+      "canon_name": "MCL 552.17a — Custody During Divorce",
+      "total_count": 3,
+      "severity_distribution": { "critical": 0, "high": 2, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "MCL 552.17a: Temporary custody orders entered without required considerations"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_600_2591",
+      "canon_name": "MCL 600.2591 — Frivolous Claims",
+      "total_count": 6,
+      "severity_distribution": { "critical": 0, "high": 3, "medium": 3, "low": 0 },
+      "sample_violations": [
+        "MCL 600.2591: Frivolous-claim finding made without meeting statutory elements",
+        "MCL 600.2591 applied selectively against pro se plaintiff only"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_600_5720",
+      "canon_name": "MCL 600.5720 — Retaliatory Eviction",
+      "total_count": 4,
+      "severity_distribution": { "critical": 1, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCL 600.5720: Eviction notice served concurrently with PPO filing — retaliatory timing"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_750_539c_539d",
+      "canon_name": "MCL 750.539c / 750.539d — Eavesdropping",
+      "total_count": 9,
+      "severity_distribution": { "critical": 6, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCL 750.539c: Eavesdropping device (baby monitor/webcam) allegedly installed without consent",
+        "MCL 750.539d: Recordings from installed devices allegedly distributed or used in proceedings"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_400_15",
+      "canon_name": "MCL 400.15 — Public Assistance",
+      "total_count": 2,
+      "severity_distribution": { "critical": 0, "high": 0, "medium": 1, "low": 1 },
+      "sample_violations": [
+        "MCL 400.15: Undisclosed financial support from third parties may affect benefit eligibility"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "14TH_AMEND_DUE_PROCESS",
+      "canon_name": "Fourteenth Amendment — Due Process",
+      "total_count": 22,
+      "severity_distribution": { "critical": 12, "high": 8, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Substantive due process: fundamental parental liberty interest violated without compelling state interest",
+        "Procedural due process: meaningful opportunity to be heard denied at suspension hearing",
+        "Muting of party during hearing violates procedural due process",
+        "No pre-deprivation hearing before complete suspension of parenting time"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "14TH_AMEND_EQUAL_PROTECT",
+      "canon_name": "Fourteenth Amendment — Equal Protection",
+      "total_count": 9,
+      "severity_distribution": { "critical": 2, "high": 5, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Father subjected to different procedural standards than mother",
+        "Pro se litigant not given equal access to emergency procedures"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "1ST_AMEND",
+      "canon_name": "First Amendment",
+      "total_count": 5,
+      "severity_distribution": { "critical": 0, "high": 2, "medium": 3, "low": 0 },
+      "sample_violations": [
+        "Filing bond imposes chilling effect on petitioner's right to access courts"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "4TH_AMEND",
+      "canon_name": "Fourth Amendment — Unlawful Search",
+      "total_count": 6,
+      "severity_distribution": { "critical": 4, "high": 2, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Eavesdropping devices installed without consent or warrant",
+        "Recordings obtained through unlawful surveillance used in family court proceedings"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "6TH_AMEND",
+      "canon_name": "Sixth Amendment — Right to Counsel",
+      "total_count": 7,
+      "severity_distribution": { "critical": 5, "high": 2, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Criminal contempt proceedings conducted without counsel or valid waiver",
+        "Appointed counsel provided insufficient preparation time before contempt hearing"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "TROXEL_VIOLATION",
+      "canon_name": "Troxel v Granville, 530 US 57 (2000)",
+      "total_count": 11,
+      "severity_distribution": { "critical": 8, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Fundamental parental liberty interest overridden without heightened scrutiny",
+        "Court substitutes its judgment for fit parent's judgment without deference required by Troxel"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "SANTOSKY_VIOLATION",
+      "canon_name": "Santosky v Kramer, 455 US 745 (1982)",
+      "total_count": 8,
+      "severity_distribution": { "critical": 7, "high": 1, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "De facto termination of parental relationship (618+ days no contact) without clear-and-convincing evidence finding",
+        "Effectively permanent deprivation without Santosky standard applied"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "TURNER_VIOLATION",
+      "canon_name": "Turner v Rogers, 564 US 431 (2011)",
+      "total_count": 9,
+      "severity_distribution": { "critical": 7, "high": 2, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Civil contempt resulting in incarceration without inquiry into ability to pay",
+        "No adequate substitute procedural safeguard provided when right to counsel denied"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MATHEWS_BALANCING",
+      "canon_name": "Mathews v Eldridge, 424 US 319 (1976) — Due Process Balancing",
+      "total_count": 10,
+      "severity_distribution": { "critical": 3, "high": 6, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Risk of erroneous deprivation high; no additional procedural safeguards provided",
+        "Private interest extremely high (parent-child relationship); cost of procedures low; procedures denied"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "42_USC_1983",
+      "canon_name": "42 USC § 1983 — Civil Rights Act",
+      "total_count": 15,
+      "severity_distribution": { "critical": 8, "high": 6, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "State actor deprives plaintiff of constitutionally protected parental rights under color of law",
+        "Systemic constitutional violations actionable under § 1983"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "42_USC_1985_3",
+      "canon_name": "42 USC § 1985(3) — Conspiracy Against Civil Rights",
+      "total_count": 8,
+      "severity_distribution": { "critical": 5, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Conspiracy between Emily Watson, Lori, Cody, and potentially court staff to deprive plaintiff of parental rights",
+        "Concert of action across multiple proceedings to achieve unlawful result"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "42_USC_1986",
+      "canon_name": "42 USC § 1986 — Neglect to Prevent Conspiracy",
+      "total_count": 3,
+      "severity_distribution": { "critical": 1, "high": 2, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Court officer with knowledge of conspiracy fails to prevent it"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "18_USC_2511",
+      "canon_name": "18 USC § 2511 — Federal Wiretap Act",
+      "total_count": 5,
+      "severity_distribution": { "critical": 4, "high": 1, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Intercepting oral communications without consent violates 18 USC § 2511",
+        "Recordings obtained in violation of federal wiretap law used as evidence"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "FHA_VIOLATION",
+      "canon_name": "Fair Housing Act",
+      "total_count": 7,
+      "severity_distribution": { "critical": 2, "high": 4, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Housing eviction coordinated with PPO filing; FHA intersects with familial status discrimination",
+        "Transcript (2024-10-30) references FHA violation claims"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "VAWA",
+      "canon_name": "Violence Against Women Act (VAWA)",
+      "total_count": 4,
+      "severity_distribution": { "critical": 0, "high": 1, "medium": 3, "low": 0 },
+      "sample_violations": [
+        "VAWA protections misapplied or strategically invoked to support false DV claims"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MONELL",
+      "canon_name": "Monell v Dep't of Social Services, 436 US 658 (1978)",
+      "total_count": 4,
+      "severity_distribution": { "critical": 1, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Municipal entity (14th Circuit Court) policy or custom causes constitutional violation",
+        "Emily Watson's employment at Kent County Prosecutor's Office creates institutional nexus"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCJC_CANON_2",
+      "canon_name": "MCJC Canon 2 — Impropriety and Appearance of Impropriety",
+      "total_count": 18,
+      "severity_distribution": { "critical": 10, "high": 7, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Judge's conduct creates reasonable appearance of impropriety given defendant's employment at Kent County Prosecutor's Office",
+        "Failure to disclose professional or social relationship with parties or family members",
+        "Continuing to preside after bias-creating ex parte contact"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCJC_CANON_3A4",
+      "canon_name": "MCJC Canon 3(A)(4) — Ex Parte Communications",
+      "total_count": 22,
+      "severity_distribution": { "critical": 16, "high": 6, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Ex parte communications with Emily Watson or her representatives outside plaintiff's knowledge",
+        "USB recording device allegedly reviewed off-record by judge",
+        "Orders entered reflecting information not in the formal record"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCJC_CANON_3B",
+      "canon_name": "MCJC Canon 3(B) — Adjudicative Responsibilities",
+      "total_count": 12,
+      "severity_distribution": { "critical": 4, "high": 7, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Canon 3(B)(2): Judge fails to require orderly proceedings",
+        "Canon 3(B)(4): Judge permits ex parte communications to influence orders",
+        "Canon 3(B)(8): Judge fails to make required findings"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCJC_CANON_3C",
+      "canon_name": "MCJC Canon 3(C) — Administrative Responsibilities",
+      "total_count": 5,
+      "severity_distribution": { "critical": 0, "high": 2, "medium": 3, "low": 0 },
+      "sample_violations": [
+        "Canon 3(C)(1): Judge fails to ensure proper administration of court"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCJC_CANON_7",
+      "canon_name": "MCJC Canon 7 — Campaign Conduct",
+      "total_count": 2,
+      "severity_distribution": { "critical": 0, "high": 0, "medium": 1, "low": 1 },
+      "sample_violations": [
+        "Campaign conduct concerns noted during judicial election period"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "BIAS_DOCUMENTED",
+      "canon_name": "BIAS_DOCUMENTED — Documented Judicial Bias Pattern",
+      "total_count": 14,
+      "severity_distribution": { "critical": 8, "high": 5, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Pattern of rulings consistently favoring defendant without record support",
+        "Disqualification motion denied without chief judge review",
+        "Emergency motions by plaintiff denied; equivalent requests by defendant granted"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "SELECTIVE_ENFORCEMENT",
+      "canon_name": "SELECTIVE_ENFORCEMENT — Selective Application of Rules",
+      "total_count": 11,
+      "severity_distribution": { "critical": 2, "high": 7, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Court enforces parenting-time obligations against plaintiff but not defendant",
+        "Sanctions applied asymmetrically — plaintiff subject to filing bond; defendant not"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "PARENTAL_ALIENATION",
+      "canon_name": "PARENTAL_ALIENATION — Systematic Alienation Pattern",
+      "total_count": 16,
+      "severity_distribution": { "critical": 5, "high": 9, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Systematic exclusion of father from child's medical, educational, and social activities",
+        "Child denied any contact with father for 618+ consecutive days as of 2026-04-07",
+        "Mother's family reinforces alienation pattern through exchange interference"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "STAGED_EVIDENCE",
+      "canon_name": "STAGED_EVIDENCE — Fabricated/Staged Physical Evidence",
+      "total_count": 9,
+      "severity_distribution": { "critical": 7, "high": 2, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Mason jar, webcam, and baby monitor photographs staged by Emily Watson and Lori",
+        "Photographs presented to court as spontaneous evidence of misconduct"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "FALSE_POLICE_REPORT",
+      "canon_name": "FALSE_POLICE_REPORT",
+      "total_count": 5,
+      "severity_distribution": { "critical": 4, "high": 1, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "OCA 2023-08121 filed; no arrest or charges — inconsistent with claimed severity",
+        "False assault allegation (2023-10-15) not substantiated"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "CHAIN_OF_CUSTODY_DEFECT",
+      "canon_name": "CHAIN_OF_CUSTODY_DEFECT — Digital Evidence Chain-of-Custody",
+      "total_count": 6,
+      "severity_distribution": { "critical": 2, "high": 3, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Digital recordings (USB device) — chain of custody not established",
+        "Staged photographs — metadata not authenticated"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "FINANCIAL_DISCLOSURE_FAILURE",
+      "canon_name": "FINANCIAL_DISCLOSURE_FAILURE",
+      "total_count": 8,
+      "severity_distribution": { "critical": 2, "high": 5, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Emily Watson fails to disclose financial support received from Cody (brother)",
+        "Austin Muratori's financial contributions to household not disclosed",
+        "Undisclosed financial support affects child support calculation"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "EMPLOYMENT_DISCLOSURE_FAILURE",
+      "canon_name": "EMPLOYMENT_DISCLOSURE_FAILURE",
+      "total_count": 5,
+      "severity_distribution": { "critical": 2, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Emily Watson's employment at Kent County Prosecutor's Office not disclosed in context of conflict analysis",
+        "Lori's employment at Kent County not fully disclosed"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "GOVERNMENT_EMPLOYEE_CONFLICT",
+      "canon_name": "GOVERNMENT_EMPLOYEE_CONFLICT — Kent County Prosecutor's Office Connection",
+      "total_count": 7,
+      "severity_distribution": { "critical": 4, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Emily Watson employed at Kent County Prosecutor's Office, Family Court Division — creates institutional conflict in 14th Circuit proceedings",
+        "Appearance of professional courtesy between Kent County employees and 14th Circuit"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "SHOW_CAUSE_DEFECT",
+      "canon_name": "SHOW_CAUSE_DEFECT — Show Cause Procedural Defects",
+      "total_count": 14,
+      "severity_distribution": { "critical": 5, "high": 7, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Show cause order issued without specific factual basis",
+        "Show cause based on random number generator text — inadequate factual basis",
+        "Show cause based on Obama meme — inadequate factual basis",
+        "Show cause based on alleged texts with no witnesses",
+        "Show cause for alleged yelling — no witnesses, no recording"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "PUNITIVE_CONTEMPT_DEFECT",
+      "canon_name": "PUNITIVE_CONTEMPT_DEFECT — Contempt Without Required Findings",
+      "total_count": 11,
+      "severity_distribution": { "critical": 7, "high": 4, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Contempt orders issued without required finding of willful violation",
+        "Incarceration imposed without ability-to-pay inquiry",
+        "Criminal-contempt-equivalent sanction imposed under civil contempt procedures"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "ABILITY_TO_PAY_DEFECT",
+      "canon_name": "ABILITY_TO_PAY_DEFECT — Turner v Rogers Compliance Failure",
+      "total_count": 8,
+      "severity_distribution": { "critical": 6, "high": 2, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "No inquiry into plaintiff's ability to pay before imposing contempt sentence",
+        "No written form or checklist provided to assess ability to pay",
+        "Plaintiff incarcerated despite documenting financial hardship"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "COUNSEL_DENIED",
+      "canon_name": "COUNSEL_DENIED — Right to Counsel in Contempt Proceedings",
+      "total_count": 7,
+      "severity_distribution": { "critical": 5, "high": 2, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Contempt leading to 14 days incarceration (Show Cause #5) — no counsel or waiver",
+        "Contempt leading to 45 days incarceration (Show Causes #6 and #7) — insufficient appointment"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MUTING_HEARING",
+      "canon_name": "MUTING_HEARING — Party Muted During Remote Hearing",
+      "total_count": 5,
+      "severity_distribution": { "critical": 4, "high": 1, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Plaintiff muted during remote hearing — unable to present testimony or argument",
+        "Muting not documented in transcript; requires Zoom recording subpoena"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "REMOTE_HEARING_DEFECT",
+      "canon_name": "REMOTE_HEARING_DEFECT — Remote Hearing Procedural Issues",
+      "total_count": 6,
+      "severity_distribution": { "critical": 1, "high": 4, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Remote hearing conducted without adequate notice of platform and access instructions",
+        "Technical issues during remote hearing not addressed or noted on the record"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "TRANSCRIPT_DENIAL",
+      "canon_name": "TRANSCRIPT_DENIAL — Transcript Withheld or Delayed",
+      "total_count": 5,
+      "severity_distribution": { "critical": 0, "high": 4, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Transcript of key hearings not prepared or provided within reasonable time",
+        "Transcript request submitted; court reporter delay impairs appellate record"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "RECORD_SEALING_DEFECT",
+      "canon_name": "RECORD_SEALING_DEFECT — Improper Sealing of Records",
+      "total_count": 4,
+      "severity_distribution": { "critical": 0, "high": 2, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Case records sealed or restricted without court order or statutory authority"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "FILING_BOND_DEFECT",
+      "canon_name": "FILING_BOND_DEFECT — Unconstitutional Filing Bond",
+      "total_count": 6,
+      "severity_distribution": { "critical": 1, "high": 4, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Filing bond imposed without vexatious litigant finding under MCL 600.2591",
+        "No Michigan statute authorizes general pro se filing bond in family court",
+        "Filing bond creates unconstitutional barrier to court access for indigent party"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "SCAO_FORM_DEFECT",
+      "canon_name": "SCAO_FORM_DEFECT — SCAO Form Checkbox Contradiction",
+      "total_count": 9,
+      "severity_distribution": { "critical": 5, "high": 3, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "2025-08-08 ex parte order: SCAO checkbox checked in contradictory positions",
+        "SCAO form used does not match procedural posture of the order",
+        "SCAO form fields left blank where required"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "SERVICE_FAILURE",
+      "canon_name": "SERVICE_FAILURE — Service of Process Violations",
+      "total_count": 11,
+      "severity_distribution": { "critical": 2, "high": 7, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Proof of service date post-dates order effective date",
+        "No proof of service on file for multiple PPO extensions",
+        "Late service of contempt/show cause papers"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "HOLIDAY_INTERFERENCE",
+      "canon_name": "HOLIDAY_INTERFERENCE — Holiday Parenting Time Denial",
+      "total_count": 11,
+      "severity_distribution": { "critical": 2, "high": 7, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Thanksgiving 2024 parenting time denied",
+        "Child's birthday 2024-11-09 denied",
+        "Christmas/New Year 2024 parenting time denied"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "DAYCARE_INTERFERENCE",
+      "canon_name": "DAYCARE_INTERFERENCE — Daycare Cooperation Refusal",
+      "total_count": 7,
+      "severity_distribution": { "critical": 2, "high": 4, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Daycare provider cooperation refused 2024-05-09",
+        "Father excluded from daycare enrollment, pick-up, and drop-off",
+        "Daycare notified of PPO to block father's access without court order"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "EXCHANGE_INTERFERENCE",
+      "canon_name": "EXCHANGE_INTERFERENCE — Interference at Physical Exchange",
+      "total_count": 9,
+      "severity_distribution": { "critical": 3, "high": 5, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Exchange interference by Emily's family members 2024-10-20",
+        "Exchange photos taken 2025-07-29 document confrontational conditions",
+        "Third parties present at exchange to intimidate or obstruct"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MAKE_UP_TIME_DENIAL",
+      "canon_name": "MAKE_UP_TIME_DENIAL — Refusal of Court-Ordered Make-Up Parenting Time",
+      "total_count": 8,
+      "severity_distribution": { "critical": 1, "high": 5, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Make-up parenting time refused 2024-12-06",
+        "Make-up parenting time refused 2025-01-22",
+        "Court declines to enforce make-up time order"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "COLLATERAL_SUPPORT",
+      "canon_name": "COLLATERAL_SUPPORT — Undisclosed Third-Party Financial Support",
+      "total_count": 6,
+      "severity_distribution": { "critical": 0, "high": 3, "medium": 3, "low": 0 },
+      "sample_violations": [
+        "Cody (Emily's brother) provides undisclosed financial support to Emily Watson household",
+        "Austin Muratori provides undisclosed financial support",
+        "Undisclosed support distorts child support calculation"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "COMMUNICATION_INTERFERENCE",
+      "canon_name": "COMMUNICATION_INTERFERENCE — Communication With Child Denied",
+      "total_count": 5,
+      "severity_distribution": { "critical": 1, "high": 3, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Telephone/video communication with child blocked during parenting time suspension",
+        "No communication order in place; requests denied"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "CUSTODY_ORDER_DEFECT",
+      "canon_name": "CUSTODY_ORDER_DEFECT — Custody Order Without Required Findings",
+      "total_count": 8,
+      "severity_distribution": { "critical": 2, "high": 5, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "Custody modification order lacks MCL 722.27(1)(c) proper cause or change of circumstances finding",
+        "Best interest factors not evaluated in written order"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "SUPERVISION_ORDER_DEFECT",
+      "canon_name": "SUPERVISION_ORDER_DEFECT — Improper Supervised Visitation Order",
+      "total_count": 7,
+      "severity_distribution": { "critical": 1, "high": 4, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "Supervised visitation imposed without factual finding of risk to child",
+        "Supervision conditions not defined in order"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_3_705",
+      "canon_name": "MCR 3.705 — PPO Issuance Requirements",
+      "total_count": 6,
+      "severity_distribution": { "critical": 3, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCR 3.705(A): PPO issued without required findings of reasonable cause",
+        "MCR 3.705(B): Required content missing from PPO order"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_3_706",
+      "canon_name": "MCR 3.706 — PPO Modification",
+      "total_count": 5,
+      "severity_distribution": { "critical": 1, "high": 3, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "MCR 3.706: PPO modified or extended without hearing or showing of continued necessity"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_3_977",
+      "canon_name": "MCR 3.977 — Termination of Parental Rights Procedures",
+      "total_count": 3,
+      "severity_distribution": { "critical": 2, "high": 1, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCR 3.977: De facto parental rights termination achieved through suspension without TPR procedural protections"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_313",
+      "canon_name": "MCR 2.313 — Discovery Failure Sanctions",
+      "total_count": 4,
+      "severity_distribution": { "critical": 0, "high": 2, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCR 2.313: No sanctions imposed for defendant's discovery failures",
+        "Selective application of discovery sanction authority"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_722_26a",
+      "canon_name": "MCL 722.26a — Joint Custody",
+      "total_count": 4,
+      "severity_distribution": { "critical": 0, "high": 3, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "MCL 722.26a: Joint custody presumption not considered before modifying custody",
+        "MCL 722.26a(7): Joint custody improperly terminated without required findings"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_750_539c",
+      "canon_name": "MCL 750.539c — Installing Eavesdropping Device",
+      "total_count": 5,
+      "severity_distribution": { "critical": 4, "high": 1, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCL 750.539c: Baby monitor/webcam installed as eavesdropping device without consent",
+        "MCL 750.539c: Recording device placed in shared residence without other occupant's consent"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_750_539d",
+      "canon_name": "MCL 750.539d — Distributing Eavesdropping Records",
+      "total_count": 4,
+      "severity_distribution": { "critical": 3, "high": 1, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCL 750.539d: Recordings from eavesdropping device distributed to third parties or submitted in court proceedings"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_504",
+      "canon_name": "MCR 2.504 — Involuntary Dismissal",
+      "total_count": 2,
+      "severity_distribution": { "critical": 0, "high": 1, "medium": 1, "low": 0 },
+      "sample_violations": [
+        "MCR 2.504: Motion or pleading dismissed without proper grounds or hearing"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCR_2_604",
+      "canon_name": "MCR 2.604 — Judgment Entry Requirements",
+      "total_count": 3,
+      "severity_distribution": { "critical": 0, "high": 1, "medium": 2, "low": 0 },
+      "sample_violations": [
+        "MCR 2.604: Judgment or order entered without required language or findings"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "STUMP_SPARKMAN",
+      "canon_name": "Stump v Sparkman, 435 US 349 (1978) / Mireles v Waco, 502 US 9 (1991) — Judicial Immunity Limits",
+      "total_count": 4,
+      "severity_distribution": { "critical": 2, "high": 2, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Judicial acts taken in clear absence of all jurisdiction may fall outside absolute immunity",
+        "Non-judicial acts (administrative, ministerial) not entitled to judicial immunity"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "EARLY_DETECTION_CONSPIRACY",
+      "canon_name": "Michigan Civil Conspiracy — Early Detection Center v NY Life, 157 Mich App 618 (1986)",
+      "total_count": 5,
+      "severity_distribution": { "critical": 2, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "Concert of action between Emily Watson, Lori, Cody, and Austin Muratori to achieve unlawful deprivation of parental rights",
+        "Two or more persons acting in concert to accomplish unlawful purpose — Michigan civil conspiracy elements met"
+      ],
+      "unverified": true
+    },
+    {
+      "canon_id": "MCL_722_24",
+      "canon_name": "MCL 722.24 — Parental Equity",
+      "total_count": 4,
+      "severity_distribution": { "critical": 1, "high": 3, "medium": 0, "low": 0 },
+      "sample_violations": [
+        "MCL 722.24: Father not treated equitably to mother in custody and parenting time proceedings"
+      ],
+      "unverified": true
+    }
+  ],
+  "mre_613b_index": [
+    { "id": "MRE-001", "context_group": "hearing", "count": 51, "description": "Emily Watson's in-court testimony at various hearings contradicts earlier sworn statements; e.g., testimony about domestic violence incidents inconsistent with police report outcome (no charges); testimony about parenting time interference contradicts documented exchange records", "unverified": true },
+    { "id": "MRE-002", "context_group": "ex_parte", "count": 14, "description": "Statements made in ex parte affidavits contradict subsequent hearing testimony; ex parte affidavit claims of immediate danger inconsistent with absence of police involvement", "unverified": true },
+    { "id": "MRE-003", "context_group": "child_welfare", "count": 11, "description": "Statements about child's welfare and living conditions inconsistent across proceedings; daycare access statements inconsistent with documented daycare communications", "unverified": true },
+    { "id": "MRE-004", "context_group": "child_welfare+hearing", "count": 8, "description": "Statements about child welfare made in combined child welfare and formal hearing contexts inconsistent with each other and with documentary evidence", "unverified": true },
+    { "id": "MRE-005", "context_group": "hearing+ppo", "count": 4, "description": "Statements made at hearings about PPO basis inconsistent with PPO affidavit; e.g., claimed fear inconsistent with documented voluntary contact", "unverified": true },
+    { "id": "MRE-006", "context_group": "financial+ppo", "count": 4, "description": "Financial statements made in connection with PPO proceedings inconsistent with disclosed income and support sources", "unverified": true },
+    { "id": "MRE-007", "context_group": "communication", "count": 4, "description": "Statements about communication with child inconsistent across different proceedings", "unverified": true },
+    { "id": "MRE-008", "context_group": "custody", "count": 3, "description": "Custody-related statements inconsistent between custody case and PPO case", "unverified": true },
+    { "id": "MRE-009", "context_group": "compliance", "count": 3, "description": "Statements about compliance with court orders inconsistent with documented violations", "unverified": true },
+    { "id": "MRE-010", "context_group": "exchange", "count": 3, "description": "Statements about exchange behavior inconsistent with exchange photographs", "unverified": true },
+    { "id": "MRE-011", "context_group": "financial", "count": 3, "description": "Financial disclosure statements inconsistent between different case filings", "unverified": true },
+    { "id": "MRE-012", "context_group": "employment", "count": 2, "description": "Statements about employment status or employer inconsistent across filings", "unverified": true },
+    { "id": "MRE-013", "context_group": "housing", "count": 2, "description": "Statements about housing and living arrangements inconsistent with eviction records", "unverified": true }
+  ],
+  "tool_artifacts": [
+    { "id": "TA-001", "artifact_text": "Load next GPT chat JSON segment", "emoji": "🔹", "context": "GPT chat processing command" },
+    { "id": "TA-002", "artifact_text": "PPO_PATTERN_EXPLOITER_DETECTOR", "emoji": "🧠", "context": "AI analysis module label" },
+    { "id": "TA-003", "artifact_text": "MindEye2 Parsing", "emoji": "🧠", "context": "AI parsing system label" },
+    { "id": "TA-004", "artifact_text": "ZIP Generator", "emoji": "📦", "context": "File generation command" },
+    { "id": "TA-005", "artifact_text": "Meek1 Systems Active", "emoji": "🧠", "context": "AI system activation notice" },
+    { "id": "TA-006", "artifact_text": "Load segment 2 of JTC chat export", "emoji": "🔹", "context": "GPT chat processing command" },
+    { "id": "TA-007", "artifact_text": "ENCYCLOPEDIA_MASTER extraction mode", "emoji": "📋", "context": "AI extraction mode label" },
+    { "id": "TA-008", "artifact_text": "Parse PIGGYPIGGY.md for violation tags", "emoji": "🔹", "context": "AI parsing command" },
+    { "id": "TA-009", "artifact_text": "Generate violation count table", "emoji": "📊", "context": "AI table generation command" },
+    { "id": "TA-010", "artifact_text": "Cross-reference MRE 613(b) entries", "emoji": "🔹", "context": "AI cross-reference command" },
+    { "id": "TA-011", "artifact_text": "Activate chronological sort mode", "emoji": "🧠", "context": "AI sort activation" },
+    { "id": "TA-012", "artifact_text": "Bundle JTC binder exhibits", "emoji": "📦", "context": "AI file bundling command" },
+    { "id": "TA-013", "artifact_text": "Load COA_BEFORE_AFTER_COMPARISON.md", "emoji": "🔹", "context": "File load command" },
+    { "id": "TA-014", "artifact_text": "Load MSC_ORIGINAL_ACTION_COMPILED.md", "emoji": "🔹", "context": "File load command" },
+    { "id": "TA-015", "artifact_text": "Canon classification module v2", "emoji": "📋", "context": "AI classification module" },
+    { "id": "TA-016", "artifact_text": "Extract show cause timeline", "emoji": "🔹", "context": "AI extraction command" },
+    { "id": "TA-017", "artifact_text": "Severity scoring: critical/high/medium/low", "emoji": "🧠", "context": "AI scoring schema" },
+    { "id": "TA-018", "artifact_text": "Export violation matrix to JSON", "emoji": "📊", "context": "AI export command" },
+    { "id": "TA-019", "artifact_text": "Anchor status: RECORD_ANCHORED / UNANCHORED", "emoji": "🔹", "context": "AI anchor classification label" },
+    { "id": "TA-020", "artifact_text": "Deduplicate entries across canon categories", "emoji": "🧠", "context": "AI deduplication command" },
+    { "id": "TA-021", "artifact_text": "Package COA brief exhibits", "emoji": "📦", "context": "AI packaging command" },
+    { "id": "TA-022", "artifact_text": "Flag STRATEGY_NOTE entries", "emoji": "🔹", "context": "AI flagging command" },
+    { "id": "TA-023", "artifact_text": "Flag DUPLICATE entries", "emoji": "🔹", "context": "AI flagging command" },
+    { "id": "TA-024", "artifact_text": "JTC complaint compilation mode", "emoji": "📋", "context": "AI mode label" },
+    { "id": "TA-025", "artifact_text": "Segment 3: 2024 violations", "emoji": "🔹", "context": "Chat segment marker" },
+    { "id": "TA-026", "artifact_text": "Segment 4: 2025 violations", "emoji": "🔹", "context": "Chat segment marker" },
+    { "id": "TA-027", "artifact_text": "MRE 613(b) cross-reference engine", "emoji": "🧠", "context": "AI module label" },
+    { "id": "TA-028", "artifact_text": "Produce acquisition plan table", "emoji": "📊", "context": "AI command" },
+    { "id": "TA-029", "artifact_text": "Load COMPLETE_COMMAND_CENTER.md", "emoji": "🔹", "context": "File load command" },
+    { "id": "TA-030", "artifact_text": "Generate MSC superintending binder", "emoji": "📦", "context": "AI command" },
+    { "id": "TA-031", "artifact_text": "Actor graph: Pigors / Watson / McNeill", "emoji": "🧠", "context": "AI actor mapping" },
+    { "id": "TA-032", "artifact_text": "Load JTC_COMPLAINT_EXPANSION_COMPLETION_REPORT.md", "emoji": "🔹", "context": "File load command" },
+    { "id": "TA-033", "artifact_text": "Canon 3(A)(4) detection pass", "emoji": "📋", "context": "AI detection pass label" },
+    { "id": "TA-034", "artifact_text": "Anchor: OCA 2023-08121", "emoji": "🔹", "context": "AI anchor tag" },
+    { "id": "TA-035", "artifact_text": "SCAO checkbox contradiction detector", "emoji": "🧠", "context": "AI module label" },
+    { "id": "TA-036", "artifact_text": "Export jtc_violation_matrix.md", "emoji": "📦", "context": "AI export command" },
+    { "id": "TA-037", "artifact_text": "Compile summary statistics", "emoji": "🔹", "context": "AI compilation command" },
+    { "id": "TA-038", "artifact_text": "Severity distribution: 377/243/484/23", "emoji": "📊", "context": "AI statistics output" },
+    { "id": "TA-039", "artifact_text": "Validate JSON structure", "emoji": "🔹", "context": "AI validation command" },
+    { "id": "TA-040", "artifact_text": "Record anchor reconciliation pass", "emoji": "🧠", "context": "AI reconciliation command" }
+  ],
+  "show_cause_chronology": [
+    {
+      "id": "SC-001",
+      "number": 1,
+      "basis": "Text message allegedly from plaintiff based on random number generator output; Obama meme",
+      "basis_detail": "Random number generator output used as factual basis for show cause order; Obama meme cited as threatening communication",
+      "finding": "UNVERIFIED — outcome not confirmed in record-anchored document",
+      "procedural_defects": [
+        "Factual basis legally insufficient — random number generator output is not a cognizable threat",
+        "Meme is protected expression under First Amendment",
+        "No witnesses to alleged communication",
+        "No emergency finding supporting show cause issuance"
+      ],
+      "record_anchor_status": "UNANCHORED",
+      "acquisition_needed": "Transcript page citation; show cause order text; underlying 'evidence' exhibit",
+      "unverified": true
+    },
+    {
+      "id": "SC-002",
+      "number": 2,
+      "basis": "Alleged text messages; alleged yelling incident",
+      "basis_detail": "Alleged yelling incident — no witnesses present; no recording; text messages cited but not authenticated",
+      "appointed_counsel": "Yes — appointed attorney provided insufficient preparation time",
+      "finding": "UNVERIFIED — outcome not confirmed in record-anchored document",
+      "procedural_defects": [
+        "Yelling allegation unwitnessed and unrecorded",
+        "Text messages not authenticated",
+        "Appointed attorney provided insufficient preparation time — denies effective assistance of counsel",
+        "No witnesses produced by moving party"
+      ],
+      "record_anchor_status": "UNANCHORED",
+      "acquisition_needed": "Transcript; attorney appointment order; text message exhibits",
+      "unverified": true
+    },
+    {
+      "id": "SC-003",
+      "number": 3,
+      "basis": "Referenced in extraction; specific factual basis not fully detailed in available source documents",
+      "finding": "UNVERIFIED",
+      "procedural_defects": [],
+      "record_anchor_status": "UNANCHORED",
+      "acquisition_needed": "Show cause order; underlying complaint; transcript",
+      "unverified": true
+    },
+    {
+      "id": "SC-005",
+      "number": 5,
+      "basis": "UNVERIFIED — specific basis not detailed in available source documents",
+      "result": "14 days incarceration",
+      "procedural_defects": [
+        "Ability-to-pay inquiry absent before incarceration — Turner v Rogers violation",
+        "Right to counsel issues"
+      ],
+      "record_anchor_status": "UNANCHORED",
+      "acquisition_needed": "Commitment order; contempt hearing transcript; jail records",
+      "unverified": true
+    },
+    {
+      "id": "SC-006-007",
+      "number": "6 and 7",
+      "basis": "UNVERIFIED — specific bases not detailed in available source documents",
+      "result": "45 days combined incarceration",
+      "procedural_defects": [
+        "Ability-to-pay inquiry absent before incarceration — Turner v Rogers violation",
+        "Criminal-contempt-equivalent sanction imposed under civil contempt procedures"
+      ],
+      "record_anchor_status": "UNANCHORED",
+      "acquisition_needed": "Commitment orders; contempt hearing transcripts; jail records",
+      "unverified": true
+    }
+  ],
+  "actors": {
+    "plaintiff": {
+      "name": "Andrew J. Pigors",
+      "role": "Plaintiff; Pro Se Litigant",
+      "details": "Father of L.D.W.; pro se in all lanes including PPO (2023-5907-PP), custody (2024-001507-DC), COA 366810, MSC, and planned federal action (W.D. Mich.)",
+      "status_as_of": "2026-04-07",
+      "days_separated_from_child": 618,
+      "consecutive_days_no_parenting_time": 571,
+      "days_jailed": 59,
+      "jobs_lost": 2,
+      "homes_lost": 2,
+      "homelessness_periods": 3,
+      "unverified": true
+    },
+    "defendant": {
+      "name": "Emily Watson",
+      "role": "Defendant; PPO Petitioner",
+      "employer": "Kent County Prosecutor's Office, Family Court Division",
+      "unverified": true
+    },
+    "child": {
+      "name": "L.D.W.",
+      "known_as": "Lincoln",
+      "born_approximately": "2021",
+      "subject_of_case": "2024-001507-DC",
+      "note": "Minor identity — use initials only per MCR 8.119(H)",
+      "unverified": true
+    },
+    "judge": {
+      "name": "Hon. Jenny McNeill",
+      "role": "Presiding Judge",
+      "court": "14th Circuit Court, Muskegon County",
+      "cases_presided": ["2023-5907-PP", "2024-001507-DC"],
+      "subject_of_jtc_complaint": true,
+      "unverified": true
+    },
+    "supporting_actors": [
+      {
+        "name": "Cody",
+        "relationship": "Emily Watson's brother",
+        "role": "Undisclosed financial support to Emily Watson household; present at exchange interference incidents",
+        "unverified": true
+      },
+      {
+        "name": "Lori",
+        "relationship": "Emily Watson's mother",
+        "role": "Allegedly assisted in staging mason jar, webcam, and baby monitor photographs (2023-11-14/16); present at exchange interference incidents; reportedly employed by Kent County",
+        "unverified": true
+      },
+      {
+        "name": "Austin Muratori",
+        "relationship": "Father of Emily Watson's other child",
+        "role": "Provides undisclosed financial support to Emily Watson household",
+        "unverified": true
+      },
+      {
+        "name": "Officer Randall",
+        "relationship": "Law enforcement officer",
+        "role": "Referenced in connection with police report and/or exchange incidents",
+        "unverified": true
+      }
+    ]
+  },
+  "source_files": [
+    { "id": "SF-001", "filename": "ENCYCLOPEDIA_MASTER.md", "description": "Master reference encyclopedia for the case" },
+    { "id": "SF-002", "filename": "PIGGYPIGGY.md", "description": "Narrative case chronology and fact documentation" },
+    { "id": "SF-003", "filename": "JTC_COMPLAINT_COMPILED.md", "description": "Compiled JTC complaint draft" },
+    { "id": "SF-004", "filename": "JTC_COMPLAINT_EXPANSION_COMPLETION_REPORT.md", "description": "Report on JTC complaint expansion" },
+    { "id": "SF-005", "filename": "COA_BEFORE_AFTER_COMPARISON.md", "description": "Comparison of COA brief before and after revision" },
+    { "id": "SF-006", "filename": "COA_EXPANSION_SUMMARY.md", "description": "Summary of COA brief expansion" },
+    { "id": "SF-007", "filename": "COMPILATION_SUMMARY.md", "description": "Summary of all compiled materials" },
+    { "id": "SF-008", "filename": "JTC_MSC_BINDER_EXTRACTED.md", "description": "Extracted JTC/MSC binder materials" },
+    { "id": "SF-009", "filename": "MSC_ORIGINAL_ACTION_COMPILED.md", "description": "Compiled MSC original action materials" },
+    { "id": "SF-010", "filename": "COMPLETE_COMMAND_CENTER.md", "description": "Complete case command center / master tracker" }
+  ],
+  "acquisition_plan": [
+    { "category": "MCR 2.003 — Disqualification", "unanchored_count_approx": 85, "record_needed": "Disqualification motion filed; denial order; chief judge review record", "source": "14th Circuit docket — 2023-5907-PP and 2024-001507-DC" },
+    { "category": "EX_PARTE_VIOLATION (undated)", "unanchored_count_approx": 120, "record_needed": "Orders; proofs of service; docket entries showing no prior notice", "source": "14th Circuit docket — pull all ex parte entries" },
+    { "category": "PROCEDURAL_MISCONDUCT (undated)", "unanchored_count_approx": 140, "record_needed": "Motion-to-enforce filings; hearing transcripts; denied motion orders", "source": "14th Circuit docket; court reporter transcript requests" },
+    { "category": "MUTING_HEARING", "unanchored_count_approx": 5, "record_needed": "Zoom recording or transcript notation of muting event", "source": "Court reporter subpoena; Zoom recording preservation request" },
+    { "category": "ABILITY_TO_PAY_DEFECT", "unanchored_count_approx": 8, "record_needed": "Commitment orders; contempt hearing transcripts confirming no ability-to-pay inquiry", "source": "Court reporter; Clerk of Court — commitment orders" },
+    { "category": "COUNSEL_DENIED", "unanchored_count_approx": 7, "record_needed": "Contempt hearing records; appointment order; transcript confirming no counsel or inadequate preparation", "source": "Court reporter; assigned counsel records" },
+    { "category": "STAGED_EVIDENCE", "unanchored_count_approx": 9, "record_needed": "Photo metadata (EXIF data); witness affidavit contradicting staging; physical inspection report", "source": "Discovery request; FOIA for police report supplemental materials" },
+    { "category": "FINANCIAL_DISCLOSURE_FAILURE", "unanchored_count_approx": 8, "record_needed": "MCSF (MC 96) filings; bank records; third-party financial records", "source": "Discovery; FOC subpoena to Cody, Lori, Austin Muratori" },
+    { "category": "GOVERNMENT_EMPLOYEE_CONFLICT", "unanchored_count_approx": 7, "record_needed": "Employment verification — Emily Watson at Kent County Prosecutor's Office; Lori's employment record", "source": "FOIA to Kent County; personnel records" },
+    { "category": "SHOW_CAUSE_DEFECT (SC#1, SC#2)", "unanchored_count_approx": 8, "record_needed": "Show cause orders; transcripts; basis documents (random number text, Obama meme, alleged text messages)", "source": "Subpoena show cause file; transcript request" },
+    { "category": "HOLIDAY_INTERFERENCE", "unanchored_count_approx": 11, "record_needed": "Filed motions for holiday parenting time; denial orders; exchange logs", "source": "14th Circuit docket; FOC records" },
+    { "category": "MAKE_UP_TIME_DENIAL", "unanchored_count_approx": 8, "record_needed": "Orders granting make-up time; documented requests for make-up time; refusal communications", "source": "Text message records; email records; FOC complaint history" },
+    { "category": "EXCHANGE_INTERFERENCE", "unanchored_count_approx": 9, "record_needed": "Exchange photographs (2025-07-29 on file); police call records; witness affidavits", "source": "Police CAD records; existing exchange photos; witness affidavits" },
+    { "category": "MCR 3.207(B) — Affidavit Defects", "unanchored_count_approx": 18, "record_needed": "Ex parte orders; accompanying affidavits confirming absence of verified specific facts of immediate harm", "source": "Pull each ex parte order and affidavit from docket" },
+    { "category": "MCR 2.517 — Findings of Fact Absent", "unanchored_count_approx": 15, "record_needed": "All custody/parenting time orders confirming no written findings", "source": "Pull all substantive orders from docket" },
+    { "category": "FILING_BOND_DEFECT", "unanchored_count_approx": 6, "record_needed": "Filing bond order; docket showing no vexatious litigant finding precedes bond", "source": "14th Circuit docket; bond order text" },
+    { "category": "PARENTAL_ALIENATION", "unanchored_count_approx": 16, "record_needed": "Medical records; school records; daycare records confirming father's exclusion", "source": "Records subpoena; FOC investigation request" },
+    { "category": "CREDIBILITY_FAILURE (undated)", "unanchored_count_approx": 40, "record_needed": "Police report outcome (OCA 2023-08121); photo metadata; transcript contradictions", "source": "Police department records; transcript cross-reference" },
+    { "category": "MCJC_CANON_3A4 — Ex Parte Communications", "unanchored_count_approx": 20, "record_needed": "Any off-record communications; orders reflecting extra-record information", "source": "Discovery; JTC investigation subpoena" },
+    { "category": "MCL 750.539c / 18 USC § 2511", "unanchored_count_approx": 9, "record_needed": "Device purchase records; installation records; recordings produced in litigation", "source": "Discovery; search warrant application if criminal" },
+    { "category": "MRE 613(b) — All 112 entries", "unanchored_count_approx": 112, "record_needed": "For each entry: (1) transcript page of hearing statement; (2) exhibit or transcript page of prior inconsistent statement", "source": "Full transcript set; exhibit log" },
+    { "category": "SHOW_CAUSE #5, #6, #7", "unanchored_count_approx": 3, "record_needed": "Commitment orders; incarceration records; ability-to-pay documentation", "source": "Clerk of Court; Sheriff's Office" },
+    { "category": "TRANSCRIPT_DENIAL", "unanchored_count_approx": 5, "record_needed": "Transcript requests submitted; response (or non-response); timeline", "source": "Court reporter office; written request records" },
+    { "category": "REMOTE_HEARING_DEFECT", "unanchored_count_approx": 6, "record_needed": "Hearing notice; platform access instructions (or absence); technical log", "source": "Court notice documents; IT records" },
+    { "category": "COMMUNICATION_INTERFERENCE", "unanchored_count_approx": 5, "record_needed": "Phone records; denied communication requests; court order (or absence) authorizing communication", "source": "Phone records; written communication requests" }
+  ]
+}
