@@ -7173,68 +7173,294 @@ Subornation is difficult to prove without direct evidence (text messages, emails
 
 ### False Statements in Official Proceedings — Related Offenses
 
+**Overview:**
+Michigan law provides multiple overlapping criminal and quasi-criminal remedies for false statements in or around court proceedings. These operate on parallel tracks with civil perjury remedies and fraud-on-the-court doctrine — they need not wait for a criminal conviction to be relevant in the civil case.
+
+---
+
 **Obstruction of Justice — MCL 750.505:**
-Any person who wilfully obstructs, resists, or opposes any officer in the execution of any process, or impedes the administration of justice in any court, is guilty of a felony (up to 5 years). Courts have applied this broadly to deliberate fabrication of evidence.
 
-**False Reports — MCL 750.411a:**
-Making a false report of a crime to law enforcement is a **misdemeanor** (1st offense, up to 93 days) or **felony** (subsequent offenses, or if the false report causes an arrest, up to 4 years).
-- Particularly relevant where a party calls police on the opposing party during a domestic dispute and lies to officers — criminal charge separate from civil remedies.
+*Elements:*
+1. The person willfully obstructs, resists, opposes, assaults, beats, or wounds
+2. Any officer or other person duly authorized
+3. In the execution of any process, civil or criminal, or in the discharge of any official duty
+4. OR otherwise willfully impedes the administration of justice in any court
 
-**False Statements on Legal Documents — MCL 750.248:**
-Forgery of legal documents, court orders, or public records is a **felony** (up to 14 years). Relevant where a party submits a fabricated exhibit or altered document.
+*Penalty:* Felony — up to 5 years, or fine of up to $10,000, or both.
 
-**Contempt as a Parallel Remedy:**
-Making a false statement in a sworn affidavit submitted to a court constitutes **contempt of court** independent of perjury prosecution. Courts may impose civil or criminal contempt sanctions without waiting for a criminal prosecution.
+*Scope in Family Court:* Courts have applied MCL 750.505 to:
+- Deliberate fabrication and submission of forged or altered documents as exhibits
+- Deliberate concealment of witnesses or evidence subject to a discovery order
+- Physically preventing service of process or a subpoena
+- Bribing or threatening a witness not to testify truthfully
 
-**MCR 9.104 — Attorney Discipline:**
-An attorney who makes false statements of fact to a tribunal or fails to correct a false statement of material fact is subject to suspension or disbarment, in addition to criminal exposure.
+*Charging strategy:* Report to the county prosecuting attorney with a written complaint supported by documentation. Attach the specific false filing, the contradicting evidence, and the court order that was violated. Prosecutors have discretion; a self-represented litigant with organized documentary evidence is more likely to receive attention.
+
+*Civil parallel:* Obstruction of justice may also support a tort claim for abuse of process or malicious prosecution (MCL 600.2907) depending on facts.
+
+---
+
+**False Reports to Police — MCL 750.411a:**
+
+*Elements:*
+1. The person knowingly makes
+2. A false report of a crime
+3. To a peace officer, police agency, 9-1-1 operator, or other government official
+
+*Penalty:*
+- **1st offense:** Misdemeanor — up to 93 days and/or $500 fine
+- **Subsequent offense, or** if the false report caused the arrest of another person: Felony — up to **4 years** and/or $2,000 fine
+
+*Family Court Relevance:*
+- A party who calls 911 during a domestic dispute and makes false statements to arriving officers commits a first-offense misdemeanor at minimum
+- A party whose false police report causes the other parent to be arrested and held overnight has committed a 4-year felony
+- The police report itself becomes a sworn document (signed under penalty of law) that can be used for impeachment in the custody case
+- A **false CPS report** does not fall under MCL 750.411a (which applies to crimes) but rather under MCL 722.633 (4-year felony for knowingly filing a false child abuse/neglect report)
+
+*Preserving the Record:*
+- Obtain the police report through FOIA from the law enforcement agency (not the county court — police reports are agency records)
+- If an arrest was made on the false report, obtain the arrest record from the Michigan State Police ICHAT system
+- If charges were later dropped (because the arrest was based on false statements), the arrest record + nolle prosequi entry creates a powerful impeachment record
+
+---
+
+**Forgery / False Documents — MCL 750.248:**
+
+*Elements:*
+1. The person falsely makes, alters, forges, or counterfeits
+2. A public record, certificate, return, attestation, bill, deed, note, or other instrument in writing
+3. With intent to injure or defraud
+
+*Penalty:* Felony — up to **14 years**
+
+*Related: MCL 750.249 — Uttering and Publishing:*
+A person who **knowingly uses or presents** a forged document with intent to defraud is guilty of a separate felony (up to 14 years). Relevant where a party does not forge the document personally but presents it knowing it is false.
+
+*Family Court Applications:*
+- Fabricated text message screenshots submitted as exhibits
+- Altered bank statements to conceal assets in MCSF proceedings
+- Backdated letters or agreements
+- Fraudulently obtained or altered police reports
+- Fabricated medical records (e.g., to claim physical injury from domestic violence)
+- A GAL or custody evaluator who fabricates quotations attributed to interviews or children's statements
+
+*Authentication as First Step:* Before a forged document can be challenged, it must be in the record. When a forged document is submitted, request a continuance and retain a forensic document examiner or digital forensics expert. Challenge authentication (MRE 901) and demand the original.
+
+---
+
+**Contempt of Court as a Parallel Remedy:**
+
+Making a false statement in a **sworn affidavit submitted to a court** constitutes contempt of court independently of perjury prosecution. This is significant because:
+
+1. **Contempt does not require a criminal prosecution or indictment** — the court that received the false affidavit can act sua sponte or on motion
+2. **Standard of proof for criminal contempt** is beyond a reasonable doubt; **civil contempt** requires clear and convincing evidence
+3. **Remedies for criminal contempt:** incarceration (up to 93 days for direct contempt; potentially longer for indirect contempt); fine; or both
+4. **Remedies for civil contempt:** coercive — incarceration until the party complies or purges (e.g., by retracting the false statement and submitting a corrected affidavit); fines
+
+*Contempt Motion Strategy:*
+- File a motion for order to show cause why the opposing party should not be held in contempt for submitting a false sworn affidavit
+- Attach the false affidavit and the specific contradicting evidence
+- Request a show cause hearing; at the hearing, cross-examine the opposing party under oath
+- If contempt is found: request the court impose a sanction proportional to the harm (cost of defense + attorney fees) plus incarceration for willful contempt
+
+*MCR 3.606 — Order to Show Cause:* The standard vehicle for initiating contempt proceedings in Michigan circuit court.
+
+---
+
+**MCR 9.104 — Attorney Discipline for False Statements:**
+
+An attorney who makes false statements of fact to a tribunal or who fails to correct a false statement of material fact that the attorney has made:
+- Is subject to **suspension or disbarment** under MRPC 3.3
+- May be reported to the Attorney Grievance Commission (AGC) — see §51 MRPC/JTC section
+- The AGC investigation creates a public record and may influence the attorney's conduct in the pending case
 
 ---
 
 ### Fraud on the Court — Common-Law Doctrine
 
 **Definition:**
-"Fraud on the court" is a distinct doctrine broader than ordinary fraud between parties. It involves **conduct by an officer of the court** (attorney, guardian ad litem, evaluator) or by a party **that so undermines the integrity of the judicial process** that the court cannot perform its adjudicative function.
+"Fraud on the court" is a distinct equitable doctrine broader than ordinary fraud between parties. It involves **conduct by an officer of the court** or by a party **in concert with an officer of the court** that so undermines the integrity of the judicial process that the court itself is prevented from performing its adjudicative function. The doctrine exists because certain frauds strike not just at a litigant's interests but at the legitimacy of the judicial process itself.
 
-**Classic Fraud on the Court Elements (Michigan — *Triplett v St Amour*, 444 Mich 170 (1993); *Sprague v Buhagiar*, 213 Mich App 310 (1995)):**
-1. An intentional **fraud** (more than perjury alone — requires conduct that corrupts or impairs the machinery of the court)
-2. By an **officer of the court** or conduct that reaches the court itself (not just the opposing party)
-3. Directed at the **court itself** (as opposed to ordinary fraud between the parties that a diligent opponent could have discovered and resisted)
-4. That causes **substantial harm** to the opposing party
+---
 
-> **Key Distinction:** Perjury by a witness alone is generally **not** fraud on the court (*Sprague* — requires involvement of officer of court or intentional scheme to corrupt court). However, **attorney-assisted perjury** or systematic fabrication of evidence rises to fraud on the court.
+**Controlling Michigan Authority:**
 
-**Standard of Proof:**
-Clear and convincing evidence of intentional fraud.
+***Triplett v St Amour*, 444 Mich 170 (1993) (MSC):**
+The Michigan Supreme Court recognized the fraud-on-the-court doctrine and held that a judgment obtained through fraud on the court may be vacated at **any time** — there is no limitations period. The Court distinguished fraud-on-the-court from ordinary fraud between parties, which is subject to the 1-year limit in MCR 2.612(C)(1)(c).
+
+***Sprague v Buhagiar*, 213 Mich App 310 (1995):**
+The Court of Appeals held that **perjury by a witness alone, without involvement of counsel or an officer of the court, is insufficient** to constitute fraud on the court. The court acknowledged the requirement that an officer of the court be involved in the fraudulent scheme, distinguishing mere untruthfulness from a deliberate scheme to corrupt the judicial process.
+
+---
+
+**Elements of Fraud on the Court (Michigan):**
+
+1. **Intentional fraud** — not mere negligence or mistake; requires a deliberate scheme
+2. **By or through an officer of the court** — attorney, GAL, guardian, court-appointed evaluator, or a party acting in concert with an officer of the court
+3. **Directed at the court itself** — the scheme must prevent the court from hearing the case on its merits (as opposed to deceiving only the opposing party)
+4. **Resulting in substantial harm** to the opposing party or to the integrity of the proceeding
+
+---
+
+**Who Qualifies as "Officer of the Court":**
+
+| Role | Qualifies? | Analysis |
+|---|---|---|
+| Attorney of record | Yes — always | Officers of the court as a matter of law |
+| Guardian ad litem (GAL) | Yes — generally | Appointed by and reporting to the court; courts have treated GAL as officers for fraud purposes |
+| Court-appointed custody evaluator | Yes — likely | Appointed by the court to perform judicial functions; reports directly to the court |
+| Friend of the Court investigator | Yes — FOC is a statutory officer of the court | MCL 552.501 et seq. |
+| Lay witness | No — alone | Perjury by a witness alone is not fraud on the court (*Sprague*) |
+| Party acting without counsel | Borderline | If party is self-represented but the scheme is sufficiently directed at the court, some courts have found fraud on the court; others require attorney involvement |
+| Party acting in concert with opposing counsel | Yes | The combination of a lying party and complicit attorney constitutes fraud on the court |
+
+---
+
+**Intrinsic vs. Extrinsic Fraud — Critical Distinction:**
+
+| Type | Definition | Effect |
+|---|---|---|
+| **Intrinsic fraud** | Fraud that was or could have been litigated within the proceeding (e.g., perjured testimony that could have been cross-examined) | Does NOT support fraud-on-the-court; limited to MCR 2.612(C)(1)(c) 1-year period |
+| **Extrinsic fraud** | Fraud that was outside the proceeding and prevented the opposing party from even presenting their case (e.g., false statements that prevented service; bribery of court personnel; concealment of the proceeding from the opposing party) | Supports fraud-on-the-court; subject to MCR 2.612(C)(3) no-time-limit relief |
+
+> **Key for Family Court:** If opposing counsel coached a client to submit a false sworn PPO petition, then appeared at the PPO hearing and argued as if the false facts were true, that combination — attorney conduct directing/presenting false testimony — may cross the line from intrinsic perjury to extrinsic fraud on the court.
+
+---
+
+**Fraud on the Court — Standard of Proof:**
+Clear and convincing evidence. Higher than the preponderance standard for ordinary civil matters; lower than the beyond-a-reasonable-doubt standard for criminal perjury.
+
+---
 
 **No Time Limit:**
-Unlike MCR 2.612(C)(2)'s 1-year limit on fraud between parties, **fraud on the court has no time limit** — a judgment may be set aside at any time for fraud on the court (MCR 2.612(C)(3)).
+Unlike MCR 2.612(C)(1)(c)'s 1-year limit on fraud between parties, **fraud on the court has no time limit** — a judgment may be set aside at any time under MCR 2.612(C)(3). There is no laches defense available against a timely-discovered fraud on the court (*Triplett*).
+
+---
+
+**Fraud on the Court in Family Court — Specific Applications:**
+
+1. **GAL who fabricates interview notes or misrepresents children's statements** to the judge: A court-appointed GAL who falsifies the content of child interviews — and presents those falsified interviews in a written report and oral recommendation to the court — has committed fraud on the court. The cure: request an evidentiary hearing, cross-examine the GAL, obtain the underlying interview recordings if any exist, and challenge the GAL's appointment and report.
+
+2. **Custody evaluator who falsifies or misrepresents clinical findings:** A court-appointed evaluator who submits a report containing fabricated psychological test results or falsely attributes statements to the parties commits fraud on the court. The cure: request the underlying raw data, testing materials, and interview notes; retain a rebuttal expert.
+
+3. **Attorney who knowingly presents false testimony:** An attorney who knows their client is about to commit perjury and does not take remedial measures (or who actively elicits the false testimony) has committed fraud on the court. Basis for AGC grievance, possible attorney disqualification (MCR 2.117), and MCR 2.612(C)(3) relief.
+
+4. **False ex parte PPO affidavit presented by an attorney:** An attorney who prepares and presents a PPO petition containing false factual statements that the attorney knew were false has assisted in fraud on the court. This is distinguishable from a pro se petitioner's false petition, which would be intrinsic fraud only.
+
+---
+
+**Procedure to Raise Fraud on the Court:**
+
+1. File a **motion under MCR 2.612(C)(3)** in the same case
+2. Include a detailed affidavit specifying: the specific false statements; who made them; what role each person (officer of court, party) played; how the false statements were directed at the court; the specific harm
+3. Request an **evidentiary hearing** — fraud on the court cannot be decided on affidavits alone where the facts are disputed
+4. At the hearing: present documentary evidence + examine/cross-examine witnesses under oath
+5. If proven: request the court vacate the judgment, order a new hearing, and consider sanctions
+6. **Preserve for appeal:** if the trial court denies the motion, preserve by requesting written findings under MCR 2.517 and appeal the denial (final order under MCR 7.202(6)(a))
 
 ---
 
 ### MCR 2.612 — Relief from Judgment for Fraud
 
-**MCR 2.612(C)(1) — Time-Limited Grounds:**
-The court may relieve a party from a **final judgment or order** within **1 year** of entry for:
-- **(b)** Newly discovered evidence that could not have been discovered earlier with reasonable diligence
-- **(c)** Fraud (including fraudulent representations), misrepresentation, or other misconduct of an adverse party
+**Overview and Purpose:**
+MCR 2.612 is the primary vehicle for vacating a final judgment obtained through fraud, newly discovered evidence, or mistake after the appeal window has closed. In family court, it is the mechanism for reopening custody orders, support orders, and divorce judgments that were procured by perjury or false sworn statements.
+
+---
+
+**MCR 2.612(C)(1) — Time-Limited Grounds (Must Be Filed Within 1 Year of Order):**
+
+| Ground | Rule | What It Covers |
+|---|---|---|
+| Mistake, inadvertence, surprise, or excusable neglect | (C)(1)(a) | Party's own error; rarely applicable to fraud cases |
+| Newly discovered evidence | (C)(1)(b) | Evidence that existed but could not have been found with reasonable diligence before judgment |
+| Fraud, misrepresentation, or other misconduct of adverse party | (C)(1)(c) | Fraud *between the parties* — the opposing party lied to the court, but not in a way that corrupted the entire process |
+| Void judgment | (C)(1)(d) | Judgment entered without personal jurisdiction or subject matter jurisdiction |
+| Satisfied/released/discharged judgment | (C)(1)(e) | Limited relevance to fraud cases |
+| Prior judgment on which current judgment was based has been reversed | (C)(1)(f) | Rare in family cases |
+
+**Critical Point — (C)(1)(c) vs (C)(3):**
+- **(C)(1)(c)** covers **fraud between the parties** — it requires that the fraud be one the opposing party could not, with reasonable diligence, have discovered and resisted in the original proceeding. The 1-year limit runs from entry of the order, not from discovery of the fraud. [This means a fraud discovered 13 months after the order may be time-barred under (C)(1)(c).]
+- **(C)(3)** covers **fraud on the court** — the intrinsic/extrinsic distinction governs. The no-time-limit provision only applies to true fraud-on-the-court scenarios (officer of court involvement; see Fraud on the Court section above).
+
+---
+
+**MCR 2.612(C)(2) — Also Time-Limited:**
+The motion under (C)(1) must be filed **within a reasonable time** and, for grounds (a), (b), and (c), **not more than 1 year** after the judgment was entered or taken, or the date of the proceeding complained of.
+
+---
 
 **MCR 2.612(C)(3) — No Time Limit:**
 The court may set aside a judgment at **any time** for:
-- Fraud on the court (as distinct from fraud between parties)
+- **Fraud on the court** (as defined in *Triplett*/*Sprague* — requires officer of court)
 
-**Procedure:**
-- File a **motion** under MCR 2.612(C) in the same case in which the judgment was entered
-- Motion must be supported by **affidavit** establishing the basis with specificity
-- Court may order an **evidentiary hearing**
-- If fraud is proven: court vacates the judgment; may order new trial or rehearing
+The no-time-limit provision is a powerful remedy but is limited to the fraud-on-the-court category. Courts strictly enforce the distinction between (C)(1)(c) (1-year limit) and (C)(3) (no limit) — do not conflate them.
 
-**Relationship to Appeal:**
-- MCR 2.612 is not a substitute for appeal but is available post-appeal or where the fraud was not discoverable on the record below
-- If fraud is discovered after the appeal window closes, MCR 2.612 is often the only avenue
+---
 
-**Family Court Orders:**
-MCR 2.612 applies to **all final orders**, including custody orders, divorce judgments, support orders, and PPO orders. Post-judgment custody modification based on newly discovered false testimony is a recognized basis.
+**Newly Discovered Evidence — (C)(1)(b) Analysis:**
+
+The standard for newly discovered evidence requires:
+1. The evidence must have **existed at the time of trial**
+2. The party could not have discovered it with **reasonable diligence** before trial
+3. The evidence is **material** — it would likely have changed the outcome
+4. The evidence is **not merely cumulative or impeaching**
+
+*Family Court Application:* DNA evidence obtained after a paternity order is entered is a textbook newly discovered evidence scenario (MCL 722.1443 also provides a specific statutory procedure). Discovery of concealed assets, hidden income, or a hidden bank account after a divorce judgment is another common application.
+
+---
+
+**Fraud Between Parties — (C)(1)(c) Analysis:**
+
+Elements:
+1. The opposing party made a **material false representation** or concealed a material fact
+2. The party knew it was false (or made it recklessly)
+3. It was made to **induce the court's reliance** (not just to deceive the opposing party)
+4. The court **relied** on the false representation in entering judgment
+5. The fraud **could not have been discovered with reasonable diligence** before judgment
+
+*What Diligence Requires:* The party must have taken reasonable steps to discover the truth. Failure to conduct basic discovery (when discovery was available) may defeat a (C)(1)(c) motion on the ground that the fraud was discoverable. However, where the opposing party actively concealed the fraud (e.g., hid records), diligence is easier to establish.
+
+*Burden:* The moving party bears the burden by clear and convincing evidence.
+
+---
+
+**Procedure for MCR 2.612 Motion:**
+
+1. **File the motion in the original case** — MCR 2.612 motions are filed in the case where the judgment was entered, not in a new case
+2. **Specificity requirement:** Motion must be supported by an **affidavit** that:
+   - Identifies the specific order(s) to be vacated
+   - States the specific false representations and who made them
+   - States when and how the fraud was discovered
+   - States the ground (C)(1)(b), (C)(1)(c), or (C)(3))
+   - Explains why the fraud could not have been discovered earlier with reasonable diligence (for (C)(1)(c))
+3. **Service:** Serve all parties in the original case
+4. **Hearing:** Court may decide on affidavits and briefs, or may hold an **evidentiary hearing**; for fraud-on-the-court claims, an evidentiary hearing is typical
+5. **Standard:** Clear and convincing evidence for fraud; preponderance for newly discovered evidence [UNVERIFIED — verify standard for (C)(1)(b)]
+6. **If motion is granted:** Court vacates the judgment; may order a new trial or hearing; may impose sanctions on the offending party and/or attorney
+7. **If motion is denied:** Denial is a final order appealable as of right if it terminates the case, or by leave in a pending case (MCR 7.203(B))
+
+---
+
+**MCR 2.612 and Custody Orders — Special Considerations:**
+
+- **Custody orders are never truly final** — MCL 722.27(1)(c) always allows modification on a showing of proper cause or change in circumstances. MCR 2.612 provides an alternative route that does not require showing proper cause/change in circumstances if the original order was obtained through fraud.
+- **Effect of vacating a custody order:** The court retains jurisdiction; it may enter a temporary order pending a new hearing; the de facto custody arrangements during the pendency do not automatically become the new baseline
+- **Best interests governs the new hearing:** Even if the court vacates the original order, the new hearing is conducted under MCL 722.23 best-interests analysis; the fraud is relevant evidence in that analysis (as bearing on moral fitness under MCL 722.23(h)) but does not automatically result in a custody change
+- **Support orders:** A support order based on a fraudulent MCSF (false income disclosure) may also be challenged under MCR 2.612(C)(1)(c) within 1 year of discovery of the concealment; after 1 year, consider a separate motion to modify support based on a significant change in circumstances
+
+---
+
+**Strategic Comparison — MCR 2.612 vs. Appellate Review:**
+
+| Factor | MCR 2.612 Motion | Direct Appeal |
+|---|---|---|
+| Timing | Within 1 year (C)(1)(c)); or any time (C)(3)) | 21 days from final order |
+| Requires new evidence | Often yes | No — argues error on existing record |
+| Standard | Clear and convincing (fraud) | Abuse of discretion / clear error |
+| Available after appeal | Yes (if fraud discovered after appeal) | No — res judicata after final appellate decision |
+| Available simultaneously | Yes (with pending appeal) | Simultaneous MCR 2.612 + appeal possible |
+
+*Best practice:* Where a final order was entered on false testimony and the appeal window is still open, file both a direct appeal and a MCR 2.612 motion simultaneously. The MCR 2.612 motion preserves the fraud issue even if the appeal is unsuccessful on other grounds.
 
 ---
 
@@ -7272,6 +7498,8 @@ Sanctions under MCR 2.114 and MCL 600.2591 apply equally to self-represented par
 **Foundational Principle — Judicial Notice of Own Records:**
 Under **MRE 201**, a court may take judicial notice of **adjudicative facts** not subject to reasonable dispute. Michigan courts routinely take judicial notice of their **own prior orders, findings, and records** — including findings made in related proceedings before the same judge.
 
+---
+
 **The "Same Judge" Effect:**
 When the same judge presides over **multiple cases involving the same parties** (e.g., a PPO case and a subsequent custody case), that judge:
 1. Retains **personal knowledge** of credibility determinations made in the prior proceeding
@@ -7286,10 +7514,67 @@ If a party has been **found to have made false statements** in a prior proceedin
 - Supports an argument that the party cannot be trusted in the current case
 - May weigh into a best-interests-of-child analysis in custody under MCL 722.23(h) ("moral fitness of the parties")
 
-**Formal Mechanisms:**
-1. **Motion to incorporate record:** Request the court in the subsequent case take judicial notice of specific findings, orders, and transcript excerpts from the prior case
-2. **Offer of transcript as exhibit:** Transcripts of prior testimony may be offered under MRE 801(d)(1)(A) as prior inconsistent statements (not hearsay)
-3. **Request for judicial notice:** File a motion for judicial notice of docket entries, orders, and findings under MRE 201(b)-(c)
+---
+
+**MRE 201 — Judicial Notice: Formal Procedure**
+
+*MRE 201(b) — Facts Subject to Notice:*
+A judicially noticed fact must be one not subject to reasonable dispute in that it is either:
+- Generally known within the territorial jurisdiction of the trial court, OR
+- Capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned
+
+*Prior court orders and findings:* Prior orders, docket entries, and the court's own records are facts that are "capable of accurate and ready determination" — the source (the court's own file) cannot reasonably be questioned.
+
+*MRE 201(c) — When Notice May Be Taken:*
+A court may take judicial notice at any time, including at trial, whether or not requested by a party. However, a formal request ensures a clear appellate record.
+
+*MRE 201(d) — When Notice Must Be Taken:*
+A court MUST take judicial notice if requested and supplied with the necessary information.
+
+*Procedure for Formal Judicial Notice Request:*
+1. File a **written motion for judicial notice** in the subsequent case
+2. Attach the prior order(s), findings of fact, and relevant transcript excerpts as exhibits to the motion
+3. State specifically which facts you are requesting the court notice (be precise — the credibility finding, the specific false statement found, the sanction imposed)
+4. Cite MRE 201(d) — the court must take notice when properly requested
+5. At the hearing: quote from the prior transcript and prior order; request the court state on the record that it is taking judicial notice
+
+*Appellate Preservation:* If the trial court refuses to take judicial notice of its own prior record, that refusal is an evidentiary error reviewed for abuse of discretion on appeal. Preserve by making a clear offer of the document on the record and stating the basis (MRE 201).
+
+---
+
+**Mandatory vs. Permissive Judicial Notice:**
+
+| Type | Standard | Court's Obligation |
+|---|---|---|
+| Mandatory (MRE 201(d)) | Party requests and supplies necessary information | Court must take notice |
+| Permissive (MRE 201(c)) | No request needed | Court may take notice at any time |
+| Sua sponte | Court's own initiative | Court may notice adjudicative facts without request |
+
+*Practical Note:* Requesting judicial notice under MRE 201(d) is preferred over relying on the court's permissive or sua sponte notice, because it creates a clear record — the request is on record, the court's response is on record, and any error in denying the request is preserved.
+
+---
+
+**Issue Preclusion vs. Evidentiary Use — Critical Distinction:**
+
+| Doctrine | What It Precludes/Admits | Requirements |
+|---|---|---|
+| **Collateral estoppel** (issue preclusion) | Prevents re-litigation of an issue **actually litigated and necessarily decided** in a prior proceeding | Same issue; full and fair opportunity to litigate; final judgment; same parties (or privity) |
+| **Judicial notice of prior findings** (MRE 201) | Admits the prior finding as an **adjudicative fact** that the court treats as established | No privity requirement for notice purposes; court noticing its own records |
+| **Prior inconsistent statement** (MRE 801(d)(1)(A)) | Admits prior sworn testimony as **substantive evidence** (not just impeachment) | Must be under oath; declarant must testify at current hearing |
+| **Impeachment** (MRE 613) | Discredits the witness by showing prior inconsistent statement | No oath requirement; witness must be given opportunity to explain |
+
+*Strategic Choice:* If the prior proceeding produced a final finding that the opposing party made a false statement, **collateral estoppel** forecloses relitigation of that specific finding. The opposing party cannot argue in the custody case that the PPO finding was wrong — the issue is settled. This is the strongest cross-case effect and should be the primary argument where the elements are met (*Domako v Rowe*, 438 Mich 347 (1991)).
+
+---
+
+**Formal Mechanisms to Import the Prior-Case Record:**
+
+1. **Motion for judicial notice (MRE 201(d)):** Request notice of docket entries, orders, findings of fact, and prior court transcripts
+2. **Offer transcript as exhibit:** Transcripts of prior sworn testimony may be offered under MRE 801(d)(1)(A) where the declarant testifies at the current hearing and the prior statement is inconsistent
+3. **Certified copy of prior order:** Request the clerk certify copies of prior orders for use as court records
+4. **Request judicial notice of related case number:** The court can take notice that a related case (same parties, different case number) exists and incorporate its records by reference
+5. **Collateral estoppel motion in limine:** Pre-hearing motion to establish that specific factual findings from the prior case are conclusive and may not be re-litigated
+6. **Stipulation:** If the opposing party will agree, stipulate to the prior findings as established facts; if they will not agree, that refusal is itself relevant (it signals consciousness of the false statements)
 
 ---
 
@@ -7370,25 +7655,106 @@ In general, res judicata bars relitigation of claims that were or could have bee
 
 ### Impeachment with Prior False Statements (MRE 613 & 801)
 
-**MRE 613 — Prior Statements of Witnesses:**
-When a witness testifies, a party may **impeach** the witness with a prior statement inconsistent with the witness's current testimony:
-- Prior statement may be written, recorded, or verbal
-- Witness must be given an opportunity to explain or deny the prior statement (MRE 613(b))
-- No requirement that the prior statement be under oath for use as impeachment
+**Overview:**
+Impeachment is the process of attacking the credibility of a witness's current testimony by showing they previously said something different. In family court perjury scenarios, impeachment tools are the primary courtroom mechanism for exposing false statements in real time. Understanding the technical requirements of each rule allows strategic exploitation of the opposing party's prior sworn statements.
 
-**MRE 801(d)(1)(A) — Prior Inconsistent Statement as Non-Hearsay:**
-A prior statement is **not hearsay** (and thus admissible as substantive evidence, not just impeachment) if:
-- The declarant testifies at the current trial/hearing AND
-- The prior statement is **inconsistent** with the current testimony AND
-- The prior statement was **given under oath** in a prior proceeding
+---
 
-> **Critical Application:** False sworn statements from a PPO petition, FOC interview (if under oath), or prior custody hearing testimony are admissible as **substantive non-hearsay evidence** under MRE 801(d)(1)(A) in the subsequent custody proceeding.
+**MRE 613 — Prior Statements of Witnesses (Impeachment):**
+
+*Rule:* When a witness testifies, a party may **impeach** the witness with a prior statement inconsistent with the witness's current testimony.
+
+*Foundation Requirements (MRE 613(b)):*
+Before extrinsic evidence of a prior inconsistent statement may be introduced, the witness must be:
+1. **Given an opportunity to explain or deny** the prior statement
+2. **Opposing counsel** must be given an opportunity to interrogate the witness about the statement
+
+*MRE 613(b) Exception:* The court may excuse the foundation requirement (giving the witness an opportunity to explain) in the interests of justice.
+
+*No Oath Requirement:* Unlike MRE 801(d)(1)(A), a prior statement used for impeachment under MRE 613 does not need to have been made under oath. Informal emails, texts, social media posts, and verbal statements to witnesses can all be used for impeachment.
+
+*Step-by-Step Cross-Examination Technique Using MRE 613:*
+
+1. **Lock in the current testimony:** Get the witness to clearly state the position you intend to contradict on direct or on cross. Example: "You testified on direct that you never had physical contact with [party] on [date], correct?"
+2. **Confirm no uncertainty:** "And you're certain about that? You have no doubt?" — eliminates wiggle room
+3. **Introduce the prior statement:** "I'm going to show you what has been marked as Exhibit X — this is a text message from your phone number on [date]. Please read that aloud." OR: "Do you recall speaking with [FOC investigator] on [date]? You stated to her that [X]. Do you remember saying that?"
+4. **Allow explanation or denial** (satisfying MRE 613(b) foundation): "Is that statement inconsistent with what you just told this court?"
+5. **If the witness denies or cannot explain:** Introduce the extrinsic evidence (the document, recording, or prior witness testimony) and move for admission
+
+*Preserving Impeachment for Appellate Record:* Mark the prior statement as an exhibit even if the court limits its use to impeachment; the exhibit will be in the appellate record.
+
+---
+
+**MRE 801(d)(1)(A) — Prior Inconsistent Sworn Statement as Non-Hearsay:**
+
+*Rule:* A prior statement is **not hearsay** (and thus admissible as substantive evidence — not just impeachment) if:
+1. The declarant **testifies at the current trial or hearing** (and is subject to cross-examination)
+2. The prior statement is **inconsistent** with the current testimony
+3. The prior statement was **given under oath** in a prior proceeding
+
+*"Under Oath" Requirement:* The prior statement must have been made under oath in a proceeding. Qualifying proceedings include:
+- Prior deposition
+- Prior court hearing (PPO hearing, FOC hearing, prior custody hearing, MCSF hearing)
+- Sworn affidavit filed with a court
+- Grand jury testimony
+- Any other proceeding where an oath was administered
+
+*Critical Distinction from MRE 613:*
+- **MRE 613** (impeachment only): Prior statement admitted only to discredit the witness; jury (or judge) may not treat it as proof of the facts stated
+- **MRE 801(d)(1)(A)** (substantive evidence): Prior sworn statement admitted as direct evidence of the truth of what it says — the judge may rely on it as substantive proof, not just as evidence of inconsistency
+
+*Application:* The opposing party's sworn statements in the PPO petition are admissible under MRE 801(d)(1)(A) in the custody hearing if:
+- The opposing party testifies at the custody hearing (they will, typically)
+- The PPO petition was signed under oath (it is — it is a verified pleading)
+- The statements in the PPO petition are inconsistent with their custody hearing testimony
+
+> **Strategic Note:** Do NOT rely on MRE 613 alone when you have sworn prior statements available. Use MRE 801(d)(1)(A) so the prior false statement is substantive evidence — the judge can and should rely on it as positive proof that the opposing party was lying.
+
+---
 
 **MRE 608(b) — Specific Instances of Conduct:**
-On cross-examination, a party may inquire into **specific instances of a witness's prior conduct** probative of truthfulness or untruthfulness — including prior false statements, even if not resulting in a conviction. Judge has discretion; abuse of discretion standard on appeal.
 
-**MRE 609 — Prior Conviction:**
-If the opposing party was **convicted of perjury** (MCL 750.422), that conviction is admissible to impeach their credibility under MRE 609(a)(2) (crimes involving dishonesty or false statement — **mandatory** admission regardless of prejudice).
+*Rule:* On cross-examination, a party may inquire into **specific instances of the witness's prior conduct** probative of truthfulness or untruthfulness. Examples:
+- Prior false statements on applications or forms
+- Prior perjury (even if not resulting in conviction)
+- Prior false reports to police
+- Prior false statements to the FOC investigator
+
+*Limitations:*
+- Judge has discretion to exclude under MRE 403 (unfair prejudice)
+- Extrinsic evidence (documents, witnesses) is generally **not admissible** to prove the specific conduct under MRE 608(b) — only the witness's own answer on cross-examination
+- Abuse of discretion standard on appeal for exclusion
+
+*Practical Use:* MRE 608(b) is most useful when you have strong grounds to believe the witness will deny (allowing you to create a record of the denial for use if they are later convicted of perjury) or will admit prior dishonest conduct (rare but powerful). The absence of extrinsic evidence limits its independent value.
+
+---
+
+**MRE 609 — Prior Conviction for Impeachment:**
+
+*MRE 609(a)(1) — General Convictions:*
+Evidence that a witness was convicted of a crime is admissible to impeach if the crime was punishable by imprisonment for more than 1 year and the court determines the probative value of admitting the evidence outweighs its prejudicial effect.
+
+*MRE 609(a)(2) — Crimes of Dishonesty (MANDATORY):*
+If the prior conviction is for a **crime involving dishonesty or false statement**, the conviction is admissible **regardless of the prejudice vs. probative value balance** — admission is mandatory. This category includes:
+- Perjury (MCL 750.422) — **always admissible**
+- Fraud
+- Embezzlement
+- False statement offenses
+
+*If the opposing party was convicted of perjury:* The conviction is mandatorily admissible under MRE 609(a)(2) without any balancing. The judge must admit it. The conviction then directly attacks credibility at the most fundamental level.
+
+*MRE 609(b) — Time Limitation:* Evidence of a conviction is not admissible if more than 10 years have elapsed since the date of the conviction or release from confinement, whichever is later, unless the court determines in the interests of justice that the probative value substantially outweighs its prejudicial effect.
+
+---
+
+**Combined Impeachment Strategy — Sequence:**
+
+For maximum impact where the opposing party has made prior sworn false statements:
+1. **On cross-examination:** Lock in their current position (MRE 613 foundation)
+2. **Confront with prior sworn statement:** Admit under MRE 801(d)(1)(A) as substantive evidence
+3. **Ask about other prior false statements:** MRE 608(b) specific instances on cross
+4. **If convicted:** Introduce conviction under MRE 609(a)(2)
+5. **Request findings:** After all impeachment is complete, ask the court to make specific credibility findings on the record under MCR 2.517
 
 ---
 
@@ -7424,33 +7790,99 @@ If a **judge** made findings the party believes were induced by fraud on the cou
 
 ### Federal Parallel Exposure — 18 USC 1621, 1623 & 1001
 
-**18 USC 1621 — Perjury (General):**
-Any person who, while under oath before a competent tribunal, officer, or person, willfully states something they know to be false and material:
-- **Penalty:** up to 5 years federal imprisonment
+**Overview:**
+Federal perjury and false-statement statutes operate independently of Michigan criminal law. In Michigan family court proceedings, federal exposure typically arises where the proceeding has a federal nexus (bankruptcy, federal benefits, federal courts) or where a party makes false statements to federal agencies. Understanding the federal parallel allows a litigant to pursue or document a referral pathway that creates additional leverage.
 
-Applicable to: federal court proceedings, depositions in federal proceedings, sworn statements to federal agencies.
+---
 
-**18 USC 1623 — Perjury Before Federal Court or Grand Jury:**
-Knowingly making a false material statement under oath before a court or grand jury of the United States:
-- **Penalty:** up to 5 years
+**18 USC 1621 — General Federal Perjury:**
 
-**Key Advantage of 18 USC 1623:**
-Proof of falsity may be established by showing **two irreconcilable statements** — the government need not prove which is false (the two-declarations rule), unlike general perjury under 18 USC 1621 where the government must affirmatively prove the specific false statement.
+*Elements:*
+1. The defendant was under oath (or affirmation) before a competent tribunal, officer, or person in any case in which a law of the United States authorizes an oath to be administered
+2. The defendant **willfully stated** something they knew to be false
+3. The false statement was **material** to the proceeding
+
+*Penalty:* Up to **5 years** federal imprisonment
+
+*Materiality:* The false statement must be capable of influencing the decision-maker — it need not actually have influenced anyone.
+
+*Key Limitation:* The government must affirmatively prove **which statement was false** — the prosecution must prove the falsity of the specific statement, not merely an inconsistency between two statements.
+
+---
+
+**18 USC 1623 — False Declarations Before Federal Court or Grand Jury:**
+
+*Elements:*
+1. Knowingly makes or uses any false material declaration
+2. In any proceeding before or ancillary to any court or grand jury of the United States
+
+*Penalty:* Up to **5 years** federal imprisonment
+
+**Key Advantage — The Two-Declarations Rule:**
+Unlike 18 USC 1621, proof of falsity under 18 USC 1623 may be established by showing that the defendant made **two irreconcilable declarations** under oath — the government does not need to prove which of the two is false, only that both cannot be true simultaneously.
+
+*Example:* Party states in a federal bankruptcy filing (under penalty of perjury — 28 USC 1746) that their annual income is $40,000. In MCSF proceedings involving federal court jurisdiction, the same party states under oath that their annual income is $95,000. These irreconcilable statements are sufficient for a 1623 prosecution without proving which figure is false.
+
+*Recantation Defense (18 USC 1623(d)):* A defendant may avoid a 18 USC 1623 conviction if they **recant** the false declaration **in the same continuous proceeding** and before the falsity has been substantially exposed to the proceeding. This safe harbor is narrow — the recantation must be timely and genuine, not a strategic retreat after the lie is discovered.
+
+---
 
 **18 USC 1001 — False Statements to Federal Agencies:**
-Knowingly making a false material statement in any matter within the jurisdiction of the executive, legislative, or judicial branch of the federal government:
-- **Penalty:** up to 5 years (up to 8 years if involving domestic terrorism or federal terrorism offense)
-- Applies to: false statements in federal benefit applications (SNAP, Medicaid, Social Security), false statements to DHS, FBI, USCIS, federal courts
 
-**Federal Applicability to Michigan Family Cases:**
-Federal perjury charges arise in Michigan family cases where:
-- False statements are made to a U.S. bankruptcy court (common in divorce — asset concealment)
-- False statements are made in federal agency proceedings (SSA disability, SNAP, Medicaid)
-- Interstate child custody involving a federal ICWA proceeding
-- False statements to a federal immigration officer (USCIS) by a party in a mixed-status family
+*Elements:*
+1. In any matter within the jurisdiction of the **executive, legislative, or judicial branch** of the federal government
+2. Knowingly and willfully:
+   - **Falsifies, conceals, or covers up** by any trick, scheme, or device a material fact
+   - Makes any **materially false, fictitious, or fraudulent statement or representation**, or
+   - Makes or uses any **false writing or document**
 
-**18 USC 1623 Recantation Defense:**
-A defendant who recants a false statement in the same continuous court or grand jury proceeding, **before the falsity is exposed**, may raise recantation as a defense.
+*Penalty:* Up to **5 years** (up to 8 years if involving domestic terrorism or international terrorism offenses)
+
+*Scope:* 18 USC 1001 has extremely broad scope — it applies to virtually any interaction with federal executive agencies, federal courts, and Congress. In family law contexts:
+
+| False Statement | Federal Agency | 18 USC 1001 Exposure |
+|---|---|---|
+| False income on SNAP/Medicaid application | MDHHS (administering federal funds) | Yes — federal program |
+| False SSA disability claim | Social Security Administration | Yes |
+| False statement to VA benefits | Department of Veterans Affairs | Yes |
+| False statement in federal bankruptcy proceeding | U.S. Bankruptcy Court | Yes (also 18 USC 1623) |
+| False statement to USCIS (immigration) | Department of Homeland Security | Yes |
+| False statement in federal ICWA proceeding | Federal court / BIA | Yes |
+| False SNAP/Medicaid fraud (concealed assets) | HHS/USDA | Yes (also 7 USC 2024) |
+
+---
+
+**Federal Applicability to Michigan Family Cases — Specific Scenarios:**
+
+1. **Bankruptcy + Divorce:** When a party files for bankruptcy during divorce proceedings, all financial disclosures in the bankruptcy petition are made under penalty of perjury (28 USC 1746). A party who conceals assets in divorce by falsely omitting them from a bankruptcy schedule, or who falsely claims income in divorce proceedings inconsistent with their bankruptcy filing, has created federal perjury/false-statement exposure. The bankruptcy trustee and federal prosecutors take these cases seriously.
+
+2. **Federal Benefits Fraud:** A party who falsely claims the other parent abandoned the family in order to obtain SNAP benefits, or who conceals the income of a cohabiting partner from Medicaid income calculations, has made false statements to federal programs — federal civil (and potentially criminal) exposure.
+
+3. **ICWA Proceedings:** Proceedings involving tribal children and ICWA (25 USC 1901 et seq.) may involve federal court jurisdiction; false statements in ICWA proceedings have federal exposure.
+
+4. **Federal Court Proceedings:** False statements in a federal civil rights action arising from the same domestic violence incidents have federal perjury exposure (18 USC 1621/1623).
+
+---
+
+**How to Refer Federal Perjury/False-Statement Cases:**
+
+1. **FBI Field Office:** File a written referral with the nearest FBI field office (Detroit: 477 Michigan Ave, Ste 1750; Grand Rapids: 330 Ionia Ave NW). Describe the federal nexus, the specific false statement, and the contradicting evidence. The FBI has jurisdiction over 18 USC 1001 and 18 USC 1621/1623 violations.
+
+2. **U.S. Attorney's Office:** Referral letters to the U.S. Attorney for the Eastern District of Michigan (Detroit) or Western District of Michigan (Grand Rapids) are appropriate where the evidence is strong and the federal nexus is clear.
+
+3. **HHS Office of Inspector General:** For false statements involving Medicaid/SNAP, the HHS OIG has a hotline (1-800-HHS-TIPS) and accepts written complaints.
+
+4. **SSA OIG:** For false SSA statements; hotline at 1-800-269-0271.
+
+5. **Strategic Note:** A referral letter documenting the false statement and the federal nexus creates a record and puts the opposing party on notice. Even if federal prosecution does not follow, the referral letter is documented conduct that may be used in the state civil proceedings.
+
+---
+
+**State vs. Federal Prosecution — Coordination Issues:**
+
+- State perjury prosecution (MCL 750.422) and federal perjury prosecution (18 USC 1621/1623) for the same conduct are not barred by double jeopardy because the statutes are from separate sovereigns (*United States v Lanza*, 260 US 377 (1922)) [UNVERIFIED — verify current double jeopardy analysis for state/federal overlap]
+- A federal conviction for perjury arising from the same conduct as a state family court matter is mandatorily admissible under MRE 609(a)(2) in the state civil proceedings
+- State prosecutors generally defer to the U.S. Attorney where federal charges are being pursued; coordination through the county prosecutor's office is appropriate
 
 ---
 
@@ -7459,35 +7891,43 @@ A defendant who recants a false statement in the same continuous court or grand 
 **The Core Principle:**
 Perjury and fraud on the court are most effective when documented **cumulatively** — each false statement, each inconsistency, each contradicted allegation must be preserved in the record so that a pattern becomes undeniable to the judge presiding over multiple related cases.
 
-**Record-Building Checklist:**
+**Record-Building Master Checklist:**
 
-| Step | Action | Rule/Authority |
-|---|---|---|
-| 1 | Obtain certified transcripts of **all hearings** in which opposing party testified | MCR 8.108; MCR 8.005 |
-| 2 | Obtain **all sworn filings** (PPO petition, verified complaint, MCSF, FOC affidavits) | Court file; FOIA if needed |
-| 3 | Compare all sworn statements for **internal inconsistencies** | MRE 613 basis |
-| 4 | Gather **documentary evidence contradicting** sworn statements (phone records, GPS, bank statements, social media, emails) | MRE 901 authentication |
-| 5 | At every hearing, **cross-examine** on prior inconsistent statements and demand on-the-record rulings | MRE 613; MRE 801(d)(1)(A) |
-| 6 | After each hearing where false statements are exposed, **request findings of fact** on credibility | MCR 2.517 |
-| 7 | File **sanctions motions** promptly after each false filing rather than accumulating | MCR 2.114; MCL 600.2591 |
-| 8 | Cite prior case credibility findings in every subsequent brief in related cases | Judicial notice; MRE 201 |
-| 9 | Keep a **timeline of false statements** with case number, date, transcript page, and contradicting evidence | Litigation strategy |
-| 10 | Move under **MCR 2.612** when a final order was based on false testimony | MCR 2.612(C) |
+| Step | Action | Specific Mechanics | Rule/Authority |
+|---|---|---|---|
+| **1** | Obtain certified transcripts of **all hearings** in which opposing party testified | Order from court reporter (MCR 8.108); request within 28 days of hearing to preserve reporters' notes; get certified copy | MCR 8.108; MCR 8.005 |
+| **2** | Obtain **all sworn filings** in every related case | Pull court file via OTIS (court.michigan.gov/c/otis); FOIA police reports from law enforcement agency; FOIA FOC records under MCR 3.218 + MCL 552.505b | MCR 3.218; MCL 552.505b; FOIA MCL 15.231 |
+| **3** | Create a **false-statement matrix** | Spreadsheet: Column A = Statement (quote verbatim), Column B = Case/Document/Date/Page, Column C = Contradicting Evidence, Column D = Rule for Admission | MRE 613, 801(d)(1)(A) basis |
+| **4** | Gather **documentary contradicting evidence** | Phone records (carrier FOIA/subpoena); GPS records; bank statements; social media archives; security camera footage; medical records; employer records | MRE 901 authentication; MCR 2.302 discovery subpoena |
+| **5** | At every hearing, **cross-examine on the matrix** | Use the matrix at each hearing: lock in → confront → demand explanation; do not save impeachment for later — each hearing is an opportunity to build the record | MRE 613; MRE 801(d)(1)(A) |
+| **6** | After each hearing exposing false statements, **request written findings of fact** | Oral motion at hearing: "I request the court make specific findings of fact as to the credibility of [party]'s testimony regarding [X]." Follow up with written motion if necessary | MCR 2.517 |
+| **7** | File **sanctions motions promptly** after each false filing | Do not wait to accumulate — each false filing is a separate basis for sanctions; prompt filing preserves the record and signals the court you take the issue seriously | MCR 2.114; MCL 600.2591 |
+| **8** | In every related case brief, **cite prior credibility findings** | Open with judicial notice request; quote from prior transcript/order; argue collateral estoppel where elements met | MRE 201; MCR 2.116(C)(7) collateral estoppel |
+| **9** | Maintain a **master timeline** | Narrative chronology: date → event → false statement made → evidence contradicting → court outcome. Attach as exhibit to disqualification/JTC motions and appellate briefs | Litigation strategy |
+| **10** | Move under **MCR 2.612** when a final order was obtained on false evidence | File motion in original case; attach false-statement matrix; request evidentiary hearing; simultaneously appeal if in the 21-day window | MCR 2.612(C)(1)(c) or (C)(3) |
 
-**Best-Interests Factor — MCL 722.23(h) — Moral Fitness:**
-In a contested custody case, the court must consider **the moral fitness of the parties**. A documented pattern of false sworn statements directly speaks to moral fitness. Present the record of proven false statements as evidence of the opposing party's moral fitness — or lack thereof.
+---
 
-**MCL 722.23(j) — Willingness to Facilitate Relationship:**
-A party who uses false PPO allegations to disrupt the other parent's relationship with the children demonstrates unwillingness to facilitate the child's relationship with the other parent. This is a best-interests factor under MCL 722.23(j).
+**Best-Interests Factor Integration:**
 
-**Best-Interests Factor — MCL 722.23(l) — Any Other Relevant Factor:**
-Courts have broad discretion under the catch-all factor to consider litigation conduct that affects the child's welfare, including a parent's use of the court system to harm the other parent through false allegations.
+The record built through the above checklist feeds directly into each contested MCL 722.23 factor:
+
+| MCL 722.23 Factor | How the Perjury Record Affects It |
+|---|---|
+| **(c)** Capacity to provide love, affection, guidance | False mental health/substance allegations proven false → Party A's parenting capacity is intact; Party B falsely attacked it |
+| **(f)** Moral fitness | Pattern of proven false sworn statements = directly evidences lack of moral fitness in the lying party |
+| **(h)** Home, school, community records | False narratives about the home environment are refuted; true record is restored |
+| **(j)** Willingness to facilitate relationship | A party who weaponized false PPO allegations to sever the child's relationship with the other parent has demonstrated disqualifying unwillingness under this factor |
+| **(l)** Any other relevant factor | Pattern of litigation abuse; use of court system to harm other parent; documented credibility destruction |
+
+---
 
 **Practical Notes:**
 - Document **everything** in writing; follow up oral agreements and representations by the opposing party with email or letter
 - Request **e-filing receipts** and certified copies to establish chain of custody of filings
 - Use the **OTIS online search** (court.michigan.gov/c/otis) to pull all case numbers associated with the opposing party — review all cases for prior false filings
 - If the opposing party has made false statements in **multiple different cases** (prior PPO, prior custody case, child protective services report), aggregating those across cases creates the most powerful fraud-on-the-court argument
+- Consider retaining a **litigation paralegal or legal consultant** to manage the document matrix in complex multi-case scenarios where hundreds of pages of prior testimony are involved
 
 ---
 
