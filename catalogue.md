@@ -8407,6 +8407,434 @@ Federal courts are extraordinarily reluctant to intervene in domestic relations 
 
 ---
 
-*Sources updated: Michigan Constitution of 1963 (art I, art III, art VI, art VI §30); Michigan Court Rules (MCR 1.109, 2.003, 2.114, 2.517, 2.605, 2.612, 3.219, 3.302, 7.202, 7.203, 7.204, 7.205, 7.206, 7.212, 7.301, 7.302, 7.303, 8.005, 8.108); Michigan Rules of Evidence (MRE 201, 608, 609, 613, 801); Michigan Rules of Professional Conduct (MRPC 3.3, 3.5, 8.4); Michigan Code of Judicial Conduct (MCJC Canons 1, 2, 3); Michigan Compiled Laws (MCL) — Chapters 15, 24, 28, 37, 125, 205, 330, 333, 400, 408, 418, 450, 500, 552, 554, 600 (including 600.1651, 600.2591, 600.2605, 600.2940, 600.4310), 691, 700, 710, 712A, 712B, 722 (including 722.23, 722.27a, 722.628, 722.628a, 722.628d, 722.1202, 722.1443), 750 (including 750.159b–750.159x, 750.174a, 750.224, 750.224f, 750.227c, 750.248, 750.411a, 750.422, 750.423, 750.425, 750.505, 750.633), 762, 767, 769, 780; MCL 15.181 et seq. (State Ethics Act); State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments II, IV, V, VI, VIII, XI, XIV; Second Amendment: *Heller* (2008), *McDonald* (2010), *Bruen* (2022), *Rahimi* (2024); RICO (18 USC 1961–1968); 18 USC 922, 924, 981–983, 1001, 1341, 1343, 1344, 1621, 1623, 1951, 1956, 1957, 1963, 2250, 2252; 21 USC 841, 846, 853, 881; 25 USC 1151, 1301, 1901 et seq. (ICWA); 26 USC 5801 et seq. (NFA); 28 USC 1254, 1257, 1291, 1292, 1331, 1332, 1367, 1441–1453, 2101, 2254, 2465; 28 USC 1746; 34 USC 20901 et seq. (SORNA); 42 USC 1396 et seq. (Medicaid); 42 USC 1981, 1983, 1985, 1986, 2000d; 20 USC 1681; 29 USC 794; 42 USC 12101–12189; 7 USC 2011 et seq. (SNAP); CAFRA (Pub. L. 106-185); FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); VAWA (34 USC 12291); Indian Gaming Regulatory Act (25 USC 2710); Major Crimes Act (18 USC 1153); Tribal Law and Order Act (Pub. L. 111-211); *Caperton v A.T. Massey Coal Co*, 556 US 868 (2009); *Tumey v Ohio*, 273 US 510 (1927); *Ward v Village of Monroeville*, 409 US 57 (1972); *Cain v Dep't of Corrections*, 451 Mich 470 (1996); *Fletcher v Fletcher*, 447 Mich 871 (1994); *Domako v Rowe*, 438 Mich 347 (1991); *Monell v Dep't of Social Servs*, 436 US 658 (1978); *Younger v Harris*, 401 US 37 (1971); *Rooker v Fidelity Trust Co*, 263 US 413 (1923); *District of Columbia Court of Appeals v Feldman*, 460 US 462 (1983); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Supreme Court Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; United States Sentencing Guidelines (USSG); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
+---
+
+## §52 — Compounded Institutional Bias: Attorney-Insider Opposing Party, Ex Parte Judicial Misconduct, Illegal Recording & the Tainted PPO→Custody Chain
+
+*This section addresses a specific and dangerous combination of circumstances: an opposing party whose intimate partner is a practicing attorney in the same court and appellate court; judicial staff who reviewed an ex parte submission before it was served on the opposing party; a recording made without the plaintiff's knowledge or consent that was submitted ex parte and used to strip parenting time; and a PPO that was weaponized to jail the plaintiff, quoted in the custody order, and used to progressively eliminate the plaintiff's remaining parenting time. Each element is analyzed independently and then combined into a unified attack strategy.*
+
+---
+
+### The Attorney-Insider Opposing Party — Shadow Counsel Doctrine
+
+**The Problem:**
+The opposing party has a significant other who is a **practicing attorney licensed in Michigan** and who regularly appears in both the trial court and the Court of Appeals. The significant other does not formally enter an appearance in this case — but their influence on the opposing party's litigation strategy, their access to the court's internal culture, their relationships with judges and court staff, and the implicit credibility premium the opposing party receives by association all create a structural bias that operates outside the formal record.
+
+This is the "shadow counsel" problem: an attorney who controls strategy, drafts filings, and leverages professional relationships from behind a pro se facade.
+
+---
+
+**MRPC 8.4(a) — Misconduct Through Another:**
+A lawyer commits professional misconduct if the lawyer **violates the Rules of Professional Conduct through the acts of another**. Specifically:
+
+- An attorney who assists a "pro se" litigant by drafting filings, coaching testimony, and directing strategy in a case in which the attorney has not entered an appearance is acting as de facto counsel in violation of MRPC 1.2 (scope of representation), MRPC 3.4 (fairness to opposing party), and MRPC 8.4(c) (dishonesty, fraud, deceit)
+- The **ghost-writing** of court filings by an undisclosed attorney is addressed in Michigan ethics opinions — while not universally prohibited, full disclosure is required where the filing is presented as a pro se product to obtain procedural advantages (e.g., liberal pleading construction) that would not apply to a represented party
+
+**MRPC 3.5 — Impartiality and Decorum of the Tribunal:**
+A lawyer may not communicate ex parte with a judge on the merits of a case except as permitted by law. Where an attorney is the opposing party's significant other, the probability of informal conversations about the case — at the courthouse, at bar functions, in professional social settings — is a concrete and non-speculative risk.
+
+---
+
+**MCR 2.003(C) — Grounds for Disqualification Based on Attorney Connection:**
+
+| Disqualification Ground | MCR Provision | Application |
+|---|---|---|
+| Judge's impartiality is reasonably in question | MCR 2.003(C)(1)(a) | Judge is socially acquainted with the opposing party's attorney-partner; the relationship creates a reasonable question of impartiality |
+| Party/attorney is within the third degree of relationship to the judge | MCR 2.003(C)(1)(b) | Not directly applicable unless the attorney-partner has a familial relationship with the judge |
+| Judge has a personal bias or prejudice concerning a party | MCR 2.003(C)(1)(c) | Bias may arise from the attorney-partner's regular professional interaction with the judge |
+| Judge has personal knowledge of disputed evidentiary facts | MCR 2.003(C)(1)(d) | If the judge has learned facts about the case informally through the attorney-partner |
+| Economic interest in the case | MCR 2.003(C)(1)(e) | Not typically applicable |
+| Appearance of bias | MCR 2.003(C)(1)(f) | The attorney-partner's regular appearances before the judge create a structural appearance of bias; reasonable observer would question impartiality |
+
+**MCJC Canon 3(C)(1) — Mandatory Disqualification:**
+A judge shall disqualify themselves in any proceeding in which their impartiality might reasonably be questioned. The mere existence of a regular professional attorney-client relationship between the judge and the opposing party's de facto attorney is not, by itself, disqualifying — but combined with evidence of differential treatment (see below), it becomes a powerful record-supported disqualification ground.
+
+---
+
+***Caperton v A.T. Massey Coal Co*, 556 US 868 (2009) — Structural Due Process Bias:**
+The U.S. Supreme Court held that due process requires disqualification where there is a **serious risk of actual bias** based on objective and reasonable perceptions. The *Caperton* analysis requires:
+1. A significant relationship between the judge and a party or the party's representative
+2. That the relationship creates more than a mere appearance of bias — it creates a risk of actual bias
+
+While *Caperton* involved campaign contributions, courts have extended the structural bias analysis to other ongoing financial or professional relationships. Where the opposing party's intimate partner regularly appears before the judge as an attorney and has a professional relationship whose value depends in part on the judge's goodwill, the *Caperton* structural bias argument is available.
+
+---
+
+**Documenting the Attorney-Insider Relationship:**
+
+1. **Pull the attorney's bar record** from the State Bar of Michigan (www.michbar.org/member_directory) — confirm they are licensed and active in the jurisdiction
+2. **Pull their COA appearance record** — Appellate courts maintain public records of counsel appearances; OTIS and the COA clerk's office can confirm cases in which the attorney has appeared before the same judges
+3. **Pull the attorney's trial court appearance record** — OTIS will show cases in which they have appeared in the same circuit court, before the same judge
+4. **Document the personal relationship** — any public social media records, public filings in other proceedings, or direct admissions establishing that the attorney and the opposing party are in a significant intimate relationship
+5. **Document differential treatment** — the disqualification motion requires objective evidence; compile a list of specific rulings where:
+   - The opposing party's filings (ghost-written by the attorney) received unusually sophisticated legal treatment for a "pro se" litigant
+   - The court addressed the opposing party's arguments with greater sophistication than their formal education/background would suggest
+   - The court was unusually patient or deferential to the opposing party's procedural missteps
+
+---
+
+**Disqualification Motion — Recommended Structure:**
+
+1. **Establish the professional relationship:** Name the attorney; attach bar record; list their appearances before this judge
+2. **Establish the personal relationship:** Attach supporting evidence (public records, social media, sworn statement)
+3. **Establish the ghost-writing:** Compare the sophistication of the opposing party's filings with their educational background; attach filings that appear professionally drafted; note filing timestamps consistent with attorney-hours (not pro se parties' hours)
+4. **Document differential treatment:** Quote from the record — specific rulings, specific statements from the bench, specific procedural advantages afforded the opposing party
+5. **Cite MCR 2.003(C)(1)(a)/(f) and MCJC Canon 3(C)(1):** Request disqualification and reassignment to a judge with no professional relationship with the attorney-partner
+6. **Request findings:** If denied, request written findings under MCR 2.003(D)(2) for appellate review
+
+---
+
+### MCJC Canon 3(A)(6) Violations — Ex Parte Communications by Judicial Staff
+
+**The Problem:**
+The opposing party (or the opposing party's attorney-partner) submitted a recorded phone call to the court ex parte — without notice to the plaintiff, without a motion, and without the opportunity to respond. The judicial staff listened to the recording before the plaintiff was served with it. The judge admitted this.
+
+This is a textbook violation of MCJC Canon 3(A)(6) and a serious procedural due process violation.
+
+---
+
+**MCJC Canon 3(A)(6) — Prohibition on Ex Parte Communications:**
+*"A judge shall not initiate, permit, or consider ex parte communications concerning a pending proceeding."*
+
+The Canon prohibits:
+1. **Initiating** ex parte communications — the judge or staff initiating contact with one party outside the presence of the other
+2. **Permitting** ex parte communications — allowing one party to submit materials directly to chambers or staff without notice and opportunity for the other party to respond
+3. **Considering** ex parte communications — relying on ex parte submissions in making any decision, however preliminary
+
+**What Happened Here:**
+- The opposing party submitted a recording directly to the court/chambers without filing it as a motion or exhibit in a noticed proceeding
+- Judicial staff listened to the recording
+- The judge admitted that staff had reviewed it before service on the plaintiff
+- The court then used the recording as a basis to reduce parenting time
+
+Each of these steps is a separate violation of MCJC Canon 3(A)(6):
+- **Permitting:** The court accepted the ex parte submission rather than returning it unfiled
+- **Staff review (court acting through its staff):** The ex parte communication was not just received — it was reviewed and considered
+- **Considering:** The court used the recording to reduce parenting time — proving that the ex parte submission was actually relied upon in a judicial decision
+
+---
+
+**MCR 2.119(C) — Ex Parte Motions:**
+A motion may be granted ex parte only:
+1. Where specifically authorized by court rule or statute, OR
+2. Upon a showing of irreparable harm that would result from advance notice, AND
+3. With written certification of efforts to notify the opposing party and the reasons why notice should not be required
+
+There is no basis in Michigan court rules for submitting a private recording to chambers without a formal motion, without notice, and without the opportunity for the opposing party to be heard before judicial staff reviews it. The submission was procedurally improper from the outset.
+
+---
+
+**The Judge's Admission:**
+The fact that the judge admitted on the record that judicial staff had reviewed the recording before service on the plaintiff is a critical piece of evidence. This admission:
+- Establishes the factual predicate for a disqualification motion under MCR 2.003(C)(1)(a)/(f) — the judge is aware that improper procedures occurred and chose not to treat them as a ground for disqualification or recusal
+- Establishes the factual predicate for a JTC complaint — the admission on the record is a self-proving basis for the Canon 3(A)(6) violation
+- Creates an appellate record — any ruling relying on or citing the recording is tainted by the ex parte review
+
+**Documenting and Using the Admission:**
+1. Obtain the certified transcript of the hearing where the judge made this admission
+2. Identify the exact language — quote it verbatim in every motion and brief going forward
+3. Use it in the disqualification motion: "The court has admitted on the record at [transcript page and line] that judicial staff reviewed the recording before it was served on Plaintiff. This admission establishes both the violation of MCJC Canon 3(A)(6) and the factual basis for disqualification under MCR 2.003(C)(1)(a)."
+4. Include the transcript excerpt as an exhibit to the JTC complaint
+
+---
+
+### Due Process Violation — Submission Reviewed Before Service
+
+**Core Principle — Notice and Opportunity to Be Heard:**
+The Due Process Clause of the Fourteenth Amendment requires that before a court relies on information to make a ruling adverse to a party, that party must have notice of the information and a meaningful opportunity to respond. *Mathews v Eldridge*, 424 US 319 (1976) requires balancing: the private interest at stake, the risk of erroneous deprivation, and the government's interest.
+
+**Application Here:**
+- **Private interest:** Parenting time with a child — among the most fundamental liberty interests recognized by law (*Troxel v Granville*, 530 US 57 (2000); *Meyer v Nebraska*, 262 US 390 (1923))
+- **Risk of erroneous deprivation:** Extreme — the recording was reviewed without the plaintiff having any opportunity to: (a) challenge its authentication, (b) challenge its admissibility (including its illegal nature), (c) provide context for what was recorded, (d) offer competing evidence
+- **Government interest in avoiding pre-service notice:** None — there was no emergency, no imminent harm, no showing of irreparable injury that would justify bypassing notice
+
+The balancing is not close. Relying on an ex parte recording to reduce parenting time, without notice and opportunity to be heard, is a constitutional due process violation.
+
+**MCL 600.2950(12) — PPO Modification:**
+When a PPO is sought or modified based on new evidence (such as a recording), the standard procedures require a heard motion, not ex parte reliance on submitted materials. The court's action in reviewing and apparently relying on the recording to affect parenting time without a properly noticed hearing violates both court rule and constitutional due process.
+
+---
+
+**Remedy:**
+1. **Move to vacate the parenting time reduction order** as entered in violation of due process — motion under MCR 2.612(C)(1)(e) (void order — no jurisdiction without due process compliance) or MCR 2.119(E) (reconsideration)
+2. **Incorporate in appeal** — if the order is a final order, include the due process violation as a ground in the appeal (de novo review on constitutional questions)
+3. **Request evidentiary hearing** on the admissibility and content of the recording before any reliance on it continues
+4. **JTC complaint** — the judge's admitted reliance on ex parte reviewed evidence is a JTC complaint ground (Canon 3(A)(6); Canon 3(B)(2) — ex parte communications)
+
+---
+
+### Michigan Eavesdropping Statute — MCL 750.539c & MCL 750.539g
+
+**Michigan is an All-Party Consent State:**
+Unlike federal law (which requires only one-party consent under 18 USC 2511), Michigan's eavesdropping statute requires the **consent of all parties** to a private conversation before it may be recorded.
+
+---
+
+**MCL 750.539c — Eavesdropping on Private Conversation:**
+*"Any person who is present or who is not present during a private conversation and who wilfully uses any device to eavesdrop upon the conversation without the consent of all parties thereto, or who knowingly aids, employs or procures another person to do the same in violation of this section, is guilty of a felony punishable by imprisonment in a state prison for not more than 2 years or by a fine of not more than $2,000.00, or both."*
+
+*Penalty:* Felony — up to **2 years** and/or $2,000 fine
+
+**Elements:**
+1. A **private conversation** (a conversation in which the parties have a reasonable expectation of privacy)
+2. The person recorded (or caused to be recorded) the conversation
+3. **Without the consent of all parties**
+4. Willfully
+
+**Who Recorded Here:**
+The defendant's **parents** made the recording — not the defendant themselves. This is significant:
+- The parents are third parties to the conversation
+- The recorded party (the plaintiff) did not consent
+- The fact that the defendant's parents recorded the conversation means neither the defendant nor the defendant's parents are a party to the conversation who could give consent; the all-party consent requirement means **every party** to the conversation must consent — including the plaintiff
+- If the defendant orchestrated the recording (directed their parents to record it), the defendant may also be criminally liable under the "knowingly aids, employs or procures" language
+
+**MCL 750.539g — Civil Cause of Action:**
+Any person whose conversation was recorded in violation of MCL 750.539c may bring a **civil action** for:
+- Actual damages (including damages for mental anguish, attorney fees, and the damages caused by the illegal interception)
+- Plus **exemplary damages** (punitive)
+- Plus attorney fees and costs
+
+*This creates an independent cause of action against the defendant's parents (and potentially the defendant) for the illegal recording, separate from and in addition to the criminal exposure.*
+
+---
+
+**"Private Conversation" Analysis:**
+The term "private conversation" requires a reasonable expectation of privacy. Relevant factors:
+- Phone calls between individuals generally carry a high expectation of privacy
+- The fact that the call was made to/from a private phone, on a private line, in a domestic context, creates a strong presumption of a "private conversation"
+- The defendant's parents recording a call between the plaintiff and another party (whether the defendant or the plaintiff's own family) without the plaintiff's knowledge is clearly within the scope of MCL 750.539c
+
+---
+
+**Criminal Referral:**
+- File a written criminal complaint with the county prosecutor for MCL 750.539c violations against the defendant's parents (and the defendant if they orchestrated the recording)
+- The complaint is particularly powerful when combined with the evidence that the recording was then submitted ex parte to a court — the criminal conduct was not just a private wrong but was deployed as a litigation weapon
+- The criminal referral creates a public record and may result in charges that are then admissible under MRE 609(a)(2) if the defendants are convicted
+
+---
+
+### Federal Wiretapping — 18 USC 2511 & 18 USC 2515 Exclusionary Rule
+
+**18 USC 2511 — Federal Wiretap Act:**
+It is a federal crime to **intentionally intercept** any wire, oral, or electronic communication using any electronic, mechanical, or other device, except:
+- Where one of the parties to the communication consents (one-party consent — the federal standard)
+- Or where specific law enforcement exceptions apply
+
+*Penalty:* Up to **5 years** federal imprisonment; $250,000 fine
+
+**Federal vs. Michigan Law — Which Applies:**
+Where a recording is made in Michigan and involves all-Michigan parties, Michigan's stricter all-party consent law applies. The federal one-party consent rule does **not** override Michigan's stricter statute. A recording that complies with federal law (one party consents) but violates Michigan law (requires all parties) remains criminally prohibited under MCL 750.539c.
+
+**Where Federal Law Provides Additional Remedies:**
+Federal civil remedies under **18 USC 2520** are available to any person whose communication was intercepted in violation of the Wiretap Act:
+- Actual damages (not less than **$100/day** for each day of violation, or $10,000, whichever is greater)
+- Punitive damages
+- Reasonable attorney fees
+
+---
+
+**18 USC 2515 — Federal Exclusionary Rule:**
+*"Whenever any wire or oral communication has been intercepted, no part of the contents of such communication and no evidence derived therefrom may be received in evidence in any trial, hearing, or other proceeding in or before any court... if the disclosure of that information would be in violation of this chapter."*
+
+This is an **absolute federal statutory exclusionary rule** for illegally intercepted communications. Unlike the constitutional exclusionary rule (which has exceptions), the 18 USC 2515 exclusionary rule applies in any proceeding before any court — including state family court proceedings.
+
+*Note:* 18 USC 2515's exclusionary rule applies to violations of **federal** law (18 USC 2511). Whether the Michigan MCL 750.539c violation by itself triggers 18 USC 2515 depends on whether the recording constitutes a federal violation. In most domestic phone call scenarios, the all-party consent issue is governed by Michigan law, and the Michigan state law exclusionary rule (MCL 750.539g's civil remedy plus courts' inherent authority to exclude illegally obtained evidence) is the primary vehicle.
+
+---
+
+### Suppression/Exclusion of the Illegally Obtained Recording
+
+**Available Exclusion Vehicles:**
+
+| Vehicle | Authority | Scope |
+|---|---|---|
+| Motion to suppress under MCL 750.539c | Michigan courts have consistently excluded recordings obtained in violation of the eavesdropping statute | Applies in all Michigan proceedings |
+| Federal 18 USC 2515 exclusionary rule | Applies to violations of federal wiretap law | Applies where federal law is violated |
+| MRE 403 — Unfair Prejudice | Even if technically admissible, an illegally obtained recording creates substantial prejudice that outweighs any probative value; the manner of its obtaining (illegally) and submission (ex parte) counsels exclusion | Discretionary with the court |
+| Constitutional exclusion (due process) | The court relied on the recording before plaintiff had notice or opportunity to challenge it — this due process violation independently supports exclusion | Mandatory |
+| MCR 2.119(C) — Ex Parte Motion Defect | The recording was submitted without a properly filed motion; it should not have been accepted or reviewed; the court should have returned it unfiled | Procedural |
+
+---
+
+**Motion to Suppress/Exclude — Step-by-Step:**
+
+1. **File a motion in limine** (or motion to suppress, labeled as such) in the custody case specifically targeting the recording
+2. **State the grounds:**
+   - The recording was obtained in violation of MCL 750.539c (all-party consent) — element-by-element analysis showing each element is met
+   - The recording was submitted ex parte in violation of MCR 2.119(C) and MCJC Canon 3(A)(6)
+   - Judicial staff reviewed the recording before service in violation of due process
+   - The recording is subject to exclusion under MCL 750.539c, 18 USC 2515 (if applicable), MRE 403, and the court's inherent authority
+3. **Request an evidentiary hearing** on authentication before admission (MRE 901 — authenticity must be established; recording must be shown to be unaltered, accurately transcribed, and from the persons claimed)
+4. **Challenge authentication independently:** Demand the original recording; demand metadata showing when and where it was made; demand testimony from the persons who made it; retain a forensic audio expert if necessary
+5. **If the court denies suppression:** Preserve the issue by objecting on the record; the denial is an interlocutory evidentiary ruling subject to appeal
+
+**If the Recording Is Already in the Record:**
+If the court has already relied on the recording in an order (e.g., the parenting time reduction order):
+- File MCR 2.612(C)(1)(d) (void order — entered without due process) or MCR 2.612(C)(1)(c) (misconduct of adverse party — illegal recording submitted by opposing party)
+- Argue that the order must be vacated because it rests on evidence that was illegally obtained and illegally submitted
+- The parenting time reduction order entered after the illegal ex parte recording review cannot stand because the process that produced it violated both constitutional due process and the court rules
+
+---
+
+### The Tainted PPO → Jail → Custody Order Chain
+
+**The Chain of Taint:**
+
+```
+FALSE PPO PETITION (sworn false statements)
+         ↓
+EX PARTE PPO ISSUED (without notice; on false facts)
+         ↓
+PLAINTIFF JAILED (on PPO violation — based on false PPO)
+         ↓
+CUSTODY ORDER ENTERED (quoting/relying on PPO; adverse credibility based on jail record)
+         ↓
+ILLEGAL RECORDING SUBMITTED EX PARTE → PARENTING TIME STRIPPED
+```
+
+Each link in this chain is independently attackable. The chain demonstrates **cumulative fraud on the court** — not just a single false statement but a systematic scheme to use the court process as a weapon.
+
+---
+
+**Link 1 — The False PPO:**
+- Attack under MCL 600.2950(21): PPO obtained by fraud or material misrepresentation shall be subject to termination; court may award respondent costs and attorney fees
+- Attack under MCR 2.612(C)(1)(c): fraud by adverse party, within 1 year; or MCR 2.612(C)(3) if attorney-assisted (no time limit)
+- Request explicit findings on which PPO allegations were false (for use in subsequent custody proceedings)
+
+**Link 2 — The Jailing Based on False PPO:**
+If the plaintiff was jailed for violating a PPO that was itself procured by fraud:
+- The jailing was unlawful — a PPO violation cannot be contempt if the underlying PPO lacked a valid factual basis
+- Move to **expunge the contempt finding** (MCL 780.621 for criminal contempt; MCR 3.606 contempt motion for void underlying order)
+- The fact of jailing was then used to taint the plaintiff's credibility in the custody proceeding — this is a downstream effect of the original fraud that must be attacked at the root
+
+**Link 3 — The Custody Order That Quotes the PPO:**
+When a custody order **explicitly quotes** or **expressly relies on** the PPO:
+- The custody order is not an independent order — it is a derivative order that incorporates the PPO's factual findings
+- Once the PPO is vacated as based on fraud, the custody order loses its stated factual predicate
+- MCR 2.612(C)(1)(c): File within 1 year of the custody order for fraud of adverse party
+- MCR 2.612(C)(3): If attorney-partner assisted in the scheme, this is fraud on the court — no time limit
+- **The citation of the PPO in the custody order is the key evidence** — it proves that the taint traveled from the PPO into the custody proceeding; it is not speculative
+
+**Drafting the MCR 2.612 Motion for the Custody Order:**
+1. Attach the PPO petition identifying the specific false statements
+2. Attach the evidence contradicting the PPO petition's statements
+3. Attach the custody order and **highlight the specific language quoting or relying on the PPO**
+4. Argue: The custody order's stated factual basis is the false PPO; the false PPO was procured by fraud; the false statements were not discoverable with reasonable diligence before the custody order was entered (or: the attorney-partner's involvement constitutes fraud on the court — no time limit)
+5. Request: Vacation of the custody order; new evidentiary hearing on custody under MCL 722.23 without reliance on the false PPO narrative
+
+**Link 4 — The Illegal Recording Stripping Remaining Parenting Time:**
+- The parenting time reduction order based on the illegal ex parte recording is separately attackable as described above (MCR 2.612(C)(1)(c)/(d); due process; exclusion of recording)
+- It is also part of the cumulative chain: each successive deprivation is a link in the same scheme
+
+---
+
+### Judicial Staff/Secretary Bias — Unequal Treatment
+
+**The Attribution Doctrine:**
+A judge acts through their staff. Conduct by a judge's secretary, clerk, or judicial assistant in the course of their official duties is **attributed to the judge** for purposes of due process analysis, MCJC Canon analysis, and MCR 2.003 disqualification.
+
+Specific applications:
+- A judicial secretary who provides preferential scheduling, procedural guidance, or informal information to one party (or that party's attorney-partner) is effectively extending judicial resources to that party
+- A judicial secretary who fails to docket the plaintiff's filings promptly, loses documents, or provides procedurally incorrect information that disadvantages the plaintiff is contributing to a denial of equal access to the court
+- The opposing party's attorney-partner, who regularly appears before the same judge, has an ongoing professional relationship with the judge's staff — creating the opportunity for informal access and preferential treatment that is invisible to the official record
+
+---
+
+**Documenting Staff Misconduct:**
+1. Keep a **log** of every interaction with the clerk's office and judicial staff: date, time, name of person contacted, what was communicated, what happened
+2. Document **filing timestamps** — e-filed documents have time-stamps; note any inconsistencies between your filing time and the docketed time
+3. Document **procedurally incorrect information** given to you in writing (email, court website) versus what the court rules actually require
+4. Note any instance where the opposing party's filing received an unusually fast response (same-day hearing, emergency hearing granted on inadequate showing) while your filings languished
+
+**SCAO Complaint:**
+The State Court Administrative Office (SCAO) accepts complaints about court staff conduct. File a written complaint with SCAO at:
+Michigan Supreme Court, SCAO, PO Box 30048, Lansing MI 48909
+
+The complaint should:
+- Describe the specific instances of differential treatment with dates and documentation
+- Identify the specific staff member(s) involved
+- Describe the harm to the plaintiff's ability to litigate fairly
+
+**Request for the Chief Judge:**
+File a written letter (not a motion) to the **Chief Judge** of the circuit, requesting:
+1. Administrative reassignment of the case to a different judge on grounds of the documented staff conduct and the appearance of bias
+2. That the court prohibit any informal communications between court staff and the opposing party or the opposing party's attorney-partner
+
+The Chief Judge has administrative authority over judges in the circuit (MCR 8.110(C)) and can order administrative reassignment when the interests of justice require it.
+
+---
+
+### *Caperton* Due Process Claim — Structural Bias from Attorney-Connected Party
+
+**Structural Bias Distinguished from Case-Specific Bias:**
+Structural bias does not require proof that the judge was subjectively biased in a specific ruling — it requires only that the relationship between the judge and the connected party creates an **objective probability of actual bias** (*Caperton*, 556 US at 884).
+
+**Elements of the Structural Bias Claim Here:**
+1. The opposing party's significant other is a practicing attorney who regularly appears before this judge
+2. The attorney derives professional benefit (referrals, goodwill, repeat business) from a positive relationship with this judge
+3. The attorney has an intimate personal relationship with the opposing party
+4. The judge's ongoing professional relationship with the attorney creates an incentive (conscious or unconscious) to favor the opposing party
+5. The documented pattern of differential treatment (procedural, evidentiary, substantive) corroborates the structural inference
+
+**Constitutional Standard:**
+A fair trial in a fair tribunal is a basic requirement of due process. *In re Murchison*, 349 US 133 (1955). The probability of actual bias on the facts of this case satisfies the *Caperton* standard.
+
+**How to Raise:**
+- MCR 2.003 disqualification motion (state procedural vehicle)
+- Direct appeal of the disqualification denial (leave to appeal, MCR 7.203(B))
+- If state remedies are exhausted and the case is no longer pending: § 1983 action for due process violation (though *Younger* abstention and *Rooker-Feldman* limit this while the case is pending)
+
+---
+
+### Cumulative Attack Strategy — Integrating All Issues
+
+**Phase 1 — Immediate Motions (File Simultaneously):**
+
+| Motion | Target | Authority |
+|---|---|---|
+| Motion to suppress/exclude recording | Parenting time reduction order | MCL 750.539c; MRE 403; due process; MCR 2.119(C) |
+| Motion for reconsideration / vacate parenting time reduction order | Parenting time reduction order | MCR 2.612(C)(1)(d); due process |
+| MCR 2.003 disqualification motion | Judge | MCR 2.003(C)(1)(a)/(f); MCJC Canon 3(A)(6); *Caperton* |
+| Motion to vacate custody order citing PPO | Custody order | MCR 2.612(C)(1)(c) / (C)(3) |
+| Motion to terminate/vacate PPO | False PPO | MCL 600.2950(21); MCR 2.612 |
+
+**Phase 2 — Administrative and Disciplinary Actions:**
+
+| Action | Target | Authority |
+|---|---|---|
+| JTC complaint | Judge — for Canon 3(A)(6) ex parte violation; admitted staff review | MCJC Canons 1, 3(A)(6), 3(B)(2) |
+| AGC grievance | Attorney-partner — for ghost-writing, ex parte influence, MRPC 8.4 | MRPC 3.3, 3.5, 8.4(a)/(c) |
+| SCAO complaint | Judicial staff — differential treatment | MCR 8.110; SCAO administrative authority |
+| Criminal complaint | Defendant's parents (and defendant) — MCL 750.539c | File with county prosecutor |
+| Civil lawsuit | Defendant's parents (and defendant) — MCL 750.539g; 18 USC 2520 | Circuit court; federal district court |
+
+**Phase 3 — Appellate:**
+
+| Action | Target | Authority |
+|---|---|---|
+| Appeal of right / leave to appeal | Parenting time reduction order; custody order; disqualification denial | MCR 7.203(A)/(B); 21-day deadlines |
+| Superintending control | If judge refuses to rule on pending motions | MCR 3.302; MCR 7.206 |
+| Delayed appeal | If 21-day windows have passed | MCR 7.205(G) |
+
+---
+
+**Master Evidence Checklist for This Scenario:**
+
+- [ ] Certified transcript of hearing where judge admitted staff reviewed recording
+- [ ] Copy of recording (with metadata) and all accompanying ex parte submissions — pull from court file
+- [ ] Evidence of when recording was submitted vs. when plaintiff was served
+- [ ] Certified transcripts of all custody hearings where PPO was cited or relied upon
+- [ ] Copy of custody order with PPO language highlighted
+- [ ] Copy of PPO petition with specific false statements identified
+- [ ] Evidence contradicting PPO petition allegations (phone records, location data, witnesses)
+- [ ] Attorney-partner's bar record and case appearance history before this judge and COA
+- [ ] Documentation of personal relationship between attorney-partner and opposing party
+- [ ] Log of staff interactions documenting differential treatment
+- [ ] Filing timestamps showing any procedural irregularities in docketing
+- [ ] Comparison of opposing party's filed documents vs. their educational/legal background (ghost-writing evidence)
+
+---
+
+*Sources updated: Michigan Constitution of 1963 (art I, art III, art VI, art VI §30); Michigan Court Rules (MCR 1.109, 2.003, 2.114, 2.119, 2.517, 2.605, 2.612, 3.219, 3.302, 3.606, 3.703, 7.202, 7.203, 7.204, 7.205, 7.206, 7.212, 7.301, 7.302, 7.303, 8.005, 8.108, 8.110); Michigan Rules of Evidence (MRE 201, 403, 608, 609, 613, 801, 901); Michigan Rules of Professional Conduct (MRPC 1.2, 3.3, 3.4, 3.5, 8.4); Michigan Code of Judicial Conduct (MCJC Canons 1, 2, 3, 3(A)(6), 3(B)(2), 3(C)(1)); Michigan Compiled Laws (MCL) — Chapters 15, 24, 28, 37, 125, 205, 330, 333, 400, 408, 418, 450, 500, 552, 554, 600 (including 600.1651, 600.2591, 600.2605, 600.2940, 600.2950, 600.4310), 691, 700, 710, 712A, 712B, 722 (including 722.23, 722.27a, 722.628, 722.628a, 722.628d, 722.1202, 722.1443), 750 (including 750.159b–750.159x, 750.174a, 750.224, 750.224f, 750.227c, 750.248, 750.411a, 750.422, 750.423, 750.425, 750.505, 750.539c, 750.539g, 750.633), 762, 767, 769, 780; MCL 15.181 et seq. (State Ethics Act); State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments II, IV, V, VI, VIII, XI, XIV; *Mathews v Eldridge*, 424 US 319 (1976); *Troxel v Granville*, 530 US 57 (2000); *Meyer v Nebraska*, 262 US 390 (1923); *In re Murchison*, 349 US 133 (1955); *Caperton v A.T. Massey Coal Co*, 556 US 868 (2009); *Tumey v Ohio*, 273 US 510 (1927); *Ward v Village of Monroeville*, 409 US 57 (1972); *Cain v Dep't of Corrections*, 451 Mich 470 (1996); *Fletcher v Fletcher*, 447 Mich 871 (1994); *Domako v Rowe*, 438 Mich 347 (1991); *Monell v Dep't of Social Servs*, 436 US 658 (1978); *Younger v Harris*, 401 US 37 (1971); *Rooker v Fidelity Trust Co*, 263 US 413 (1923); *District of Columbia Court of Appeals v Feldman*, 460 US 462 (1983); Second Amendment: *Heller* (2008), *McDonald* (2010), *Bruen* (2022), *Rahimi* (2024); RICO (18 USC 1961–1968); 18 USC 922, 924, 981–983, 1001, 1341, 1343, 1344, 1621, 1623, 1951, 1956, 1957, 1963, 2250, 2252, 2511, 2515, 2520; 21 USC 841, 846, 853, 881; 25 USC 1151, 1301, 1901 et seq. (ICWA); 26 USC 5801 et seq. (NFA); 28 USC 1254, 1257, 1291, 1292, 1331, 1332, 1367, 1441–1453, 2101, 2254, 2465; 28 USC 1746; 34 USC 20901 et seq. (SORNA); 42 USC 1396 et seq. (Medicaid); 42 USC 1981, 1983, 1985, 1986, 2000d; 20 USC 1681; 29 USC 794; 42 USC 12101–12189; 7 USC 2011 et seq. (SNAP); CAFRA (Pub. L. 106-185); FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); VAWA (34 USC 12291); Indian Gaming Regulatory Act (25 USC 2710); Major Crimes Act (18 USC 1153); Tribal Law and Order Act (Pub. L. 111-211); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Supreme Court Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; United States Sentencing Guidelines (USSG); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
 
 *Last substantively revised: April 2026.*
