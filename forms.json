@@ -1,0 +1,1456 @@
+{
+  "title": "Michigan SCAO Court Forms — Comprehensive Catalogue",
+  "description": "Comprehensive listing of Michigan State Court Administrative Office (SCAO) approved court forms, organized by form family. Covers multi-court, circuit, district, probate, juvenile, domestic relations, FOC, PPO, criminal, and appellate forms.",
+  "publisher": "State Court Administrative Office (SCAO)",
+  "authority": "MCR 1.106",
+  "base_url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/",
+  "families": [
+    {
+      "id": "mc",
+      "name": "MC — Multi-Court (General) Forms",
+      "description": "General-purpose forms used across all Michigan court divisions, including motions, orders, service documents, fee waivers, and case management tools.",
+      "forms": [
+        {
+          "id": "MC 01",
+          "title": "Case Inventory Addendum",
+          "purpose": "Supplements the case inventory with additional party or case information.",
+          "rules": ["MCR 8.110"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc01.pdf"
+        },
+        {
+          "id": "MC 02",
+          "title": "Certificate of Conformity for Domestic Business Entity",
+          "purpose": "Certifies that a business entity is in good standing with LARA before filing suit.",
+          "rules": [],
+          "statutes": ["MCL 600.2015"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc02.pdf"
+        },
+        {
+          "id": "MC 03",
+          "title": "Fee Waiver Request",
+          "purpose": "Requests waiver of court filing fees based on indigency or public assistance.",
+          "rules": ["MCR 2.002"],
+          "statutes": ["MCL 600.2529"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc03.pdf"
+        },
+        {
+          "id": "MC 04",
+          "title": "Verification of Income and Assets (Fee Waiver)",
+          "purpose": "Sworn statement of income, assets, and expenses supporting a fee waiver request.",
+          "rules": ["MCR 2.002"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc04.pdf"
+        },
+        {
+          "id": "MC 05",
+          "title": "Order Regarding Fee Waiver",
+          "purpose": "Court order granting or denying the fee waiver request.",
+          "rules": ["MCR 2.002"],
+          "statutes": ["MCL 600.2529"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc05.pdf"
+        },
+        {
+          "id": "MC 07",
+          "title": "Subpoena",
+          "purpose": "Commands a witness to appear and/or produce documents at a hearing, trial, or deposition.",
+          "rules": ["MCR 2.305", "MCR 2.506"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc07.pdf"
+        },
+        {
+          "id": "MC 10",
+          "title": "Notice of Hearing",
+          "purpose": "Provides notice to parties of a scheduled hearing date and time.",
+          "rules": ["MCR 2.119"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc10.pdf"
+        },
+        {
+          "id": "MC 11",
+          "title": "Order",
+          "purpose": "General-purpose order form following a hearing or ruling.",
+          "rules": ["MCR 2.602"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc11.pdf"
+        },
+        {
+          "id": "MC 11a",
+          "title": "Order on Motion/Stipulation",
+          "purpose": "Court order entered on a motion or stipulation between parties.",
+          "rules": ["MCR 2.602"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc11a.pdf"
+        },
+        {
+          "id": "MC 12",
+          "title": "Proof of Mailing",
+          "purpose": "Certifies that documents were mailed to parties or other persons.",
+          "rules": ["MCR 2.107"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc12.pdf"
+        },
+        {
+          "id": "MC 13",
+          "title": "Order Regarding Adjournment",
+          "purpose": "Court order granting or denying a request to adjourn a hearing or trial.",
+          "rules": ["MCR 2.503"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc13.pdf"
+        },
+        {
+          "id": "MC 14",
+          "title": "Stipulation and Order for Adjournment",
+          "purpose": "Parties' written agreement to adjourn, with court approval.",
+          "rules": ["MCR 2.503"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc14.pdf"
+        },
+        {
+          "id": "MC 15",
+          "title": "Motion",
+          "purpose": "General-purpose motion form for filing any motion with the court.",
+          "rules": ["MCR 2.119"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc15.pdf"
+        },
+        {
+          "id": "MC 20",
+          "title": "Case Evaluation Award / Summary",
+          "purpose": "Records the case evaluation panel's award under the mediation/evaluation process.",
+          "rules": ["MCR 2.403"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc20.pdf"
+        },
+        {
+          "id": "MC 20a",
+          "title": "Response to Case Evaluation Award",
+          "purpose": "Party's acceptance or rejection of the case evaluation award.",
+          "rules": ["MCR 2.403"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc20a.pdf"
+        },
+        {
+          "id": "MC 21",
+          "title": "Request for Case Evaluation",
+          "purpose": "Initiates the case evaluation process for a civil action.",
+          "rules": ["MCR 2.403"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc21.pdf"
+        },
+        {
+          "id": "MC 231",
+          "title": "Advice of Rights — Misdemeanor",
+          "purpose": "Advises a defendant of constitutional rights at arraignment on a misdemeanor charge.",
+          "rules": ["MCR 6.001", "MCR 6.104"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc231.pdf"
+        },
+        {
+          "id": "MC 232",
+          "title": "Judgment of Sentence — Misdemeanor",
+          "purpose": "Final judgment and sentence form for misdemeanor convictions.",
+          "rules": ["MCR 6.425", "MCR 6.610"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc232.pdf"
+        },
+        {
+          "id": "MC 233",
+          "title": "Application for Assigned Counsel",
+          "purpose": "Request for court-appointed attorney based on financial inability to retain counsel.",
+          "rules": ["MCR 6.005"],
+          "statutes": ["MCL 775.16"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc233.pdf"
+        },
+        {
+          "id": "MC 234",
+          "title": "Order Appointing / Denying Counsel",
+          "purpose": "Court order appointing or denying assignment of counsel to a defendant.",
+          "rules": ["MCR 6.005"],
+          "statutes": ["MCL 775.16"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc234.pdf"
+        },
+        {
+          "id": "MC 240",
+          "title": "Sentencing Information Report",
+          "purpose": "Collects sentencing guidelines information for the Michigan Sentencing Commission.",
+          "rules": ["MCR 6.425"],
+          "statutes": ["MCL 769.34"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc240.pdf"
+        },
+        {
+          "id": "MC 245",
+          "title": "Order of Restitution",
+          "purpose": "Orders defendant to pay restitution to the victim(s).",
+          "rules": [],
+          "statutes": ["MCL 780.766", "MCL 780.767"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc245.pdf"
+        },
+        {
+          "id": "MC 257",
+          "title": "Case Conference Order [UNVERIFIED]",
+          "purpose": "Records outcomes and deadlines from a case conference.",
+          "rules": ["MCR 2.401"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc257.pdf",
+          "unverified": true
+        },
+        {
+          "id": "MC 280",
+          "title": "Application to Set Aside Conviction",
+          "purpose": "Petition to expunge / set aside a criminal conviction.",
+          "rules": [],
+          "statutes": ["MCL 780.621"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc280.pdf"
+        },
+        {
+          "id": "MC 281",
+          "title": "Order on Application to Set Aside Conviction",
+          "purpose": "Court order granting or denying expungement of conviction.",
+          "rules": [],
+          "statutes": ["MCL 780.621"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc281.pdf"
+        },
+        {
+          "id": "MC 290",
+          "title": "Notice to Victims — Set Aside Application [UNVERIFIED]",
+          "purpose": "Notice to victims that the defendant has applied to set aside a conviction.",
+          "rules": [],
+          "statutes": ["MCL 780.621c"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc290.pdf",
+          "unverified": true
+        },
+        {
+          "id": "MC 97",
+          "title": "e-Filing Notice / Exemption Request",
+          "purpose": "Request for exemption from mandatory electronic filing.",
+          "rules": ["MCR 1.109"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc97.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cc",
+      "name": "CC — Circuit Court Forms",
+      "description": "Forms specific to civil actions in the Circuit Court, Michigan's general-jurisdiction trial court.",
+      "forms": [
+        {
+          "id": "CC 01",
+          "title": "Summons — Civil Action",
+          "purpose": "Summons for commencing a civil action in circuit court.",
+          "rules": ["MCR 2.102"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc01.pdf"
+        },
+        {
+          "id": "CC 02",
+          "title": "Complaint — Civil",
+          "purpose": "General civil complaint form for circuit court cases.",
+          "rules": ["MCR 2.110", "MCR 2.111"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc02.pdf"
+        },
+        {
+          "id": "CC 100",
+          "title": "Affidavit of Judgment Creditor — Garnishment",
+          "purpose": "Supports post-judgment garnishment of wages or assets.",
+          "rules": ["MCR 3.101"],
+          "statutes": ["MCL 600.4011"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc100.pdf"
+        },
+        {
+          "id": "CC 101",
+          "title": "Request and Writ of Garnishment (Periodic)",
+          "purpose": "Writ directing periodic garnishment of wages after judgment.",
+          "rules": ["MCR 3.101"],
+          "statutes": ["MCL 600.4012"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc101.pdf"
+        },
+        {
+          "id": "CC 102",
+          "title": "Request and Writ of Garnishment (Non-Periodic)",
+          "purpose": "Writ directing garnishment of bank accounts or non-periodic assets.",
+          "rules": ["MCR 3.101"],
+          "statutes": ["MCL 600.4011"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc102.pdf"
+        },
+        {
+          "id": "CC 103",
+          "title": "Garnishee Disclosure",
+          "purpose": "Garnishee's sworn response regarding assets or funds held for the judgment debtor.",
+          "rules": ["MCR 3.101"],
+          "statutes": ["MCL 600.4012"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc103.pdf"
+        },
+        {
+          "id": "CC 104",
+          "title": "Objection to Garnishment",
+          "purpose": "Party or garnishee's objection to the garnishment writ.",
+          "rules": ["MCR 3.101"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc104.pdf"
+        },
+        {
+          "id": "CC 105",
+          "title": "Order After Hearing on Garnishment",
+          "purpose": "Court order resolving garnishment objections or disputes.",
+          "rules": ["MCR 3.101"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc105.pdf"
+        },
+        {
+          "id": "CC 375",
+          "title": "Petition for Personal Protection Order (Domestic)",
+          "purpose": "Initiates a PPO request in a domestic relationship case.",
+          "rules": ["MCR 3.703"],
+          "statutes": ["MCL 600.2950"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc375.pdf"
+        },
+        {
+          "id": "CC 376",
+          "title": "Personal Protection Order (Domestic Relationship)",
+          "purpose": "Ex parte PPO entered against a respondent in a domestic relationship.",
+          "rules": ["MCR 3.703", "MCR 3.705"],
+          "statutes": ["MCL 600.2950"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc376.pdf"
+        },
+        {
+          "id": "CC 377",
+          "title": "Personal Protection Order (Non-Domestic / Stalking)",
+          "purpose": "Ex parte PPO for stalking or non-domestic harassment.",
+          "rules": ["MCR 3.703"],
+          "statutes": ["MCL 600.2950a"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc377.pdf"
+        },
+        {
+          "id": "CC 378",
+          "title": "Motion to Terminate or Modify PPO",
+          "purpose": "Respondent's motion to set aside or modify a personal protection order.",
+          "rules": ["MCR 3.707"],
+          "statutes": ["MCL 600.2950(12)"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc378.pdf"
+        },
+        {
+          "id": "CC 379",
+          "title": "Proof of Service — PPO",
+          "purpose": "Proof that the PPO was served on the respondent.",
+          "rules": ["MCR 3.706"],
+          "statutes": ["MCL 600.2950"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc379.pdf"
+        },
+        {
+          "id": "CC 380",
+          "title": "Order Regarding Personal Protection Order",
+          "purpose": "Court order after hearing on motion to terminate, modify, or extend a PPO.",
+          "rules": ["MCR 3.707", "MCR 3.708"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc380.pdf"
+        },
+        {
+          "id": "CC 381",
+          "title": "Petition for Personal Protection Order (Minor)",
+          "purpose": "PPO petition filed on behalf of a minor.",
+          "rules": ["MCR 3.703"],
+          "statutes": ["MCL 600.2950", "MCL 600.2950a"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc381.pdf"
+        },
+        {
+          "id": "CC 382",
+          "title": "Response to Petition for PPO [UNVERIFIED]",
+          "purpose": "Respondent's written response contesting the petition for a PPO.",
+          "rules": ["MCR 3.705"],
+          "statutes": ["MCL 600.2950"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc382.pdf",
+          "unverified": true
+        },
+        {
+          "id": "CC 505",
+          "title": "Order for Mediation",
+          "purpose": "Court order referring a civil case to mediation.",
+          "rules": ["MCR 2.411"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc505.pdf"
+        }
+      ]
+    },
+    {
+      "id": "dc",
+      "name": "DC — District Court Forms",
+      "description": "Forms for the District Court, handling civil claims up to $25,000, landlord-tenant, small claims, and misdemeanors.",
+      "subcategories": [
+        {
+          "name": "Landlord-Tenant (DC 100 Series)",
+          "forms": [
+            {
+              "id": "DC 100a",
+              "title": "Summons and Complaint — Land Contract Forfeiture",
+              "purpose": "Commences action to forfeit a land contract for nonpayment.",
+              "rules": ["MCR 4.202"],
+              "statutes": ["MCL 600.5726"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc100a.pdf"
+            },
+            {
+              "id": "DC 100b",
+              "title": "Summons and Complaint — Nonpayment of Rent",
+              "purpose": "Commences eviction action for failure to pay rent.",
+              "rules": ["MCR 4.201"],
+              "statutes": ["MCL 600.5714"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc100b.pdf"
+            },
+            {
+              "id": "DC 100c",
+              "title": "Summons and Complaint — Termination of Tenancy",
+              "purpose": "Commences eviction action for lease termination or holdover tenancy.",
+              "rules": ["MCR 4.201"],
+              "statutes": ["MCL 600.5714"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc100c.pdf"
+            },
+            {
+              "id": "DC 100d",
+              "title": "Summons and Complaint — Health Hazard / Damage to Premises",
+              "purpose": "Eviction action for causing health hazards or damage to the premises.",
+              "rules": ["MCR 4.201"],
+              "statutes": ["MCL 600.5714(1)(d)"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc100d.pdf"
+            },
+            {
+              "id": "DC 102",
+              "title": "Affidavit / Claim of Damages — Landlord-Tenant",
+              "purpose": "Landlord's sworn claim for damages beyond the security deposit.",
+              "rules": ["MCR 4.201"],
+              "statutes": [],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc102.pdf"
+            },
+            {
+              "id": "DC 103",
+              "title": "Consent Judgment — Landlord-Tenant",
+              "purpose": "Agreed-upon judgment between landlord and tenant to resolve the case.",
+              "rules": ["MCR 4.201"],
+              "statutes": [],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc103.pdf"
+            },
+            {
+              "id": "DC 104",
+              "title": "Order of Eviction / Judgment",
+              "purpose": "Final judgment and order of eviction in a landlord-tenant case.",
+              "rules": ["MCR 4.201"],
+              "statutes": ["MCL 600.5744"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc104.pdf"
+            },
+            {
+              "id": "DC 105",
+              "title": "Writ of Restitution",
+              "purpose": "Commands the court officer to physically remove the tenant and restore possession.",
+              "rules": ["MCR 4.201"],
+              "statutes": ["MCL 600.5744"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc105.pdf"
+            },
+            {
+              "id": "DC 107",
+              "title": "Claim of Exemption / Third-Party Claim",
+              "purpose": "Debtor's claim of exemption from garnishment or execution.",
+              "rules": ["MCR 3.101"],
+              "statutes": ["MCL 600.6023"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc107.pdf"
+            }
+          ]
+        },
+        {
+          "name": "General Civil & Small Claims",
+          "forms": [
+            {
+              "id": "DC 84",
+              "title": "Small Claims Affidavit and Claim",
+              "purpose": "Initiates a small claims action (up to $6,500).",
+              "rules": ["MCR 4.301"],
+              "statutes": ["MCL 600.8401"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc84.pdf"
+            },
+            {
+              "id": "DC 84a",
+              "title": "Notice of Small Claims Hearing",
+              "purpose": "Notice to defendant of small claims hearing date.",
+              "rules": ["MCR 4.302"],
+              "statutes": [],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc84a.pdf"
+            },
+            {
+              "id": "DC 85",
+              "title": "Small Claims Judgment",
+              "purpose": "Judgment form for small claims cases.",
+              "rules": ["MCR 4.305"],
+              "statutes": [],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc85.pdf"
+            },
+            {
+              "id": "DC 86",
+              "title": "Affidavit and Claim — General Civil",
+              "purpose": "Initiates a general civil infraction or civil action in district court.",
+              "rules": ["MCR 4.002"],
+              "statutes": ["MCL 600.8301"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc86.pdf"
+            },
+            {
+              "id": "DC 89",
+              "title": "Installment Payment Order — District Court [UNVERIFIED]",
+              "purpose": "Court order setting installment payments for a judgment.",
+              "rules": ["MCR 4.002"],
+              "statutes": ["MCL 600.6201"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc89.pdf",
+              "unverified": true
+            },
+            {
+              "id": "DC 90",
+              "title": "Judgment — General Civil",
+              "purpose": "Final judgment in a district court general civil case.",
+              "rules": ["MCR 4.002", "MCR 2.602"],
+              "statutes": [],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dc90.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foc",
+      "name": "FOC — Friend of the Court Forms",
+      "description": "Forms for custody, parenting time, and child support proceedings administered through the Friend of the Court.",
+      "forms": [
+        {
+          "id": "FOC 01",
+          "title": "Advice of Rights Regarding Use of Friend of the Court Services",
+          "purpose": "Informs parties of FOC services, rights to opt out, and objection procedures.",
+          "rules": ["MCR 3.208"],
+          "statutes": ["MCL 552.505"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc01.pdf"
+        },
+        {
+          "id": "FOC 02",
+          "title": "Domestic Relations Mediation Report [UNVERIFIED]",
+          "purpose": "Mediator's report to the court following FOC mediation.",
+          "rules": ["MCR 3.216"],
+          "statutes": ["MCL 552.513"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc02.pdf",
+          "unverified": true
+        },
+        {
+          "id": "FOC 03",
+          "title": "Uniform Child Support Order",
+          "purpose": "Standardized order establishing or modifying child support obligations.",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 552.517"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc03.pdf"
+        },
+        {
+          "id": "FOC 04",
+          "title": "Uniform Spousal Support Order",
+          "purpose": "Standardized order establishing or modifying spousal support (alimony).",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 552.23"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc04.pdf"
+        },
+        {
+          "id": "FOC 10",
+          "title": "Uniform Support Order (Combined)",
+          "purpose": "Combined child support and spousal support order.",
+          "rules": ["MCR 3.211"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc10.pdf"
+        },
+        {
+          "id": "FOC 10a",
+          "title": "Addendum to Uniform Support Order [UNVERIFIED]",
+          "purpose": "Supplemental terms to the uniform support order.",
+          "rules": ["MCR 3.211"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc10a.pdf",
+          "unverified": true
+        },
+        {
+          "id": "FOC 29",
+          "title": "Verified Statement and Application for Title IV-D Services",
+          "purpose": "Sworn financial disclosure and application for IV-D child support enforcement services.",
+          "rules": [],
+          "statutes": ["MCL 552.505", "42 USC 654"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc29.pdf"
+        },
+        {
+          "id": "FOC 39",
+          "title": "Friend of the Court Case Questionnaire [UNVERIFIED]",
+          "purpose": "Collects information from parties for FOC recommendation regarding custody, support, and parenting time.",
+          "rules": [],
+          "statutes": ["MCL 552.505"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc39.pdf",
+          "unverified": true
+        },
+        {
+          "id": "FOC 50",
+          "title": "Objection to Referee's Recommended Order",
+          "purpose": "Formal objection to an order recommended by the FOC referee.",
+          "rules": ["MCR 3.215"],
+          "statutes": ["MCL 552.507"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc50.pdf"
+        },
+        {
+          "id": "FOC 51",
+          "title": "Motion to Change Custody, Parenting Time, and Support [UNVERIFIED]",
+          "purpose": "Combined motion seeking modification of custody, parenting time, and/or support.",
+          "rules": [],
+          "statutes": ["MCL 722.27", "MCL 552.517"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc51.pdf",
+          "unverified": true
+        },
+        {
+          "id": "FOC 59",
+          "title": "Order on Referee Hearing",
+          "purpose": "Court order adopting, rejecting, or modifying the FOC referee recommendation.",
+          "rules": ["MCR 3.215"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc59.pdf"
+        },
+        {
+          "id": "FOC 61",
+          "title": "Referee Recommendation",
+          "purpose": "Written recommendation of the FOC referee following hearing.",
+          "rules": ["MCR 3.215"],
+          "statutes": ["MCL 552.507"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc61.pdf"
+        },
+        {
+          "id": "FOC 67",
+          "title": "Support Recommendation",
+          "purpose": "FOC's recommendation regarding child and/or spousal support.",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 552.505(1)(h)"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc67.pdf"
+        },
+        {
+          "id": "FOC 89",
+          "title": "Motion Regarding Support",
+          "purpose": "Motion to establish, modify, or enforce child or spousal support.",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 552.517"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc89.pdf"
+        },
+        {
+          "id": "FOC 100",
+          "title": "Motion Regarding Custody",
+          "purpose": "Motion to establish or modify custody of minor children.",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 722.27"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc100.pdf"
+        },
+        {
+          "id": "FOC 101",
+          "title": "Motion Regarding Parenting Time",
+          "purpose": "Motion to establish, modify, or enforce a parenting time order.",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 722.27a"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc101.pdf"
+        },
+        {
+          "id": "FOC 102",
+          "title": "Response to Motion Regarding Custody / Parenting Time / Support",
+          "purpose": "Responding party's answer to a post-judgment domestic relations motion.",
+          "rules": ["MCR 3.211", "MCR 2.119"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc102.pdf"
+        },
+        {
+          "id": "FOC 103",
+          "title": "Order Regarding Parenting Time",
+          "purpose": "Court order establishing or modifying parenting time (visitation).",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 722.27a"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc103.pdf"
+        },
+        {
+          "id": "FOC 104",
+          "title": "Motion Regarding Change of Domicile",
+          "purpose": "Motion seeking permission or objecting to relocation of a child's domicile.",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 722.31"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc104.pdf"
+        },
+        {
+          "id": "FOC 108",
+          "title": "Advice of Rights — Show Cause / Contempt",
+          "purpose": "Advises a party of rights before a contempt proceeding for violating a court order.",
+          "rules": ["MCR 3.208"],
+          "statutes": ["MCL 552.636"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc108.pdf"
+        },
+        {
+          "id": "FOC 109",
+          "title": "Response to Show Cause for Contempt",
+          "purpose": "Written response to an order to show cause why a party should not be held in contempt.",
+          "rules": ["MCR 3.208"],
+          "statutes": ["MCL 552.636"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc109.pdf"
+        },
+        {
+          "id": "FOC 115",
+          "title": "Motion and Order to Show Cause (Contempt)",
+          "purpose": "Motion requesting that a party be ordered to appear and show cause why they should not be held in contempt.",
+          "rules": ["MCR 3.208"],
+          "statutes": ["MCL 552.636", "MCL 600.1701"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/foc115.pdf"
+        }
+      ]
+    },
+    {
+      "id": "pc",
+      "name": "PC — Probate Court Forms",
+      "description": "Forms for the Probate Court: estates, guardianships, conservatorships, trusts, and mental health proceedings.",
+      "subcategories": [
+        {
+          "name": "Guardianship & Conservatorship",
+          "forms": [
+            {
+              "id": "PC 625",
+              "title": "Petition for Appointment of Guardian of Minor",
+              "purpose": "Requests appointment of a guardian for a minor child.",
+              "rules": ["MCR 5.402"],
+              "statutes": ["MCL 700.5204"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc625.pdf"
+            },
+            {
+              "id": "PC 626",
+              "title": "Petition for Appointment of Guardian of Incapacitated Individual",
+              "purpose": "Requests appointment of a guardian for a legally incapacitated adult.",
+              "rules": ["MCR 5.402"],
+              "statutes": ["MCL 700.5303"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc626.pdf"
+            },
+            {
+              "id": "PC 627",
+              "title": "Order Appointing Guardian",
+              "purpose": "Court order appointing a guardian for a minor or incapacitated individual.",
+              "rules": ["MCR 5.402"],
+              "statutes": ["MCL 700.5209", "MCL 700.5305"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc627.pdf"
+            },
+            {
+              "id": "PC 628",
+              "title": "Acceptance of Appointment — Guardian",
+              "purpose": "Guardian's sworn acceptance of fiduciary appointment and duties.",
+              "rules": [],
+              "statutes": ["MCL 700.5209", "MCL 700.5305"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc628.pdf"
+            },
+            {
+              "id": "PC 629",
+              "title": "Petition for Appointment of Conservator",
+              "purpose": "Requests appointment of a conservator to manage a protected person's finances.",
+              "rules": ["MCR 5.402"],
+              "statutes": ["MCL 700.5401"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc629.pdf"
+            },
+            {
+              "id": "PC 630",
+              "title": "Order Appointing Conservator",
+              "purpose": "Court order appointing a conservator.",
+              "rules": ["MCR 5.402"],
+              "statutes": ["MCL 700.5407"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc630.pdf"
+            },
+            {
+              "id": "PC 631",
+              "title": "Acceptance of Appointment — Conservator",
+              "purpose": "Conservator's sworn acceptance of appointment and fiduciary duties.",
+              "rules": [],
+              "statutes": ["MCL 700.5407"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc631.pdf"
+            },
+            {
+              "id": "PC 632",
+              "title": "Letters of Authority (Guardian / Conservator)",
+              "purpose": "Official letters documenting the guardian's or conservator's authority.",
+              "rules": [],
+              "statutes": ["MCL 700.5209", "MCL 700.5407"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc632.pdf"
+            },
+            {
+              "id": "PC 633",
+              "title": "Annual Report of Guardian",
+              "purpose": "Guardian's annual report on the ward's condition, residence, and services.",
+              "rules": ["MCR 5.409"],
+              "statutes": ["MCL 700.5314"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc633.pdf"
+            },
+            {
+              "id": "PC 634",
+              "title": "Annual Account of Conservator",
+              "purpose": "Conservator's annual financial accounting to the court.",
+              "rules": ["MCR 5.409"],
+              "statutes": ["MCL 700.5418"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc634.pdf"
+            },
+            {
+              "id": "PC 635",
+              "title": "Petition for Removal of Guardian or Conservator [UNVERIFIED]",
+              "purpose": "Requests removal of a guardian or conservator for cause.",
+              "rules": [],
+              "statutes": ["MCL 700.5310", "MCL 700.5415"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc635.pdf",
+              "unverified": true
+            },
+            {
+              "id": "PC 636",
+              "title": "Petition to Terminate Guardianship / Conservatorship [UNVERIFIED]",
+              "purpose": "Requests termination of the guardianship or conservatorship.",
+              "rules": [],
+              "statutes": ["MCL 700.5210", "MCL 700.5431"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc636.pdf",
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "name": "Decedent Estates",
+          "forms": [
+            {
+              "id": "PC 556",
+              "title": "Application for Informal Probate and/or Appointment of Personal Representative",
+              "purpose": "Initiates informal probate of a will and/or appointment of personal representative.",
+              "rules": ["MCR 5.302"],
+              "statutes": ["MCL 700.3301"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc556.pdf"
+            },
+            {
+              "id": "PC 557",
+              "title": "Statement of Personal Representative",
+              "purpose": "Sworn acceptance of appointment and notice of duties by the personal representative.",
+              "rules": [],
+              "statutes": ["MCL 700.3703"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc557.pdf"
+            },
+            {
+              "id": "PC 558",
+              "title": "Testimony to Identify Heirs",
+              "purpose": "Identifies the decedent's heirs at law for the probate court.",
+              "rules": [],
+              "statutes": ["MCL 700.3301"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc558.pdf"
+            },
+            {
+              "id": "PC 559",
+              "title": "Letters of Authority (Personal Representative)",
+              "purpose": "Official letters documenting the personal representative's authority over the estate.",
+              "rules": ["MCR 5.302"],
+              "statutes": ["MCL 700.3601"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc559.pdf"
+            },
+            {
+              "id": "PC 561",
+              "title": "Notice to Creditors (Decedent's Estate)",
+              "purpose": "Publication notice to creditors of the estate to file claims.",
+              "rules": ["MCR 5.306"],
+              "statutes": ["MCL 700.3801"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc561.pdf"
+            },
+            {
+              "id": "PC 562",
+              "title": "Notice of Appointment and Duties of Personal Representative",
+              "purpose": "Notifies interested persons of the personal representative's appointment.",
+              "rules": [],
+              "statutes": ["MCL 700.3705"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc562.pdf"
+            },
+            {
+              "id": "PC 563",
+              "title": "Petition for Formal Probate / Appointment of Personal Representative [UNVERIFIED]",
+              "purpose": "Initiates formal (supervised) probate proceedings.",
+              "rules": ["MCR 5.302"],
+              "statutes": ["MCL 700.3401"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc563.pdf",
+              "unverified": true
+            },
+            {
+              "id": "PC 564",
+              "title": "Inventory of Estate [UNVERIFIED]",
+              "purpose": "Lists all assets of the estate within 91 days of appointment.",
+              "rules": [],
+              "statutes": ["MCL 700.3706"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc564.pdf",
+              "unverified": true
+            },
+            {
+              "id": "PC 565",
+              "title": "Sworn Closing Statement",
+              "purpose": "Closes an estate under informal proceedings by sworn statement.",
+              "rules": ["MCR 5.311"],
+              "statutes": ["MCL 700.3983"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc565.pdf"
+            },
+            {
+              "id": "PC 566",
+              "title": "Petition for Complete Estate Settlement",
+              "purpose": "Requests final settlement and distribution of the estate.",
+              "rules": ["MCR 5.311"],
+              "statutes": ["MCL 700.3952"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc566.pdf"
+            },
+            {
+              "id": "PC 567",
+              "title": "Order for Complete Estate Settlement [UNVERIFIED]",
+              "purpose": "Court order approving final settlement and distribution.",
+              "rules": [],
+              "statutes": ["MCL 700.3952"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc567.pdf",
+              "unverified": true
+            }
+          ]
+        },
+        {
+          "name": "Mental Health",
+          "forms": [
+            {
+              "id": "PC 301",
+              "title": "Petition for Mental Health Treatment",
+              "purpose": "Petitions for involuntary mental health treatment of an individual.",
+              "rules": ["MCR 5.740"],
+              "statutes": ["MCL 330.1434"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc301.pdf"
+            },
+            {
+              "id": "PC 302",
+              "title": "Clinical Certificate — Mental Health",
+              "purpose": "Licensed professional's certification supporting involuntary treatment.",
+              "rules": [],
+              "statutes": ["MCL 330.1434", "MCL 330.1435"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc302.pdf"
+            },
+            {
+              "id": "PC 303",
+              "title": "Order for Involuntary Mental Health Treatment [UNVERIFIED]",
+              "purpose": "Court order for involuntary hospitalization or treatment.",
+              "rules": ["MCR 5.740"],
+              "statutes": ["MCL 330.1468"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc303.pdf",
+              "unverified": true
+            },
+            {
+              "id": "PC 304",
+              "title": "Petition for Judicial Admission [UNVERIFIED]",
+              "purpose": "Petition for non-emergency judicial admission for mental health treatment.",
+              "rules": [],
+              "statutes": ["MCL 330.1452"],
+              "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/pc304.pdf",
+              "unverified": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jc",
+      "name": "JC — Juvenile Court Forms",
+      "description": "Forms for juvenile delinquency, child protective proceedings, and juvenile guardianship.",
+      "forms": [
+        {
+          "id": "JC 01",
+          "title": "Petition (Delinquency)",
+          "purpose": "Initiates a juvenile delinquency proceeding.",
+          "rules": ["MCR 3.931"],
+          "statutes": ["MCL 712A.11"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc01.pdf"
+        },
+        {
+          "id": "JC 02",
+          "title": "Petition (Child Protective)",
+          "purpose": "Initiates a child protective proceeding based on allegations of abuse or neglect.",
+          "rules": ["MCR 3.961"],
+          "statutes": ["MCL 712A.19b"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc02.pdf"
+        },
+        {
+          "id": "JC 03",
+          "title": "Summons — Juvenile",
+          "purpose": "Summons to parents/guardian to appear in juvenile court.",
+          "rules": ["MCR 3.920"],
+          "statutes": ["MCL 712A.12"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc03.pdf"
+        },
+        {
+          "id": "JC 04",
+          "title": "Order Following Preliminary Hearing (Delinquency)",
+          "purpose": "Court order after the preliminary hearing in a delinquency case.",
+          "rules": ["MCR 3.935"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc04.pdf"
+        },
+        {
+          "id": "JC 05",
+          "title": "Order Following Preliminary Hearing (Child Protective)",
+          "purpose": "Court order after the preliminary hearing in a child protective proceeding.",
+          "rules": ["MCR 3.965"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc05.pdf"
+        },
+        {
+          "id": "JC 06",
+          "title": "Order of Disposition — Juvenile [UNVERIFIED]",
+          "purpose": "Final dispositional order in a juvenile matter.",
+          "rules": ["MCR 3.943"],
+          "statutes": ["MCL 712A.18"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc06.pdf",
+          "unverified": true
+        },
+        {
+          "id": "JC 07",
+          "title": "Order Placing Child / Juvenile [UNVERIFIED]",
+          "purpose": "Order placing a child in foster care or a treatment facility.",
+          "rules": ["MCR 3.965"],
+          "statutes": ["MCL 712A.18"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc07.pdf",
+          "unverified": true
+        },
+        {
+          "id": "JC 08",
+          "title": "Advice of Rights — Juvenile",
+          "purpose": "Informs the juvenile of constitutional rights at each stage.",
+          "rules": ["MCR 3.922", "MCR 3.914"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc08.pdf"
+        },
+        {
+          "id": "JC 09",
+          "title": "Petition for Termination of Parental Rights",
+          "purpose": "Initiates proceedings to terminate a parent's legal rights.",
+          "rules": ["MCR 3.977"],
+          "statutes": ["MCL 712A.19b"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc09.pdf"
+        },
+        {
+          "id": "JC 10",
+          "title": "Order Terminating Parental Rights",
+          "purpose": "Court order permanently terminating parental rights.",
+          "rules": ["MCR 3.977"],
+          "statutes": ["MCL 712A.19b"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc10.pdf"
+        },
+        {
+          "id": "JC 11",
+          "title": "Consent to Adoption — Juvenile Court [UNVERIFIED]",
+          "purpose": "Parent's consent to adoption within a juvenile court proceeding.",
+          "rules": [],
+          "statutes": ["MCL 710.29"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc11.pdf",
+          "unverified": true
+        },
+        {
+          "id": "JC 12",
+          "title": "Review Hearing Order — Child Protective [UNVERIFIED]",
+          "purpose": "Court order following a periodic review hearing in a child protective case.",
+          "rules": ["MCR 3.975"],
+          "statutes": ["MCL 712A.19"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/jc12.pdf",
+          "unverified": true
+        }
+      ]
+    },
+    {
+      "id": "dm",
+      "name": "DM — Domestic Relations Forms",
+      "description": "Forms for divorce, separate maintenance, annulment, and related family law matters filed in Circuit Court — Family Division.",
+      "forms": [
+        {
+          "id": "DM 01",
+          "title": "Summons — Divorce / Separate Maintenance",
+          "purpose": "Summons for commencing a divorce or separate maintenance action.",
+          "rules": ["MCR 3.201"],
+          "statutes": ["MCL 552.6"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm01.pdf"
+        },
+        {
+          "id": "DM 02",
+          "title": "Complaint for Divorce — No Children",
+          "purpose": "Complaint initiating divorce where no minor children are involved.",
+          "rules": ["MCR 3.206"],
+          "statutes": ["MCL 552.6"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm02.pdf"
+        },
+        {
+          "id": "DM 02a",
+          "title": "Complaint for Divorce — With Children",
+          "purpose": "Complaint initiating divorce where minor children are involved.",
+          "rules": ["MCR 3.206"],
+          "statutes": ["MCL 552.6", "MCL 722.23"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm02a.pdf"
+        },
+        {
+          "id": "DM 03",
+          "title": "Answer — Divorce / Separate Maintenance",
+          "purpose": "Defendant's answer to a complaint for divorce or separate maintenance.",
+          "rules": ["MCR 3.206", "MCR 2.111"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm03.pdf"
+        },
+        {
+          "id": "DM 04",
+          "title": "Counterclaim for Divorce [UNVERIFIED]",
+          "purpose": "Defendant's counterclaim seeking divorce.",
+          "rules": ["MCR 3.206"],
+          "statutes": ["MCL 552.6"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm04.pdf",
+          "unverified": true
+        },
+        {
+          "id": "DM 06",
+          "title": "Judgment of Divorce — No Children",
+          "purpose": "Final judgment dissolving a marriage where no minor children are involved.",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 552.16"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm06.pdf"
+        },
+        {
+          "id": "DM 06a",
+          "title": "Judgment of Divorce — With Children",
+          "purpose": "Final judgment dissolving a marriage and addressing custody, support, and parenting time.",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 552.16", "MCL 722.23"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm06a.pdf"
+        },
+        {
+          "id": "DM 07",
+          "title": "Uniform Child Custody Order",
+          "purpose": "Standardized order establishing or modifying legal and physical custody.",
+          "rules": ["MCR 3.211"],
+          "statutes": ["MCL 722.23", "MCL 722.27"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm07.pdf"
+        },
+        {
+          "id": "DM 08",
+          "title": "Default and Default Judgment — Divorce [UNVERIFIED]",
+          "purpose": "Requests entry of default when defendant fails to respond.",
+          "rules": ["MCR 3.210", "MCR 2.603"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm08.pdf",
+          "unverified": true
+        },
+        {
+          "id": "DM 09",
+          "title": "Ex Parte Order — Domestic Relations [UNVERIFIED]",
+          "purpose": "Request for emergency ex parte relief (temporary custody, support, etc.).",
+          "rules": ["MCR 3.207"],
+          "statutes": ["MCL 552.14"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm09.pdf",
+          "unverified": true
+        },
+        {
+          "id": "DM 10",
+          "title": "Petition for Separate Maintenance [UNVERIFIED]",
+          "purpose": "Initiates a separate maintenance action without seeking divorce.",
+          "rules": [],
+          "statutes": ["MCL 552.7"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm10.pdf",
+          "unverified": true
+        },
+        {
+          "id": "DM 11",
+          "title": "Domestic Relations Temporary Order",
+          "purpose": "Temporary order addressing custody, support, and property pending final judgment.",
+          "rules": ["MCR 3.207"],
+          "statutes": ["MCL 552.14"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm11.pdf"
+        },
+        {
+          "id": "DM 12",
+          "title": "Settlement Agreement / Consent Judgment [UNVERIFIED]",
+          "purpose": "Written agreement of the parties resolving all issues in the divorce.",
+          "rules": ["MCR 3.223"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm12.pdf",
+          "unverified": true
+        },
+        {
+          "id": "DM 13",
+          "title": "Verified Financial Information Form",
+          "purpose": "Sworn financial disclosure required in domestic relations proceedings.",
+          "rules": ["MCR 3.206(C)"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm13.pdf"
+        },
+        {
+          "id": "DM 14",
+          "title": "Proof of Service — Domestic Relations",
+          "purpose": "Proof that divorce/domestic relations pleadings were served.",
+          "rules": ["MCR 2.104", "MCR 3.203"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm14.pdf"
+        },
+        {
+          "id": "DM 15",
+          "title": "Application for IV-D Services — Domestic Relations [UNVERIFIED]",
+          "purpose": "Application for Title IV-D child support enforcement services.",
+          "rules": [],
+          "statutes": ["MCL 552.505", "42 USC 654"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/dm15.pdf",
+          "unverified": true
+        }
+      ]
+    },
+    {
+      "id": "ppo",
+      "name": "PPO — Personal Protection Order Forms",
+      "description": "Personal protection orders filed in Circuit Court. These forms are in the CC series but collected here by topic for convenience.",
+      "forms": [
+        {
+          "id": "CC 375",
+          "title": "Petition for Personal Protection Order (Domestic Relationship)",
+          "purpose": "Petitions for a PPO against a person with whom the petitioner has a domestic relationship.",
+          "rules": ["MCR 3.703"],
+          "statutes": ["MCL 600.2950"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc375.pdf"
+        },
+        {
+          "id": "CC 376",
+          "title": "Personal Protection Order (Domestic Relationship)",
+          "purpose": "The ex parte PPO itself, enforceable upon service on the respondent.",
+          "rules": ["MCR 3.703", "MCR 3.705"],
+          "statutes": ["MCL 600.2950"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc376.pdf"
+        },
+        {
+          "id": "CC 377",
+          "title": "Personal Protection Order (Non-Domestic / Stalking)",
+          "purpose": "Ex parte PPO for stalking, harassment, or non-domestic situations.",
+          "rules": ["MCR 3.703"],
+          "statutes": ["MCL 600.2950a"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc377.pdf"
+        },
+        {
+          "id": "CC 378",
+          "title": "Motion to Terminate or Modify Personal Protection Order",
+          "purpose": "Respondent's motion to dissolve or modify the PPO after entry.",
+          "rules": ["MCR 3.707"],
+          "statutes": ["MCL 600.2950(12)"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc378.pdf"
+        },
+        {
+          "id": "CC 379",
+          "title": "Proof of Service — Personal Protection Order",
+          "purpose": "Documents that the PPO was personally served on the respondent.",
+          "rules": ["MCR 3.706"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc379.pdf"
+        },
+        {
+          "id": "CC 380",
+          "title": "Order After Hearing Regarding PPO",
+          "purpose": "Court order following contested hearing on a PPO.",
+          "rules": ["MCR 3.707", "MCR 3.708"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc380.pdf"
+        },
+        {
+          "id": "CC 381",
+          "title": "Petition for Personal Protection Order (Minor)",
+          "purpose": "PPO petition filed on behalf of a minor by a parent or guardian.",
+          "rules": ["MCR 3.703"],
+          "statutes": ["MCL 600.2950h", "MCL 600.2950"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc381.pdf"
+        },
+        {
+          "id": "CC 382",
+          "title": "Motion to Extend PPO [UNVERIFIED]",
+          "purpose": "Motion to extend a personal protection order before it expires.",
+          "rules": ["MCR 3.708"],
+          "statutes": ["MCL 600.2950"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc382.pdf",
+          "unverified": true
+        },
+        {
+          "id": "CC 383",
+          "title": "Notice of Hearing — PPO [UNVERIFIED]",
+          "purpose": "Notice to the respondent of a hearing on a PPO motion.",
+          "rules": ["MCR 3.707"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc383.pdf",
+          "unverified": true
+        }
+      ]
+    },
+    {
+      "id": "cr",
+      "name": "CR — Criminal Forms",
+      "description": "Criminal case forms are primarily in the MC series (MC 200+). Collected here for reference by topic.",
+      "forms": [
+        {
+          "id": "MC 231",
+          "title": "Advice of Rights — Misdemeanor",
+          "purpose": "Advises a misdemeanor defendant of arraignment rights (counsel, silence, plea).",
+          "rules": ["MCR 6.104", "MCR 6.610"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc231.pdf"
+        },
+        {
+          "id": "MC 232",
+          "title": "Judgment of Sentence — Misdemeanor",
+          "purpose": "Final judgment and sentence for misdemeanor convictions.",
+          "rules": ["MCR 6.425", "MCR 6.610"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc232.pdf"
+        },
+        {
+          "id": "MC 233",
+          "title": "Application for Assigned Counsel",
+          "purpose": "Application for court-appointed attorney when defendant is indigent.",
+          "rules": ["MCR 6.005"],
+          "statutes": ["MCL 775.16"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc233.pdf"
+        },
+        {
+          "id": "MC 234",
+          "title": "Order Appointing / Denying Counsel",
+          "purpose": "Court's order on the assigned counsel application.",
+          "rules": ["MCR 6.005"],
+          "statutes": ["MCL 775.16"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc234.pdf"
+        },
+        {
+          "id": "MC 240",
+          "title": "Sentencing Information Report",
+          "purpose": "Information for sentencing guidelines scored by the court.",
+          "rules": ["MCR 6.425"],
+          "statutes": ["MCL 769.34"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc240.pdf"
+        },
+        {
+          "id": "MC 245",
+          "title": "Order of Restitution",
+          "purpose": "Orders defendant to pay victim restitution.",
+          "rules": [],
+          "statutes": ["MCL 780.766", "MCL 780.767"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc245.pdf"
+        },
+        {
+          "id": "MC 280",
+          "title": "Application to Set Aside Conviction",
+          "purpose": "Application to expunge a criminal conviction from the record.",
+          "rules": [],
+          "statutes": ["MCL 780.621"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc280.pdf"
+        },
+        {
+          "id": "MC 281",
+          "title": "Order on Application to Set Aside Conviction",
+          "purpose": "Court order granting or denying the expungement application.",
+          "rules": [],
+          "statutes": ["MCL 780.621"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc281.pdf"
+        },
+        {
+          "id": "CC 215",
+          "title": "Felony Information [UNVERIFIED]",
+          "purpose": "Formal charging document for felonies in circuit court.",
+          "rules": ["MCR 6.112"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc215.pdf",
+          "unverified": true
+        },
+        {
+          "id": "CC 216",
+          "title": "Judgment of Sentence — Felony [UNVERIFIED]",
+          "purpose": "Final judgment and sentence for felony convictions in circuit court.",
+          "rules": ["MCR 6.425"],
+          "statutes": ["MCL 769.34"],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc216.pdf",
+          "unverified": true
+        },
+        {
+          "id": "CC 217",
+          "title": "Advice of Rights — Felony [UNVERIFIED]",
+          "purpose": "Advises a felony defendant of arraignment and plea rights.",
+          "rules": ["MCR 6.104", "MCR 6.302"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/cc217.pdf",
+          "unverified": true
+        }
+      ]
+    },
+    {
+      "id": "appellate",
+      "name": "Appellate Court Forms",
+      "description": "Forms for Michigan Court of Appeals and Supreme Court practice. SCAO publishes limited appellate forms; many appellate filings follow MCR Chapter 7 format requirements.",
+      "forms": [
+        {
+          "id": "MC 300",
+          "title": "Claim of Appeal",
+          "purpose": "Initiates an appeal as of right to the Court of Appeals.",
+          "rules": ["MCR 7.204"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc300.pdf"
+        },
+        {
+          "id": "MC 301",
+          "title": "Application for Leave to Appeal",
+          "purpose": "Seeks discretionary review by the Court of Appeals.",
+          "rules": ["MCR 7.205"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc301.pdf"
+        },
+        {
+          "id": "MC 302",
+          "title": "Motion — Court of Appeals [UNVERIFIED]",
+          "purpose": "General motion form for the Court of Appeals.",
+          "rules": ["MCR 7.211"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc302.pdf",
+          "unverified": true
+        },
+        {
+          "id": "MC 303",
+          "title": "Transcript Order Form [UNVERIFIED]",
+          "purpose": "Orders trial transcripts from the court reporter for an appeal.",
+          "rules": ["MCR 7.210"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc303.pdf",
+          "unverified": true
+        },
+        {
+          "id": "MC 304",
+          "title": "Certificate of Mailing / Service — Appellate [UNVERIFIED]",
+          "purpose": "Proof of service for appellate filings.",
+          "rules": ["MCR 7.202", "MCR 7.211"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc304.pdf",
+          "unverified": true
+        },
+        {
+          "id": "MC 305",
+          "title": "Application for Leave to Appeal to Michigan Supreme Court [UNVERIFIED]",
+          "purpose": "Seeks discretionary review by the Michigan Supreme Court.",
+          "rules": ["MCR 7.305"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc305.pdf",
+          "unverified": true
+        },
+        {
+          "id": "MC 306",
+          "title": "Appearance — Court of Appeals [UNVERIFIED]",
+          "purpose": "Attorney's entry of appearance in the Court of Appeals.",
+          "rules": ["MCR 7.204"],
+          "statutes": [],
+          "url": "https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc306.pdf",
+          "unverified": true
+        }
+      ]
+    }
+  ],
+  "cross_reference": {
+    "custody_parenting_time": ["FOC 100", "FOC 101", "FOC 102", "FOC 103", "FOC 104", "DM 07", "DM 02a", "DM 06a"],
+    "child_support": ["FOC 03", "FOC 04", "FOC 10", "FOC 29", "FOC 67", "FOC 89"],
+    "contempt_enforcement": ["FOC 108", "FOC 109", "FOC 115"],
+    "divorce": ["DM 01", "DM 02", "DM 02a", "DM 03", "DM 06", "DM 06a", "DM 13"],
+    "fee_waiver_indigency": ["MC 03", "MC 04", "MC 05", "MC 233", "MC 234"],
+    "garnishment": ["CC 100", "CC 101", "CC 102", "CC 103", "CC 104", "CC 105"],
+    "guardianship_conservatorship": ["PC 625", "PC 626", "PC 627", "PC 628", "PC 629", "PC 630", "PC 631", "PC 632", "PC 633", "PC 634"],
+    "personal_protection_orders": ["CC 375", "CC 376", "CC 377", "CC 378", "CC 379", "CC 380", "CC 381"],
+    "probate_estates": ["PC 556", "PC 557", "PC 558", "PC 559", "PC 561", "PC 562", "PC 565", "PC 566"],
+    "landlord_tenant_eviction": ["DC 100a", "DC 100b", "DC 100c", "DC 100d", "DC 102", "DC 103", "DC 104", "DC 105"],
+    "expungement": ["MC 280", "MC 281"]
+  }
+}

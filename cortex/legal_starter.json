@@ -1,0 +1,91 @@
+{
+  "name": "Legal & Compliance Starter",
+  "version": "1.0.0",
+  "description": "Starter pack for legal research, contract analysis, and regulatory compliance investigations. Merged from cortex-legal repository.",
+  "entities": {
+    "Contract_Clause": {
+      "patterns": ["(?i)\\b(indemnif(?:y|ication)|limitation of liability|force majeure|non-compete|confidentiality|termination clause|arbitration clause|governing law|warranty|representations?)\\b"],
+      "color": "#e74c3c",
+      "shape": "diamond"
+    },
+    "Legal_Citation": {
+      "patterns": ["\\b\\d+\\s+U\\.?S\\.?C\\.?\\s+\\d+", "\\b\\d+\\s+C\\.?F\\.?R\\.?\\s+\\d+", "\\b\\d+\\s+(?:F\\.?\\s*(?:Supp|3d|2d)|S\\.?\\s*Ct)"],
+      "color": "#3498db",
+      "shape": "hexagon"
+    },
+    "Regulation": {
+      "patterns": ["(?i)\\b(GDPR|CCPA|HIPAA|SOX|Dodd-Frank|ADA|FCPA|OSHA|SEC Rule|FTC Act|COPPA|FERPA|GLBA|PCI[- ]DSS)\\b"],
+      "color": "#2ecc71",
+      "shape": "square"
+    },
+    "Court": {
+      "patterns": ["(?i)\\b(Supreme Court|Circuit Court|District Court|Appellate Court|Court of Appeals|Bankruptcy Court|Tax Court|Federal Circuit)\\b"],
+      "color": "#9b59b6",
+      "shape": "triangle"
+    },
+    "Legal_Party": {
+      "patterns": ["(?i)\\b(plaintiff|defendant|respondent|petitioner|appellant|appellee|intervenor|amicus curiae|third[- ]party)\\b"],
+      "color": "#f39c12",
+      "shape": "circle"
+    },
+    "Legal_Action": {
+      "patterns": ["(?i)\\b(filed suit|motion to (?:dismiss|compel|suppress)|summary judgment|injunction|subpoena|deposition|discovery request|class action|settlement|verdict|appeal)\\b"],
+      "color": "#e67e22",
+      "shape": "star"
+    },
+    "Monetary_Amount": {
+      "patterns": ["\\$[\\d,]+(?:\\.\\d{2})?(?:\\s*(?:million|billion|thousand|M|B|K))?"],
+      "color": "#27ae60",
+      "shape": "circle"
+    },
+    "Michigan_Statute": {
+      "patterns": ["\\bMCL\\s+\\d+\\.\\d+[a-z]?\\b", "\\bMCR\\s+\\d+\\.\\d+[A-Z]?\\b", "\\bMRE\\s+\\d+[A-Z]?\\b"],
+      "color": "#1abc9c",
+      "shape": "hexagon"
+    }
+  },
+  "categories": {
+    "Contract_Analysis": {
+      "keywords": ["contract", "agreement", "clause", "party", "obligation", "breach", "termination", "amendment"],
+      "description": "Contract terms, obligations, and analysis"
+    },
+    "Regulatory_Compliance": {
+      "keywords": ["compliance", "regulation", "regulatory", "audit", "violation", "penalty", "enforcement"],
+      "description": "Regulatory requirements and compliance status"
+    },
+    "Litigation": {
+      "keywords": ["lawsuit", "complaint", "motion", "hearing", "trial", "verdict", "appeal", "settlement"],
+      "description": "Active litigation matters and case tracking"
+    },
+    "Michigan_Family_Law": {
+      "keywords": ["custody", "parenting time", "child support", "FOC", "divorce", "PPO", "best interest"],
+      "description": "Michigan family law proceedings"
+    },
+    "Michigan_Criminal": {
+      "keywords": ["arraignment", "sentencing", "probation", "felony", "misdemeanor", "plea", "MSGCS"],
+      "description": "Michigan criminal proceedings"
+    }
+  },
+  "authorities": {
+    "US_Code": {
+      "patterns": ["\\b\\d+\\s+U\\.?S\\.?C\\.?\\s+(?:Sec(?:tion|\\.)?\\s*)?\\d+"],
+      "description": "United States Code citations"
+    },
+    "CFR": {
+      "patterns": ["\\b\\d+\\s+C\\.?F\\.?R\\.?\\s+(?:Part\\s+)?\\d+"],
+      "description": "Code of Federal Regulations"
+    },
+    "MCL": {
+      "patterns": ["\\bMCL\\s+\\d+\\.\\d+"],
+      "description": "Michigan Compiled Laws"
+    },
+    "MCR": {
+      "patterns": ["\\bMCR\\s+\\d+\\.\\d+"],
+      "description": "Michigan Court Rules"
+    },
+    "MRE": {
+      "patterns": ["\\bMRE\\s+\\d+"],
+      "description": "Michigan Rules of Evidence"
+    }
+  }
+}
