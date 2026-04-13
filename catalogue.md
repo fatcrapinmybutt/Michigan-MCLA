@@ -8835,6 +8835,325 @@ A fair trial in a fair tribunal is a basic requirement of due process. *In re Mu
 
 ---
 
-*Sources updated: Michigan Constitution of 1963 (art I, art III, art VI, art VI §30); Michigan Court Rules (MCR 1.109, 2.003, 2.114, 2.119, 2.517, 2.605, 2.612, 3.219, 3.302, 3.606, 3.703, 7.202, 7.203, 7.204, 7.205, 7.206, 7.212, 7.301, 7.302, 7.303, 8.005, 8.108, 8.110); Michigan Rules of Evidence (MRE 201, 403, 608, 609, 613, 801, 901); Michigan Rules of Professional Conduct (MRPC 1.2, 3.3, 3.4, 3.5, 8.4); Michigan Code of Judicial Conduct (MCJC Canons 1, 2, 3, 3(A)(6), 3(B)(2), 3(C)(1)); Michigan Compiled Laws (MCL) — Chapters 15, 24, 28, 37, 125, 205, 330, 333, 400, 408, 418, 450, 500, 552, 554, 600 (including 600.1651, 600.2591, 600.2605, 600.2940, 600.2950, 600.4310), 691, 700, 710, 712A, 712B, 722 (including 722.23, 722.27a, 722.628, 722.628a, 722.628d, 722.1202, 722.1443), 750 (including 750.159b–750.159x, 750.174a, 750.224, 750.224f, 750.227c, 750.248, 750.411a, 750.422, 750.423, 750.425, 750.505, 750.539c, 750.539g, 750.633), 762, 767, 769, 780; MCL 15.181 et seq. (State Ethics Act); State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments II, IV, V, VI, VIII, XI, XIV; *Mathews v Eldridge*, 424 US 319 (1976); *Troxel v Granville*, 530 US 57 (2000); *Meyer v Nebraska*, 262 US 390 (1923); *In re Murchison*, 349 US 133 (1955); *Caperton v A.T. Massey Coal Co*, 556 US 868 (2009); *Tumey v Ohio*, 273 US 510 (1927); *Ward v Village of Monroeville*, 409 US 57 (1972); *Cain v Dep't of Corrections*, 451 Mich 470 (1996); *Fletcher v Fletcher*, 447 Mich 871 (1994); *Domako v Rowe*, 438 Mich 347 (1991); *Monell v Dep't of Social Servs*, 436 US 658 (1978); *Younger v Harris*, 401 US 37 (1971); *Rooker v Fidelity Trust Co*, 263 US 413 (1923); *District of Columbia Court of Appeals v Feldman*, 460 US 462 (1983); Second Amendment: *Heller* (2008), *McDonald* (2010), *Bruen* (2022), *Rahimi* (2024); RICO (18 USC 1961–1968); 18 USC 922, 924, 981–983, 1001, 1341, 1343, 1344, 1621, 1623, 1951, 1956, 1957, 1963, 2250, 2252, 2511, 2515, 2520; 21 USC 841, 846, 853, 881; 25 USC 1151, 1301, 1901 et seq. (ICWA); 26 USC 5801 et seq. (NFA); 28 USC 1254, 1257, 1291, 1292, 1331, 1332, 1367, 1441–1453, 2101, 2254, 2465; 28 USC 1746; 34 USC 20901 et seq. (SORNA); 42 USC 1396 et seq. (Medicaid); 42 USC 1981, 1983, 1985, 1986, 2000d; 20 USC 1681; 29 USC 794; 42 USC 12101–12189; 7 USC 2011 et seq. (SNAP); CAFRA (Pub. L. 106-185); FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); VAWA (34 USC 12291); Indian Gaming Regulatory Act (25 USC 2710); Major Crimes Act (18 USC 1153); Tribal Law and Order Act (Pub. L. 111-211); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Supreme Court Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; United States Sentencing Guidelines (USSG); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
+### MRPC 3.7 — The Attorney-Partner as a Necessary Witness
+
+**The Lawyer-Witness Rule:**
+MRPC 3.7(a) provides that a lawyer **shall not act as advocate at a trial in which the lawyer is likely to be a necessary witness** unless:
+- The testimony relates to an uncontested issue
+- The testimony relates to the nature and value of legal services rendered
+- Disqualification of the lawyer would work substantial hardship on the client
+
+**Application to the Shadow Counsel Situation:**
+The opposing party's attorney-partner is not formally appearing as counsel — they are functioning as shadow counsel. But the lawyer-witness rule's relevance cuts in two directions:
+
+1. **The attorney-partner has personal knowledge of key disputed facts.** If the attorney-partner:
+   - Directed or participated in orchestrating the ex parte recording submission
+   - Advised the opposing party on the PPO petition and its content
+   - Had communications with court staff that constitute the bias the plaintiff is challenging
+   - Was present at or aware of events that contradict the opposing party's sworn statements
+
+   ...then they are a **necessary witness** in this proceeding. That means:
+   - If they were formally representing the opposing party, they would be required to withdraw (or seek court permission under MCR 2.117 to proceed as both counsel and witness in limited circumstances)
+   - As shadow counsel, they cannot hide behind the pro se facade to avoid the ethical duty — if their testimony is necessary and they are acting as an attorney in the matter, MRPC 3.7 reaches them
+
+2. **Subpoena the attorney-partner as a witness.** Because the attorney-partner has personal knowledge of:
+   - Their professional relationship with the judge and court staff
+   - Their involvement in drafting filings and directing strategy
+   - Their knowledge of (and potential participation in) the recording scheme
+   
+   The plaintiff can and should **subpoena the attorney-partner as a fact witness** in the evidentiary hearing on the disqualification motion, the taint hearing, and any MCR 2.612 evidentiary hearing. The attorney-partner cannot claim attorney-client privilege for their own personal knowledge of events (as distinct from advice they gave to the opposing party in a formal representation).
+
+3. **MRPC 3.3 — Candor Toward the Tribunal.** If the attorney-partner knows that the opposing party submitted a false PPO petition — and they assisted in drafting that petition, or they know the factual allegations were false — the attorney-partner has an obligation under MRPC 3.3(a)(3) not to offer evidence they know to be false. If they have remained silent about known perjury in a proceeding where they are acting as the de facto attorney, they have violated MRPC 3.3.
+
+4. **MRPC 8.3 — Reporting Professional Misconduct.** An attorney who knows that another attorney (here: the attorney-partner knowing their own conduct) has committed a violation of the rules of professional conduct that raises a substantial question as to that attorney's honesty, trustworthiness, or fitness must report the matter to the Michigan Attorney Grievance Commission. This duty applies to self-reporting — and to any other attorney who learns of the misconduct.
+
+**Strategic Use:**
+- In the AGC grievance, allege both MRPC 3.7 (witness conflict — the attorney-partner has personal knowledge of disputed facts in the proceeding they are managing) and MRPC 3.3/8.3 (failure to disclose known perjury/fraud)
+- In the disqualification motion and taint hearing, subpoena the attorney-partner as a witness specifically on: (a) their professional appearances before this judge, (b) any communications with court staff about this case, (c) their involvement in the ex parte recording submission
+- If the attorney-partner claims attorney-client privilege and refuses to answer, that refusal itself is evidence supporting the inference of involvement; seek an adverse inference instruction
+
+---
+
+### Authentication, Chain of Custody & Best Evidence Rule for the Recording
+
+**The Authentication Requirement — MRE 901:**
+Before any recording may be admitted or relied upon, it must be **authenticated** — the proponent must produce evidence sufficient to support a finding that the recording is what the proponent claims it is. For a phone call recording, this requires:
+
+1. **Identification of the parties** — testimony identifying the voices on the recording as the persons claimed
+2. **Continuity of the recording** — evidence that the recording has not been edited, altered, or spliced; that what exists is the complete, unaltered conversation
+3. **Chain of custody** — documentation of who had possession of the recording from the moment it was made to the moment it was submitted to the court
+4. **Device and platform identification** — what device was used to make the recording; what software (if any); whether the device's clock was accurate; metadata from the file
+
+**MRE 1002 — Best Evidence Rule:**
+The Best Evidence Rule requires that when the contents of a recording are at issue, the **original recording** must be produced (or its absence satisfactorily explained). A transcript of the recording is not the original; a copy on a different device is not the original. The proponent must produce:
+- The original recording device, or
+- An authenticated copy certified to be a true and complete duplicate of the original, with foundation testimony establishing the duplication process was accurate
+
+**Demanding Authentication — Practical Steps:**
+
+1. **File a written demand** for production of the original recording, the recording device, and all metadata (file properties, date/time stamp, device identifier, GPS data if available) — this is discovery under MCR 2.302(B) and/or a motion to compel production of the original under MRE 1004 (admissibility of duplicates only where originals are unavailable and absence is not the proponent's fault)
+
+2. **Demand a chain of custody log** — who possessed the recording from the moment it was made; when was it transferred to whom; when was it submitted to the court; was it ever copied (and if so, was the original preserved)
+
+3. **Demand testimony** from the person(s) who made the recording (the defendant's parents) — they must authenticate it under MRE 901(b)(5) (voice identification) and provide foundation testimony for the chain of custody
+
+4. **Retain a forensic audio expert** — a qualified expert can examine the recording's metadata, detect editing artifacts (gaps, splices, level inconsistencies), verify whether the recording is a single unedited take, and challenge the authentication foundation
+
+5. **Challenge voice identification** — unless there is independent verification of whose voice is on the recording, "identification" by a party who has a motive to misidentify is insufficient foundation under MRE 901(b)(5)
+
+**The Ex Parte Submission Creates an Authentication Gap:**
+Because the recording was submitted ex parte — without notice to the plaintiff, without a motion, without an evidentiary hearing — there is **no authentication record at all**. The court accepted and acted on an unauthenticated recording. This is independently grounds to vacate any order relying on it:
+- There is no foundation in the record that the recording is what it purports to be
+- There is no chain of custody
+- There is no voice identification testimony under MRE 901
+- There is no Best Evidence Rule compliance
+
+In the suppression/exclusion motion, lead with the authentication failure — it does not require proving the recording is illegal, only that it lacks any evidentiary foundation under the court rules.
+
+---
+
+### Discovery Strategy — Building the Record Through Formal Discovery
+
+**Purpose of Discovery in This Context:**
+The plaintiff needs to build an objective, document-supported record of:
+1. The ex parte submission — when received, who reviewed it, what was done with it
+2. The attorney-partner's contacts with the court — any communications, any appearance connections
+3. The judicial staff's differential treatment — documented instances
+4. The recording's chain of custody and authentication metadata
+
+**Available Discovery Vehicles in Family Court:**
+
+| Tool | Authority | Target |
+|---|---|---|
+| Request for production | MCR 2.310 | Court's intake/docket log for the recording; all correspondence regarding the recording |
+| Subpoena duces tecum | MCR 2.305 | From the opposing party: the recording device, all copies of the recording, metadata files, any communications about submission to the court |
+| Interrogatories | MCR 2.309 | To opposing party: who made the recording; when; what device; who decided to submit it to the court; through whom was it submitted |
+| Deposition | MCR 2.306 | Depose the defendant's parents on the making and custody of the recording; depose the attorney-partner on their involvement in the litigation strategy |
+| FOIA request | MCL 15.231 et seq. | Court records that are public records — court intake logs, docketing records (note: judicial records held by the court are subject to FOIA if they constitute "public records" — some are exempt under MCL 15.243; consult MCR 8.119 for court records access rules) |
+| MCR 8.119(H) — inspection of court records | MCR 8.119(H) | Request inspection and copying of the court's intake record for the ex parte submission; note when the item was received by the clerk and when it was docketed |
+
+**Specific Discovery Targets:**
+
+*From the Court's Files (public record request / MCR 8.119):*
+- The date-stamp on the envelope or electronic submission record showing when the recording was received by the court
+- The docket entry showing when the item was docketed and by whom
+- Any cover letter or transmittal document accompanying the recording
+- The clerk's notes or intake log (if accessible under MCR 8.119(H))
+
+*From the Opposing Party (formal discovery):*
+- The original recording device
+- The original audio file with full metadata (date, time, duration, device ID, GPS, file hash)
+- All copies made of the recording and the dates they were made
+- All communications (text, email, voicemail) regarding the making of the recording, the decision to submit it to the court, and the method of submission
+- Any communications between the opposing party and court staff regarding the recording
+
+*From the Attorney-Partner (subpoena or deposition):*
+- Their appearance records in this court — OTIS pull (public record)
+- Their direct communications with the judge's staff (if any) about this case
+- Their involvement in preparing any filing in this case, including the PPO petition
+
+**Using Discovery to Establish the Timeline:**
+The most important fact pattern to establish is:
+1. When was the recording received by the court?
+2. When was it reviewed by judicial staff?
+3. When was the plaintiff served?
+4. What action did the court take, and when?
+
+If the court's intake records show the recording was received and reviewed on a date prior to service on the plaintiff, that is objective documentary proof of the due process and Canon 3(A)(6) violations — independent of the judge's admission.
+
+---
+
+### Equal Protection and Gender Bias — § 1983 Claim
+
+**Equal Protection in Family Court:**
+The Equal Protection Clause of the Fourteenth Amendment prohibits the government from applying its laws in a discriminatory manner — including the discriminatory application of court procedures against one gender.
+
+**Gender Bias in Family Court — Established Pattern:**
+Where a court:
+- Applies different procedural standards to a father than to a mother (e.g., accepting ex parte submissions from one but not the other; requiring a higher evidentiary showing from one party)
+- Applies different credibility standards (e.g., presuming the mother's allegations without corroboration; requiring documentary proof for the father's claims)
+- Imposes more severe consequences for the same conduct (e.g., jailing the father on a PPO violation where the same conduct by the mother would not result in jailing)
+
+...those differences in treatment may constitute an equal protection violation if they are based on gender.
+
+**MCL 722.26a — Michigan Statutory Sex Neutrality:**
+Michigan's Child Custody Act explicitly requires that:
+*"It is the intent of the legislature to recognize the equal rights of both parents of a minor child... The court shall consider the sex-neutral best interest factors of section 3."*
+
+A court that applies de facto gender-based presumptions in awarding custody, restricting parenting time, or imposing contempt violates both MCL 722.26a and the equal protection guarantee.
+
+**§ 1983 Equal Protection Claim:**
+To state an equal protection claim under 42 USC 1983:
+1. The plaintiff was treated differently from others similarly situated
+2. The differential treatment was based on a protected characteristic (gender)
+3. The differential treatment was intentional — not merely mistaken
+4. The plaintiff suffered a concrete injury
+
+**Evidence of Discriminatory Treatment in This Case:**
+- Plaintiff (male) was jailed for a PPO violation; document whether the opposing party (female) faced similar consequences for any violations of court orders
+- The court accepted an ex parte recording submission from the opposing party; document whether the plaintiff has ever had similar submissions accepted
+- The court used the PPO (obtained on the opposing party's sworn allegations) to reduce plaintiff's parenting time; document whether any comparable allegations by the plaintiff were treated the same way
+- The judicial staff provided preferential procedural assistance to the opposing party; document parallel instances where the plaintiff sought the same assistance and was refused
+
+**Practical Limitations:**
+*Younger* abstention will block a federal equal protection claim while the family court case is pending. The federal equal protection claim should be preserved for federal court after state appellate remedies are exhausted, or brought as a collateral § 1983 action for money damages (past injuries, not prospective injunctive relief — which would require enjoining the state court) after the case concludes.
+
+**In Michigan State Court:**
+Raise equal protection as a constitutional ground in every significant motion. Michigan courts are bound by both the U.S. Constitution and the Michigan Constitution (art I, §2 — equal protection; art I, §2 guarantees equal protection regardless of sex). Constitutional claims raised below are preserved for appellate review.
+
+---
+
+### § 1983 Claim for the False Jailing — Deprivation of Liberty Without Due Process
+
+**The Constitutional Claim:**
+When a person is **jailed based on a PPO that was procured by fraud**, and where the contempt proceeding that led to jailing was conducted without adequate due process (no hearing, no opportunity to contest, no showing that the underlying PPO was valid), that jailing is a deprivation of liberty without due process of law — actionable under 42 USC § 1983.
+
+**Elements of the § 1983 Liberty Claim:**
+1. **Deprivation of liberty** — actual incarceration is the clearest possible deprivation of liberty
+2. **Under color of state law** — the jailing was carried out by state court officers (judge, sheriff, court officers) acting in their official capacity
+3. **Without due process** — if the plaintiff was:
+   - Arrested and jailed without a prompt hearing
+   - Not given adequate notice of the violation alleged
+   - Not permitted to contest the underlying PPO's validity in the contempt proceeding
+   - Jailed without findings on the record that the PPO was validly obtained
+
+**Who to Sue:**
+- **The judge** — but judicial immunity is absolute for judicial acts. The judge's decision to issue the PPO and to hold the plaintiff in contempt, even if wrong, is protected by absolute judicial immunity (*Stump v Sparkman*, 435 US 349 (1978)) unless the judge acted in complete absence of all jurisdiction
+- **Court staff** — if a clerk or court officer facilitated the ex parte submission and participated in the process leading to the illegal jailing, they have qualified (not absolute) immunity
+- **The opposing party** — private individuals who conspire with state actors under color of law are subject to § 1983 liability; the opposing party who filed the false PPO petition and secured the plaintiff's arrest may be liable as a co-conspirator under *Dennis v Sparks*, 449 US 24 (1980)
+- **The defendant's parents** — if they conspired with the opposing party and court-connected actors, § 1983 conspiracy claim under *Lugar v Edmondson Oil Co*, 457 US 922 (1982)
+
+**State Law Claim — Malicious Prosecution:**
+An alternative to § 1983 (and subject to fewer immunity problems) is a **malicious prosecution claim** under Michigan common law and/or MCL 600.2907:
+- A prior criminal or quasi-criminal proceeding was initiated against the plaintiff
+- By the opposing party
+- Without probable cause (the PPO was based on false facts)
+- With malice (the PPO was filed to gain tactical advantage in the custody case, not for a legitimate protective purpose)
+- The proceeding terminated in the plaintiff's favor (or the PPO was vacated)
+- The plaintiff suffered damages (the jailing; loss of parenting time; reputational harm; attorney fees)
+
+**Statute of Limitations:**
+- § 1983: 3 years from the date of the constitutional violation (Michigan personal injury SOL, applied through *Owens v Okure*, 488 US 235 (1989))
+- Michigan malicious prosecution: 2 years (MCL 600.5805(2))
+- **Clock begins to run** when the incarceration ends and/or when the PPO proceeding terminates in the plaintiff's favor — preserve by noticing the date the PPO is vacated or the contempt finding is expunged
+
+---
+
+### Taint Hearing — Establishing the Record of Judicial Contamination
+
+**What a Taint Hearing Is:**
+A "taint hearing" is an evidentiary hearing — conducted by a different judge (after successful disqualification of the original judge) — at which the plaintiff presents evidence of:
+1. The specific ex parte communications that occurred
+2. What information was conveyed through those communications
+3. What decisions the original judge made after receiving that information
+4. Whether those decisions are traceable to the ex parte contamination
+
+The purpose is to create a factual record supporting vacation of the tainted orders and disqualification of the original judge from any further proceedings. It is distinct from the disqualification motion itself (which is decided on the pleadings and affidavits) — the taint hearing builds the evidentiary record for appellate review.
+
+**How to Request a Taint Hearing:**
+1. After the disqualification motion is granted (or after seeking a new judge through the Chief Judge), file a **motion for taint hearing** with the new judge
+2. In the motion, specify:
+   - The specific ex parte communications at issue (the recording review; the judge's admission)
+   - The specific decisions made after those communications (parenting time reduction; custody order language relying on PPO)
+   - The relief requested: (a) findings of fact on what was communicated ex parte; (b) vacation of the tainted orders; (c) new evidentiary hearing before the new judge
+3. Request that the original judge (if still in the case) be prohibited from participating in the taint hearing — the original judge has an obvious conflict; the taint hearing must be conducted by a different judicial officer
+
+**Evidence at the Taint Hearing:**
+
+| Evidence Item | Purpose |
+|---|---|
+| Certified transcript of judge's admission re: staff review | Establishes the ex parte review as a fact admitted by the judge |
+| Court intake records showing receipt date of recording | Establishes timeline — reviewed before service |
+| Court docket showing service date on plaintiff | Corroborates the timeline |
+| Orders entered after the ex parte review (dates) | Establishes the causal nexus between review and adverse decision |
+| Testimony from judicial staff (subpoena) | Establishes scope of ex parte review |
+| Attorney-partner's appearance records before this judge | Establishes the relationship giving rise to structural bias |
+| Comparison of treatment: plaintiff's filings vs. opposing party's filings | Establishes differential treatment pattern |
+
+**Outcome of a Successful Taint Hearing:**
+- Vacation of any order entered after and influenced by the ex parte communication
+- Findings of fact that the original judge was contaminated — those findings are binding in subsequent proceedings and support the JTC complaint
+- Assignment of a new judge for all subsequent proceedings
+- Possible retroactive effect — if the taint began earlier (e.g., with the initial PPO), the taint findings can support vacation of earlier orders as well
+
+---
+
+### Emergency Restoration of Parenting Time — MCR 3.310 & MCL 722.27a(6)
+
+**The Immediate Need:**
+While all the motions, appeals, and taint hearing proceedings work their way through the system, the plaintiff's parenting time remains suspended or reduced. Emergency relief to restore parenting time pending the resolution of the attack on tainted orders is essential.
+
+---
+
+**MCL 722.27a(6) — Emergency Modification of Parenting Time:**
+A court may make a temporary modification of parenting time if:
+1. It is in the best interests of the child
+2. The court finds that there is **good cause** for the modification
+
+The plaintiff's argument: The current parenting time restriction was based on an ex parte illegal recording and a custody order that quotes a false PPO — the good cause for emergency restoration is that the basis for the restriction has been legally challenged and is subject to vacation; continuation of the restriction pending that challenge denies the child the benefit of the parenting relationship on the basis of evidence that is legally infirm.
+
+**MCR 3.310 — Temporary Restraining Order and Preliminary Injunction:**
+In family court proceedings, MCR 3.310 allows a party to seek a TRO that:
+- Maintains the status quo ante (the parenting time schedule before the illegal recording was submitted)
+- Prohibits further adverse action based on the tainted evidence
+
+**TRO/Preliminary Injunction Standard (MCR 3.310(A)):**
+To obtain a TRO/preliminary injunction, the movant must show:
+1. Likelihood of success on the merits — plaintiff must show a likelihood of prevailing on the suppression motion and MCR 2.612 motion (strong, given the judge's own admission and the illegal recording)
+2. Irreparable harm if relief is denied — loss of parenting time with a child is irreparable; each day of denied contact cannot be recovered
+3. Balance of harms favors the movant — plaintiff's harm (complete loss of parenting time) outweighs opposing party's harm (temporary restoration of shared parenting time while motions are pending)
+4. The public interest is not disserved — the public interest in preserving parent-child relationships and enforcing constitutional due process favors restoration
+
+**Drafting the Emergency Motion:**
+1. File simultaneously with (or immediately after) the motions to suppress the recording and vacate the parenting time reduction order
+2. State the legal basis: MCR 3.310; MCL 722.27a(6); constitutional due process; MCL 722.23 best interest factors
+3. Attach: the order reducing parenting time; the transcript of the judge's admission; the MCL 750.539c argument (recording was illegally obtained); evidence that the restriction is based solely on the tainted recording
+4. Request an **immediate hearing** — under MCR 3.310(B), a TRO may be issued without a hearing in emergency circumstances, but for restoration of parenting time (not merely preservation of assets), a same-day or next-day hearing is appropriate
+5. File as an **emergency motion with supporting affidavit** — the affidavit must state with specificity why immediate relief is necessary (each day of lost parenting time is irreversible)
+
+**If the Trial Court Denies the Emergency Motion:**
+- File an immediate **application for leave to appeal** in the COA under MCR 7.203(B) — an order denying restoration of parenting time pending challenge of a tainted order is appealable as an interlocutory order affecting a substantial right
+- Request a **stay pending appeal** from the COA under MCR 7.209
+- If the COA denies leave within a week and the trial court continues to deny relief: file a **complaint for superintending control** in the COA under MCR 7.206, arguing the trial court has a clear legal duty to conduct a proper evidentiary hearing on the admissibility of the tainted evidence before enforcing the order based on it
+
+---
+
+### Void vs. Voidable — Res Judicata Does Not Protect Void Orders
+
+**The Critical Distinction:**
+A court order may be:
+- **Voidable:** Entered with jurisdiction but containing legal error; must be challenged within applicable appeal periods or MCR 2.612 time limits; subject to res judicata
+- **Void:** Entered without jurisdiction, or in violation of fundamental due process rights; may be challenged at any time, by any appropriate proceeding; res judicata does not attach to a void order
+
+**Which Category Applies Here:**
+
+*The PPO — Potentially Void:*
+- A PPO obtained by fraud on the court (false affidavit) is subject to vacation as procured by fraud (MCR 2.612(C)(1)(c)) — this is the voidable route with the 1-year limit
+- If the PPO petition was verified under oath and contained knowing false statements, the verification was a legal nullity — the court lacked a valid factual predicate to issue the PPO; an argument can be made that the PPO is void ab initio (void from the beginning) rather than merely voidable — no time limit applies
+
+*The Parenting Time Reduction Order — Void:*
+- An order entered without providing the affected party notice and an opportunity to be heard is void — not voidable — because notice and opportunity to be heard are jurisdictional requirements of due process
+- The parenting time reduction order, based on an ex parte submission that was reviewed before service on the plaintiff, was entered without the plaintiff having any opportunity to respond — it is void for lack of due process
+- A void order is challengeable at any time, in any proceeding, including collaterally — there is no time limit
+
+*The Custody Order Quoting the False PPO — Voidable (with fraud-on-court exception):*
+- Standing alone, a custody order based on erroneous evidence is voidable — subject to appeal within 21 days or MCR 2.612(C)(1)(c) within 1 year
+- But where the attorney-partner assisted in obtaining the false PPO, their status as an officer of the court transforms the misconduct into **fraud on the court** — which renders the resulting order voidable under MCR 2.612(C)(3) (no time limit) rather than merely voidable under MCR 2.612(C)(1)
+- And if the custody order is derivative of the void PPO (because it quotes and relies on the PPO as its factual basis), the custody order may itself be void — a derivative order cannot have greater validity than the invalid predicate on which it rests
+
+**Res Judicata and Collateral Attack:**
+- Void orders are not protected by res judicata (*Bowie v Arder*, 441 Mich 23 (1992) — [UNVERIFIED — verify citation]; a void judgment may be attacked at any time in any proceeding)
+- The plaintiff can raise the void nature of the PPO and the parenting time reduction order in the custody modification proceeding, in the contempt expungement proceeding, and in any other proceeding where those orders are asserted as a factual predicate — not merely in a direct attack on those specific orders
+
+**Practical Use:**
+In every subsequent proceeding where the opposing party cites the PPO, the jailing, or the parenting time restriction as evidence of bad conduct, the plaintiff can respond:
+1. The PPO was procured by fraud / is void ab initio (no valid factual predicate)
+2. The parenting time reduction order is void for lack of due process (entered without notice or opportunity to be heard)
+3. Neither order can be given res judicata or collateral estoppel effect because void orders do not create binding legal consequences
+4. The court may not rely on void orders as the factual basis for further adverse action
+
+---
+
+*Sources updated: Michigan Constitution of 1963 (art I, art II, art III, art VI, art VI §30); Michigan Court Rules (MCR 1.109, 2.003, 2.114, 2.117, 2.119, 2.302, 2.305, 2.306, 2.309, 2.310, 2.517, 2.605, 2.612, 3.219, 3.302, 3.310, 3.606, 3.703, 7.202, 7.203, 7.204, 7.205, 7.206, 7.209, 7.212, 7.301, 7.302, 7.303, 8.005, 8.108, 8.110, 8.119); Michigan Rules of Evidence (MRE 201, 403, 404, 608, 609, 613, 801, 901, 1002, 1004); Michigan Rules of Professional Conduct (MRPC 1.2, 3.3, 3.4, 3.5, 3.7, 8.3, 8.4); Michigan Code of Judicial Conduct (MCJC Canons 1, 2, 3, 3(A)(6), 3(B)(2), 3(C)(1)); Michigan Compiled Laws (MCL) — Chapters 15, 24, 28, 37, 125, 205, 330, 333, 400, 408, 418, 450, 500, 552, 554, 600 (including 600.1651, 600.2591, 600.2605, 600.2907, 600.2940, 600.2950, 600.4310, 600.5805), 691, 700, 710, 712A, 712B, 722 (including 722.23, 722.26a, 722.27a, 722.628, 722.628a, 722.628d, 722.1202, 722.1443), 750 (including 750.159b–750.159x, 750.174a, 750.224, 750.224f, 750.227c, 750.248, 750.411a, 750.411s, 750.422, 750.423, 750.425, 750.505, 750.539c, 750.539g, 750.633), 762, 767, 769, 780; MCL 15.181 et seq. (State Ethics Act); MCL 15.231 et seq. (FOIA); State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments II, IV, V, VI, VIII, XI, XIV; *Mathews v Eldridge*, 424 US 319 (1976); *Troxel v Granville*, 530 US 57 (2000); *Meyer v Nebraska*, 262 US 390 (1923); *In re Murchison*, 349 US 133 (1955); *Caperton v A.T. Massey Coal Co*, 556 US 868 (2009); *Tumey v Ohio*, 273 US 510 (1927); *Ward v Village of Monroeville*, 409 US 57 (1972); *Stump v Sparkman*, 435 US 349 (1978); *Dennis v Sparks*, 449 US 24 (1980); *Lugar v Edmondson Oil Co*, 457 US 922 (1982); *Owens v Okure*, 488 US 235 (1989); *Cain v Dep't of Corrections*, 451 Mich 470 (1996); *Fletcher v Fletcher*, 447 Mich 871 (1994); *Domako v Rowe*, 438 Mich 347 (1991); *Bowie v Arder*, 441 Mich 23 (1992) [UNVERIFIED]; *Monell v Dep't of Social Servs*, 436 US 658 (1978); *Younger v Harris*, 401 US 37 (1971); *Rooker v Fidelity Trust Co*, 263 US 413 (1923); *District of Columbia Court of Appeals v Feldman*, 460 US 462 (1983); Second Amendment: *Heller* (2008), *McDonald* (2010), *Bruen* (2022), *Rahimi* (2024); RICO (18 USC 1961–1968); 18 USC 922, 924, 981–983, 1001, 1341, 1343, 1344, 1621, 1623, 1951, 1956, 1957, 1963, 2250, 2252, 2511, 2515, 2520; 21 USC 841, 846, 853, 881; 25 USC 1151, 1301, 1901 et seq. (ICWA); 26 USC 5801 et seq. (NFA); 28 USC 1254, 1257, 1291, 1292, 1331, 1332, 1367, 1441–1453, 2101, 2254, 2465; 28 USC 1746; 34 USC 20901 et seq. (SORNA); 42 USC 1396 et seq. (Medicaid); 42 USC 1981, 1983, 1985, 1986, 2000d; 20 USC 1681; 29 USC 794; 42 USC 12101–12189; 7 USC 2011 et seq. (SNAP); CAFRA (Pub. L. 106-185); FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); VAWA (34 USC 12291); Indian Gaming Regulatory Act (25 USC 2710); Major Crimes Act (18 USC 1153); Tribal Law and Order Act (Pub. L. 111-211); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Supreme Court Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; United States Sentencing Guidelines (USSG); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
 
 *Last substantively revised: April 2026.*
