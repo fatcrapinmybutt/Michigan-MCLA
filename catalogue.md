@@ -228,6 +228,73 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Michigan Forfeiture Reform — MCL 600.4701 et seq. (2015 PA 11)](#michigan-forfeiture-reform--mcl-6004701-et-seq-2015-pa-11)
     - [Michigan Drug Forfeiture — MCL 333.7521–333.7524](#michigan-drug-forfeiture--mcl-3337521-3337524)
     - [Challenging Forfeiture — Federal & Michigan Procedures](#challenging-forfeiture--federal--michigan-procedures)
+43. [Michigan Firearms Law & Second Amendment](#43-michigan-firearms-law--second-amendment)
+    - [Concealed Pistol License (CPL) — MCL 28.421 et seq.](#concealed-pistol-license-cpl--mcl-28421-et-seq)
+    - [Prohibited Persons — State & Federal Firearms Disabilities](#prohibited-persons--state--federal-firearms-disabilities)
+    - [Open Carry & Premises Restrictions](#open-carry--premises-restrictions)
+    - [National Firearms Act (NFA) Items in Michigan](#national-firearms-act-nfa-items-in-michigan)
+    - [Firearms & Domestic Relations / PPO](#firearms--domestic-relations--ppo)
+    - [Safe Transport & Storage Requirements](#safe-transport--storage-requirements)
+    - [Second Amendment Caselaw Post-*Bruen*](#second-amendment-caselaw-post-bruen)
+44. [Michigan SORA — Sex Offender Registration & Notification Act](#44-michigan-sora--sex-offender-registration--notification-act)
+    - [Overview & Governing Statute (MCL 28.721 et seq.)](#overview--governing-statute-mcl-28721-et-seq)
+    - [Registration Tiers & Offenses](#registration-tiers--offenses)
+    - [Registration Requirements & Procedures](#registration-requirements--procedures)
+    - [Residency, Employment & Presence Restrictions](#residency-employment--presence-restrictions)
+    - [Internet Posting & Public Notification](#internet-posting--public-notification)
+    - [SORA Violations & Penalties](#sora-violations--penalties)
+    - [Constitutional Challenges & Key Caselaw (*Does v Snyder*)](#constitutional-challenges--key-caselaw-does-v-snyder)
+    - [Removal from Registry — Petition Process](#removal-from-registry--petition-process)
+45. [Michigan Mental Health Code — Civil Commitment, Competency & NGRI](#45-michigan-mental-health-code--civil-commitment-competency--ngri)
+    - [Overview — MCL 330.1001 et seq. (Mental Health Code)](#overview--mcl-3301001-et-seq-mental-health-code)
+    - [Civil Commitment — Involuntary Hospitalization](#civil-commitment--involuntary-hospitalization)
+    - [Assisted Outpatient Treatment (AOT) / Kendra's Law Equivalent](#assisted-outpatient-treatment-aot--kendras-law-equivalent)
+    - [Competency to Stand Trial (MCL 330.2020–330.2044)](#competency-to-stand-trial-mcl-33020203302044)
+    - [Not Guilty by Reason of Insanity (NGRI) — MCL 768.21a](#not-guilty-by-reason-of-insanity-ngri--mcl-76821a)
+    - [Guilty but Mentally Ill (GBMI) — MCL 768.36](#guilty-but-mentally-ill-gbmi--mcl-76836)
+    - [Mental Health Court & Diversion](#mental-health-court--diversion)
+    - [Patient Rights & Discharge Planning](#patient-rights--discharge-planning)
+46. [Michigan Drug Offenses & Diversion Programs](#46-michigan-drug-offenses--diversion-programs)
+    - [Schedule of Controlled Substances (MCL 333.7201 et seq.)](#schedule-of-controlled-substances-mcl-3337201-et-seq)
+    - [Delivery, Manufacture & Possession (MCL 333.7401–333.7403)](#delivery-manufacture--possession-mcl-33374013337403)
+    - [Sentencing — Mandatory Minimums & Enhancements](#sentencing--mandatory-minimums--enhancements)
+    - [HYTA — Holmes Youthful Trainee Act (MCL 762.11)](#hyta--holmes-youthful-trainee-act-mcl-76211)
+    - [MCL 333.7411 — Deferral & Discharge for First Offenders](#mcl-3337411--deferral--discharge-for-first-offenders)
+    - [Drug Treatment Court (MCL 600.1060 et seq.)](#drug-treatment-court-mcl-6001060-et-seq)
+    - [Drug Forfeiture Interplay (MCL 333.7521)](#drug-forfeiture-interplay-mcl-3337521)
+    - [Federal Drug Charges in Michigan — Interaction with State Law](#federal-drug-charges-in-michigan--interaction-with-state-law)
+47. [Michigan No-Fault Insurance Law — PIP, PD & Bad Faith](#47-michigan-no-fault-insurance-law--pip-pd--bad-faith)
+    - [Michigan No-Fault Act Overview (MCL 500.3101 et seq.)](#michigan-no-fault-act-overview-mcl-5003101-et-seq)
+    - [Personal Injury Protection (PIP) — Benefits & Coordination](#personal-injury-protection-pip--benefits--coordination)
+    - [2019 No-Fault Reform — PA 21 of 2019](#2019-no-fault-reform--pa-21-of-2019)
+    - [Third-Party Tort Claims — Threshold Injury](#third-party-tort-claims--threshold-injury)
+    - [Property Damage & Mini-Tort (MCL 500.3135)](#property-damage--mini-tort-mcl-5003135)
+    - [Assigned Claims Facility (MCL 500.3172)](#assigned-claims-facility-mcl-5003172)
+    - [Insurance Bad Faith & Unfair Trade Practices (MCL 500.2006)](#insurance-bad-faith--unfair-trade-practices-mcl-5002006)
+    - [Uninsured & Underinsured Motorist Coverage](#uninsured--underinsured-motorist-coverage)
+48. [Michigan Small Claims & Limited Civil Jurisdiction](#48-michigan-small-claims--limited-civil-jurisdiction)
+    - [Small Claims Division (MCL 600.8401 et seq.)](#small-claims-division-mcl-6008401-et-seq)
+    - [Jurisdictional Limit & Excluded Claims](#jurisdictional-limit--excluded-claims)
+    - [Procedure — Filing Through Judgment](#procedure--filing-through-judgment)
+    - [District Court Civil Jurisdiction — MCL 600.8301](#district-court-civil-jurisdiction--mcl-6008301)
+    - [Garnishment, Execution & Judgment Liens in District Court](#garnishment-execution--judgment-liens-in-district-court)
+    - [Appeals from Small Claims & District Court](#appeals-from-small-claims--district-court)
+49. [Michigan Tribal Sovereignty & Tribal Courts](#49-michigan-tribal-sovereignty--tribal-courts)
+    - [Federally Recognized Tribes in Michigan](#federally-recognized-tribes-in-michigan)
+    - [Tribal Sovereignty — Federal Law Framework](#tribal-sovereignty--federal-law-framework)
+    - [Tribal Court Jurisdiction — Civil & Criminal](#tribal-court-jurisdiction--civil--criminal)
+    - [State-Tribal Compacts & Cross-Deputization](#state-tribal-compacts--cross-deputization)
+    - [Tribal Immunity from Suit](#tribal-immunity-from-suit)
+    - [Indian Child Welfare Act (ICWA) Tribal Provisions](#indian-child-welfare-act-icwa-tribal-provisions)
+    - [Tribal Taxation & Business Law](#tribal-taxation--business-law)
+50. [Michigan Public Benefits, Medicaid & Agency Appeals](#50-michigan-public-benefits-medicaid--agency-appeals)
+    - [MDHHS Benefit Programs Overview](#mdhhs-benefit-programs-overview)
+    - [Medicaid Eligibility & Managed Care (MCL 400.105)](#medicaid-eligibility--managed-care-mcl-400105)
+    - [Food Assistance Program (FAP/SNAP)](#food-assistance-program-fapsnap)
+    - [State Disability Assistance (SDA) & SSI Interaction](#state-disability-assistance-sda--ssi-interaction)
+    - [Benefit Denials, Reductions & Terminations — Fair Hearing Rights](#benefit-denials-reductions--terminations--fair-hearing-rights)
+    - [Medicaid Estate Recovery (MCL 400.112g)](#medicaid-estate-recovery-mcl-400112g)
+    - [Elder Abuse & Adult Protective Services (APS)](#elder-abuse--adult-protective-services-aps)
 
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
@@ -5877,6 +5944,1158 @@ Owner who did not know and could not have reasonably known of the illegal use is
 
 ---
 
-*Sources updated: Michigan Constitution of 1963 (art I, art III, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 37, 125, 330, 333, 408, 418, 450, 552, 554, 600, 691, 700, 710, 712A, 722, 750 (including 750.159b–750.159x), 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments IV, V, VI, VIII, XI, XIV; RICO (18 USC 1961–1968); 18 USC 981–983, 1341, 1343, 1344, 1951, 1956, 1957, 1963, 2252; 21 USC 841, 846, 853, 881; 28 USC 1254, 1257, 1291, 1292, 1331, 1332, 1367, 1441–1453, 2101, 2465; 42 USC 1981, 1983, 1985, 1986, 2000d; 20 USC 1681; 29 USC 794; 42 USC 12101–12189; CAFRA (Pub. L. 106-185); SORNA (34 USC 20901); FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); ICWA (25 USC 1901); VAWA (34 USC 12291); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Supreme Court Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; United States Sentencing Guidelines (USSG); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
+## 43. Michigan Firearms Law & Second Amendment
+
+---
+
+### Concealed Pistol License (CPL) — MCL 28.421 et seq.
+
+Michigan regulates concealed carry of pistols through the **Concealed Pistol License (CPL)** system under the **Michigan Firearms Act, MCL 28.421–28.435**.
+
+**Eligibility Requirements (MCL 28.425b):**
+- Age 21+
+- Michigan resident
+- U.S. citizen or lawfully admitted alien
+- No felony convictions
+- No misdemeanor convictions listed in MCL 28.425b(7) (domestic violence, certain drug offenses, OWI, etc.)
+- No pending felony charges; no involuntary mental health commitment within 8 years
+- No PPO currently in effect against applicant
+- Completed 8-hour pistol safety training course (MCL 28.425j)
+
+**Application Process:**
+- Apply to county clerk of county of residence
+- County gun board reviews applications; must act within 45 days (MCL 28.425b(9))
+- $115 fee (renewable every 5 years at reduced cost)
+- Denial appealable to circuit court (MCL 28.425b(12))
+
+**CPL Revocation/Suspension (MCL 28.428):**
+Automatic revocation upon: felony conviction, certain misdemeanor convictions, involuntary hospitalization, becoming subject to PPO. License holder must surrender CPL to court within 24 hours if convicted of disqualifying offense.
+
+**Must-Inform Requirement:**
+CPL holder must immediately disclose CPL and whether carrying concealed when stopped by law enforcement officer (MCL 28.425f(1)).
+
+---
+
+### Prohibited Persons — State & Federal Firearms Disabilities
+
+**Federal Prohibited Persons (18 USC 922(g)):**
+A person may not possess, ship, transport, or receive any firearm or ammunition if they:
+1. Are convicted of a crime punishable by imprisonment exceeding one year (felony)
+2. Are a fugitive from justice
+3. Are an unlawful user of or addicted to a controlled substance
+4. Have been adjudicated as a "mental defective" or committed to a mental institution
+5. Are an illegal alien
+6. Have renounced U.S. citizenship
+7. Are subject to a qualifying domestic violence restraining order (18 USC 922(g)(8))
+8. Have been convicted of a misdemeanor crime of domestic violence (18 USC 922(g)(9)) — *Lautenberg Amendment*
+9. Are a fugitive
+
+**Michigan Specific Disabilities (MCL 750.224f):**
+- Persons convicted of specified felonies may not possess a firearm for **3 years** after discharge from prison, probation, or parole for non-violent felonies; **lifetime ban** for assaultive crimes listed in MCL 750.224f(6)
+- Possession in violation is a felony (MCL 750.224f(2))
+
+**Restoration of Firearm Rights:**
+- Federal: apply to ATF for relief under 18 USC 925(c) (Congress has defunded since 1992 — effectively unavailable)
+- Michigan: petition the circuit court after expiration of disability period for non-assaultive felonies; assaultive felony ban is permanent
+
+---
+
+### Open Carry & Premises Restrictions
+
+**Open Carry:**
+Michigan is an **open carry state** — a person who lawfully owns a firearm may carry it openly (not concealed) in most public places without a CPL. No state statute prohibits open carry.
+
+**CPL Required Locations (Concealed Only):**
+A CPL is required to carry a **concealed** pistol; open carry does not require a license unless in a "CPL-prohibited zone."
+
+**Pistol-Free Zones (MCL 28.425o) — No CPL Allowed:**
+- Schools and school property
+- Public libraries
+- Day care centers
+- Sports arenas/stadiums
+- Bars/taverns (alcohol primary purpose)
+- Places of worship (unless permits)
+- Hospital emergency rooms
+- Dormitories and classrooms of community colleges and universities
+- Casino gaming areas
+- Correctional facilities
+- Courts
+- Airport secured areas
+
+> **Note:** Open carry may be permitted in some pistol-free zones where concealed carry is prohibited; case law and local ordinances can create complexity. [UNVERIFIED — practitioners should verify current case law and any post-*Bruen* changes]
+
+**Private Property:**
+Property owners may prohibit firearms on private property; posted notice is not legally required but advisable. Refusing to leave after notice may result in trespass charges.
+
+---
+
+### National Firearms Act (NFA) Items in Michigan
+
+**NFA Overview (26 USC 5801 et seq.):**
+The NFA regulates: machine guns, silencers/suppressors, short-barreled rifles (SBR), short-barreled shotguns (SBS), destructive devices, and "any other weapons" (AOW).
+
+**Michigan NFA Law:**
+- Machine guns: generally prohibited under MCL 750.224 unless federally registered pre-May 1986 (Hughes Amendment)
+- Silencers/suppressors: **legal in Michigan** to own with proper NFA registration (Form 4 transfer, $200 tax stamp); may be used for hunting
+- SBR/SBS: legal with proper NFA registration
+- Destructive devices: generally prohibited unless federally registered
+
+**NFA Transfer Process:**
+- ATF Form 4 for transfers; $200 tax; background check; 6-12+ month wait
+- Must register with local chief law enforcement officer (CLEO) notification (post-41F rule, CLEO no longer has veto)
+
+---
+
+### Firearms & Domestic Relations / PPO
+
+**Federal Law — 18 USC 922(g)(8) & (g)(9):**
+- Subject of qualifying domestic violence PPO: prohibited from possessing firearms during PPO (must include restraint from harassment, was served, and affords opportunity to be heard)
+- Convicted of domestic violence misdemeanor (MCDV): lifetime federal firearms ban (*United States v Hayes*, 555 US 415 (2009))
+
+**Michigan PPO — Firearms Surrender:**
+When a PPO is issued by a Michigan circuit court:
+- Court shall order respondent to surrender firearms, ammunition, and CPL (MCL 600.2950(22))
+- Law enforcement may enforce surrender; inventory and storage by law enforcement agency
+- Failure to surrender: contempt + federal prosecution for illegal possession
+- Upon PPO expiration or termination: respondent may petition court for return of surrendered firearms
+
+**Domestic Violence Conviction — Michigan:**
+A conviction for domestic assault (MCL 750.81) may constitute an MCDV triggering the federal lifetime ban, even if classified as a misdemeanor. Practitioners must advise defendants of this collateral consequence.
+
+---
+
+### Safe Transport & Storage Requirements
+
+**Michigan Transportation of Firearms (MCL 750.227c):**
+Unloaded firearm in a **closed case** or **trunk** when transporting in a vehicle — this is the safe harbor. Violation is a misdemeanor.
+
+**Loaded Pistol in Vehicle:**
+- CPL holder may carry a loaded concealed pistol in a vehicle (MCL 28.425k)
+- Without CPL: pistol in vehicle must be unloaded and in closed case in trunk or locked container not the glove compartment
+
+**Michigan Safe Storage Law (MCL 750.135a — Effective 2024):**
+Michigan enacted safe storage requirements effective February 2024:
+- Firearm owner must **secure** any firearm with a trigger lock or in a locked box/container when the firearm is not in the owner's immediate possession/control
+- Must secure if a **minor** or an at-risk individual lives in or regularly visits the premises
+- Failure to secure: felony if minor gains access and injures self or another; misdemeanor otherwise [UNVERIFIED — verify final enactment details and effective date]
+
+---
+
+### Second Amendment Caselaw Post-*Bruen*
+
+**Key Federal Precedent:**
+- *District of Columbia v Heller*, 554 US 570 (2008): Second Amendment protects individual right to keep and bear arms for self-defense; invalidated D.C. handgun ban
+- *McDonald v City of Chicago*, 561 US 742 (2010): Second Amendment incorporated against states through 14th Amendment
+- *New York State Rifle & Pistol Ass'n v Bruen*, 597 US 1 (2022): Eliminated two-step means-ends scrutiny test; firearms regulation must be **consistent with the Nation's historical tradition of firearm regulation**
+
+**Post-*Bruen* Framework:**
+A modern firearms regulation is presumptively lawful only if the government demonstrates it is **"consistent with the historical tradition of firearm regulation"** at the founding (1791) or Reconstruction (1868). Courts have split on which historical period controls and what counts as a historical analogue.
+
+**6th Circuit Post-*Bruen* Decisions:**
+- *United States v Williams*, 6th Cir — courts within the 6th Circuit continue to uphold felon-in-possession statutes post-*Bruen* [UNVERIFIED — rapidly evolving; verify current 6th Circuit decisions]
+- Michigan courts applying *Bruen* to challenges of MCL 750.224f and pistol-free zone restrictions [UNVERIFIED]
+
+**Pending Issues:**
+- *United States v Rahimi*, 602 US 680 (2024): SCOTUS upheld 18 USC 922(g)(8) (domestic violence restraining order prohibition) as consistent with historical tradition
+- Challenges to 18 USC 922(g)(1) (felon prohibition) post-*Bruen* continue in lower courts [UNVERIFIED]
+
+---
+
+## 44. Michigan SORA — Sex Offender Registration & Notification Act
+
+---
+
+### Overview & Governing Statute (MCL 28.721 et seq.)
+
+Michigan's **Sex Offender Registration Act (SORA)**, MCL 28.721–28.736, requires persons convicted of certain sex offenses to register with law enforcement and comply with ongoing reporting requirements. Michigan SORA is one of the most comprehensive (and litigated) sex offender registration schemes in the country, following significant constitutional litigation.
+
+**Federal Backdrop — SORNA:**
+The federal **Sex Offender Registration and Notification Act (SORNA)**, 34 USC 20901 et seq. (part of the Adam Walsh Child Protection and Safety Act of 2006), establishes minimum standards for state registration programs. Failure to comply with SORNA is a federal crime (18 USC 2250).
+
+---
+
+### Registration Tiers & Offenses
+
+**Michigan SORA Tiers (Post-2021 Amendment):**
+
+Following *Does #1-5 v Snyder* litigation (see below), Michigan substantially amended SORA effective March 2021 (2020 PA 295):
+
+| Tier | Duration | Examples |
+|---|---|---|
+| **Tier I** | 15 years | Criminal sexual conduct 4th degree (non-minor victim); other specified misdemeanors |
+| **Tier II** | 25 years | CSC 3rd degree; accosting minor; child sexually abusive material |
+| **Tier III** | Life | CSC 1st degree; CSC 2nd degree; kidnapping of minor; assault with intent to commit CSC |
+
+**Michigan CSC Offenses (MCL 750.520b–750.520e):**
+- CSC-1 (MCL 750.520b): sexual penetration by force/coercion, victim under 13, actor in authority — **10-year mandatory minimum**; life sentence possible
+- CSC-2 (MCL 750.520c): sexual contact (not penetration) under aggravating circumstances
+- CSC-3 (MCL 750.520d): sexual penetration without aggravating circumstances
+- CSC-4 (MCL 750.520e): sexual contact without aggravating circumstances
+
+---
+
+### Registration Requirements & Procedures
+
+**Initial Registration (MCL 28.724):**
+- Must register **within 3 business days** of release from custody or establishment of Michigan residence
+- Register at county sheriff's office (or state police post) in county of residence
+- Provide: name/aliases, address, employment/school information, vehicle information, internet identifiers, physical description, DNA sample
+
+**Reporting Requirements (MCL 28.725):**
+- **Annual** verification for Tier I; **semi-annual** for Tier II; **quarterly** for Tier III
+- Must report within **3 business days** any change in: residence, employment, school enrollment, vehicle, internet identifier
+- Must report **immediately** (same day) any international travel intent
+
+**Registration Fees:**
+Michigan charges a registration fee; inability to pay does not excuse registration obligation.
+
+---
+
+### Residency, Employment & Presence Restrictions
+
+**Pre-2021 Restrictions (Struck Down):**
+The pre-2021 SORA contained:
+- 1,000-foot exclusion zones from school buses, schools, day care centers, libraries, parks, and other student safety zones
+- Complete ban on loitering in student safety zones
+- Internet use restrictions
+
+These were found unconstitutional as applied retroactively in *Does #1-5 v Snyder* (see below).
+
+**Post-2021 Michigan SORA:**
+The 2021 amendments eliminated most blanket residency and presence restrictions. **No general residency restrictions** under current SORA. Sentencing courts may impose individualized conditions. [UNVERIFIED — verify current MCL 28.733–28.736 text]
+
+---
+
+### Internet Posting & Public Notification
+
+**Michigan Sex Offender Registry (Public Website):**
+- MSP maintains public online registry at **www.mipsor.state.mi.us**
+- Tier II and III registrants are publicly listed; Tier I registrants may be listed depending on offense
+- Information includes: name, photo, address, vehicle, offense, tier
+
+**Community Notification (MCL 28.730):**
+Law enforcement may notify the public about registrants in the community; community notification procedures vary by agency and tier.
+
+---
+
+### SORA Violations & Penalties
+
+**Failure to Register / Report (MCL 28.729):**
+- First violation: **felony**, up to 4 years imprisonment
+- Subsequent violations: felony, up to 7 years imprisonment
+- Federal failure to register under SORNA (18 USC 2250): up to 10 years
+
+**SORA violations** are reportable to the court and may trigger probation/parole violations.
+
+---
+
+### Constitutional Challenges & Key Caselaw (*Does v Snyder*)
+
+**Key Federal Litigation:**
+
+- *Does #1-5 v Snyder*, 834 F3d 696 (6th Cir 2016): **Landmark decision** — Sixth Circuit held Michigan's 2006 and 2011 SORA amendments violated the Ex Post Facto Clause as applied to offenders convicted before those amendments. SORA's school safety zone restrictions, internet access limitations, and in-person reporting requirements constituted punishment, and retroactive application was unconstitutional.
+
+- On remand, the district court and subsequent proceedings resulted in the **2021 Michigan SORA amendments** designed to cure ex post facto issues by creating a prospective, tiered system.
+
+- *Snyder v Does*, 140 S Ct 2690 (2020) [cert denied]: SCOTUS declined to review 6th Circuit's *Does* decision
+
+**Ex Post Facto Doctrine:**
+SORA amendments applied retroactively to offenders convicted before the amendments constitute punishment only if the law is punitive in effect despite civil label — courts apply the *Kennedy v Mendoza-Martinez* seven-factor test. *Doe v Michigan Dep't of State Police* [UNVERIFIED — cite to current controlling Michigan case].
+
+**Procedural Due Process:**
+Placement on registry without individualized hearing may raise due process concerns; Michigan provides no formal hearing before initial registration. [UNVERIFIED]
+
+---
+
+### Removal from Registry — Petition Process
+
+**Michigan SORA — Petition for Removal (MCL 28.728c):**
+
+Under 2021 amendments, registrants may petition the circuit court to **reduce their tier or be removed** from the registry after completing:
+- **Tier I:** 10 years offense-free post-registration
+- **Tier II:** 15 years offense-free post-registration
+- **Tier III:** Generally no removal (life); limited exceptions
+
+**Petition Process:**
+- File petition in circuit court in county of residence
+- Prosecutor notified; victim may be notified
+- Court considers: rehabilitation, compliance history, offense severity, community safety
+- Court may grant, deny, or schedule hearing
+- No right to removal; court has discretion
+
+**Federal SORNA:**
+Federal removal process differs; SORNA tier reduction requires compliance with federal procedures (34 USC 20915).
+
+---
+
+## 45. Michigan Mental Health Code — Civil Commitment, Competency & NGRI
+
+---
+
+### Overview — MCL 330.1001 et seq. (Mental Health Code)
+
+Michigan's **Mental Health Code**, MCL 330.1001–330.2106, governs:
+- Civil involuntary hospitalization and outpatient treatment
+- Rights of persons with mental illness
+- Forensic mental health evaluations (competency and criminal responsibility)
+- The Departments of Health and Human Services (MDHHS) and Community Mental Health Services Programs (CMHSPs)
+
+**Key Definitions (MCL 330.1400a):**
+- **Mental illness:** substantial disorder of thought or mood significantly impairing judgment, behavior, capacity to recognize reality, or ability to cope with ordinary demands of life
+- **Developmental disability:** broadly defined intellectual/developmental disability under MCL 330.1100a
+
+---
+
+### Civil Commitment — Involuntary Hospitalization
+
+**Petition-Based Proceedings (MCL 330.1434–330.1438):**
+
+**Step 1 — Petition:**
+Any person may file a petition with the probate court alleging an individual is a **person requiring treatment** (PRT):
+- Has mental illness AND
+  - (a) substantial risk of harm to self or others; OR
+  - (b) cannot provide basic necessities (food, clothing, shelter) due to mental illness; OR
+  - (c) is under medical treatment for mental illness and noncompliance poses a substantial risk of harm
+
+**Step 2 — Clinical Certificate:**
+- At least **one clinical certificate** (examination by licensed physician or psychologist) required to authorize hospitalization
+- Emergency: single certificate for up to **72-hour** hospitalization
+
+**Step 3 — Petition Hearing (MCL 330.1453):**
+- Must be held within **7 days** of petition filing (can be extended 5 days for good cause)
+- Probate court; respondent has right to counsel (appointed if indigent)
+- Standard: **clear and convincing evidence**
+- Maximum initial hospitalization order: **90 days**
+
+**Continuing Treatment Orders:**
+- After 90 days: may petition for **continuing treatment order** (up to 1 year)
+- Subsequent annual renewals possible; each requires full hearing
+
+**Rights of Hospitalized Persons (MCL 330.1700 et seq.):**
+- Right to communicate with attorney, court, family
+- Right to refuse medication subject to override procedure
+- Right to least restrictive setting
+- Right to individualized treatment plan
+- Right to refuse experimental treatment
+
+---
+
+### Assisted Outpatient Treatment (AOT) / Kendra's Law Equivalent
+
+**Michigan AOT (MCL 330.1434a):**
+Michigan enacted **assisted outpatient treatment** provisions allowing the court to order community-based mental health treatment in lieu of hospitalization for persons meeting commitment criteria who are capable of community treatment.
+
+**AOT Order Requirements:**
+- Must satisfy PRT criteria
+- Must have sufficient community support
+- Outpatient treatment must be available
+- Duration: up to 180 days initially; renewable
+
+**Enforcement:**
+If AOT patient fails to comply, treatment provider may petition court; court may modify order to hospitalization.
+
+---
+
+### Competency to Stand Trial (MCL 330.2020–330.2044)
+
+**Standard — MCL 330.2020:**
+A defendant is **incompetent to stand trial** if, as a result of mental illness or intellectual disability, the defendant is unable to:
+- Understand the nature and object of the proceedings; OR
+- Assist in a defense in a rational manner
+
+*Godinez v Moran*, 509 US 389 (1993): same standard applies to competency to plead guilty.
+
+**Raising Competency (MCL 330.2024):**
+- Any party or the court may raise the issue at any time
+- Court shall order an examination if there is **reason to doubt** competency
+- Examination by center for forensic psychiatry (CFP) or qualified examiner
+
+**Forensic Center for Psychiatry (CFP) Examination:**
+- Defense counsel requests referral; court enters order
+- If inpatient evaluation ordered: defendant sent to CFP (usually in Saline, MI); examination completed within **60 days**
+- CFP report submitted to court, defense, and prosecution
+
+**Restoration:**
+- If found incompetent: defendant committed for restoration treatment
+- Maximum restoration commitment: **15 months** or the maximum sentence for the offense, whichever is less (MCL 330.2034)
+- If restored: proceedings resume
+- If not restored: charges may be dismissed; civil commitment proceedings may follow
+
+---
+
+### Not Guilty by Reason of Insanity (NGRI) — MCL 768.21a
+
+**Michigan Insanity Defense:**
+A defendant is **not guilty by reason of insanity** if, as a result of mental illness or intellectual disability, the defendant **lacked substantial capacity** to:
+- **Know** that the act was wrong (cognitive prong); OR  
+- **Conform conduct** to requirements of law (volitional prong)
+
+> Michigan **rejected** the M'Naghten "right-wrong" only test and uses a modified *American Law Institute Model Penal Code* formulation.
+
+**Procedural Requirements (MCL 768.21a–768.21c):**
+- Defendant must give **written notice** of NGRI defense at least 30 days before trial (or within 15 days of arraignment if arraignment is within 30 days of trial)
+- Court shall order psychological examination if NGRI noticed
+- Defendant bears **burden of proof** by a **preponderance of the evidence** (Michigan — defendant proves NGRI)
+
+**Post-Acquittal — Commitment:**
+- NGRI verdict: defendant is **not imprisoned** but is committed to the Center for Forensic Psychiatry for evaluation
+- Probate court then determines whether commitment is required
+- Committed NGRI defendant may be held until no longer dangerous, up to maximum sentence for offense
+
+---
+
+### Guilty but Mentally Ill (GBMI) — MCL 768.36
+
+**GBMI Verdict:**
+Michigan allows a jury verdict of **Guilty but Mentally Ill (GBMI)** as an alternative to NGRI:
+- Defendant is **guilty** of the offense AND
+- Had mental illness at time of offense (but not sufficient for NGRI) AND
+- Was not legally insane at time of offense
+
+**Effect of GBMI:**
+- Defendant is sentenced as for any guilty conviction (no lesser sentence)
+- MDOC must provide psychiatric treatment during incarceration
+- GBMI does **not** reduce the conviction or the sentence; it is primarily a treatment directive
+
+---
+
+### Mental Health Court & Diversion
+
+**Michigan Mental Health Courts (MCL 600.1090 et seq.):**
+Problem-solving specialty courts available in many Michigan counties that divert mentally ill defendants from the traditional criminal justice track.
+
+**Eligibility:**
+- Defendant with serious mental illness charged with non-violent offense (felony or misdemeanor)
+- Must consent to participation
+- Mental illness must be related to criminal behavior
+
+**Program Requirements:**
+- Intensive supervision, case management, mandatory treatment compliance
+- Regular court appearances before dedicated mental health court judge
+- Duration: typically 1–2 years
+
+**Successful Completion:**
+Charges dismissed or reduced; conviction may be expunged; no prison sentence.
+
+---
+
+### Patient Rights & Discharge Planning
+
+**Key Patient Rights (MCL 330.1700–330.1778):**
+- Right to dignity and privacy
+- Right to communicate confidentially with attorney
+- Right to receive visitors
+- Right to hold personal property
+- Right to consent/refuse treatment with limited exceptions
+- Right to petition for discharge or transfer
+
+**Discharge Planning:**
+Community mental health must develop discharge plan before release; coordination with housing, medication management, outpatient treatment. Failure to provide adequate discharge planning may support habeas corpus or mandamus relief.
+
+---
+
+## 46. Michigan Drug Offenses & Diversion Programs
+
+---
+
+### Schedule of Controlled Substances (MCL 333.7201 et seq.)
+
+Michigan's **Public Health Code**, MCL 333.7201–333.7212, classifies controlled substances into **Schedules 1–5** following the federal framework:
+
+| Schedule | Description | Examples |
+|---|---|---|
+| **1** | High abuse potential; no accepted medical use | Heroin, LSD, psilocybin, MDMA, marijuana (still Schedule 1 under Michigan statute despite legalization) |
+| **2** | High abuse potential; accepted medical use with severe restrictions | Cocaine, methamphetamine, oxycodone, fentanyl, PCP |
+| **3** | Moderate-low abuse potential; accepted medical use | Anabolic steroids, ketamine, buprenorphine |
+| **4** | Low abuse potential; accepted medical use | Benzodiazepines, zolpidem, tramadol |
+| **5** | Lowest abuse potential; accepted medical use | Cough preparations with limited codeine, pregabalin |
+
+**Analog Act:**
+MCL 333.7212(1)(h) includes chemical analogs of Schedule 1 substances within Schedule 1 — relevant to designer drug prosecutions.
+
+---
+
+### Delivery, Manufacture & Possession (MCL 333.7401–333.7403)
+
+**MCL 333.7401 — Delivery or Manufacture:**
+
+| Drug / Amount | Penalty |
+|---|---|
+| Cocaine/heroin ≥ 1,000g; methamphetamine ≥ 45g (Schedule 1 or 2 narcotic) | Life or any term; **mandatory minimum 10 years** |
+| Cocaine/heroin 450–999g | Up to 30 years; **mandatory minimum 10 years** |
+| Cocaine/heroin 50–449g | Up to 20 years; **mandatory minimum 5 years** |
+| Cocaine/heroin 25–49g | Up to 4 years |
+| Cocaine/heroin < 25g (Schedule 1/2 narcotic) | Up to 20 years |
+| Marijuana delivery (any amount) | Up to 4 years |
+| Methamphetamine delivery (any amount) | Up to 20 years |
+
+**MCL 333.7403 — Possession:**
+
+| Drug / Amount | Penalty |
+|---|---|
+| Cocaine/heroin ≥ 25g (Schedule 1/2 narcotic) | Felony; up to 4–25 years (amount-based) |
+| Cocaine/heroin < 25g | Felony; up to 4 years |
+| Marijuana (> 5 oz) | Felony; up to 2–4 years |
+| Methamphetamine | Felony; up to 10 years |
+| Schedule 3/4/5 | Misdemeanor or felony depending on schedule and amount |
+
+> **Note:** Michigan's **Marijuana Legalization Act (Proposal 1, 2018)** and subsequent statutes (MCL 333.27951 et seq.) legalized personal use and possession of up to 2.5 oz of marijuana for adults 21+, home cultivation (up to 12 plants), and licensed commercial sales. However, marijuana remains a **federal Schedule 1 substance**, and federal prosecution remains possible.
+
+---
+
+### Sentencing — Mandatory Minimums & Enhancements
+
+**Mandatory Minimums:**
+Michigan's large-quantity drug delivery offenses carry mandatory minimum sentences that the court has no discretion to avoid (MCL 333.7401(2)). Probation is prohibited for many large-quantity deliveries.
+
+**Second-Offense Enhancement:**
+Prior drug conviction doubles the maximum penalty (MCL 333.7413).
+
+**School Zone Enhancement (MCL 333.7410):**
+- Delivery within **1,000 feet of school property**: additional 2-year mandatory consecutive sentence
+- Delivery within **500 feet of school property**: enhanced penalties
+
+**Prosecution Notice:**
+The prosecutor must file a written notice of intent to seek mandatory minimum or enhancement before or at arraignment (MCL 333.7401(4)).
+
+**Habitual Offender:**
+Michigan's habitual offender statute (MCL 769.10–769.12) may increase maximum sentences for repeat drug offenders.
+
+---
+
+### HYTA — Holmes Youthful Trainee Act (MCL 762.11)
+
+**Eligibility:**
+- Defendant was **17 but under 24** at time of offense
+- Charged with felony or misdemeanor (not listed excluded offenses)
+- **Excluded offenses:** crimes punishable by life imprisonment, criminal sexual conduct with penetration, offenses subject to mandatory minimum of 4+ years, operating while intoxicated causing death or serious injury, child abuse 1st/2nd degree
+
+**Effect of HYTA Assignment:**
+- No plea of guilty or nolo contendere entered on the record
+- Defendant placed on probation (typically 1–2 years)
+- Successful completion: **case dismissed; record sealed**
+- No public record; does not appear on public ICHAT criminal history
+
+**HYTA vs. Drug Diversion (MCL 333.7411):**
+HYTA available for **any eligible offense** including drug offenses; MCL 7411 is a specific drug diversion statute (see below). Practitioners may select the more favorable option.
+
+---
+
+### MCL 333.7411 — Deferral & Discharge for First Offenders
+
+**Eligibility:**
+- No prior drug conviction (state or federal)
+- Charged with **possession** of controlled substance (not delivery or manufacture)
+- Charged with fraudulent or forged prescription for controlled substance
+
+**Procedure:**
+- Defendant pleads guilty or nolo contendere
+- Court **defers** proceeding without entering a judgment of conviction
+- Defendant placed on probation (conditions typically include: drug treatment, testing, community service)
+
+**Successful Completion:**
+- Defendant **discharged** without conviction
+- Court **dismisses proceedings**
+- **One-time use only** — MCL 7411 deferral available only once in a lifetime
+- Discharge creates a **non-public record**; defendant may state they have not been convicted
+
+**LEIN/ICHAT:**
+Despite non-public status, the deferral may appear on Law Enforcement Information Network (LEIN) records; immigration consequences still possible.
+
+---
+
+### Drug Treatment Court (MCL 600.1060 et seq.)
+
+Michigan **Drug Treatment Courts (DTC)** are problem-solving courts available in most counties:
+
+**Eligibility:**
+- Felony or misdemeanor drug offense
+- Drug-dependent defendant who has not committed a crime of violence
+- Consent required
+
+**Program:**
+- Intensive supervision with weekly/bi-weekly court appearances
+- Mandatory substance abuse treatment (residential or outpatient)
+- Drug testing (random, frequent)
+- Employment/educational requirements
+- Graduated sanctions for violations; incentives for compliance
+- Duration: 12–18+ months typical
+
+**Successful Completion:**
+- Felony charge reduced, dismissed, or probation discharged
+- Some programs allow expungement upon completion
+
+---
+
+### Drug Forfeiture Interplay (MCL 333.7521)
+
+Drug-related convictions in Michigan can trigger forfeiture of:
+- Controlled substances
+- Raw materials and equipment used in drug production
+- Vehicles used to transport with knowledge
+- Proceeds and property derived from drug transactions
+- Real property used to facilitate a drug felony
+
+See **§42 (Asset Forfeiture)** for detailed forfeiture procedures, MCL 600.4701, and constitutional challenges.
+
+---
+
+### Federal Drug Charges in Michigan — Interaction with State Law
+
+**Parallel Prosecution:**
+Michigan drug arrests may result in **both state charges and federal charges** (dual sovereignty doctrine — no double jeopardy bar). Federal charges are more common where large quantities, interstate trafficking, or use of firearms are involved.
+
+**Federal Drug Offenses (21 USC 841 et seq.):**
+- Mandatory minimums under 21 USC 841(b): 5-year mandatory for 5g+ meth, 500g+ cocaine; 10-year mandatory for 50g+ meth, 5kg+ cocaine; 20-year mandatory if death/serious injury results
+- Federal "safety valve" (18 USC 3553(f)): allows below-mandatory-minimum sentences for first-time, non-violent drug offenders who meet all five criteria
+- Federal prosecutors in E.D./W.D. Michigan coordinate with DEA task forces
+
+**Marijuana — State vs. Federal:**
+Michigan's legalization does not affect federal law; possession, manufacture, and distribution of marijuana remain federal crimes. Federal prosecution of licensed Michigan marijuana businesses remains technically possible though DOJ has deprioritized individual use cases.
+
+---
+
+## 47. Michigan No-Fault Insurance Law — PIP, PD & Bad Faith
+
+---
+
+### Michigan No-Fault Act Overview (MCL 500.3101 et seq.)
+
+Michigan's **No-Fault Automobile Insurance Act**, MCL 500.3101–500.3179, enacted in 1973, is one of the most comprehensive no-fault systems in the United States. Key features:
+
+- **Mandatory** insurance for owners/registrants of motor vehicles
+- **Personal Injury Protection (PIP)** benefits paid without regard to fault
+- Tort liability **abolished** for most injuries; third-party tort claims allowed only for **serious impairment of a body function** or **permanent serious disfigurement**
+- **Property damage** subject to separate rules
+
+**Required Coverages (MCL 500.3101(1)):**
+1. Personal injury protection (PIP)
+2. Property protection insurance (PPI) — up to $1M for property damage in Michigan
+3. Residual liability — minimum $250,000/$500,000 bodily injury; $10,000 property damage
+
+---
+
+### Personal Injury Protection (PIP) — Benefits & Coordination
+
+**PIP Benefits (MCL 500.3107):**
+PIP covers **allowable expenses** for an injured person arising out of use of a motor vehicle:
+- **Medical expenses:** reasonably necessary products, services, and accommodations for care, recovery, or rehabilitation — **unlimited lifetime** under legacy policies (pre-2020 reform)
+- **Work loss:** 85% of gross income lost, up to a monthly maximum ($6,615/month in 2024, indexed annually), for up to 3 years
+- **Replacement services:** up to $20/day for 3 years (domestic services the injured person would have performed)
+- **Survivor's loss:** payable to dependents if injured person dies (MCL 500.3108)
+
+**Priority Order for PIP (MCL 500.3114):**
+1. Insurer of the injured person (own policy)
+2. Spouse's insurer
+3. Resident relative's insurer
+4. Insurer of owner/registrant of vehicle involved
+5. Assigned Claims Facility (MCL 500.3172) if no insurer
+
+**Coordination of Benefits:**
+PIP is coordinated with health insurance for medical expenses (coordination election on policy); uncoordinated PIP pays before health insurance; coordinated PIP pays what health insurance does not cover.
+
+---
+
+### 2019 No-Fault Reform — PA 21 of 2019
+
+The **2019 No-Fault Reform** (2019 PA 21, effective July 2020) made major changes:
+
+**PIP Coverage Levels (Effective July 2020):**
+
+| Option | Coverage | Eligibility |
+|---|---|---|
+| Unlimited lifetime | Full unlimited medical benefits | Legacy option; higher premium |
+| $500,000 | Per-person per-accident cap | Available to all |
+| $250,000 | Per-person per-accident cap | Available to all |
+| $50,000 | Per-person per-accident cap | Medicaid recipients only |
+| Opt out | No PIP medical | Medicare Parts A & B enrollees |
+
+**Medical Provider Fee Schedules:**
+Post-reform, medical providers treating auto accident patients are subject to fee schedules (55% of Medicare rates for certain providers beginning July 2021, phased to 190% Medicare for physician services). Significant litigation ensued over fee schedule application. [UNVERIFIED — verify current fee schedule percentages as of 2026]
+
+**Anti-Assignment Provisions:**
+Reform prohibited assignment of PIP benefits from patients to medical providers — significant impact on medical provider billing practices.
+
+---
+
+### Third-Party Tort Claims — Threshold Injury
+
+**Abolition of Tort Liability (MCL 500.3135):**
+A person remains subject to tort liability for **noneconomic loss** only if the injured person suffered:
+1. **Death;** OR
+2. **Serious impairment of a body function;** OR
+3. **Permanent serious disfigurement**
+
+**Serious Impairment of a Body Function (MCL 500.3135(5)):**
+Objectively manifested impairment of an important body function that affects the person's general ability to lead a normal life.
+
+**McCormick v Carrier**, 487 Mich 180 (2010): MSC held that "serious impairment" is a question for the jury unless there is no factual dispute; clarified the two-prong analysis: (1) objectively manifested impairment; (2) of an important body function; (3) that affects the person's general ability to lead a normal life.
+
+**Economic Loss in Tort:**
+Third-party tort claimant may recover economic losses (excess over PIP) from at-fault driver; threshold does not apply to economic damages above PIP benefits.
+
+---
+
+### Property Damage & Mini-Tort (MCL 500.3135)
+
+**Property Protection Insurance (PPI):**
+PIP covers damage to property of the **insured** caused by the insured's vehicle. PPI covers damage to property of **others** (except other vehicles in motion, which is handled by mini-tort or collision).
+
+**Mini-Tort — MCL 500.3135(3):**
+An owner of a vehicle damaged in an accident may sue the at-fault driver for property damage up to **$3,000** (the "mini-tort" or "limited property damage" claim). The mini-tort claim:
+- Does **not** require serious impairment threshold
+- Is available regardless of fault allocation (comparative fault applies)
+- Is filed in small claims or district court
+
+---
+
+### Assigned Claims Facility (MCL 500.3172)
+
+The **Michigan Automobile Insurance Placement Facility (MAIPF)**, operating the **Assigned Claims Plan**, provides PIP benefits to accident victims who have no available insurer:
+- Pedestrians struck by uninsured vehicles
+- Uninsured vehicle occupants injured in accidents
+- Hit-and-run victims
+
+**Process:**
+- Claimant applies to MAIPF within **1 year** of accident
+- MAIPF assigns claim to a participating insurer
+- Assigned insurer handles the PIP claim and may seek reimbursement from uninsured tortfeasor
+
+---
+
+### Insurance Bad Faith & Unfair Trade Practices (MCL 500.2006)
+
+**Michigan Insurance Code — Penalties for Late Payment:**
+MCL 500.2006 provides that insurers who unreasonably delay or withhold payment of a **first-party** (PIP) claim are liable for **12% per annum penalty** on the overdue amount in addition to the claim amount.
+
+**Unfair Trade Practices Act (MCL 500.2003–500.2093):**
+Michigan's Unfair Trade Practices Act prohibits unfair claim settlement practices including:
+- Failure to acknowledge claims promptly
+- Failure to provide reasonable explanation for denial
+- Compelling insureds to initiate litigation to recover reasonable amounts
+
+**No Common-Law Bad Faith Tort:**
+Michigan does **not** recognize a separate bad faith tort against first-party insurers (*Kewin v Massachusetts Mutual Life Insurance Co*, 409 Mich 401 (1980)). Remedies limited to: breach of contract + MCL 500.2006 penalty + attorney fees under MCR 2.625.
+
+---
+
+### Uninsured & Underinsured Motorist Coverage
+
+**UM/UIM Coverage:**
+Michigan insurers must offer uninsured motorist (UM) and underinsured motorist (UIM) coverage; insureds may waive in writing (MCL 500.3009(4)).
+
+**UM Coverage:**
+Covers noneconomic and excess economic loss caused by an uninsured at-fault driver; provides tort remedy when tortfeasor has no insurance.
+
+**UIM Coverage:**
+Available when at-fault driver's liability limits are insufficient to fully compensate the injured person's damages; UIM insurer steps into tortfeasor's shoes for excess.
+
+**Stacking:**
+Michigan generally does **not** allow stacking of UM/UIM coverage across multiple policies absent anti-stacking waiver issues.
+
+---
+
+## 48. Michigan Small Claims & Limited Civil Jurisdiction
+
+---
+
+### Small Claims Division (MCL 600.8401 et seq.)
+
+Michigan **district courts** have a **Small Claims Division** for informal, expedited resolution of minor civil disputes.
+
+**Jurisdictional Limit:**
+- Maximum claim: **$7,000** (MCL 600.8401(1)) — effective as of recent amendments [UNVERIFIED — verify current statutory limit]
+- Claims above this limit may not be split to fit within small claims jurisdiction
+
+**No Attorneys:**
+Parties represent themselves; **attorneys may not appear** in small claims hearings (MCL 600.8408).
+
+**Who May File:**
+Any individual, corporation, or other entity with a claim at or below the jurisdictional limit.
+
+---
+
+### Jurisdictional Limit & Excluded Claims
+
+**Claims Excluded from Small Claims (MCL 600.8401(3)):**
+- Equitable relief (injunctions, specific performance)
+- Defamation (libel/slander)
+- Malicious prosecution / false arrest
+- Claims where a party files a counterclaim exceeding $7,000 (case must be transferred to regular docket)
+- Class action claims
+
+**Choosing Regular Civil vs. Small Claims:**
+- Small claims: faster, informal, no attorney fees, simpler
+- Regular civil (district court): allows attorneys, discovery, formal rules of evidence, more complex relief
+- Transfer: defendant may transfer to regular docket; plaintiff cannot after filing
+
+---
+
+### Procedure — Filing Through Judgment
+
+**Filing:**
+1. File at district court clerk's office; submit **claim form** (DC 84 — Small Claims Affidavit)
+2. Pay filing fee (~$30–$70 based on amount)
+3. Service: court sends notice to defendant by first-class mail + certified mail
+4. If defendant not served, plaintiff may request personal service by court officer
+
+**Hearing:**
+- Scheduled within 15–45 days
+- Informal; magistrate or judge presides
+- Both parties present their case; no formal discovery
+- Evidence: any evidence the judge/magistrate finds helpful (receipts, photos, witnesses, contracts)
+- Decision rendered at hearing or mailed shortly after
+
+**Judgment:**
+- Judgment entered for plaintiff (with interest) or defendant
+- Losing party has **21 days** to appeal to circuit court (MCL 600.8412)
+- Default judgment if defendant does not appear
+
+**Enforcement:**
+Small claims judgments are enforced the same as other civil judgments: garnishment of wages/bank accounts, execution on personal property, judgment lien on real property.
+
+---
+
+### District Court Civil Jurisdiction — MCL 600.8301
+
+District courts have exclusive original jurisdiction over civil claims where the **amount in controversy does not exceed $25,000** (MCL 600.8301(1)).
+
+**Concurrent Jurisdiction:**
+Circuit court and district court have **concurrent jurisdiction** over claims between $10,000 and $25,000; filing in circuit court for a claim within district court jurisdiction may result in imposition of costs against plaintiff (MCR 2.625(A)(2)).
+
+**District Court — Additional Jurisdiction:**
+- Summary proceedings (landlord-tenant evictions, MCL 600.5701)
+- Civil infractions
+- Misdemeanors not punishable by more than 1 year
+- Preliminary examinations in felony cases
+- Ordinance violations
+
+---
+
+### Garnishment, Execution & Judgment Liens in District Court
+
+**Wage Garnishment (MCL 600.4001 et seq.):**
+- Post-judgment; creditor files **Request and Order to Seize Property / Writ of Garnishment** (DC 62)
+- Employer withholds up to **25%** of disposable earnings per week (federal CCPA limit)
+- Periodic garnishment continues until judgment satisfied
+
+**Bank Account Garnishment:**
+- Non-periodic garnishment; one-time seizure of funds in bank account
+- Exempt funds: Social Security, SSI, disability (federal exemptions protect exempt deposits)
+
+**Judgment Lien on Real Property:**
+- Docketing judgment in county where property located creates **lien on all non-exempt real property** in that county
+- Lien remains for **10 years**; renewable
+
+**Execution on Personal Property:**
+- Court officer (bailiff) may seize and sell non-exempt personal property
+- Exemptions: tools of the trade (up to $2,500), household goods, motor vehicle (up to $3,775), burial plots, wearing apparel
+
+---
+
+### Appeals from Small Claims & District Court
+
+**Small Claims Appeal:**
+- Appeal as of right to **circuit court** within **21 days** of judgment entry
+- Appeal is a **de novo** hearing (new trial on the merits)
+- Attorneys may appear on appeal
+- Circuit court judgment is final on the facts
+
+**District Court Civil Appeal:**
+- Appeal of right to **circuit court** (MCR 7.101 et seq.)
+- If amount below $7,000: circuit court judgment final
+- If amount exceeds $7,000: may seek **leave to appeal** to Michigan Court of Appeals (discretionary)
+
+---
+
+## 49. Michigan Tribal Sovereignty & Tribal Courts
+
+---
+
+### Federally Recognized Tribes in Michigan
+
+Michigan has **12 federally recognized Native American tribes** (as of 2026):
+
+| Tribe | Location |
+|---|---|
+| Bay Mills Indian Community | Chippewa County (EUP) |
+| Grand Traverse Band of Ottawa and Chippewa Indians | Leelanau/Antrim Counties |
+| Hannahville Indian Community | Menominee County (UP) |
+| Keweenaw Bay Indian Community | Baraga County (UP) |
+| Lac Vieux Desert Band of Lake Superior Chippewa Indians | Ontonagon County (UP) |
+| Little River Band of Ottawa Indians | Manistee County |
+| Little Traverse Bay Bands of Odawa Indians | Emmet/Charlevoix Counties |
+| Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians (Gun Lake Tribe) | Allegan County |
+| Nottawaseppi Huron Band of the Potawatomi | Calhoun County |
+| Pokagon Band of Potawatomi Indians | Cass/Van Buren Counties |
+| Saginaw Chippewa Indian Tribe of Michigan | Isabella County |
+| Sault Ste. Marie Tribe of Chippewa Indians | Chippewa/Mackinac/Luce Counties |
+
+---
+
+### Tribal Sovereignty — Federal Law Framework
+
+**Fundamental Principles:**
+- Indian tribes are **domestic dependent nations** with inherent powers of sovereignty (*Cherokee Nation v Georgia*, 30 US 1 (1831))
+- Federal government has **plenary power** over Indian affairs (art I, § 8, cl 3)
+- State governments have **limited authority** over tribal members on trust land (*Worcester v Georgia*, 31 US 515 (1832))
+- *McClanahan v Arizona State Tax Comm'n*, 411 US 164 (1973): state law is generally preempted in Indian country unless Congress expressly authorizes
+
+**Indian Country (18 USC 1151):**
+Defined as: (a) land within reservation boundaries; (b) dependent Indian communities; (c) Indian allotments.
+
+**Michigan Reserved Rights:**
+Many Michigan tribes retain off-reservation fishing, hunting, and gathering rights under 19th-century treaties (e.g., 1836 Treaty of Washington); *United States v Michigan*, 471 F Supp 192 (WD Mich 1979) (*Fox* case) affirmed tribal treaty rights in Great Lakes. [UNVERIFIED — cite current controlling order]
+
+---
+
+### Tribal Court Jurisdiction — Civil & Criminal
+
+**Criminal Jurisdiction (25 USC 1301–1303 — Indian Civil Rights Act):**
+
+| Jurisdiction | Authority |
+|---|---|
+| Tribal member criminal offense on tribal land | Tribal court has jurisdiction; tribes may impose up to **3 years** imprisonment and $15,000 fine per offense (*Tribal Law and Order Act* 2010, VAWA 2013 — up to 9 years for certain crimes) |
+| Non-member Indian on tribal land | Tribes may exercise criminal jurisdiction over non-member Indians under *Duro v Reina*, 495 US 676 (1990), **as restored by Congress** (25 USC 1301(2)) |
+| Non-Indian on tribal land | Generally no tribal criminal jurisdiction (*Oliphant v Suquamish Indian Tribe*, 435 US 191 (1978)); **exception:** VAWA reauthorization 2013 & 2022 grants Special Domestic Violence Criminal Jurisdiction (SDVCJ) over non-Indians for DV offenses |
+| Federal crimes in Indian country | Federal jurisdiction under Major Crimes Act (18 USC 1153) — 15 enumerated crimes |
+
+**Civil Jurisdiction:**
+- Tribal courts have broad civil jurisdiction over disputes involving tribal members on tribal land
+- Civil jurisdiction over non-members on tribal land: *Montana v United States*, 450 US 544 (1981) — two exceptions: (1) non-member entered consensual relationship with tribe; (2) non-member conduct threatens tribal political integrity or welfare
+- Exhaustion of tribal court remedies required before federal court review (*National Farmers Union Ins Co v Crow Tribe*, 471 US 845 (1985))
+
+---
+
+### State-Tribal Compacts & Cross-Deputization
+
+**Michigan State-Tribal Compacts:**
+Michigan has entered into numerous compacts with recognized tribes covering:
+- Gaming (under IGRA, 25 USC 2710): all Michigan tribes with casinos operate under Class III gaming compacts with the state
+- Law enforcement cross-deputization: tribal officers may enforce state law; state officers may enforce tribal law on reservation
+- Natural resources: joint management of fisheries, hunting, and gathering rights
+
+**Gaming (IGRA):**
+Michigan has **23 tribal casinos** operated under tribal-state compacts. Revenue sharing with the state; NIGC oversight. Tribal gaming operations are generally immune from state and federal taxation.
+
+---
+
+### Tribal Immunity from Suit
+
+**Sovereign Immunity:**
+Federally recognized tribes possess **sovereign immunity** from suit in state and federal courts unless Congress or the tribe has expressly waived immunity (*Michigan v Bay Mills Indian Community*, 572 US 782 (2014)).
+
+**Bay Mills Decision:**
+SCOTUS in *Bay Mills* confirmed tribes retain immunity for off-reservation commercial activities; only Congress can abrogate; states cannot use state lawsuit as enforcement mechanism against tribe.
+
+**Tribal Officers:**
+Individual tribal officers acting in their official capacity may be sued for injunctive/prospective relief (Ex parte *Young* analogy); damages against officer personally may be available.
+
+**Tribal Corporations:**
+Arms of the tribe (tribal enterprises, gaming commissions) generally share tribal immunity unless tribe has waived for specific entity.
+
+**Waiver:**
+Tribes may waive immunity in contracts (arbitration clause), commercial transactions, or by specific tribal code provision. Waivers are strictly construed.
+
+---
+
+### Indian Child Welfare Act (ICWA) Tribal Provisions
+
+**ICWA Overview (25 USC 1901 et seq.):**
+See **§18 (Juvenile Proceedings)** for full ICWA coverage. Key tribal-specific provisions:
+
+**Tribal Notification:**
+- State court must notify tribe when Indian child may be involved in foster care, termination, or adoption proceeding
+- Tribe has right to **intervene** at any stage (25 USC 1911(c))
+- Tribe may request **transfer** to tribal court (25 USC 1911(b)); state court must transfer absent good cause or objection of parent
+
+**Tribal Court Orders:**
+Full faith and credit must be given to tribal court orders in ICWA proceedings by state courts (25 USC 1911(d)).
+
+**Michigan ICWA (MCL 712B):**
+Michigan enacted its own Indian Family Preservation Act (MCL 712B) providing additional protections beyond federal ICWA; applies to state court proceedings involving Indian children.
+
+---
+
+### Tribal Taxation & Business Law
+
+**Federal Taxation on Tribal Land:**
+- Tribal members generally **exempt** from state income tax on income earned on reservation
+- Federal income tax applies to tribal members (tribal members are U.S. citizens)
+- States may not impose sales or use taxes on on-reservation transactions between tribe/tribal members
+
+**Michigan Tribal Tax Exemptions:**
+MCL 205.54 exempts from Michigan sales tax: sales on reservation to tribal members where title passes on reservation.
+
+**Tribal Enterprises & LLC:**
+Tribes may organize business entities under tribal law; tribal LLC operating agreements may provide limited liability with maintained sovereign immunity. Non-tribal businesses dealing with tribes should require explicit waiver of immunity in contracts.
+
+---
+
+## 50. Michigan Public Benefits, Medicaid & Agency Appeals
+
+---
+
+### MDHHS Benefit Programs Overview
+
+The **Michigan Department of Health and Human Services (MDHHS)** administers Michigan's major public assistance programs:
+
+| Program | Description | Governing Law |
+|---|---|---|
+| **Medicaid (MI Health Link)** | Health coverage for low-income individuals | MCL 400.105; 42 USC 1396 et seq. |
+| **Food Assistance Program (FAP/SNAP)** | Federal food stamps program | 7 USC 2011; MCL 400.14c |
+| **State Disability Assistance (SDA)** | Cash assistance for adults with disabilities | MCL 400.391–400.399 |
+| **Family Independence Program (FIP)** | Cash assistance for families (TANF block grant) | MCL 400.57; 42 USC 601 et seq. |
+| **Child Development and Care (CDC)** | Child care subsidy | MCL 722.1 et seq. |
+| **Medicaid Waiver Programs** | Home and community-based services for elderly/disabled | MCL 400.109a |
+
+---
+
+### Medicaid Eligibility & Managed Care (MCL 400.105)
+
+**Michigan Medicaid Eligibility Categories:**
+- **Families and children:** income ≤ 133% FPL (under ACA expansion)
+- **Pregnant women:** income up to 185% FPL
+- **Children (CHIP — MIChild):** income up to 212% FPL
+- **Elderly and disabled (traditional Medicaid):** SSI recipients; medically needy spend-down
+- **Healthy Michigan Plan (HMP):** ACA Medicaid expansion; adults 19–64, income ≤ 133% FPL; enacted MCL 400.105d
+
+**Managed Care Organizations (MCOs):**
+Most Michigan Medicaid beneficiaries receive services through contracted MCOs (e.g., Molina, Meridian, Blue Cross Complete). Behavioral health services handled by Community Mental Health Services Programs (CMHSPs).
+
+**Dual Eligibles:**
+Persons eligible for both Medicaid and Medicare ("dual eligibles") enrolled in MI Health Link integrated care program.
+
+---
+
+### Food Assistance Program (FAP/SNAP)
+
+**Federal Program, State Administration:**
+FAP is the Michigan delivery of the federal SNAP program (7 USC 2011 et seq.). Federal funds, state administration, federal eligibility rules.
+
+**Eligibility:**
+- Gross income ≤ 130% FPL (federal gross test)
+- Net income ≤ 100% FPL after deductions
+- Asset test: generally no asset test under broad-based categorical eligibility (BBCE)
+- All household members must meet work requirements or exemptions
+
+**Categorical Eligibility:**
+Michigan uses BBCE — households receiving TANF services are categorically eligible for SNAP; effectively eliminates separate asset test for most households.
+
+**SNAP Employment & Training (E&T):**
+Able-bodied adults without dependents (ABAWDs) must meet work/training requirements or face 3-month time limit. Michigan requests waivers for high-unemployment areas.
+
+**Monthly Benefit:**
+Calculated based on net income; maximum allotments set annually by USDA.
+
+---
+
+### State Disability Assistance (SDA) & SSI Interaction
+
+**SDA (MCL 400.391 et seq.):**
+Cash assistance for Michigan adults 18–64 who are disabled and do not qualify for Supplemental Security Income (SSI) or Social Security Disability Insurance (SSDI):
+- Must be medically certified as having a physical/mental disability preventing substantial gainful activity
+- Income and asset limits
+- Monthly grant: approximately $300–$500/month [UNVERIFIED — verify current grant amount]
+
+**Interaction with SSI/SSDI:**
+- SDA terminates when SSI/SSDI approved; SDA acts as a bridge
+- Applicants for SSI/SSDI typically apply for SDA simultaneously
+- MDHHS may seek repayment of SDA benefits from retroactive SSI awards (reimbursement claim)
+
+---
+
+### Benefit Denials, Reductions & Terminations — Fair Hearing Rights
+
+**Due Process — Goldberg v Kelly:**
+*Goldberg v Kelly*, 397 US 254 (1970): Welfare recipients have a due process right to a **pre-termination hearing** before government may terminate existing public assistance benefits.
+
+**Michigan Fair Hearing Process (MCL 400.9 et seq.):**
+
+**Step 1 — Agency Action:**
+MDHHS issues written notice of adverse action (denial, reduction, termination) with:
+- Reason for action
+- Statement of applicable law/policy
+- Notice of right to request hearing
+- Notice that benefits continue during appeal if timely requested
+
+**Step 2 — Request for Hearing:**
+- Must request hearing within **90 days** of adverse action (MCL 400.9(2))
+- For **terminations/reductions**: if hearing requested within **10 days** of notice, benefits **must continue** at prior level pending hearing (*aid-paid pending*)
+
+**Step 3 — State Hearing:**
+- Conducted by Office of Administrative Hearings and Rules (OAHR) administrative law judge
+- Informal; no formal rules of evidence; ALJ may consider any relevant evidence
+- Parties may be represented; legal aid and law school clinics often assist
+- Decision issued within **90 days** of hearing request
+
+**Step 4 — Director Review:**
+Within 30 days, either party may request Director review of ALJ decision; Director may affirm, modify, or reverse.
+
+**Step 5 — Circuit Court Review:**
+Adverse final agency decision may be appealed to **circuit court** (MCL 600.631) within **21 days** of final agency decision; standard of review: whether agency decision is supported by competent, material, and substantial evidence.
+
+**Federal Medicaid Appeals:**
+Medicaid denials have additional federal protections; state plan must provide opportunity for a fair hearing under 42 CFR 431.200 et seq.
+
+---
+
+### Medicaid Estate Recovery (MCL 400.112g)
+
+**Federal Requirement:**
+States must seek recovery of Medicaid expenditures from the estates of deceased Medicaid recipients (42 USC 1396p). Michigan implements this through MCL 400.112g.
+
+**Scope of Recovery:**
+Michigan may recover:
+- Amounts paid for **nursing facility services**, home and community-based services, and related hospital/prescription costs for recipients **age 55 or older**
+- Recovery from the **probate estate** (and, for liens, from real property)
+
+**Exceptions:**
+Recovery is deferred/waived if:
+- Surviving spouse is alive
+- Surviving child under 21 or blind/disabled child survives
+- Recovery would cause undue hardship (hardship waiver available)
+
+**Lien:**
+MDHHS may place a **lien on real property** during lifetime of a Medicaid recipient permanently residing in a nursing facility, if no protected family member at home.
+
+**Estate Planning Interaction:**
+Medicaid estate recovery is a critical consideration in elder law planning:
+- Irrevocable trusts created more than **5 years** before applying may protect assets (5-year look-back for nursing home Medicaid)
+- Life estate / Lady Bird deeds may or may not avoid estate recovery depending on structure [UNVERIFIED — consult current MDHSS policy]
+- Medicaid planning should be coordinated with probate/estate counsel
+
+---
+
+### Elder Abuse & Adult Protective Services (APS)
+
+**Michigan APS (MCL 400.11 et seq.):**
+The **Adult Protective Services (APS)** program, administered by MDHHS, investigates reports of abuse, neglect, and exploitation of vulnerable adults aged 18+ who cannot protect themselves.
+
+**Definitions (MCL 400.11a):**
+- **Abuse:** non-accidental physical harm, sexual abuse, or emotional abuse of a vulnerable adult
+- **Neglect:** failure to provide basic needs (food, shelter, medical care) by caregiver
+- **Exploitation:** use of vulnerable adult's resources for another's profit or advantage without consent
+- **Self-neglect:** vulnerable adult's failure to provide for own basic needs
+
+**Mandatory Reporting (MCL 400.11a(1)):**
+Physicians, nurses, social workers, dentists, police officers, and other listed professionals must **immediately report** suspected abuse, neglect, or exploitation to MDHHS. Penalties for failure to report.
+
+**APS Investigation:**
+- MDHHS investigates within 24 hours (emergency) to 7 business days
+- May involve law enforcement; may result in guardianship petition, criminal referral, or protective services
+
+**Elder Exploitation — Criminal Law:**
+- Financial exploitation of a vulnerable adult is a separate crime under MCL 750.174a: first-degree (≥$100K: life felony); second-degree ($50K-$100K: 10-year felony); third-degree ($1K-$50K: 5-year felony); fourth-degree (<$1K: misdemeanor)
+- Elder abuse/neglect: MCL 750.145m–750.145r — criminal penalty up to 15 years for first-degree abuse/neglect
+
+**Civil Remedies:**
+- Vulnerable adults may bring civil actions for exploitation; treble damages available (MCL 400.11i)
+- Guardianship/conservatorship as protective remedy (see **§25**)
+- Restraining orders against exploiters
+
+---
+
+*Sources updated: Michigan Constitution of 1963 (art I, art III, art VI); Michigan Court Rules (MCR 2, 3, 6, 7); Michigan Rules of Evidence (MRE); Michigan Rules of Professional Conduct (MRPC); Michigan Code of Judicial Conduct (MCJC); Michigan Compiled Laws (MCL) — Chapters 15, 24, 28, 37, 125, 205, 330, 333, 400, 408, 418, 450, 500, 552, 554, 600, 691, 700, 710, 712A, 712B, 722, 750 (including 750.159b–750.159x, 750.174a, 750.224, 750.224f, 750.227c), 762, 767, 769, 780; State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments II, IV, V, VI, VIII, XI, XIV; Second Amendment: *Heller* (2008), *McDonald* (2010), *Bruen* (2022), *Rahimi* (2024); RICO (18 USC 1961–1968); 18 USC 922, 924, 981–983, 1341, 1343, 1344, 1951, 1956, 1957, 1963, 2250, 2252; 21 USC 841, 846, 853, 881; 25 USC 1151, 1301, 1901 et seq. (ICWA); 26 USC 5801 et seq. (NFA); 28 USC 1254, 1257, 1291, 1292, 1331, 1332, 1367, 1441–1453, 2101, 2465; 34 USC 20901 et seq. (SORNA); 42 USC 1396 et seq. (Medicaid); 42 USC 1981, 1983, 1985, 1986, 2000d; 20 USC 1681; 29 USC 794; 42 USC 12101–12189; 7 USC 2011 et seq. (SNAP); CAFRA (Pub. L. 106-185); FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); VAWA (34 USC 12291); Indian Gaming Regulatory Act (25 USC 2710); Major Crimes Act (18 USC 1153); Tribal Law and Order Act (Pub. L. 111-211); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Supreme Court Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; United States Sentencing Guidelines (USSG); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
 
 *Last substantively revised: April 2026.*
