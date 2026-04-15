@@ -1919,7 +1919,7 @@ This section expands §7's disqualification framework with **strategic patterns*
 | **Ex parte contacts** | Judge communicates with FOC, prosecutor, or opposing counsel outside presence of party | MCJC Canon 3A(6); *In re Hocking*, 451 Mich 1 (1996) |
 | **Hostile demeanor** | Interrupting, sarcasm, raised voice, eye-rolling, or refusal to let party finish | *Cain v Dep't of Corrections*, 451 Mich 470 (1996) — hostility can show bias |
 | **Prejudgment of facts** | Judge states conclusions before evidence is presented | MCJC Canon 3A(4) — patient, dignified treatment |
-| **Rubber-stamping FOC** | Adopts FOC recommendation without independent analysis | MCR 3.210 requires independent judicial evaluation |
+| **Rubber-stamping FOC** | Adopts FOC recommendation without independent analysis | [UNVERIFIED] Independent judicial evaluation authority for FOC recommendations |
 | **Refusal to hear motions** | Denies motions to modify/terminate PPO or for parenting time without hearing | MCL 600.2950(12); MCR 3.705 — right to hearing |
 | **Disproportionate sanctions** | Jails one party for minor contempt while excusing other party's willful noncompliance | *Turner v Rogers*, 564 US 431 (2011) — equal treatment |
 | **Same judge across related cases** | Judge presides over PPO, custody, and criminal cases involving same parties | MCR 2.003(C)(6) — impartiality reasonably questioned |
