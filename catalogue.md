@@ -1931,7 +1931,7 @@ This section expands §7's disqualification framework with **strategic patterns*
 **Step-by-step strategy:**
 
 1. **Create a contemporaneous log** — date, time, courtroom, what was said, by whom, and any witnesses
-2. **Obtain transcripts** — request all hearing transcripts; if the court does not record, bring a court reporter or request that proceedings be recorded (MCR 8.109)
+2. **Obtain transcripts** — request all hearing transcripts; if the court does not record, bring a court reporter or request that proceedings be recorded (MCR 8.005; MCR 8.104)
 3. **File preservation motions** — put specific objections on the record at every hearing
 4. **Cross-reference patterns** — compare judge's rulings in your case against public docket records for the same judge in similar cases
 5. **FOIA requests** — seek ex parte communications between court staff, FOC, and the judge (MCL 15.231; note: judicial deliberations may be exempt under MCL 15.243(1)(m))
