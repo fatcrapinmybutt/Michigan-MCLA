@@ -2335,8 +2335,8 @@ Use this checklist to inventory and catalog due process violations across the li
 | **Contempt** | Contempt imposed without ability-to-pay finding | *Turner v Rogers*, 564 US 431 | ☐ |
 | **Contempt** | Jailed without purge condition (de facto criminal contempt without protections) | *Dougherty v Dougherty*, 188 Mich App 521 | ☐ |
 | **Contempt** | No right to counsel in criminal contempt | US Const amend VI; Mich Const art I, §20 | ☐ |
-| **Record** | Court failed to create or maintain record of proceedings | MCR 8.108; MCR 8.119 | ☐ |
-| **Record** | Transcripts altered or unavailable | MCR 8.108(D) | ☐ |
+| **Record** | Court failed to create or maintain record of proceedings | MCR 8.005; MCR 8.119 | ☐ |
+| **Record** | Transcripts altered or unavailable | MCR 7.210(B) | ☐ |
 | **Support** | Child support calculated using incorrect income | Michigan Child Support Formula; MCL 552.605 | ☐ |
 | **Custody** | Custody changed without proper cause/change of circumstances | MCL 722.27(1)(c); *Vodvarka*, 259 Mich App 499 | ☐ |
 
