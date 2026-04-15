@@ -1948,7 +1948,7 @@ This section expands §7's disqualification framework with **strategic patterns*
 - [ ] Served on all parties
 - [ ] Filed promptly after discovery of bias
 - [ ] If denied: motion to chief judge under MCR 2.003(D)(3)(a) within 21 days
-- [ ] If chief judge denies: appeal to COA under MCR 7.203(A)
+- [ ] If chief judge denies: seek leave to appeal to the Court of Appeals under MCR 7.205
 
 ---
 
