@@ -135,7 +135,7 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Master Remedies Table](#master-remedies-table)
     - [Strategic Sequencing](#strategic-sequencing)
     - [Immunity Barriers & Workarounds](#immunity-barriers--workarounds)
-    - [§ 1983 in Family Law Context](#-1983-in-family-law-context)
+    - [§ 1983 in Family Law Context](#1983-in-family-law-context)
 
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
