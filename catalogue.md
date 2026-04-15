@@ -2367,7 +2367,7 @@ This section consolidates all available remedies when a litigant has been subjec
 | # | Remedy | Vehicle | Authority | When to Use | Timeline |
 |---|---|---|---|---|---|
 | 1 | **Motion to terminate/modify PPO** | MCR 3.705 | MCL 600.2950(12); MCR 3.706 | PPO issued on false allegations | Within 14 days of service (MCR 3.703(G)); or any time for fraud |
-| 2 | **Motion for relief from judgment** | MCR 2.612(C) | MCR 2.612(C)(1)(c) — fraud on the court | PPO or custody order obtained through perjury or fraud | No time limit for fraud on the court |
+| 2 | **Motion for relief from judgment** | MCR 2.612(C) | MCR 2.612(C)(1)(c) — fraud, misrepresentation, or other misconduct | PPO or custody order obtained through perjury, fraud, or misconduct | Within 1 year of the judgment or order; any separate fraud-on-the-court relief must be analyzed independently |
 | 3 | **Disqualification motion** | MCR 2.003 | MCR 2.003(C)(1)–(7); MCJC Canon 3C | Judge exhibits bias or has disqualifying conflict | Promptly upon discovery of grounds |
 | 4 | **Motion for contempt relief** | MCR 3.606; emergency motion | *Turner v Rogers*; *Tkachik* | Jailed on contempt without proper procedure | Immediately |
 | 5 | **Appeal to Court of Appeals** | MCR 7.203/7.205 | MCR 7.203(A) — appeals of right; MCR 7.205 — leave | After final order; or interlocutory for PPO/contempt | Claim of appeal: 21 days; leave application: 21 days (extendable) |
