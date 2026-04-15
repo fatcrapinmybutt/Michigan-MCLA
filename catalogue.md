@@ -2149,9 +2149,9 @@ Parental alienation — one parent's systematic campaign to undermine the child'
 
 ### Custody Evaluations & GAL
 
-| Tool | Rule | Purpose |
+| Tool | Authority | Purpose |
 |---|---|---|
-| **Custody evaluation** | MCR 3.210 | Court may order evaluation by qualified professional; evaluator assesses alienation |
+| **Custody evaluation** | MCL 722.27(1)(e) | Court may order an investigation/evaluation concerning custodial arrangements; evaluator may assess alienation and other best-interest factors |
 | **Guardian ad litem** | MCR 3.204 | GAL advocates for child's best interests; can investigate alienation allegations |
 | **Parenting coordinator** | MCR 3.218 | May be appointed to facilitate compliance and reduce conflict |
 | **Therapeutic intervention** | MCL 722.27a(7) | Court can order family counseling or reunification therapy |
