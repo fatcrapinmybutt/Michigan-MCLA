@@ -1983,9 +1983,9 @@ This section extends §12's PPO defense toolkit with **offensive strategies** to
 | **Material misrepresentation** | Petitioner's sworn petition contains false factual allegations |
 | **Reliance by the court** | Court relied on false statements to issue ex parte PPO |
 | **Prejudice** | Respondent suffered concrete harm: loss of custody, housing, firearms rights, employment consequences |
-| **No time limit for fraud on the court** | MCR 2.612(C)(1)(c) has **no** time limit when the fraud is fraud *upon the court* itself, distinct from MCR 2.612(C)(1)(a)–(b) which must be filed within one year |
+| **Time limit distinction** | A motion under **MCR 2.612(C)(1)(c)** is generally subject to **MCR 2.612(C)(2)** and must be filed within a reasonable time, and for subrule (c) not more than **1 year** after the judgment or order. A true **fraud-on-the-court** theory is distinct and is tied to the court's preserved power under **MCR 2.612(C)(3)**, which is not governed by that one-year cap |
 
-**Strategic note:** Frame as "fraud on the court" (no time bar) rather than "mistake or inadvertence" (one-year bar).
+**Strategic note:** Do not imply that all fraud claims under **MCR 2.612(C)(1)(c)** have no time bar. If the theory is truly **fraud on the court**, identify it as distinct from an ordinary **MCR 2.612(C)(1)(c)** motion and cite **MCR 2.612(C)(3)**; otherwise, the typical one-year limit applies.
 
 ---
 
