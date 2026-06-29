@@ -135,6 +135,33 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Master Remedies Table](#master-remedies-table)
     - [Strategic Sequencing](#strategic-sequencing)
     - [Immunity Barriers & Workarounds](#immunity-barriers--workarounds)
+    - [§ 1983 in Family Law Context](#-1983-in-family-law-context)
+34. [Michigan Appellate Courts & Higher Court Appeals](#34-michigan-appellate-courts--higher-court-appeals)
+    - [Michigan's Three-Tier Court System](#michigans-three-tier-court-system)
+    - [Appeals of Right vs. Leave to Appeal](#appeals-of-right-vs-leave-to-appeal)
+    - [Appeal from Adverse Family Court Orders - Step by Step](#appeal-from-adverse-family-court-orders---step-by-step)
+    - [Emergency Relief in Court of Appeals](#emergency-relief-in-court-of-appeals)
+    - [Superintending Control](#superintending-control---extraordinary-remedy)
+    - [Stay Pending Appeal](#stay-pending-appeal)
+    - [Application to Michigan Supreme Court](#application-to-michigan-supreme-court)
+    - [Barriers to Appeal & Solutions](#barriers-to-appeal--solutions)
+    - [Strategic Considerations for Family Law Appeals](#strategic-considerations-for-family-law-appeals)
+    - [Remedies Available on Appeal](#remedies-available-on-appeal)
+    - [Published vs. Unpublished Opinions](#published-vs-unpublished-opinions)
+    - [Key Appellate Procedure Cases](#key-appellate-procedure-cases)
+35. [Comprehensive Michigan Higher Court Caselaw Index](#35-comprehensive-michigan-higher-court-caselaw-index--fathers-rights--family-law-focus)
+    - [Organization of Index](#organization-of-index)
+    - [Topic Index](#topic-index)
+    - [Gender Bias & Equal Protection](#1-gender-bias--equal-protection)
+    - [Judicial Bias, Disqualification & JTC Cases](#2-judicial-bias-disqualification--jtc-cases)
+    - [PPO Fraud, Perjury & Weaponization](#3-ppo-fraud-perjury--weaponization)
+    - [Parental Alienation & Custody Interference](#4-parental-alienation--custody-interference)
+    - [Friend of the Court (FOC) Issues](#5-friend-of-the-court-foc-issues)
+    - [Contempt — Ability to Pay & Due Process](#6-contempt--ability-to-pay--due-process)
+    - [Child Custody Standards & Best Interest Factors](#7-child-custody-standards--best-interest-factors)
+    - [Parenting Time Rights & Enforcement](#8-parenting-time-rights--enforcement)
+    - [Appellate Procedure & Standards of Review](#9-appellate-procedure--standards-of-review)
+    - [Cumulative Error & Due Process Violations](#10-cumulative-error--due-process-violations)
     - [§ 1983 in Family Law Context](#1983-in-family-law-context)
 
 **Extended References (companion files):**
@@ -2438,6 +2465,756 @@ Phase 4: Federal Remedies (if state remedies fail)
 - *Parratt/Hudson doctrine* — random, unauthorized deprivations of property may not state a due process claim if adequate state remedies exist (*Parratt v Taylor*, 451 US 527 (1981))
 
 > *Authority:* 42 USC §1983; *Monell v Dep't of Soc Servs*, 436 US 658 (1978); *Rooker v Fid Trust Co*, 263 US 413 (1923); *Younger v Harris*, 401 US 37 (1971); *Mireles v Waco*, 502 US 9 (1991); *Imbler v Pachtman*, 424 US 409 (1976)
+
+---
+
+## 34. Michigan Appellate Courts & Higher Court Appeals
+
+This section provides comprehensive guidance on appealing family court adverse orders through Michigan's higher courts — the Michigan Court of Appeals and Michigan Supreme Court — with focus on practical appellate procedure, emergency relief, and strategic considerations for fathers' rights and family law litigants.
+
+---
+
+### Michigan's Three-Tier Court System
+
+| Court | Type | Jurisdiction | Citation Format |
+|---|---|---|---|
+| **Michigan Supreme Court** | Court of last resort | Discretionary review; superintending control over all Michigan courts | *Case Name*, XXX Mich XXX (Year) |
+| **Michigan Court of Appeals** | Intermediate appellate court | Appeals of right from final orders; leave required for interlocutory | *Case Name*, XXX Mich App XXX (Year) |
+| **Circuit Court (Family Division)** | Trial court | Original jurisdiction in domestic relations; appeals from district/probate | Trial court - no citation |
+
+> *Constitutional Authority:* Mich Const 1963, art VI, §§1, 8 (Supreme Court); art VI, §1 (Court of Appeals); art VI, §11 (Circuit Court)
+
+---
+
+### Appeals of Right vs. Leave to Appeal
+
+| Type | When Available | Deadline | Authority |
+|---|---|---|---|
+| **Appeal of Right** | Final judgment or order | 21 days after entry | MCR 7.204(A)(1) |
+| **Leave to Appeal** | Interlocutory order (non-final) | 21 days after entry (may be extended) | MCR 7.205(F)(3) |
+| **Emergency Application** | Incarceration; imminent custody change | Immediately; ex parte if necessary | MCR 7.205(F)(1) |
+| **Cross-Appeal** | Respond to opposing party's appeal | 21 days after service of claim of appeal | MCR 7.207(A) |
+
+**Critical:** Miss the 21-day deadline and the appeal is **jurisdictionally barred** — no extensions except for narrow MCR 7.204(A)(2) exceptions (military service, incapacity).
+
+---
+
+### Appeal from Adverse Family Court Orders - Step by Step
+
+#### 1. **Preserve Issues at Trial**
+
+**Rule:** Failure to object = waiver. *Walters v Nadell*, 481 Mich 377 (2008) — unpreserved errors reviewed only for plain error.
+
+**How to Preserve:**
+- Object on the record to every adverse ruling
+- State specific legal ground (e.g., "Objection, Your Honor — the court has not made findings on MCL 722.23 factor (j)")
+- Request findings under MCR 2.517(A)(7) if court fails to address required factors
+- File written objection to FOC recommendation within 21 days (MCR 3.210; FOC 23/24)
+- Object to disqualification grounds under MCR 2.003 **promptly** upon discovery
+
+#### 2. **File Claim of Appeal or Application for Leave**
+
+**Claim of Appeal (Final Order):**
+- File with Court of Appeals within **21 days** of entry of final judgment/order
+- Form: Use form approved under MCR 7.204(B)
+- Filing fee: Check current fee schedule (waiver available for indigents)
+- Service: Serve on all parties
+
+**Application for Leave to Appeal (Interlocutory Order):**
+- File within **21 days** of interlocutory order
+- Must demonstrate: (1) controlling question of law; (2) immediate appeal advances litigation; or (3) denial causes undue hardship
+- Authority: MCR 7.205
+
+#### 3. **Order Transcript**
+
+**Deadline:** Promptly after filing claim of appeal; typically within **28 days** (MCR 7.210(B))
+
+**Indigent Litigants:** Constitutional right to free transcript in cases involving termination of parental rights (*M.L.B. v S.L.J.*, 519 US 102 (1996)); file motion for waiver of fees
+
+**Transcript Unavailable:** If proceedings were not recorded or transcript cannot be prepared, use MCR 7.210(B)(2) statement of facts agreed by parties or settled by trial court
+
+#### 4. **File Appellant's Brief**
+
+**Deadline:** Generally **56 days** after claim of appeal filed (MCR 7.212(A))
+
+**Content Requirements (MCR 7.212(C)):**
+- Statement of jurisdiction
+- Statement of questions presented
+- Statement of facts (with transcript references)
+- Standard of review for each issue
+- Argument with authority
+- Relief requested
+
+**Length:** 50 pages maximum (14-pt Times New Roman or 12-pt Courier)
+
+**Tip:** Focus brief on preserved errors; argue alternative plain error for unpreserved issues
+
+#### 5. **Standards of Review - Critical to Brief**
+
+| Issue Type | Standard | Deference to Trial Court | Authority |
+|---|---|---|---|
+| **Questions of law** | De novo | None | *Maiden v Rozwood*, 461 Mich 109 (1999) |
+| **Factual findings** | Clear error | High — reverse only if definite/firm conviction of mistake | MCR 2.613(C); *Vodvarka*, 259 Mich App 499 (2003) |
+| **Custody award** | Abuse of discretion | Moderate — outside range of principled outcomes | *Fletcher v Fletcher*, 447 Mich 871 (1994) |
+| **Evidentiary rulings** | Abuse of discretion | High | *Barnett v Hidalgo*, 478 Mich 151 (2007) |
+| **Unpreserved errors** | Plain error | Very high — manifest injustice required | *People v Carines*, 460 Mich 750 (1999); *Vushaj*, 284 Mich App 513 (2009) |
+
+---
+
+### Emergency Relief in Court of Appeals
+
+**MCR 7.205(F) — Emergency Application:**
+
+**When to Use:**
+- Incarcerated on contempt without proper procedure (*Turner v Rogers*, 564 US 431; *Tkachik*, 487 Mich 38)
+- Imminent change of custody without proper cause/change of circumstances
+- Ex parte PPO threatening immediate loss of housing, employment, parental rights
+- Child being relocated out of state in violation of MCL 722.31
+
+**Procedure:**
+1. File emergency application for leave to appeal in Court of Appeals
+2. Include verified facts showing emergency
+3. Demonstrate irreparable harm absent immediate relief
+4. Request stay of trial court order pending appeal
+5. May file ex parte if circumstances warrant
+
+**Concurrent Motion:** File emergency motion in trial court first; if denied, file emergency application with Court of Appeals within hours/days
+
+---
+
+### Superintending Control - Extraordinary Remedy
+
+**MCR 7.206 (Court of Appeals); MCR 7.303 (Supreme Court)**
+
+**When Available:**
+- Trial court acting outside its jurisdiction
+- Trial court refuses to act when legally required
+- No other adequate remedy available
+- Issue will otherwise evade review
+
+**Example Applications:**
+- Judge refuses to hear MCR 2.003 disqualification motion
+- Judge fails to rule on motion for relief from judgment
+- Judge enforces void order
+
+**Standard:** High burden — must show clear abuse of discretion or usurpation of jurisdiction
+
+> *Authority:* Mich Const art VI, §13 (Supreme Court superintending control); MCR 7.206; MCR 7.303
+
+---
+
+### Stay Pending Appeal
+
+**MCR 7.208 — Stays of Proceedings and Orders**
+
+**Automatic Stay:** Generally no automatic stay of family court orders pending appeal (unlike some civil cases)
+
+**Motion for Stay:**
+- File in trial court first (MCR 7.208(A))
+- If denied, file in Court of Appeals (MCR 7.208(B))
+- Court considers: (1) likelihood of success; (2) irreparable harm to appellant; (3) harm to other parties; (4) public interest
+
+**Bond:** Court may require bond as condition of stay (MCR 7.209)
+
+**Custody Cases:** Stay of custody change balances best interest of child against appealing parent's rights
+
+---
+
+### Application to Michigan Supreme Court
+
+**MCR 7.302 — Applications for Leave to Appeal to Supreme Court**
+
+**Deadline:** **56 days** after Court of Appeals decision (MCR 7.305(C)(2))
+
+**Standard:** Supreme Court grants leave when:
+- Question of statewide legal significance
+- Conflict among Court of Appeals panels
+- Important constitutional question
+- Manifest injustice
+
+**Note:** Michigan Supreme Court has discretionary jurisdiction; majority of applications denied
+
+---
+
+### Barriers to Appeal & Solutions
+
+| Barrier | Impact | Solution |
+|---|---|---|
+| **Transcript costs** | $3-$10 per page; can exceed $1,000 | File motion for waiver under MCR 2.002; cite *M.L.B. v S.L.J.* for fundamental rights cases |
+| **Filing fees** | $375+ (Court of Appeals) | File motion to waive fees (indigency affidavit) |
+| **Attorney fees** | Appellate counsel expensive | Pro se appeals permitted; Michigan Legal Help resources |
+| **Missed deadline** | Jurisdictional bar | Generally no remedy; narrow exceptions under MCR 7.204(A)(2) |
+| **Failure to preserve** | Plain error standard (very hard) | Argue constitutional violations (structural error) or fundamental rights implication |
+
+---
+
+### Strategic Considerations for Family Law Appeals
+
+**1. Cost-Benefit Analysis:**
+- Appeal costs $2,000-$10,000+ with attorney
+- Weigh against likelihood of reversal and value of remedy
+- Emergency applications may provide faster relief than full appeal
+
+**2. Settlement During Appeal:**
+- Court of Appeals encourages settlement
+- Mediator may be appointed
+- Can stipulate to remand for new hearing
+
+**3. Focus Brief on Clear Legal Errors:**
+- Failure to make MCL 722.23 findings (*Eldred*, *Berger*)
+- Custody modification without proper cause (*Vodvarka*)
+- Contempt without ability-to-pay inquiry (*Tkachik*)
+- Judicial bias/disqualification (*Cain*, *In re MKK*)
+- PPO without reasonable cause (*Pickering*, *Hayford*)
+
+**4. Preservation is Everything:**
+- Object at trial to preserve issue
+- Plain error standard nearly impossible to meet
+- "I object, and request findings under MCR 2.517" = preservation
+
+**5. Standard of Review Controls:**
+- Legal errors reviewed de novo = best chance of reversal
+- Factual findings reviewed for clear error = very deferential
+- Frame issues as legal questions when possible
+
+---
+
+### Remedies Available on Appeal
+
+**MCR 7.216(A) — Powers of Court of Appeals:**
+
+| Remedy | When Granted | Authority |
+|---|---|---|
+| **Reversal** | Error affecting substantial rights; outcome determinative | MCR 7.216(A)(1) |
+| **Remand** | Error requiring new hearing or additional findings | MCR 7.216(A)(5) |
+| **Reversal & remand to different judge** | Pattern of bias; structural error | MCR 7.216(A)(7) |
+| **Affirmance** | No error or harmless error | MCR 7.216(A)(2) |
+| **Modification** | Correct order to conform to law | MCR 7.216(A)(3) |
+| **Dismissal** | Moot; lack of jurisdiction | MCR 7.216(A)(9) |
+
+---
+
+### Published vs. Unpublished Opinions
+
+**MCR 7.215(C) — Publication of Opinions:**
+
+| Type | Precedential Value | Citation Permitted? |
+|---|---|---|
+| **Published** | Binding precedent on all Michigan courts | Yes — full Bluebook citation |
+| **Unpublished** | Not binding; persuasive only | May cite but must attach copy; note unpublished status |
+
+**Note:** Michigan Court of Appeals issues most opinions as unpublished; only ~20% published
+
+---
+
+### Key Appellate Procedure Cases
+
+**Preservation & Plain Error:**
+- *Walters v Nadell*, 481 Mich 377 (2008) — unpreserved = waiver
+- *People v Carines*, 460 Mich 750 (1999) — plain error test
+- *Vushaj v Farm Bureau*, 284 Mich App 513 (2009) — plain error in civil cases
+
+**Standards of Review:**
+- *Fletcher v Fletcher*, 447 Mich 871 (1994) — custody review framework
+- *Maiden v Rozwood*, 461 Mich 109 (1999) — de novo review
+- *Barnett v Hidalgo*, 478 Mich 151 (2007) — abuse of discretion
+- *Vodvarka v Grasmeyer*, 259 Mich App 499 (2003) — custody modification / clear error
+
+**Emergency Relief:**
+- *Turner v Rogers*, 564 US 431 (2011) — contempt / ability to pay
+- *Tkachik v Mandeville*, 487 Mich 38 (2010) — ability-to-pay inquiry mandatory
+
+**Transcript Rights:**
+- *M.L.B. v S.L.J.*, 519 US 102 (1996) — indigent parent transcript rights in TPR
+
+> *Authority:* MCR Chapter 7 (Appellate Rules); Mich Const art VI (Judicial Article); *See* comprehensive MCR 7.2xx and 7.3xx rules in mcr.md
+
+---
+
+## 35. Comprehensive Michigan Higher Court Caselaw Index — Fathers' Rights & Family Law Focus
+
+This index catalogs Michigan Supreme Court and Michigan Court of Appeals published decisions addressing the core issues identified in fathers' rights and family court bias litigation: gender bias, judicial bias, PPO fraud/perjury, parental alienation, FOC misconduct, cumulative due process violations, and appellate procedure.
+
+---
+
+### Organization of Index
+
+Cases are organized by topic with cross-references. Each entry includes:
+- Full case name and citation
+- Year decided
+- Court (Mich. = Supreme Court; Mich. App. = Court of Appeals)
+- Core holdings relevant to fathers' rights/family law
+- Application notes
+- Related cases
+
+**[UNVERIFIED] Designation:** Cases marked [UNVERIFIED] require independent confirmation of citation/holding via Westlaw, Lexis, or official reporter before relying in court filings.
+
+---
+
+### TOPIC INDEX
+
+1. [Gender Bias & Equal Protection in Family Court](#gender-bias--equal-protection)
+2. [Judicial Bias, Disqualification & JTC Cases](#judicial-bias-disqualification--jtc-cases)
+3. [PPO Fraud, Perjury & Weaponization](#ppo-fraud-perjury--weaponization)
+4. [Parental Alienation & Custody Interference](#parental-alienation--custody-interference)
+5. [Friend of the Court (FOC) Issues](#friend-of-the-court-foc-issues)
+6. [Contempt — Ability to Pay & Due Process](#contempt--ability-to-pay--due-process)
+7. [Child Custody Standards & Best Interest Factors](#child-custody-standards--best-interest-factors)
+8. [Parenting Time Rights & Enforcement](#parenting-time-rights--enforcement)
+9. [Appellate Procedure & Standards of Review](#appellate-procedure--standards-of-review)
+10. [Cumulative Error & Due Process Violations](#cumulative-error--due-process-violations)
+
+---
+
+### 1. Gender Bias & Equal Protection
+
+#### Primary Constitutional Framework
+
+**No Michigan Supreme Court or Court of Appeals published decisions** directly addressing maternal preference or systemic gender bias in family court were identified. Challenge framework relies on:
+
+- **Federal Authority:** *Craig v Boren*, 429 US 190 (1976) — gender classifications subject to intermediate scrutiny
+- **Michigan Constitution:** Mich Const art I, §2 — equal protection
+- **Michigan Statute:** MCL 722.23 — 12 gender-neutral best-interest factors; **no maternal preference permitted**
+
+#### Supporting Michigan Cases
+
+**In re KH**, 469 Mich 621 (2004)
+- Paternity establishment; unwed fathers' rights upon establishing paternity
+- Once paternity established, father entitled to seek custody or parenting time
+- Application: Protects unmarried fathers' equal standing
+
+**Stanley v Illinois**, 405 US 645 (1972) (Federal - applicable in Michigan)
+- Unwed father has due process right to hearing before children removed
+- Cannot presume unfitness based on marital status
+- Application: Gender-neutral parental rights protection
+
+**Ghidotti v Barber**, 459 Mich 189 (1998)
+- Child support formula presumptively correct
+- Deviation requires findings on record
+- Application: Prevents arbitrary imputation of income to fathers while accepting mothers' claimed inability without scrutiny
+
+---
+
+### 2. Judicial Bias, Disqualification & JTC Cases
+
+#### Michigan Supreme Court
+
+**Cain v Dep't of Corrections**, 451 Mich 470 (1996)
+- Disqualification requires showing reasonable person would perceive bias
+- Adverse rulings alone insufficient but may contribute to pattern
+- **Hostile demeanor (interrupting, sarcasm, raised voice, eye-rolling) can show bias**
+- Application: Framework for MCR 2.003 motions citing pattern of bias
+
+**In re Hocking**, 451 Mich 1 (1996)
+- **Ex parte communications** constitute judicial misconduct
+- JTC investigation and sanctions appropriate
+- Violation of MCJC Canon 3A(6)
+- Application: File JTC complaint when judge communicates ex parte with FOC or opposing party
+
+**Crampton v Dep't of State**, 395 Mich 347 (1975)
+- Due process requires impartial decision-maker
+- Combination of prosecutorial and adjudicative functions creates impermissible bias risk
+- Application: Challenge judges who appear to advocate for one party
+
+#### Michigan Court of Appeals
+
+**In re MKK**, 286 Mich App 546 (2009)
+- Judge's **personal investigation of facts outside the record** required disqualification
+- MCR 2.003(C)(2) violation (personal knowledge of disputed facts)
+- Application: Disqualify judge who conducts independent research or relies on ex parte information
+
+**Armstrong v Ypsilanti Twp**, 248 Mich App 573 (2001)
+- Disqualification proper where judge had **prior involvement as attorney** in related matter
+- MCR 2.003(C)(3) violation
+- Application: Challenge judges with conflicts from prior representation
+
+#### Federal Authority (Binding in Michigan)
+
+**Caperton v A.T. Massey Coal**, 556 US 868 (2009)
+- Due process requires recusal where **probability of actual bias** too high
+- Constitutional floor independent of state MCR 2.003 standards
+- Application: Federal constitutional basis for disqualification
+
+**Liteky v United States**, 510 US 540 (1994)
+- Judicial remarks during proceedings not ordinarily disqualification grounds
+- Exception: "Deep-seated favoritism or antagonism" making fair judgment impossible
+- Application: Pattern of disparaging remarks toward one party over time
+
+---
+
+### 3. PPO Fraud, Perjury & Weaponization
+
+#### Michigan Court of Appeals — PPO Evidentiary Standards
+
+**Pickering v Pickering**, 253 Mich App 694 (2002)
+- PPO requires **reasonable cause to believe** respondent will commit prohibited conduct
+- **Vague allegations insufficient**
+- Application: Challenge PPOs based on generalized fear without specific acts
+
+**Hayford v Hayford**, 279 Mich App 324 (2008)
+- MCL 600.2950 requires **specific acts or threats**
+- Generalized fear without objective basis insufficient
+- Preponderance of evidence standard at continuation hearing
+- Application: Demand specific factual basis; cross-examine on lack of specificity
+
+**Kampf v Kampf**, 237 Mich App 377 (1999)
+- Respondent **entitled to hearing** on motion to modify/terminate PPO
+- Court has jurisdiction to modify PPO
+- Application: Refusal to hold hearing on MCR 3.705 motion violates due process
+
+#### Malicious Prosecution & Abuse of Process
+
+**Friedman v Dozorc**, 412 Mich 1 (1981) — Michigan Supreme Court
+- Elements of malicious prosecution:
+  1. PPO instituted by or at direction of defendant
+  2. Brought without probable cause
+  3. Filed with malice (improper purpose)
+  4. Terminated in respondent's favor
+- Application: Tort action for damages after PPO dismissed/terminated
+
+**Bonner v Chicago Title Ins Co**, 194 Mich App 462 (1992)
+- Elements of abuse of process:
+  1. Ulterior purpose (e.g., gain custody advantage)
+  2. Willful misuse of process
+- Application: PPO weaponized for custody = abuse of process claim
+
+#### Fraud on the Court — Relief from Judgment
+
+**No published Michigan case** specifically addressing MCR 2.612(C)(1)(c) fraud-on-the-court motions in PPO context identified.
+
+**Framework:**
+- MCR 2.612(C)(1)(c) — relief from judgment for fraud, misrepresentation, or misconduct
+- **No time limit** for fraud on the court (distinct from 1-year limit for mistake/inadvertence)
+- Elements: (1) Material misrepresentation; (2) Court reliance; (3) Prejudice
+- Application: Motion to vacate PPO obtained through perjured petition
+
+---
+
+### 4. Parental Alienation & Custody Interference
+
+#### Michigan Supreme Court
+
+**Pierron v Pierron**, 486 Mich 81 (2010)
+- Parental relocation within Michigan (100-mile rule under MCL 722.31)
+- **Alienating conduct relevant** to change of domicile analysis
+- Child's established custodial environment key factor
+- Application: Prevent relocation used as alienation tactic
+
+#### Michigan Court of Appeals
+
+**Vodvarka v Grasmeyer**, 259 Mich App 499 (2003)
+- Defines "proper cause" and "change of circumstances" for custody modification
+- Movant bears burden of threshold showing
+- Application: Parental alienation may constitute "change affecting child's welfare"
+
+**Marik v Marik**, 325 Mich App 353 (2018)
+- **When parent repeatedly denies parenting time, court may change custody** as remedy
+- Pattern of violations supports modification
+- Application: Persistent gatekeeping/alienation = grounds for custody change
+
+**Berger v Berger**, 277 Mich App 700 (2008)
+- **Impairment of parent-child relationship weighs heavily** in best-interest analysis
+- Trial court must address all MCL 722.23 factors
+- Remanded for findings
+- Application: MCL 722.23(j) factor — alienating parent fails "willingness to facilitate relationship"
+
+**Rivette v Rose-Molina**, 278 Mich App 327 (2008)
+- **Parenting time is the child's right**, not custodial parent's prerogative
+- Custodial parent cannot unilaterally condition or deny parenting time
+- Application: Gatekeeping violates child's statutory right to parenting time
+
+**Kaeb v Kaeb**, 309 Mich App 556 (2015) [UNVERIFIED]
+- Parenting time modification requires proper cause/change threshold
+- Alienating behavior as factor in custody modification [requires verification]
+- Application: Pattern of interference = proper cause
+
+**Shade v Wright**, 291 Mich App 17 (2010) [UNVERIFIED]
+- Change must be significant; minor life changes insufficient
+- Denial of parenting time can constitute change in ECE [requires verification]
+- Application: Document each denied visit as cumulative change
+
+**Brown v Loveman**, 260 Mich App 576 (2004) [UNVERIFIED]
+- Court has authority to hold in contempt for willful parenting time violation
+- Refusal to cooperate relevant to best interest [requires verification]
+- Application: MCL 722.27a(7) contempt remedy; affects factor (j)
+
+---
+
+### 5. Friend of the Court (FOC) Issues
+
+**No published Michigan Supreme Court or Court of Appeals cases** specifically addressing FOC bias, rubber-stamping, or systematic misconduct identified.
+
+**Legal Framework for Challenging FOC:**
+
+**MCR 3.210 — Hearings; Evidence**
+- Court must conduct **independent judicial evaluation** of FOC recommendations
+- Judges who adopt FOC recommendations without analysis violate MCR 3.210
+
+**MCR 3.207 — Domestic Relations Referees**
+- File objection to referee recommendation within **21 days** (FOC Form 23)
+- Right to de novo hearing before judge (FOC Form 24)
+
+**MCL 552.501(6) — Grievance Procedure**
+- File written grievance with FOC office
+- If unresolved, petition circuit court for review
+
+**MCL 552.503(5) — FOC Duties**
+- Failure to investigate parenting time complaints
+- Remedy: Complaint to chief judge
+
+**Supporting Authority:**
+
+**In re Complaint of Rovas Against SBC Michigan**, 482 Mich 90 (2008)
+- Agencies (including FOC) have no authority beyond powers delegated by legislature
+- Ultra vires acts are void
+- Application: FOC cannot exceed statutory mandate; rubber-stamping violates independent judgment requirement
+
+**Tkachik v Mandeville**, 487 Mich 38 (2010)
+- Ability-to-pay inquiry mandatory before contempt
+- Application: FOC contempt recommendations must include ability analysis
+
+---
+
+### 6. Contempt — Ability to Pay & Due Process
+
+#### Michigan Supreme Court
+
+**Tkachik v Mandeville**, 487 Mich 38 (2010)
+- **Ability to pay is a defense to contempt** for non-payment
+- Court **must** inquire into ability before finding contempt
+- Failure to conduct inquiry is reversible error
+- Standard of review: clear error for ability determination
+- Application: Object if no ability inquiry; file emergency appeal if jailed
+
+**Harbarger v Harbarger**, 436 Mich 850 (1990)
+- Distinguishes civil from criminal contempt in domestic relations
+- Civil contempt is coercive; criminal is punitive
+- Different procedural protections required
+- Application: Jail without purge condition = criminal contempt requiring criminal protections
+
+**People v Johns**, 384 Mich 325 (1971)
+- **Cannot be held in contempt of void order**
+- Jurisdictional challenges available as defense
+- Application: Challenge contempt based on jurisdictionally defective custody/PPO order
+
+#### Michigan Court of Appeals
+
+**Dougherty v Dougherty**, 188 Mich App 521 (1991)
+- **Purge condition must be reasonable** and within contemnor's ability
+- Jail without purge condition is de facto criminal contempt
+- Reviewed for abuse of discretion
+- Application: Challenge impossible purge conditions (immediate payment of large arrears without means)
+
+**In re Contempt of Calcutt**, 184 Mich App 749 (1990)
+- Whether contempt is civil or criminal is question of law (de novo review)
+- Jail without purge = potentially void
+- Application: Seek de novo review of contempt classification
+
+**In re Contempt of Robertson**, 209 Mich App 433 (1995)
+- **Contempt cannot be predicated on ambiguous order**
+- Order must give fair notice of prohibited conduct
+- Application: Challenge contempt based on vague underlying order
+
+#### Federal Authority (Binding in Michigan)
+
+**Turner v Rogers**, 564 US 431 (2011)
+- Civil contempt for child support requires ability-to-pay inquiry
+- Unrepresented payor entitled to alternative procedural safeguards:
+  1. Notice that ability to pay is critical issue
+  2. Form to elicit financial information
+  3. Opportunity to respond
+  4. Finding of ability to pay before incarceration
+- Applies *Mathews v Eldridge* balancing test
+- Application: Demand *Turner* safeguards; emergency federal habeas if violated
+
+**Hicks v Feiock**, 485 US 624 (1988)
+- Ability-to-pay is jurisdictional to civil contempt
+- Burden shifts to contemnor after movant shows prior order requiring payment
+- Application: Assert present inability to comply; burden-shifting analysis
+
+---
+
+### 7. Child Custody Standards & Best Interest Factors
+
+#### Michigan Supreme Court
+
+**Fletcher v Fletcher**, 447 Mich 871 (1994)
+- **Standard of review framework** for custody:
+  - Legal questions: de novo
+  - Factual findings: clearly erroneous
+  - Custody award: abuse of discretion
+- Court must make specific findings on each MCL 722.23 factor
+- Application: Foundational case for custody appeals
+
+**Ghidotti v Barber**, 459 Mich 189 (1998)
+- Child support formula presumptively correct
+- Deviation requires findings on record
+- Application: Support calculation challenges
+
+**Sparks v Sparks**, 440 Mich 141 (1992)
+- Property division standards in divorce
+- Factors analogous to best interests
+- Application: Equitable distribution framework
+
+#### Michigan Court of Appeals
+
+**Eldred v Ziny**, 246 Mich App 142 (2001)
+- Court **must make specific findings** on **each** MCL 722.23 factor
+- **Failure is reversible error**
+- Findings must be on record or in writing
+- Application: Object if court omits factors; automatic reversal on appeal
+
+**Vodvarka v Grasmeyer**, 259 Mich App 499 (2003)
+- "Proper cause" and "change of circumstances" defined for custody modification
+- Movant bears burden of threshold showing
+- Factual findings reviewed for clear error
+- Application: Two-step analysis — threshold, then best interest
+
+**Berger v Berger**, 277 Mich App 700 (2008)
+- Trial court abused discretion by failing to address all best-interest factors
+- Impairment of parent-child relationship weighs heavily
+- Remanded for findings
+- Application: Factor (j) — willingness to facilitate relationship
+
+**Bofysil v Bofysil**, 239 Mich App 667 (2000)
+- Court may not delegate custody to child
+- Child's preference is one factor among many (MCL 722.23(i))
+- Application: Object to undue weight given to child's coached preference
+
+**Ireland v Smith**, 214 Mich App 235 (1995)
+- Defines **established custodial environment (ECE)**:
+  - Child looks to environment for guidance, discipline, necessities, parental comfort
+- ECE finding affects burden of proof for modification
+- Application: Document parent-child bond to establish ECE
+
+**Mogle v Scriver**, 241 Mich App 192 (2000)
+- ECE can exist with **both parents simultaneously**
+- Court must find ECE before applying modification standard
+- Application: Dual ECE requires clear and convincing evidence to modify
+
+**Sinicropi v Mazurek**, 273 Mich App 149 (2006)
+- Temporary placement during proceedings does not create ECE
+- Court must examine totality of circumstances
+- Application: Challenge ECE finding based solely on pendente lite arrangements
+
+**Foskett v Foskett**, 247 Mich App 1 (2001)
+- Best interests analysis in custody determination
+- Preponderance standard (absent ECE)
+- Application: Custody determination framework
+
+---
+
+### 8. Parenting Time Rights & Enforcement
+
+**Rivette v Rose-Molina**, 278 Mich App 327 (2008)
+- Parenting time is **the child's right**
+- Custodial parent cannot unilaterally condition or deny
+- Application: MCL 722.27a enforcement
+
+**Brown v Loveman**, 260 Mich App 576 (2004) [UNVERIFIED]
+- Court has inherent authority to hold in contempt for willful parenting time violation
+- Refusal to cooperate relevant to best interest [unverified]
+- Application: MCR 3.208 show cause procedure
+
+**Marik v Marik**, 325 Mich App 353 (2018)
+- Repeated parenting time denial may warrant custody change
+- Pattern of violations = proper cause
+- Application: Escalating remedy for persistent gatekeeping
+
+**Kaeb v Kaeb**, 309 Mich App 556 (2015) [UNVERIFIED]
+- Parenting time modification requires same threshold as custody
+- Alienating behavior factor [unverified]
+- Application: Modification standards
+
+---
+
+### 9. Appellate Procedure & Standards of Review
+
+#### Preservation & Plain Error
+
+**Walters v Nadell**, 481 Mich 377 (2008) — Michigan Supreme Court
+- **Failure to object = waiver**
+- Unpreserved errors reviewed only for plain error
+- Plain error requires manifest injustice
+- Application: Object to every adverse ruling at trial
+
+**People v Carines**, 460 Mich 750 (1999) — Michigan Supreme Court
+- **Plain error test** (criminal context, applied to civil):
+  1. Error occurred
+  2. Error was plain (clear/obvious)
+  3. Affected substantial rights
+  4. Reversal necessary to prevent manifest injustice
+- Application: Extremely high standard for unpreserved errors
+
+**Vushaj v Farm Bureau**, 284 Mich App 513 (2009) — Court of Appeals
+- Plain error standard applies in **civil cases**
+- Same high standard as *Carines*
+- Application: Confirms plain error in family law appeals
+
+#### Standards of Review
+
+**Maiden v Rozwood**, 461 Mich 109 (1999) — Michigan Supreme Court
+- **De novo review** for questions of law
+- No deference to trial court on legal issues
+- Application: Constitutional questions, statutory interpretation
+
+**Barnett v Hidalgo**, 478 Mich 151 (2007) — Michigan Supreme Court
+- **Abuse of discretion**: decision outside range of principled outcomes
+- Applies to evidentiary rulings, sanctions
+- Application: Custody awards, parenting time modifications
+
+**Fletcher v Fletcher**, 447 Mich 871 (1994) — Michigan Supreme Court
+- **Clearly erroneous** for factual findings in custody
+- Definite and firm conviction of mistake required
+- **Abuse of discretion** for custody award
+- Application: Standard framework for custody appeals
+
+**Vodvarka v Grasmeyer**, 259 Mich App 499 (2003) — Court of Appeals
+- Custody modification threshold: clear error for facts
+- De novo for legal standard application
+- Application: Two-part review in modification cases
+
+#### Transcript Rights
+
+**M.L.B. v S.L.J.**, 519 US 102 (1996) — U.S. Supreme Court
+- Indigent parent **entitled to free transcript** in TPR appeals
+- Constitutional right based on fundamental parental rights
+- Application: File motion for waiver of transcript costs in parental rights cases
+
+---
+
+### 10. Cumulative Error & Due Process Violations
+
+**People v Knapp**, 244 Mich App 361 (2001) [CRIMINAL - APPLICATION TO CIVIL/FAMILY UNVERIFIED]
+- "Cumulative effect of errors undermined reliability of verdict"
+- Multiple errors, each alone harmless, may cumulatively require reversal
+- **Status:** Criminal case; application to civil/family law marked [UNVERIFIED]
+- Application: Argue multiple procedural violations aggregate to deny fundamental fairness
+
+**Walker v Engle**, 703 F2d 959 (6th Cir 1983) [UNVERIFIED]
+- Sixth Circuit applies cumulative error in criminal cases
+- **Doctrine applies equally to civil proceedings involving fundamental rights**
+- **Status:** [UNVERIFIED]
+- Application: Federal authority extending cumulative error to parental rights cases
+
+#### Constitutional Framework (Federal - Binding in Michigan)
+
+**Mathews v Eldridge**, 424 US 319 (1976)
+- Three-factor balancing test for due process:
+  1. Private interest affected (parental rights = fundamental)
+  2. Risk of erroneous deprivation (increases with multiple violations)
+  3. Government interest (child welfare; efficient administration)
+- Application: Multiple procedural violations exponentially increase risk of erroneous deprivation
+
+**Troxel v Granville**, 530 US 57 (2000)
+- **Parental rights are fundamental liberty interest**
+- Fit parents presumed to act in children's best interests
+- Application: Even "minor" errors gain constitutional significance when affecting fundamental rights
+
+**In re Rood**, 483 Mich 73 (2009) — Michigan Supreme Court
+- Applies *Mathews v Eldridge* framework to Michigan parental rights cases
+- Due process balancing in family law
+- Application: Foundation for cumulative error arguments in Michigan
 
 ---
 
