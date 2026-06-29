@@ -162,6 +162,7 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Parenting Time Rights & Enforcement](#8-parenting-time-rights--enforcement)
     - [Appellate Procedure & Standards of Review](#9-appellate-procedure--standards-of-review)
     - [Cumulative Error & Due Process Violations](#10-cumulative-error--due-process-violations)
+    - [§ 1983 in Family Law Context](#1983-in-family-law-context)
 
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
@@ -1945,7 +1946,7 @@ This section expands §7's disqualification framework with **strategic patterns*
 | **Ex parte contacts** | Judge communicates with FOC, prosecutor, or opposing counsel outside presence of party | MCJC Canon 3A(6); *In re Hocking*, 451 Mich 1 (1996) |
 | **Hostile demeanor** | Interrupting, sarcasm, raised voice, eye-rolling, or refusal to let party finish | *Cain v Dep't of Corrections*, 451 Mich 470 (1996) — hostility can show bias |
 | **Prejudgment of facts** | Judge states conclusions before evidence is presented | MCJC Canon 3A(4) — patient, dignified treatment |
-| **Rubber-stamping FOC** | Adopts FOC recommendation without independent analysis | MCR 3.210 requires independent judicial evaluation |
+| **Rubber-stamping FOC** | Adopts FOC recommendation without independent analysis | [UNVERIFIED] Independent judicial evaluation authority for FOC recommendations |
 | **Refusal to hear motions** | Denies motions to modify/terminate PPO or for parenting time without hearing | MCL 600.2950(12); MCR 3.705 — right to hearing |
 | **Disproportionate sanctions** | Jails one party for minor contempt while excusing other party's willful noncompliance | *Turner v Rogers*, 564 US 431 (2011) — equal treatment |
 | **Same judge across related cases** | Judge presides over PPO, custody, and criminal cases involving same parties | MCR 2.003(C)(6) — impartiality reasonably questioned |
@@ -1957,7 +1958,7 @@ This section expands §7's disqualification framework with **strategic patterns*
 **Step-by-step strategy:**
 
 1. **Create a contemporaneous log** — date, time, courtroom, what was said, by whom, and any witnesses
-2. **Obtain transcripts** — request all hearing transcripts; if the court does not record, bring a court reporter or request that proceedings be recorded (MCR 8.109)
+2. **Obtain transcripts** — request all hearing transcripts; if the court does not record, bring a court reporter or request that proceedings be recorded (MCR 8.005; MCR 8.104)
 3. **File preservation motions** — put specific objections on the record at every hearing
 4. **Cross-reference patterns** — compare judge's rulings in your case against public docket records for the same judge in similar cases
 5. **FOIA requests** — seek ex parte communications between court staff, FOC, and the judge (MCL 15.231; note: judicial deliberations may be exempt under MCL 15.243(1)(m))
@@ -1974,7 +1975,7 @@ This section expands §7's disqualification framework with **strategic patterns*
 - [ ] Served on all parties
 - [ ] Filed promptly after discovery of bias
 - [ ] If denied: motion to chief judge under MCR 2.003(D)(3)(a) within 21 days
-- [ ] If chief judge denies: appeal to COA under MCR 7.203(A)
+- [ ] If chief judge denies: seek leave to appeal to the Court of Appeals under MCR 7.205
 
 ---
 
@@ -2009,9 +2010,9 @@ This section extends §12's PPO defense toolkit with **offensive strategies** to
 | **Material misrepresentation** | Petitioner's sworn petition contains false factual allegations |
 | **Reliance by the court** | Court relied on false statements to issue ex parte PPO |
 | **Prejudice** | Respondent suffered concrete harm: loss of custody, housing, firearms rights, employment consequences |
-| **No time limit for fraud on the court** | MCR 2.612(C)(1)(c) has **no** time limit when the fraud is fraud *upon the court* itself, distinct from MCR 2.612(C)(1)(a)–(b) which must be filed within one year |
+| **Time limit distinction** | A motion under **MCR 2.612(C)(1)(c)** is generally subject to **MCR 2.612(C)(2)** and must be filed within a reasonable time, and for subrule (c) not more than **1 year** after the judgment or order. A true **fraud-on-the-court** theory is distinct and is tied to the court's preserved power under **MCR 2.612(C)(3)**, which is not governed by that one-year cap |
 
-**Strategic note:** Frame as "fraud on the court" (no time bar) rather than "mistake or inadvertence" (one-year bar).
+**Strategic note:** Do not imply that all fraud claims under **MCR 2.612(C)(1)(c)** have no time bar. If the theory is truly **fraud on the court**, identify it as distinct from an ordinary **MCR 2.612(C)(1)(c)** motion and cite **MCR 2.612(C)(3)**; otherwise, the typical one-year limit applies.
 
 ---
 
@@ -2175,9 +2176,9 @@ Parental alienation — one parent's systematic campaign to undermine the child'
 
 ### Custody Evaluations & GAL
 
-| Tool | Rule | Purpose |
+| Tool | Authority | Purpose |
 |---|---|---|
-| **Custody evaluation** | MCR 3.210 | Court may order evaluation by qualified professional; evaluator assesses alienation |
+| **Custody evaluation** | MCL 722.27(1)(e) | Court may order an investigation/evaluation concerning custodial arrangements; evaluator may assess alienation and other best-interest factors |
 | **Guardian ad litem** | MCR 3.204 | GAL advocates for child's best interests; can investigate alienation allegations |
 | **Parenting coordinator** | MCR 3.218 | May be appointed to facilitate compliance and reduce conflict |
 | **Therapeutic intervention** | MCL 722.27a(7) | Court can order family counseling or reunification therapy |
@@ -2361,8 +2362,8 @@ Use this checklist to inventory and catalog due process violations across the li
 | **Contempt** | Contempt imposed without ability-to-pay finding | *Turner v Rogers*, 564 US 431 | ☐ |
 | **Contempt** | Jailed without purge condition (de facto criminal contempt without protections) | *Dougherty v Dougherty*, 188 Mich App 521 | ☐ |
 | **Contempt** | No right to counsel in criminal contempt | US Const amend VI; Mich Const art I, §20 | ☐ |
-| **Record** | Court failed to create or maintain record of proceedings | MCR 8.108; MCR 8.119 | ☐ |
-| **Record** | Transcripts altered or unavailable | MCR 8.108(D) | ☐ |
+| **Record** | Court failed to create or maintain record of proceedings | MCR 8.005; MCR 8.119 | ☐ |
+| **Record** | Transcripts altered or unavailable | MCR 7.210(B) | ☐ |
 | **Support** | Child support calculated using incorrect income | Michigan Child Support Formula; MCL 552.605 | ☐ |
 | **Custody** | Custody changed without proper cause/change of circumstances | MCL 722.27(1)(c); *Vodvarka*, 259 Mich App 499 | ☐ |
 
@@ -2393,7 +2394,7 @@ This section consolidates all available remedies when a litigant has been subjec
 | # | Remedy | Vehicle | Authority | When to Use | Timeline |
 |---|---|---|---|---|---|
 | 1 | **Motion to terminate/modify PPO** | MCR 3.705 | MCL 600.2950(12); MCR 3.706 | PPO issued on false allegations | Within 14 days of service (MCR 3.703(G)); or any time for fraud |
-| 2 | **Motion for relief from judgment** | MCR 2.612(C) | MCR 2.612(C)(1)(c) — fraud on the court | PPO or custody order obtained through perjury or fraud | No time limit for fraud on the court |
+| 2 | **Motion for relief from judgment** | MCR 2.612(C) | MCR 2.612(C)(1)(c) — fraud, misrepresentation, or other misconduct | PPO or custody order obtained through perjury, fraud, or misconduct | Within 1 year of the judgment or order; any separate fraud-on-the-court relief must be analyzed independently |
 | 3 | **Disqualification motion** | MCR 2.003 | MCR 2.003(C)(1)–(7); MCJC Canon 3C | Judge exhibits bias or has disqualifying conflict | Promptly upon discovery of grounds |
 | 4 | **Motion for contempt relief** | MCR 3.606; emergency motion | *Turner v Rogers*; *Tkachik* | Jailed on contempt without proper procedure | Immediately |
 | 5 | **Appeal to Court of Appeals** | MCR 7.203/7.205 | MCR 7.203(A) — appeals of right; MCR 7.205 — leave | After final order; or interlocutory for PPO/contempt | Claim of appeal: 21 days; leave application: 21 days (extendable) |
