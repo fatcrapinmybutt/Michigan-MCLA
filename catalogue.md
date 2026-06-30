@@ -135,7 +135,7 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Master Remedies Table](#master-remedies-table)
     - [Strategic Sequencing](#strategic-sequencing)
     - [Immunity Barriers & Workarounds](#immunity-barriers--workarounds)
-    - [§ 1983 in Family Law Context](#-1983-in-family-law-context)
+    - [§ 1983 in Family Law Context](#1983-in-family-law-context)
 34. [Michigan Appellate Courts & Higher Court Appeals](#34-michigan-appellate-courts--higher-court-appeals)
     - [Michigan's Three-Tier Court System](#michigans-three-tier-court-system)
     - [Appeals of Right vs. Leave to Appeal](#appeals-of-right-vs-leave-to-appeal)
@@ -162,7 +162,6 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Parenting Time Rights & Enforcement](#8-parenting-time-rights--enforcement)
     - [Appellate Procedure & Standards of Review](#9-appellate-procedure--standards-of-review)
     - [Cumulative Error & Due Process Violations](#10-cumulative-error--due-process-violations)
-    - [§ 1983 in Family Law Context](#1983-in-family-law-context)
 
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
@@ -2491,7 +2490,7 @@ This section provides comprehensive guidance on appealing family court adverse o
 | Type | When Available | Deadline | Authority |
 |---|---|---|---|
 | **Appeal of Right** | Final judgment or order | 21 days after entry | MCR 7.204(A)(1) |
-| **Leave to Appeal** | Interlocutory order (non-final) | 21 days after entry (may be extended) | MCR 7.205(F)(3) |
+| **Leave to Appeal** | Interlocutory order (non-final) | 21 days after entry (may be extended) | MCR 7.205 |
 | **Emergency Application** | Incarceration; imminent custody change | Immediately; ex parte if necessary | MCR 7.205(F)(1) |
 | **Cross-Appeal** | Respond to opposing party's appeal | 21 days after service of claim of appeal | MCR 7.207(A) |
 
