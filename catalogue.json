@@ -14,7 +14,7 @@
           "acronym": "MSC",
           "description": "The highest court in Michigan. It has superintending control over all courts in the state, has final appellate jurisdiction, and issues Michigan Supreme Court opinions cited as 'Mich.'",
           "tier": "Supreme Court",
-          "constitutional_basis": "Mich. Const. 1963, art. VI, § 1"
+          "constitutional_basis": "Mich. Const. 1963, art. VI, \u00a7 1"
         },
         {
           "abbreviation": "Mich. App.",
@@ -22,28 +22,28 @@
           "acronym": "COA",
           "description": "An intermediate appellate court that hears appeals from the circuit courts, the probate courts, and certain administrative agencies. Opinions are cited as 'Mich. App.'",
           "tier": "Appellate Court",
-          "constitutional_basis": "Mich. Const. 1963, art. VI, § 1"
+          "constitutional_basis": "Mich. Const. 1963, art. VI, \u00a7 1"
         },
         {
           "abbreviation": "Cir. Ct.",
           "full_name": "Circuit Court",
           "description": "The highest trial court in Michigan, with general original jurisdiction over all civil claims over $25,000, felony criminal cases, family law matters, and appeals from lower courts.",
           "tier": "Trial Court - General",
-          "constitutional_basis": "Mich. Const. 1963, art. VI, § 11"
+          "constitutional_basis": "Mich. Const. 1963, art. VI, \u00a7 11"
         },
         {
           "abbreviation": "Dist. Ct.",
           "full_name": "District Court",
           "description": "Often called the 'people's court', handles civil claims up to $25,000, misdemeanors, civil infractions, landlord-tenant disputes, and small claims. The most frequently used court by Michigan residents.",
           "tier": "Trial Court - Limited",
-          "constitutional_basis": "Mich. Const. 1963, art. VI, § 15"
+          "constitutional_basis": "Mich. Const. 1963, art. VI, \u00a7 15"
         },
         {
           "abbreviation": "Prob. Ct.",
           "full_name": "Probate Court",
           "description": "Handles estates, trusts, mental health proceedings, guardianships, conservatorships, and matters involving minors. Has exclusive jurisdiction over the administration of decedents' estates.",
           "tier": "Trial Court - Limited",
-          "constitutional_basis": "Mich. Const. 1963, art. VI, § 15"
+          "constitutional_basis": "Mich. Const. 1963, art. VI, \u00a7 15"
         },
         {
           "abbreviation": "Mun. Ct.",
@@ -57,7 +57,7 @@
           "full_name": "Judicial Tenure Commission",
           "description": "An independent body that investigates complaints against judges in Michigan. The JTC has the authority to recommend discipline, including removal from office, to the Michigan Supreme Court.",
           "tier": "Administrative / Oversight Body",
-          "constitutional_basis": "Mich. Const. 1963, art. VI, § 30"
+          "constitutional_basis": "Mich. Const. 1963, art. VI, \u00a7 30"
         }
       ]
     },
@@ -78,7 +78,12 @@
           "full_name": "U.S. Court of Appeals for the Sixth Circuit",
           "description": "The federal intermediate appellate court that covers Michigan, Ohio, Kentucky, and Tennessee. Decisions are binding on the federal district courts within those states.",
           "tier": "Federal - Circuit Court of Appeals",
-          "states_covered": ["Michigan", "Ohio", "Kentucky", "Tennessee"],
+          "states_covered": [
+            "Michigan",
+            "Ohio",
+            "Kentucky",
+            "Tennessee"
+          ],
           "location": "Cincinnati, Ohio",
           "citation_example": "Smith v. Jones, 123 F.3d 456 (6th Cir. 2020)"
         },
@@ -96,8 +101,21 @@
           "description": "The federal trial court for the western portion of Michigan, including Grand Rapids, Lansing, Kalamazoo, Muskegon, Marquette, and surrounding areas.",
           "tier": "Federal - District Court",
           "location": "Grand Rapids, Michigan (primary courthouse)",
-          "division_locations": ["Grand Rapids", "Kalamazoo", "Lansing", "Marquette"],
-          "notable_cities_covered": ["Grand Rapids", "Kalamazoo", "Lansing", "Muskegon", "Marquette", "Traverse City", "Saginaw (transferred to E.D.)"],
+          "division_locations": [
+            "Grand Rapids",
+            "Kalamazoo",
+            "Lansing",
+            "Marquette"
+          ],
+          "notable_cities_covered": [
+            "Grand Rapids",
+            "Kalamazoo",
+            "Lansing",
+            "Muskegon",
+            "Marquette",
+            "Traverse City",
+            "Saginaw (transferred to E.D.)"
+          ],
           "citation_example": "Doe v. Roe, 789 F. Supp. 3d 123 (W.D. Mich. 2021)"
         }
       ]
@@ -263,37 +281,97 @@
           ]
         }
       ]
+    },
+    {
+      "id": "judicial_bias_disqualification_strategy",
+      "name": "Judicial Bias Detection & Disqualification Strategy",
+      "section": 26,
+      "description": "Advanced strategies for detecting, documenting, and challenging judicial bias \u2014 bias pattern recognition, building a disqualification record, MCR 2.003 motion checklist, and key caselaw including Cain, Caperton, Liteky, and In re MKK."
+    },
+    {
+      "id": "ppo_fraud_perjury",
+      "name": "PPO Fraud & Perjury \u2014 Offensive Challenges",
+      "section": 27,
+      "description": "Offensive strategies to challenge PPOs obtained through fraud, perjury, or material misrepresentation \u2014 fraud-on-the-court framework (MCR 2.612(C)(1)(c)), perjury statutes (MCL 750.422\u2013425), impeachment tools, abuse-of-process and malicious-prosecution claims, and weaponized-PPO indicators."
+    },
+    {
+      "id": "contempt_defense_advanced",
+      "name": "Contempt Defense \u2014 Advanced Strategies",
+      "section": 28,
+      "description": "Advanced contempt defense including threshold defenses (inability, ambiguity, void order), show cause hearing procedural requirements checklist, appellate standards of review, and emergency relief from contempt incarceration."
+    },
+    {
+      "id": "parental_alienation",
+      "name": "Parental Alienation & Custody Manipulation",
+      "section": 29,
+      "description": "Legal framework for parental alienation in Michigan \u2014 MCL 722.23 best-interest factors, alienation recognition and documentation, custody evaluations and GAL tools, and key caselaw including Pierron, Vodvarka, and Berger."
+    },
+    {
+      "id": "prosecutorial_court_staff_misconduct",
+      "name": "Prosecutorial & Court Staff Misconduct",
+      "section": 30,
+      "description": "Remedies for prosecutorial misconduct (Brady violations, vindictive/selective prosecution), FOC staff misconduct (biased recommendations, ex parte communications), court staff/clerk misconduct, and consolidated remedies table."
+    },
+    {
+      "id": "gender_bias_family_court",
+      "name": "Gender Bias in Family Court",
+      "section": 31,
+      "description": "Constitutional and ethical framework for challenging gender bias \u2014 equal protection (US Const amend XIV; Mich Const art I, \u00a72), bias indicators specific to family law, documentation strategies, and legal vehicles including MCR 2.003, JTC complaint, and 42 USC \u00a71983."
+    },
+    {
+      "id": "cumulative_due_process_violations",
+      "name": "Cumulative Due Process Violations",
+      "section": 32,
+      "description": "Framework for arguing cumulative due process error \u2014 expanded Mathews v Eldridge analysis, cumulative error doctrine, comprehensive violation inventory checklist, and appellate presentation strategy."
+    },
+    {
+      "id": "remedies_strategic_vehicles",
+      "name": "Remedies & Strategic Vehicles",
+      "section": 33,
+      "description": "Master remedies table consolidating all available vehicles \u2014 PPO termination, relief from judgment, disqualification, contempt relief, appeal, superintending control, habeas corpus, JTC/AGC complaints, 42 USC \u00a71983 \u2014 with strategic sequencing, immunity analysis, and \u00a71983 in family law context."
+    },
+    {
+      "id": "michigan_appellate_courts",
+      "name": "Michigan Appellate Courts & Higher Court Appeals",
+      "section": 34,
+      "description": "Comprehensive guidance on appealing family court adverse orders through Michigan's higher courts \u2014 the Michigan Court of Appeals and Michigan Supreme Court \u2014 with focus on practical appellate procedure, emergency relief, and strategic considerations for fathers' rights and family law litigants. Covers Michigan's three-tier court system, appeals of right vs leave to appeal, step-by-step appeal procedures, emergency applications (MCR 7.205(F)), superintending control (MCR 7.206/7.303), stay pending appeal, barriers to appeal and solutions, strategic considerations, remedies available on appeal, published vs unpublished opinions, and key appellate procedure cases."
+    },
+    {
+      "id": "comprehensive_higher_court_caselaw",
+      "name": "Comprehensive Michigan Higher Court Caselaw Index \u2014 Fathers' Rights & Family Law Focus",
+      "section": 35,
+      "description": "Comprehensive index cataloging Michigan Supreme Court and Michigan Court of Appeals published decisions addressing core issues in fathers' rights and family court bias litigation. Organized into 10 topical areas: (1) Gender Bias & Equal Protection, (2) Judicial Bias, Disqualification & JTC Cases, (3) PPO Fraud, Perjury & Weaponization, (4) Parental Alienation & Custody Interference, (5) Friend of the Court (FOC) Issues, (6) Contempt \u2014 Ability to Pay & Due Process, (7) Child Custody Standards & Best Interest Factors, (8) Parenting Time Rights & Enforcement, (9) Appellate Procedure & Standards of Review, (10) Cumulative Error & Due Process Violations. Each case includes full citation, holdings, and application notes. Gaps clearly identified with [UNVERIFIED] designations where appropriate."
     }
   ],
   "related_files": [
     {
       "file": "mcr.json",
-      "title": "Michigan Court Rules (MCR) — Complete Rule Index",
-      "description": "All Michigan Court Rules organized by chapter (1–9) with rule numbers, titles, and summaries."
+      "title": "Michigan Court Rules (MCR) \u2014 Complete Rule Index",
+      "description": "All Michigan Court Rules organized by chapter (1\u20139) with rule numbers, titles, and summaries."
     },
     {
       "file": "mre.json",
-      "title": "Michigan Rules of Evidence (MRE) — Complete Rule Index",
-      "description": "All Michigan Rules of Evidence organized by article (I–XI) with rule numbers, titles, summaries, and federal counterparts."
+      "title": "Michigan Rules of Evidence (MRE) \u2014 Complete Rule Index",
+      "description": "All Michigan Rules of Evidence organized by article (I\u2013XI) with rule numbers, titles, summaries, and federal counterparts."
     },
     {
       "file": "mcl.json",
-      "title": "Michigan Compiled Laws (MCL) — Court-Practice Reference",
+      "title": "Michigan Compiled Laws (MCL) \u2014 Court-Practice Reference",
       "description": "Key MCL sections organized by chapter covering courts (RJA), estates (EPIC), family law, criminal procedure, mental health, torts, business organizations, and juvenile law."
     },
     {
       "file": "mcr.md",
-      "title": "Michigan Court Rules — Human-Readable Reference",
+      "title": "Michigan Court Rules \u2014 Human-Readable Reference",
       "description": "Formatted, human-readable reference for all Michigan Court Rules."
     },
     {
       "file": "mre.md",
-      "title": "Michigan Rules of Evidence — Human-Readable Reference",
+      "title": "Michigan Rules of Evidence \u2014 Human-Readable Reference",
       "description": "Formatted, human-readable reference for all Michigan Rules of Evidence."
     },
     {
       "file": "mcl.md",
-      "title": "Michigan Compiled Laws — Human-Readable Reference",
+      "title": "Michigan Compiled Laws \u2014 Human-Readable Reference",
       "description": "Formatted, human-readable reference for key MCL court-practice sections."
     }
   ]
