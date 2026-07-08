@@ -1,12 +1,18 @@
 # Michigan-MCLA
 
+**Primary Knowledge Base for Michigan Legal System**
+
 A comprehensive, litigation-grade catalogue of Michigan court abbreviations, court rules, rules of evidence, statutory law, administrative authority codes, case type classification codes, family law and fathers' rights frameworks, due process protections, Friend of the Court (FOC) responsibilities, judicial accountability mechanisms, Michigan and federal case law, appellate escalation pathways, benchbooks, training materials, and court system web resources.
+
+**🔗 Part of the Michigan Legal Knowledge Base - See [MASTER-INDEX.md](MASTER-INDEX.md) for complete repository integration**
 
 ## Contents
 
 ### Overview Catalogue
-- **[`catalogue.md`](catalogue.md)** — Main reference document (42 sections, 5,800+ lines) with court abbreviations, admin authority codes, case type codes, family law, criminal law, federal practice, and more.
+- **[`catalogue.md`](catalogue.md)** — Main reference document (42+ sections, 8,797+ lines) with court abbreviations, admin authority codes, case type codes, family law, criminal law, federal practice, and more.
+- **[`catalogue-supplement-43-60.md`](catalogue-supplement-43-60.md)** — Litigation-critical supplement (18 sections, 824 lines) covering pro se rights, parenting time deprivation, contempt defenses, COA compliance, and advanced litigation topics.
 - **[`catalogue.json`](catalogue.json)** — Machine-readable JSON version of the catalogue overview.
+- **[`MASTER-INDEX.md`](MASTER-INDEX.md)** — Complete cross-repository navigation guide.
 
 ### Michigan Court Rules (MCR)
 - **[`mcr.md`](mcr.md)** — Complete human-readable reference for all MCR Chapters 1–9, every rule number, title, and summary.
@@ -38,6 +44,18 @@ A comprehensive, litigation-grade catalogue of Michigan court abbreviations, cou
 | **Family Law** | Child Custody Act (MCL 722.21–722.31), best interest factors, parenting time, paternity, child support, PPO defense, change of domicile, FOC duties & grievance, custody modification |
 | **Constitutional** | Due process checklists, 14th Amendment parental rights, § 1983, judicial disqualification (MCR 2.003), MCJC Canons |
 | **Federal Practice** | E.D./W.D. Mich. local rules, 6th Circuit, § 1983, habeas (§ 2254/2255), RICO, certiorari, asset forfeiture |
+| **Sections** | 60+ total (1-42 in catalogue.md, 43-60 in supplement) |
+
+## 🔗 Related Repositories
+
+This repository is part of a comprehensive Michigan Legal Knowledge Base:
+
+- **📚 [CourtRules](https://github.com/fatcrapinmybutt/CourtRules)** - Document automation tools and 55+ templates for all Michigan jurisdictions
+- **⚖️ [LitigationOS](https://github.com/fatcrapinmybutt/LitigationOS)** - Complete legal intelligence system with case examples and strategies
+- **⬆️ [MICHIGAN-HIGHER-COURTS](https://github.com/fatcrapinmybutt/MICHIGAN-HIGHER-COURTS)** - Higher court templates and appellate strategies
+- **📖 [michigancompiledlawsMBP](https://github.com/fatcrapinmybutt/michigancompiledlawsMBP)** - Complete MCL HTML archive (111MB)
+
+See [MASTER-INDEX.md](MASTER-INDEX.md) for complete cross-repository navigation.
 
 ## How to Use
 
