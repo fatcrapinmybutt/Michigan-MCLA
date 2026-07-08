@@ -1,11 +1,11 @@
 # Michigan-MCLA
 
-A comprehensive, atomized catalogue of Michigan court abbreviations, court rules, rules of evidence, statutory law, administrative authority codes, and case type classification codes used throughout Michigan's legal system.
+A comprehensive, litigation-grade catalogue of Michigan court abbreviations, court rules, rules of evidence, statutory law, administrative authority codes, case type classification codes, family law and fathers' rights frameworks, due process protections, Friend of the Court (FOC) responsibilities, judicial accountability mechanisms, Michigan and federal case law, appellate escalation pathways, benchbooks, training materials, and court system web resources.
 
 ## Contents
 
 ### Overview Catalogue
-- **[`catalogue.md`](catalogue.md)** — Human-readable overview with court abbreviations, admin authority codes, and case type classification codes.
+- **[`catalogue.md`](catalogue.md)** — Main reference document (42 sections, 5,800+ lines) with court abbreviations, admin authority codes, case type codes, family law, criminal law, federal practice, and more.
 - **[`catalogue.json`](catalogue.json)** — Machine-readable JSON version of the catalogue overview.
 
 ### Michigan Court Rules (MCR)
@@ -35,5 +35,18 @@ A comprehensive, atomized catalogue of Michigan court abbreviations, court rules
 | **MCR** | All Chapters 1–9: General Provisions, Civil Procedure, Special Proceedings, District Court, Probate Court, Criminal Procedure, Appellate Rules, Administrative Rules, Professional Discipline |
 | **MRE** | All Articles I–XI: General Provisions, Judicial Notice, Presumptions, Relevancy, Privileges, Witnesses, Expert Testimony, Hearsay (MRE 803/804/807), Authentication, Best Evidence, Miscellaneous |
 | **MCL** | Revised Judicature Act (RJA), EPIC, Child Custody Act, Divorce, Michigan Penal Code, Code of Criminal Procedure, Mental Health Code, Governmental Immunity, Juvenile Code, Vehicle Code, Business Organizations |
-| **SCAO Forms** | MC (Multi-Court), CC (Circuit Court), DC (District Court), FOC (Friend of the Court), PC (Probate Court), JC (Juvenile Court), DM (Domestic Relations), PPO (Personal Protection Orders), Criminal, Appellate — 160+ forms |
+| **Family Law** | Child Custody Act (MCL 722.21–722.31), best interest factors, parenting time, paternity, child support, PPO defense, change of domicile, FOC duties & grievance, custody modification |
+| **Constitutional** | Due process checklists, 14th Amendment parental rights, § 1983, judicial disqualification (MCR 2.003), MCJC Canons |
+| **Federal Practice** | E.D./W.D. Mich. local rules, 6th Circuit, § 1983, habeas (§ 2254/2255), RICO, certiorari, asset forfeiture |
 
+## How to Use
+
+The catalogue is organized by topic with internal cross-references. Start with the **Table of Contents** in `catalogue.md`. Every factual assertion is pinned to an authoritative primary source (Michigan Legislature, Michigan Constitution, Michigan Supreme Court, SCAO, or equivalent federal authority). Items that could not be independently verified are labeled **[UNVERIFIED]** with an acquire plan — see § 16 for the evidence standard.
+
+## Disclaimer
+
+**This repository is for informational and educational purposes only. It does not constitute legal advice.** The materials are compiled from publicly available legal sources and may not reflect the most recent statutory amendments, court rule changes, or case law developments. Always verify current law through official sources (legislature.mi.gov, courts.michigan.gov) and consult a licensed attorney before relying on any information in legal proceedings.
+
+## Primary Sources
+
+Michigan Constitution of 1963; Michigan Compiled Laws (MCL); Michigan Court Rules (MCR); Michigan Rules of Evidence (MRE); Michigan Code of Judicial Conduct (MCJC); Michigan Rules of Professional Conduct (MRPC); State Court Administrative Office (SCAO); Michigan Judicial Institute (MJI); Michigan Child Support Formula Manual; U.S. Constitution; U.S. Supreme Court decisions; 42 U.S.C. § 1983; Sixth Circuit Court of Appeals; Federal Rules of Civil/Criminal Procedure.
