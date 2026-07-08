@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "created": "2026-07-08T20:21:09.998882Z",
+    "total_files": 6,
+    "total_original_size": 614266,
+    "total_json_size": 605040,
+    "compression_ratio": 1.5019551790266705
+  },
+  "files": [
+    {
+      "markdown": "01-10.md",
+      "json": "01-10.json",
+      "size_md": 71751,
+      "size_json": 68075
+    },
+    {
+      "markdown": "11-20.md",
+      "json": "11-20.json",
+      "size_md": 73138,
+      "size_json": 69937
+    },
+    {
+      "markdown": "21-30.md",
+      "json": "21-30.json",
+      "size_md": 59666,
+      "size_json": 54968
+    },
+    {
+      "markdown": "31-41.md",
+      "json": "31-41.json",
+      "size_md": 115067,
+      "size_json": 114861
+    },
+    {
+      "markdown": "42-51.md",
+      "json": "42-51.json",
+      "size_md": 241656,
+      "size_json": 250991
+    },
+    {
+      "markdown": "52-52.md",
+      "json": "52-52.json",
+      "size_md": 52988,
+      "size_json": 46208
+    }
+  ]
+}

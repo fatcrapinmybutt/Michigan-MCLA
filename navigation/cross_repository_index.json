@@ -1,0 +1,209 @@
+{
+  "version": "1.0",
+  "created": "2026-07-08T20:24:22.720157+00:00",
+  "repositories": {
+    "Michigan-MCLA": {
+      "description": "Primary repository with catalogue, MCL, optimization",
+      "url": "https://github.com/fatcrapinmybutt/Michigan-MCLA",
+      "local_path": "/workspace/fatcrapinmybutt__Michigan-MCLA",
+      "content": {
+        "catalogue": {
+          "description": "51 sections of Michigan legal catalogue",
+          "files": 6,
+          "path": "catalogue/",
+          "formats": [
+            "markdown",
+            "json",
+            "minified",
+            "compressed",
+            "bundle"
+          ]
+        },
+        "mcl": {
+          "description": "Michigan Compiled Laws archive",
+          "path": "michigancompiledlawsMBP/",
+          "format": "HTML"
+        },
+        "optimization": {
+          "description": "Optimization scripts and plans",
+          "path": "optimization/",
+          "scripts": [
+            "split_catalogue_v3.py",
+            "convert_to_json.py",
+            "compress_json.py",
+            "create_navigation.py"
+          ]
+        },
+        "navigation": {
+          "description": "Navigation system",
+          "path": "navigation/",
+          "files": [
+            "index.html"
+          ]
+        },
+        "search": {
+          "description": "Search indexes",
+          "path": "search/",
+          "files": [
+            "catalogue_search_index.json"
+          ]
+        }
+      },
+      "size_mb": 179,
+      "files_count": 546
+    },
+    "MICHIGAN-HIGHER-COURTS": {
+      "description": "Michigan Supreme Court and Court of Appeals cases",
+      "url": "https://github.com/fatcrapinmybutt/MICHIGAN-HIGHER-COURTS",
+      "local_path": "/workspace/fatcrapinmybutt__MICHIGAN-HIGHER-COURTS",
+      "content": {
+        "supreme_court": {
+          "description": "Michigan Supreme Court opinions and orders",
+          "path": "supreme_court/",
+          "coverage": "2020-2024"
+        },
+        "court_of_appeals": {
+          "description": "Michigan Court of Appeals opinions",
+          "path": "court_of_appeals/",
+          "coverage": "2020-2024"
+        }
+      }
+    },
+    "CourtRules": {
+      "description": "Michigan Court Rules and SCAO forms",
+      "url": "https://github.com/fatcrapinmybutt/CourtRules",
+      "local_path": "/workspace/fatcrapinmybutt__CourtRules",
+      "content": {
+        "mcr": {
+          "description": "Michigan Court Rules",
+          "chapters": 8
+        },
+        "mre": {
+          "description": "Michigan Rules of Evidence",
+          "articles": 11
+        },
+        "forms": {
+          "description": "SCAO forms and templates",
+          "count": "100+"
+        }
+      }
+    },
+    "fredprime-legal-system": {
+      "description": "Core legal system architecture",
+      "url": "https://github.com/fatcrapinmybutt/fredprime-legal-system",
+      "local_path": "/workspace/fatcrapinmybutt__fredprime-legal-system",
+      "content": {
+        "architecture": {
+          "description": "Legal reasoning engine architecture"
+        },
+        "doctrine": {
+          "description": "Legal doctrine framework"
+        }
+      }
+    },
+    "LitigationOS": {
+      "description": "Litigation operating system",
+      "url": "https://github.com/fatcrapinmybutt/LitigationOS",
+      "local_path": "/workspace/fatcrapinmybutt__LitigationOS",
+      "content": {
+        "workflow": {
+          "description": "Litigation workflow automation"
+        },
+        "templates": {
+          "description": "Legal document templates"
+        }
+      }
+    },
+    "michigancompiledlawsMBP": {
+      "description": "MCL HTML archive",
+      "url": "https://github.com/fatcrapinmybutt/michigancompiledlawsMBP",
+      "local_path": "/workspace/fatcrapinmybutt__michigancompiledlawsMBP",
+      "content": {
+        "html_archive": {
+          "description": "Complete MCL in HTML format",
+          "chapters": "100+"
+        }
+      }
+    }
+  },
+  "navigation": {
+    "by_topic": {
+      "torts": {
+        "repositories": [
+          "Michigan-MCLA",
+          "MICHIGAN-HIGHER-COURTS"
+        ],
+        "todo": "../TODO_MICHIGAN_TORTS.md"
+      },
+      "complaints_claims": {
+        "repositories": [
+          "Michigan-MCLA",
+          "CourtRules"
+        ],
+        "todo": "../TODO_COMPLAINTS_CLAIMS_LAWSUITS.md"
+      },
+      "doctrine_caselaw": {
+        "repositories": [
+          "MICHIGAN-HIGHER-COURTS",
+          "fredprime-legal-system"
+        ],
+        "todo": "../TODO_DOCTRINE_CASELAW_SUPREME_COURT.md"
+      },
+      "court_rules": {
+        "repositories": [
+          "CourtRules",
+          "Michigan-MCLA"
+        ],
+        "primary": "CourtRules"
+      },
+      "forms": {
+        "repositories": [
+          "CourtRules",
+          "LitigationOS"
+        ],
+        "primary": "CourtRules"
+      }
+    },
+    "by_authority": {
+      "binding": {
+        "description": "BINDING_MICHIGAN authority level",
+        "sources": [
+          "MCL",
+          "MCR",
+          "MRE",
+          "Michigan Supreme Court opinions"
+        ]
+      },
+      "persuasive": {
+        "description": "PERSUASIVE_MICHIGAN authority level",
+        "sources": [
+          "Court of Appeals opinions",
+          "Federal district court opinions"
+        ]
+      },
+      "secondary": {
+        "description": "SECONDARY_MICHIGAN authority level",
+        "sources": [
+          "AG opinions",
+          "Administrative rules"
+        ]
+      },
+      "non_michigan": {
+        "description": "NON_MICHIGAN authority level",
+        "sources": [
+          "Federal law",
+          "Other state law"
+        ]
+      }
+    }
+  },
+  "statistics": {
+    "total_repositories": 6,
+    "total_size_mb": 179,
+    "total_files": 546,
+    "total_documents": 9621,
+    "catalogue_sections": 51,
+    "catalogue_words": 84298,
+    "catalogue_characters": 546898
+  }
+}

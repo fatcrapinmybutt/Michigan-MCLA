@@ -1,0 +1,59 @@
+{
+  "created": "2026-07-08T20:21:42.828019+00:00",
+  "files": [
+    {
+      "name": "01-10",
+      "original": "01-10.json",
+      "original_size": 68075,
+      "minified": "01-10.min.json",
+      "minified_size": 60941,
+      "compressed": "01-10.json.gz",
+      "compressed_size": 20842
+    },
+    {
+      "name": "11-20",
+      "original": "11-20.json",
+      "original_size": 69937,
+      "minified": "11-20.min.json",
+      "minified_size": 62866,
+      "compressed": "11-20.json.gz",
+      "compressed_size": 21831
+    },
+    {
+      "name": "21-30",
+      "original": "21-30.json",
+      "original_size": 54968,
+      "minified": "21-30.min.json",
+      "minified_size": 49454,
+      "compressed": "21-30.json.gz",
+      "compressed_size": 18238
+    },
+    {
+      "name": "31-41",
+      "original": "31-41.json",
+      "original_size": 114861,
+      "minified": "31-41.min.json",
+      "minified_size": 104154,
+      "compressed": "31-41.json.gz",
+      "compressed_size": 38022
+    },
+    {
+      "name": "42-51",
+      "original": "42-51.json",
+      "original_size": 250991,
+      "minified": "42-51.min.json",
+      "minified_size": 229745,
+      "compressed": "42-51.json.gz",
+      "compressed_size": 77582
+    },
+    {
+      "name": "52-52",
+      "original": "52-52.json",
+      "original_size": 46208,
+      "minified": "52-52.min.json",
+      "minified_size": 42278,
+      "compressed": "52-52.json.gz",
+      "compressed_size": 14654
+    }
+  ]
+}

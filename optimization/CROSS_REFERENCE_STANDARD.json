@@ -1,0 +1,170 @@
+{
+  "version": "1.0",
+  "created": "2026-07-08T20:26:35.710192+00:00",
+  "purpose": "Standardize cross-references across all Michigan Legal Knowledge Base repositories",
+  "formats": {
+    "markdown_link": {
+      "description": "Standard markdown link format for cross-repository references",
+      "template": "[{description}]({url})",
+      "examples": [
+        "[MCL §600.1415](https://github.com/fatcrapinmybutt/Michigan-MCLA/blob/main/catalogue/01-10.md#15)",
+        "[MCR 2.116](https://github.com/fatcrapinmybutt/CourtRules/blob/main/mcr/02.md#2116)",
+        "[Supreme Court Opinion](https://github.com/fatcrapinmybutt/MICHIGAN-HIGHER-COURTS/blob/main/supreme_court/2024/opinion_12345.md)"
+      ]
+    },
+    "relative_link": {
+      "description": "Relative links within same repository",
+      "template": "[{description}](./{path}#{anchor})",
+      "examples": [
+        "[Section 15](./01-10.md#15)",
+        "[MCL Chapter 600](../mcl/600.md)",
+        "[Optimization Plan](../OPTIMIZATION_MASTER_PLAN.md)"
+      ]
+    },
+    "json_reference": {
+      "description": "JSON format for programmatic references",
+      "template": "{\"type\": \"{type}\", \"repository\": \"{repo}\", \"path\": \"{path}\", \"anchor\": \"{anchor}\", \"description\": \"{description}\"}",
+      "examples": [
+        "{\"type\": \"statute\", \"repository\": \"Michigan-MCLA\", \"path\": \"catalogue/01-10.md\", \"anchor\": \"15\", \"description\": \"MCL §600.1415\"}",
+        "{\"type\": \"rule\", \"repository\": \"CourtRules\", \"path\": \"mcr/02.md\", \"anchor\": \"2116\", \"description\": \"MCR 2.116\"}",
+        "{\"type\": \"case\", \"repository\": \"MICHIGAN-HIGHER-COURTS\", \"path\": \"supreme_court/2024/opinion_12345.md\", \"description\": \"Smith v. Jones\"}"
+      ]
+    }
+  },
+  "link_types": {
+    "statute": {
+      "description": "References to Michigan Compiled Laws statutes",
+      "prefix": "MCL",
+      "format": "§{chapter}.{section}",
+      "example": "MCL §600.1415",
+      "repository": "Michigan-MCLA",
+      "path_template": "catalogue/{section_file}.md#{section}"
+    },
+    "court_rule": {
+      "description": "References to Michigan Court Rules",
+      "prefix": "MCR",
+      "format": "{chapter}.{rule}",
+      "example": "MCR 2.116",
+      "repository": "CourtRules",
+      "path_template": "mcr/{chapter}.md#{rule}"
+    },
+    "evidence_rule": {
+      "description": "References to Michigan Rules of Evidence",
+      "prefix": "MRE",
+      "format": "{article}.{rule}",
+      "example": "MRE 404",
+      "repository": "CourtRules",
+      "path_template": "mre/{article}.md#{rule}"
+    },
+    "case": {
+      "description": "References to court opinions",
+      "prefix": "Case",
+      "format": "{plaintiff} v. {defendant}",
+      "example": "Smith v. Jones",
+      "repository": "MICHIGAN-HIGHER-COURTS",
+      "path_template": "{court}/{year}/{case_file}.md"
+    },
+    "form": {
+      "description": "References to SCAO forms",
+      "prefix": "Form",
+      "format": "{form_number}",
+      "example": "DC 84",
+      "repository": "CourtRules",
+      "path_template": "forms/{form_file}.md"
+    },
+    "doctrine": {
+      "description": "References to legal doctrine",
+      "prefix": "Doctrine",
+      "format": "{doctrine_name}",
+      "example": "Res Judicata",
+      "repository": "fredprime-legal-system",
+      "path_template": "doctrine/{doctrine_file}.md"
+    },
+    "template": {
+      "description": "References to litigation templates",
+      "prefix": "Template",
+      "format": "{template_name}",
+      "example": "Complaint Template",
+      "repository": "LitigationOS",
+      "path_template": "templates/{template_file}.md"
+    }
+  },
+  "repository_mapping": {
+    "Michigan-MCLA": {
+      "base_url": "https://github.com/fatcrapinmybutt/Michigan-MCLA/blob/main/",
+      "local_path": "/workspace/fatcrapinmybutt__Michigan-MCLA/",
+      "content_types": [
+        "catalogue",
+        "mcl",
+        "optimization",
+        "navigation",
+        "search"
+      ]
+    },
+    "MICHIGAN-HIGHER-COURTS": {
+      "base_url": "https://github.com/fatcrapinmybutt/MICHIGAN-HIGHER-COURTS/blob/main/",
+      "local_path": "/workspace/fatcrapinmybutt__MICHIGAN-HIGHER-COURTS/",
+      "content_types": [
+        "supreme_court",
+        "court_of_appeals",
+        "opinions"
+      ]
+    },
+    "CourtRules": {
+      "base_url": "https://github.com/fatcrapinmybutt/CourtRules/blob/main/",
+      "local_path": "/workspace/fatcrapinmybutt__CourtRules/",
+      "content_types": [
+        "mcr",
+        "mre",
+        "forms",
+        "procedures"
+      ]
+    },
+    "fredprime-legal-system": {
+      "base_url": "https://github.com/fatcrapinmybutt/fredprime-legal-system/blob/main/",
+      "local_path": "/workspace/fatcrapinmybutt__fredprime-legal-system/",
+      "content_types": [
+        "architecture",
+        "doctrine",
+        "framework"
+      ]
+    },
+    "LitigationOS": {
+      "base_url": "https://github.com/fatcrapinmybutt/LitigationOS/blob/main/",
+      "local_path": "/workspace/fatcrapinmybutt__LitigationOS/",
+      "content_types": [
+        "workflow",
+        "templates",
+        "automation"
+      ]
+    },
+    "michigancompiledlawsMBP": {
+      "base_url": "https://github.com/fatcrapinmybutt/michigancompiledlawsMBP/blob/main/",
+      "local_path": "/workspace/fatcrapinmybutt__michigancompiledlawsMBP/",
+      "content_types": [
+        "html_archive",
+        "mcl_chapters"
+      ]
+    }
+  },
+  "validation_rules": {
+    "required_fields": [
+      "type",
+      "repository",
+      "path",
+      "description"
+    ],
+    "url_format": "https://github.com/{owner}/{repo}/blob/{branch}/{path}",
+    "branch_default": "main",
+    "description_max_length": 200,
+    "path_max_length": 500
+  },
+  "best_practices": {
+    "use_descriptive_text": "Link text should describe the destination, not just \"click here\"",
+    "prefer_relative_links": "Use relative links within same repository when possible",
+    "include_context": "Add context in parentheses after link when helpful",
+    "consistent_formatting": "Use consistent formatting for similar link types",
+    "anchor_links": "Use anchor links (#section) for direct access to sections",
+    "validate_links": "Regularly validate that all cross-references are still valid"
+  }
+}

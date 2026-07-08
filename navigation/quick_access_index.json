@@ -1,0 +1,190 @@
+{
+  "version": "1.0",
+  "created": "2026-07-08T20:24:22.720584+00:00",
+  "quick_start": {
+    "new_case_research": {
+      "description": "Starting research for a new Michigan case",
+      "steps": [
+        {
+          "step": 1,
+          "action": "Identify jurisdiction and court type",
+          "resources": [
+            "CourtRules for procedural rules",
+            "MICHIGAN-HIGHER-COURTS for appellate cases"
+          ]
+        },
+        {
+          "step": 2,
+          "action": "Research applicable statutes",
+          "resources": [
+            "Michigan-MCLA/catalogue for MCL sections",
+            "michigancompiledlawsMBP for HTML versions"
+          ]
+        },
+        {
+          "step": 3,
+          "action": "Find relevant case law",
+          "resources": [
+            "MICHIGAN-HIGHER-COURTS for Supreme Court and COA opinions",
+            "TODO_DOCTRINE_CASELAW_SUPREME_COURT.md for case law database"
+          ]
+        },
+        {
+          "step": 4,
+          "action": "Review court forms and procedures",
+          "resources": [
+            "CourtRules for SCAO forms",
+            "LitigationOS for templates"
+          ]
+        }
+      ]
+    },
+    "tort_law_research": {
+      "description": "Researching Michigan tort law",
+      "steps": [
+        {
+          "step": 1,
+          "action": "Review tort law catalogue",
+          "resources": [
+            "Michigan-MCLA/catalogue for existing sections"
+          ]
+        },
+        {
+          "step": 2,
+          "action": "Check TODO_MICHIGAN_TORTS.md for development plan",
+          "resources": [
+            "TODO_MICHIGAN_TORTS.md"
+          ]
+        },
+        {
+          "step": 3,
+          "action": "Research specific tort types",
+          "resources": [
+            "MCL chapters on torts",
+            "Case law from MICHIGAN-HIGHER-COURTS"
+          ]
+        }
+      ]
+    },
+    "complaint_drafting": {
+      "description": "Drafting a complaint or claim",
+      "steps": [
+        {
+          "step": 1,
+          "action": "Review complaint templates",
+          "resources": [
+            "LitigationOS for templates"
+          ]
+        },
+        {
+          "step": 2,
+          "action": "Check SCAO forms requirements",
+          "resources": [
+            "CourtRules for official forms"
+          ]
+        },
+        {
+          "step": 3,
+          "action": "Research applicable law",
+          "resources": [
+            "Michigan-MCLA for statutes",
+            "MICHIGAN-HIGHER-COURTS for case law"
+          ]
+        }
+      ]
+    }
+  },
+  "common_queries": {
+    "find_statute": {
+      "description": "Find a specific Michigan statute",
+      "methods": [
+        "Use catalogue sections for organized access",
+        "Search michigancompiledlawsMBP HTML archive",
+        "Check official MCL website"
+      ],
+      "links": [
+        "../catalogue/INDEX.md",
+        "../michigancompiledlawsMBP/README.md",
+        "https://www.legislature.mi.gov/Laws/MCL"
+      ]
+    },
+    "find_case_law": {
+      "description": "Find Michigan case law on a topic",
+      "methods": [
+        "Search MICHIGAN-HIGHER-COURTS repository",
+        "Use TODO_DOCTRINE_CASELAW_SUPREME_COURT.md for organized access",
+        "Check official court websites"
+      ],
+      "links": [
+        "https://github.com/fatcrapinmybutt/MICHIGAN-HIGHER-COURTS",
+        "../TODO_DOCTRINE_CASELAW_SUPREME_COURT.md",
+        "https://www.courts.michigan.gov/opinions_orders/"
+      ]
+    },
+    "find_court_rule": {
+      "description": "Find a specific Michigan Court Rule",
+      "methods": [
+        "Check CourtRules repository",
+        "Use official court rules website",
+        "Review MCR chapters"
+      ],
+      "links": [
+        "https://github.com/fatcrapinmybutt/CourtRules",
+        "https://www.courts.michigan.gov/rules-courts/"
+      ]
+    },
+    "find_form": {
+      "description": "Find a specific SCAO form",
+      "methods": [
+        "Check CourtRules repository forms directory",
+        "Use official SCAO forms website",
+        "Review LitigationOS templates"
+      ],
+      "links": [
+        "https://github.com/fatcrapinmybutt/CourtRules",
+        "https://www.courts.michigan.gov/forms/",
+        "https://github.com/fatcrapinmybutt/LitigationOS"
+      ]
+    }
+  },
+  "authority_hierarchy": {
+    "level_1_binding": {
+      "description": "BINDING_MICHIGAN - Highest authority",
+      "sources": [
+        "Michigan Constitution",
+        "Michigan Compiled Laws (MCL)",
+        "Michigan Court Rules (MCR)",
+        "Michigan Rules of Evidence (MRE)",
+        "Michigan Supreme Court opinions"
+      ],
+      "weight": 1.0
+    },
+    "level_2_persuasive": {
+      "description": "PERSUASIVE_MICHIGAN - Strong persuasive authority",
+      "sources": [
+        "Michigan Court of Appeals opinions",
+        "Federal district court opinions applying Michigan law",
+        "Michigan Attorney General opinions"
+      ],
+      "weight": 0.8
+    },
+    "level_3_secondary": {
+      "description": "SECONDARY_MICHIGAN - Secondary authority",
+      "sources": [
+        "Michigan administrative rules",
+        "Michigan jury instructions",
+        "Michigan practice manuals"
+      ],
+      "weight": 0.6
+    },
+    "level_4_non_michigan": {
+      "description": "NON_MICHIGAN - Non-binding authority",
+      "sources": [
+        "Federal law (when not preempted)",
+        "Other state court opinions",
+        "Legal treatises and law review articles"
+      ],
+      "weight": 0.4
+    }
+  }
+}
