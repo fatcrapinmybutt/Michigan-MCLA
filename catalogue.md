@@ -317,6 +317,26 @@ A comprehensive catalogue of Michigan state and federal court abbreviations, adm
     - [Employment-Within-Court-System Bias — Opposing Party Connected to Judiciary or Law Enforcement](#employment-within-court-system-bias--opposing-party-connected-to-judiciary-or-law-enforcement)
     - [Appellate Roadmap from Adverse Family Court Orders — COA, MSC, Superintending Control & Mandamus](#appellate-roadmap-from-adverse-family-court-orders--coa-msc-superintending-control--mandamus)
 
+**Litigation-Critical Supplement — [catalogue-supplement-43-60.md](catalogue-supplement-43-60.md):**
+43. [Pro Se Litigant Rights & Procedural Toolkit](catalogue-supplement-43-60.md#43-pro-se-litigant-rights--procedural-toolkit)
+44. [Parenting Time Deprivation — Extended Severance as Constitutional Violation](catalogue-supplement-43-60.md#44-parenting-time-deprivation--extended-severance-as-constitutional-violation)
+45. [Contempt — Incarceration Defenses (Expanded)](catalogue-supplement-43-60.md#45-contempt--incarceration-defenses-expanded)
+46. [MCR 7.212 Compliance Checklist](catalogue-supplement-43-60.md#46-mcr-7212-compliance-checklist--atomized-coa-brief-requirements)
+47. [COA Motions Practice During Pending Appeal](catalogue-supplement-43-60.md#47-coa-motions-practice-during-pending-appeal)
+48. [Michigan Civil Conspiracy](catalogue-supplement-43-60.md#48-michigan-civil-conspiracy)
+49. [Judicial Immunity & Exceptions for § 1983](catalogue-supplement-43-60.md#49-judicial-immunity--exceptions-for--1983)
+50. [Vexatious Litigant & Filing Bond Challenges](catalogue-supplement-43-60.md#50-vexatious-litigant--filing-bond-challenges)
+51. [Emergency Motions — Comprehensive Procedure](catalogue-supplement-43-60.md#51-emergency-motions--comprehensive-procedure)
+52. [42 USC § 1983 Pre-Filing & Michigan-Specific Practice](catalogue-supplement-43-60.md#52-42-usc--1983-pre-filing--michigan-specific-practice)
+53. [Prosecutorial & Government Employee Conflicts](catalogue-supplement-43-60.md#53-prosecutorial--government-employee-conflicts)
+54. [MCR 8.119 — Court Records & Minor Identity Confidentiality](catalogue-supplement-43-60.md#54-mcr-8119--court-records--minor-identity-confidentiality)
+55. [Wiretapping & Eavesdropping — Michigan & Federal](catalogue-supplement-43-60.md#55-wiretapping--eavesdropping--michigan--federal)
+56. [Landlord-Tenant — Expanded Defenses](catalogue-supplement-43-60.md#56-landlord-tenant--expanded-defenses)
+57. [Mandamus & Superintending Control](catalogue-supplement-43-60.md#57-mandamus--superintending-control--michigan-practice)
+58. [JTC Complaint Practice — Step-by-Step](catalogue-supplement-43-60.md#58-jtc-complaint-practice--step-by-step)
+59. [Disqualification Post-Denial Strategy](catalogue-supplement-43-60.md#59-disqualification-post-denial-strategy)
+60. [Damages Calculation — Family Law & § 1983](catalogue-supplement-43-60.md#60-damages-calculation--family-law---1983)
+
 **Extended References (companion files):**
 - [`mcr.md`](mcr.md) / [`mcr.json`](mcr.json) — Complete Michigan Court Rules (MCR), all chapters 1–9
 - [`mre.md`](mre.md) / [`mre.json`](mre.json) — Complete Michigan Rules of Evidence (MRE), all articles I–XI
@@ -9157,3 +9177,7 @@ In every subsequent proceeding where the opposing party cites the PPO, the jaili
 *Sources updated: Michigan Constitution of 1963 (art I, art II, art III, art VI, art VI §30); Michigan Court Rules (MCR 1.109, 2.003, 2.114, 2.117, 2.119, 2.302, 2.305, 2.306, 2.309, 2.310, 2.517, 2.605, 2.612, 3.219, 3.302, 3.310, 3.606, 3.703, 7.202, 7.203, 7.204, 7.205, 7.206, 7.209, 7.212, 7.301, 7.302, 7.303, 8.005, 8.108, 8.110, 8.119); Michigan Rules of Evidence (MRE 201, 403, 404, 608, 609, 613, 801, 901, 1002, 1004); Michigan Rules of Professional Conduct (MRPC 1.2, 3.3, 3.4, 3.5, 3.7, 8.3, 8.4); Michigan Code of Judicial Conduct (MCJC Canons 1, 2, 3, 3(A)(6), 3(B)(2), 3(C)(1)); Michigan Compiled Laws (MCL) — Chapters 15, 24, 28, 37, 125, 205, 330, 333, 400, 408, 418, 450, 500, 552, 554, 600 (including 600.1651, 600.2591, 600.2605, 600.2907, 600.2940, 600.2950, 600.4310, 600.5805), 691, 700, 710, 712A, 712B, 722 (including 722.23, 722.26a, 722.27a, 722.628, 722.628a, 722.628d, 722.1202, 722.1443), 750 (including 750.159b–750.159x, 750.174a, 750.224, 750.224f, 750.227c, 750.248, 750.411a, 750.411s, 750.422, 750.423, 750.425, 750.505, 750.539c, 750.539g, 750.633), 762, 767, 769, 780; MCL 15.181 et seq. (State Ethics Act); MCL 15.231 et seq. (FOIA); State Court Administrative Office (SCAO) publications; Michigan Judicial Institute (MJI) Benchbooks; U.S. Constitution, Amendments II, IV, V, VI, VIII, XI, XIV; *Mathews v Eldridge*, 424 US 319 (1976); *Troxel v Granville*, 530 US 57 (2000); *Meyer v Nebraska*, 262 US 390 (1923); *In re Murchison*, 349 US 133 (1955); *Caperton v A.T. Massey Coal Co*, 556 US 868 (2009); *Tumey v Ohio*, 273 US 510 (1927); *Ward v Village of Monroeville*, 409 US 57 (1972); *Stump v Sparkman*, 435 US 349 (1978); *Dennis v Sparks*, 449 US 24 (1980); *Lugar v Edmondson Oil Co*, 457 US 922 (1982); *Owens v Okure*, 488 US 235 (1989); *Cain v Dep't of Corrections*, 451 Mich 470 (1996); *Fletcher v Fletcher*, 447 Mich 871 (1994); *Domako v Rowe*, 438 Mich 347 (1991); *Bowie v Arder*, 441 Mich 23 (1992) [UNVERIFIED]; *Monell v Dep't of Social Servs*, 436 US 658 (1978); *Younger v Harris*, 401 US 37 (1971); *Rooker v Fidelity Trust Co*, 263 US 413 (1923); *District of Columbia Court of Appeals v Feldman*, 460 US 462 (1983); Second Amendment: *Heller* (2008), *McDonald* (2010), *Bruen* (2022), *Rahimi* (2024); RICO (18 USC 1961–1968); 18 USC 922, 924, 981–983, 1001, 1341, 1343, 1344, 1621, 1623, 1951, 1956, 1957, 1963, 2250, 2252, 2511, 2515, 2520; 21 USC 841, 846, 853, 881; 25 USC 1151, 1301, 1901 et seq. (ICWA); 26 USC 5801 et seq. (NFA); 28 USC 1254, 1257, 1291, 1292, 1331, 1332, 1367, 1441–1453, 2101, 2254, 2465; 28 USC 1746; 34 USC 20901 et seq. (SORNA); 42 USC 1396 et seq. (Medicaid); 42 USC 1981, 1983, 1985, 1986, 2000d; 20 USC 1681; 29 USC 794; 42 USC 12101–12189; 7 USC 2011 et seq. (SNAP); CAFRA (Pub. L. 106-185); FMLA (29 USC 2601); FLSA (29 USC 201); Fair Housing Act (42 USC 3601); VAWA (34 USC 12291); Indian Gaming Regulatory Act (25 USC 2710); Major Crimes Act (18 USC 1153); Tribal Law and Order Act (Pub. L. 111-211); Eastern District of Michigan Local Rules; Western District of Michigan Local Civil Rules; Sixth Circuit Local Rules; Supreme Court Rules; Federal Rules of Civil Procedure; Federal Rules of Appellate Procedure; United States Sentencing Guidelines (USSG); reported decisions of the Michigan Supreme Court, Michigan Court of Appeals, United States Supreme Court, and U.S. Court of Appeals for the Sixth Circuit.*
 
 *Last substantively revised: April 2026.*
+
+---
+
+**Continued in:** [catalogue-supplement-43-60.md](catalogue-supplement-43-60.md) — §§43–60 (Litigation-Critical Supplement)
